@@ -2,8 +2,7 @@ from datetime import datetime
 
 import time
 import os
-from typing import Any
-
+import logging
 import googletrans as gt
 import json
 import re
@@ -19,6 +18,16 @@ translator = gt.Translator(
 # english -> serbian -> marathi -> chinese -> dutch -> arabic -> korean -> polish -> hindi -> telugu -> punjabi -> english
 lang_list = ['en', 'sr', 'mr', 'zh-cn', 'nl', 'ar', 'ko', 'pl', 'hi', 'te', 'pa', 'en']
 
+formatter = logging.Formatter(
+    "%(asctime)s - %(levelname)s - %(message)s"
+)
+file_handler = logging.FileHandler("./.log")
+file_handler.setFormatter(formatter)
+file_handler.setLevel(logging.DEBUG)
+
+log = logging.getLogger('GT')
+log.setLevel(logging.DEBUG)
+log.addHandler(file_handler)
 
 # translate iff filename has prefix
 def translate_prefix(path: str, values: list[str], prefix='', retry=-1):
@@ -54,7 +63,7 @@ def __translate_step(text: str, lang_index: int, retry: int) -> str:
             trans_text = trans_text.text
             time.sleep(WAIT_ON_SUCCESS)
         except Exception as e:
-            print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} - error on text at lang_index {lang_index}: {e}')
+            log.error(f'error on text at lang_index {lang_index}: {e}')
             if "The block will expire shortly after those requests stop" in f'{e}':
                 time.sleep(WAIT_ON_BIG_ERROR)
             else:
@@ -103,16 +112,16 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
 
     # skip if translation already exists or if file isn't json
     if not filename.endswith('.json') or filename in os.listdir(os.path.join(BUILD_PATH, local_path)):
-        print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} - skip {filename}')
+        log.info(f'skip {filename}')
         return
 
     data = __readfile(os.path.join(local_path, filename))
     if 'dataList' not in data:
-        print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} - no dataList in {filename}, skipping')
+        log.info(f'no dataList in {filename}, skipping')
         return
 
     cache = {}
-    print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} - TRANSLATING {filename}')
+    log.info(f'TRANSLATING {filename}')
 
     data_len = len(data['dataList'])
     for i, d in enumerate(data['dataList']):
@@ -122,10 +131,10 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
                 continue
 
             if d[v] in cache:
-                print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} - translating from cache ({i + 1}/{data_len}): {d[v]}')
+                log.info(f'translating from cache ({i + 1}/{data_len}): {d[v]}')
                 d[v] = cache[d[v]]
             else:
-                print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} - translating & caching ({i + 1}/{data_len}): {d[v]}')
+                log.info(f'translating & caching ({i + 1}/{data_len}): {d[v]}')
                 d[v] = scramble(d[v], v, values, retry=retry)
                 if type(d[v]) == str:
                     cache[d[v]] = d[v]
