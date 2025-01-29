@@ -4,11 +4,12 @@ import logging
 import googletrans as gt
 import json
 import re
+import shutil
 
 BUILD_PATH = './release'
 WAIT_ON_ERROR = 60
 WAIT_ON_BIG_ERROR = 600
-WAIT_ON_SUCCESS = .5
+WAIT_ON_SUCCESS = .4
 
 translator = gt.Translator(
     raise_exception=True
@@ -110,14 +111,16 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
     write_path = os.path.join(BUILD_PATH, local_path, filename)
     os.makedirs(os.path.dirname(write_path), exist_ok=True)
 
-    # skip if translation already exists or if file isn't json
-    if not filename.endswith('.json') or filename in os.listdir(os.path.join(BUILD_PATH, local_path)):
+    # skip if translation already exists
+    if filename in os.listdir(os.path.join(BUILD_PATH, local_path)):
         log.info(f'skip {filename}')
         return
 
+    # if file isn't json or has no dataList, copy raw
     data = __readfile(os.path.join(local_path, filename))
-    if 'dataList' not in data:
-        log.info(f'no dataList in {filename}, skipping')
+    if not filename.endswith('.json') or 'dataList' not in data:
+        log.info(f'skipping {filename}, copying raw')
+        shutil.copy(os.path.join(local_path, filename), write_path)
         return
 
     cache = {}

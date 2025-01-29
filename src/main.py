@@ -15,6 +15,7 @@ utils.translate(ego_path, ['dlg'])  # ego dialogue
 
 utils.translate_prefix(base_path, ['teller', 'dialog'], prefix='AbDlg_')
 
+# todo: value "title" is sus
 abs_event_values = ['title', 'eventDesc', 'prevDesc', 'behaveDesc', 'successDesc', 'failureDesc']
 utils.translate_prefix(base_path, values=abs_event_values, prefix='AbEvents.json')
 utils.translate_prefix(base_path, values=abs_event_values, prefix='AbEvents-')
