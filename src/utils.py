@@ -76,10 +76,10 @@ def scramble_single(text: str, value: str, retry=-1) -> str:
     if not any(char.isalpha() for char in text) or text[:2] == '//':
         return text
 
-    translation = re.split(r"(</?[a-z]*[=/].*?>|</?i>|</?b>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])", text)
+    translation = re.split(r"(</?[a-z]*[=/].*?>|</?i>|</?b>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)", text)
     for i, t in enumerate(translation):
         # skip empty
-        if len(t) < 1:
+        if len(t.strip()) < 1:
             continue
         # skip text tags
         if t[0] == '<' and t[-1] == '>' and (
@@ -136,35 +136,37 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
                 continue
 
             # todo: cache in scramble
-            if type(d[v]) == str and d[v] in cache:
-                log.info(f'{filename}: from cache ({i + 1}/{data_len}): {d[v]}')
-                d[v] = cache[d[v]]
-            else:
-                log.info(f'{filename}: translating ({i + 1}/{data_len}): {d[v]}')
-                raw = d[v] if type(d[v]) == str else ''
-                d[v] = scramble(d[v], v=v, values=values, retry=retry)
-                if type(d[v]) == str:
-                    cache[raw] = d[v]
+            log.info(f'{filename}: translating ({i + 1}/{data_len}): {d[v]}')
+            d[v] = scramble(d[v], v=v, values=values, retry=retry, cache=cache)
 
     writefile(write_path, data)
 
 
-def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1):
+def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1, cache=None):
+    if cache is None:
+        cache = {}
     if values is None:
         values = []
 
     if type(dv) == list:
         translated = []
         for e in dv:
-            translated.append(scramble(e, v=v, values=values, retry=retry))
+            translated.append(scramble(e, v=v, values=values, retry=retry, cache=cache))
         return translated
     elif type(dv) == str:
-        return scramble_single(dv, v, retry=retry)
+        if dv in cache:
+            log.info(f'found cached value: {dv}')
+            return cache[dv]
+        else:
+            log.info(f'translating: {dv}')
+            trans = scramble_single(dv, v, retry=retry)
+            cache[dv] = trans
+            return trans
     elif type(dv) == dict:
         translated = dv
         for k in dv:
             if k in values:
-                translated[k] = scramble(translated[k], v=v, values=values, retry=retry)
+                translated[k] = scramble(translated[k], v=v, values=values, retry=retry, cache=cache)
         return translated
     else:
         log.warning(f'unknown type {dv}={type(dv)}, returning raw value (may be PM jank)')
