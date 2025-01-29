@@ -27,6 +27,7 @@ log = logging.getLogger('GT')
 log.setLevel(logging.DEBUG)
 log.addHandler(file_handler)
 
+
 # translate iff filename has prefix
 def translate_prefix(path: str, values: list[str], prefix='', retry=-1):
     for filename in os.listdir(path):
@@ -128,19 +129,23 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
             if v not in d:
                 continue
 
-            if d[v] in cache:
+            if type(d[v]) == str and d[v] in cache:
                 log.info(f'{filename}: translating from cache ({i + 1}/{data_len}): {d[v]}')
                 d[v] = cache[d[v]]
             else:
                 log.info(f'{filename}: translating & caching ({i + 1}/{data_len}): {d[v]}')
+                raw = d[v] if type(d[v]) == str else ''
                 d[v] = scramble(d[v], v, values, retry=retry)
                 if type(d[v]) == str:
-                    cache[d[v]] = d[v]
+                    cache[raw] = d[v]
 
     __writefile(write_path, data)
 
 
-def scramble(dv: str | list | dict, v: str, values: list[str], retry: int):
+def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1):
+    if values is None:
+        values = []
+
     if type(dv) == list:
         translated = []
         for e in dv:
@@ -155,4 +160,5 @@ def scramble(dv: str | list | dict, v: str, values: list[str], retry: int):
                 translated[k] = scramble(translated[k], v, values, retry)
         return translated
     else:
-        raise ValueError(f'dv is unknown type: {type(dv)}')
+        log.warning(f'unknown type {dv}=type({type(dv)}), returning raw value (may be PM jank)')
+        return dv
