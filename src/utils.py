@@ -19,7 +19,8 @@ lang_list = ['en', 'sr', 'mr', 'zh-cn', 'nl', 'ar', 'ko', 'pl', 'hi', 'te', 'pa'
 formatter = logging.Formatter(
     "%(asctime)s - %(levelname)s - %(message)s"
 )
-file_handler = logging.FileHandler("./.log")
+
+file_handler = logging.FileHandler("./log.log", encoding='utf-8')
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.DEBUG)
 
