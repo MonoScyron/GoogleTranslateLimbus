@@ -8,7 +8,7 @@ import re
 BUILD_PATH = './release'
 WAIT_ON_ERROR = 60
 WAIT_ON_BIG_ERROR = 600
-WAIT_ON_SUCCESS = .33
+WAIT_ON_SUCCESS = .5
 
 translator = gt.Translator(
     raise_exception=True
