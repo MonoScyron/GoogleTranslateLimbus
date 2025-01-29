@@ -164,3 +164,4 @@ cython_debug/
 
 release
 run.sh
+diff.sh
