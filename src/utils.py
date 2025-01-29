@@ -6,7 +6,7 @@ import json
 import re
 import shutil
 
-from src.const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH
+from const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH
 
 translator = gt.Translator(
     raise_exception=True
