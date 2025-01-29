@@ -6,10 +6,7 @@ import json
 import re
 import shutil
 
-BUILD_PATH = './release'
-WAIT_ON_ERROR = 60
-WAIT_ON_BIG_ERROR = 600
-WAIT_ON_SUCCESS = .4
+from src.const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH
 
 translator = gt.Translator(
     raise_exception=True
@@ -43,13 +40,13 @@ def translate(path: str, values: list[str], retry=-1):
         __translate_file(filename, path, values, retry)
 
 
-def __readfile(filepath: str) -> dict:
+def readfile(filepath: str) -> dict:
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
     return data
 
 
-def __writefile(filepath: str, data: dict) -> None:
+def writefile(filepath: str, data: dict) -> None:
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False)
 
@@ -122,7 +119,7 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
         shutil.copy(os.path.join(local_path, filename), write_path)
         return
 
-    data = __readfile(os.path.join(local_path, filename))
+    data = readfile(os.path.join(local_path, filename))
     if 'dataList' not in data:
         log.info(f'{filename} has no dataList, copying raw')
         shutil.copy(os.path.join(local_path, filename), write_path)
@@ -138,17 +135,18 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
             if v not in d:
                 continue
 
+            # todo: cache in scramble
             if type(d[v]) == str and d[v] in cache:
                 log.info(f'{filename}: from cache ({i + 1}/{data_len}): {d[v]}')
                 d[v] = cache[d[v]]
             else:
                 log.info(f'{filename}: translating ({i + 1}/{data_len}): {d[v]}')
                 raw = d[v] if type(d[v]) == str else ''
-                d[v] = scramble(d[v], v, values, retry=retry)
+                d[v] = scramble(d[v], v=v, values=values, retry=retry)
                 if type(d[v]) == str:
                     cache[raw] = d[v]
 
-    __writefile(write_path, data)
+    writefile(write_path, data)
 
 
 def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1):
@@ -158,7 +156,7 @@ def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1):
     if type(dv) == list:
         translated = []
         for e in dv:
-            translated.append(scramble(e, v, values, retry))
+            translated.append(scramble(e, v=v, values=values, retry=retry))
         return translated
     elif type(dv) == str:
         return scramble_single(dv, v, retry=retry)
@@ -166,7 +164,7 @@ def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1):
         translated = dv
         for k in dv:
             if k in values:
-                translated[k] = scramble(translated[k], v, values, retry)
+                translated[k] = scramble(translated[k], v=v, values=values, retry=retry)
         return translated
     else:
         log.warning(f'unknown type {dv}={type(dv)}, returning raw value (may be PM jank)')
