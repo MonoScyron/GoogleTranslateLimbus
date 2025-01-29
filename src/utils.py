@@ -130,10 +130,10 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
                 continue
 
             if type(d[v]) == str and d[v] in cache:
-                log.info(f'{filename}: translating from cache ({i + 1}/{data_len}): {d[v]}')
+                log.info(f'{filename}: from cache ({i + 1}/{data_len}): {d[v]}')
                 d[v] = cache[d[v]]
             else:
-                log.info(f'{filename}: translating & caching ({i + 1}/{data_len}): {d[v]}')
+                log.info(f'{filename}: translating ({i + 1}/{data_len}): {d[v]}')
                 raw = d[v] if type(d[v]) == str else ''
                 d[v] = scramble(d[v], v, values, retry=retry)
                 if type(d[v]) == str:
