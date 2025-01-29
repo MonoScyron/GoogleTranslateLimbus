@@ -117,9 +117,14 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
         return
 
     # if file isn't json or has no dataList, copy raw
+    if not filename.endswith('.json'):
+        log.info(f'{filename} not json, copying raw')
+        shutil.copy(os.path.join(local_path, filename), write_path)
+        return
+
     data = __readfile(os.path.join(local_path, filename))
-    if not filename.endswith('.json') or 'dataList' not in data:
-        log.info(f'skipping {filename}, copying raw')
+    if 'dataList' not in data:
+        log.info(f'{filename} has no dataList, copying raw')
         shutil.copy(os.path.join(local_path, filename), write_path)
         return
 
