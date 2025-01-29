@@ -160,5 +160,5 @@ def scramble(dv: str | list | dict, v: str = '', values=None, retry: int = -1):
                 translated[k] = scramble(translated[k], v, values, retry)
         return translated
     else:
-        log.warning(f'unknown type {dv}=type({type(dv)}), returning raw value (may be PM jank)')
+        log.warning(f'unknown type {dv}={type(dv)}), returning raw value (may be PM jank)')
         return dv
