@@ -1,0 +1,47 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "This is a beautiful story, but it's a war."
+    }, {
+      "id": 1,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "If all the stories in the world are happy, there is no need to the star."
+    }, {
+      "id": 2,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "The stars are born in the SSision and the dark."
+    }, {
+      "id": 3,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "That's why you like my story."
+    }, {
+      "id": 4,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "……"
+    }, {
+      "id": 5,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "I will talk more in the world."
+    }, {
+      "id": 6,
+      "model": "스테파네트",
+      "teller": "Satavata",
+      "title": "???",
+      "content": "Cry between me and others."
+    }
+  ]
+}
