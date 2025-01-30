@@ -64,7 +64,7 @@ def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]
             time.sleep(WAIT_ON_SUCCESS)
         except Exception as e:
             log.error(f'error on text at lang_index {lang_index} '
-                      f'{f"(retry {retry} of {NUM_RETRY})" if NUM_RETRY > 0 else ""}: {e}')
+                      f'{f"(retry {NUM_RETRY - retry + 1} of {NUM_RETRY})" if NUM_RETRY > 0 else ""}: {e}')
             if "The block will expire shortly after those requests stop" in f'{e}':
                 time.sleep(WAIT_ON_BIG_ERROR)
             else:
