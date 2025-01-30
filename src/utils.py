@@ -53,7 +53,7 @@ def writefile(filepath: str, data: dict) -> None:
         json.dump(data, f, ensure_ascii=False)
 
 
-def __translate_step(text: str, filename: str, lang_index: int, retry: int) -> Tuple[str, bool]:
+def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]:
     trans_text = text
     while True:
         try:
@@ -70,7 +70,6 @@ def __translate_step(text: str, filename: str, lang_index: int, retry: int) -> T
                 time.sleep(WAIT_ON_ERROR)
             retry -= 1
             if retry == 0:
-                log.critical(f'failed translating file {filename}, skipping')
                 return trans_text, False
             continue
         break
@@ -107,9 +106,11 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
 
         translated = t
         for j in range(len(lang_list) - 1):
-            translated, success = __translate_step(translated, filename, j, retry)
+            translated, success = __translate_step(translated, j, retry)
             if not success:
-                return ''.join(raw_split)
+                log.critical(f'failed translating in {filename}, skipping text: {t}')
+                translated = t
+                break
         translation.append(translated)
 
     return ''.join(translation)
