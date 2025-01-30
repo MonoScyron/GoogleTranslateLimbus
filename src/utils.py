@@ -1,6 +1,8 @@
 import time
 import os
 import logging
+from typing import Tuple
+
 import googletrans as gt
 import json
 import re
@@ -51,7 +53,7 @@ def writefile(filepath: str, data: dict) -> None:
         json.dump(data, f, ensure_ascii=False)
 
 
-def __translate_step(text: str, filename: str, lang_index: int, retry: int) -> str:
+def __translate_step(text: str, filename: str, lang_index: int, retry: int) -> Tuple[str, bool]:
     trans_text = text
     while True:
         try:
@@ -69,10 +71,10 @@ def __translate_step(text: str, filename: str, lang_index: int, retry: int) -> s
             retry -= 1
             if retry == 0:
                 log.critical(f'failed translating file {filename}, skipping')
-                break
+                return trans_text, False
             continue
         break
-    return trans_text
+    return trans_text, True
 
 
 def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) -> str:
@@ -82,8 +84,9 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
     if not any(char.isalpha() for char in text) or text[:2] == '//':
         return text
 
-    translation = re.split(r"(</?[a-z]*[=/].*?>|</?i>|</?b>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)", text)
-    for i, t in enumerate(translation):
+    raw_split = re.split(r"(</?[a-z]*[=/].*?>|</?i>|</?b>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)", text)
+    translation = []
+    for i, t in enumerate(raw_split):
         # skip empty
         if len(t.strip()) < 1:
             continue
@@ -104,8 +107,10 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
 
         translated = t
         for j in range(len(lang_list) - 1):
-            translated = __translate_step(translated, filename, j, retry)
-        translation[i] = translated
+            translated, success = __translate_step(translated, filename, j, retry)
+            if not success:
+                return ''.join(raw_split)
+        translation.append(translated)
 
     return ''.join(translation)
 
