@@ -2,7 +2,7 @@ import os
 import utils
 import shutil
 
-from const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH
+from src.const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH, NUM_RETRY
 
 if __name__ == '__main__':
     utils.translate(STORY_PATH, ['content', 'teller', 'title', 'place'])  # story
@@ -14,170 +14,178 @@ if __name__ == '__main__':
 
     # todo: value "title" is sus
     abs_event_values = ['title', 'eventDesc', 'prevDesc', 'behaveDesc', 'successDesc', 'failureDesc']
-    utils.translate_prefix(BASE_PATH, values=abs_event_values, prefix='AbEvents.json')
-    utils.translate_prefix(BASE_PATH, values=abs_event_values, prefix='AbEvents-')
-    utils.translate_prefix(BASE_PATH, values=abs_event_values, prefix='AbEvents_')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='AbEventsResultLog')
+    utils.translate_prefix(BASE_PATH, values=abs_event_values, prefix='AbEvents.json', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=abs_event_values, prefix='AbEvents-', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=abs_event_values, prefix='AbEvents_', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='AbEventsResultLog', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH,
                            values=['name', 'clue', 'storyList', 'story', 'codeName'],
-                           prefix='AbnormalityGuides')
+                           prefix='AbnormalityGuides', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH,
                            values=['name', 'subDesc', 'desc', 'options', 'message', 'messageDesc', 'result'],
-                           prefix='ActionEvents')
+                           prefix='ActionEvents', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='Announcer')
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='Assist')
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='Announcer', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='Assist', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='AssociationName')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='AttendanceRewardsText')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='AssociationName', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='AttendanceRewardsText', retry=NUM_RETRY)
 
     # skipping AttributeText.json
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='BattleHint')
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'summary'], prefix='BattleKeywords')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='BattleHint', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'summary'], prefix='BattleKeywords', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='BattlePass')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='BattlePass', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['dlg'], prefix='BattleSpeech')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='BattleUIText')
+    utils.translate_prefix(BASE_PATH, values=['dlg'], prefix='BattleSpeech', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='BattleUIText', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH,
                            values=['name', 'desc', 'summary', 'variation', 'variation2', 'variation3'],
-                           prefix='BuffAbilities')
+                           prefix='BuffAbilities', retry=NUM_RETRY)
     utils.translate_prefix(BASE_PATH,
                            values=['name', 'desc', 'summary'],
-                           prefix='Bufs')
+                           prefix='Bufs', retry=NUM_RETRY)
 
     # skipping Characters.json and ChapterBannerConfig.json
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ChoiceEvent')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Coupon')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DailyLoginEvent')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ChoiceEvent', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Coupon', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DailyLoginEvent', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['desc', 'rawDesc'], prefix='DanteAbility.json')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DanteAbilityUIText')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DawnOfGreen')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DungeonArea')
+    utils.translate_prefix(BASE_PATH, values=['desc', 'rawDesc'], prefix='DanteAbility.json', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DanteAbilityUIText', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DawnOfGreen', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='DungeonArea', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='DungeonName')
-    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='DungeonNode')
-    utils.translate_prefix(BASE_PATH, values=['description'], prefix='DungeonStartBuffs')
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='DungeonName', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='DungeonNode', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['description'], prefix='DungeonStartBuffs', retry=NUM_RETRY)
 
     # skipping DungeonText.json
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='EGO_Get')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='EGO_Get', retry=NUM_RETRY)
 
     # skipping EGOgift.json
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'simpleDesc'], prefix='EGOgift_')
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='EgoGiftCategory')
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'simpleDesc'], prefix='EGOgift_', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='EgoGiftCategory', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='Egos.json')
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='Enemies')
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='Egos.json', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='Enemies', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Event')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='FAQ')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Event', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='FAQ', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='FileDownload')
+    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='FileDownload', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Filter')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Formation')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='GachaTitle')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Filter', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Formation', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='GachaTitle', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='HellsChicken.json')
-    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='HellsChickenDungeon')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='HellsChicken.json', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='HellsChickenDungeon', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='IAPProduct')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='IAPSticker')
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='IAPProduct', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='IAPSticker', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='IntegrateAccountUI')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='IntegrateAccountUI', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'description'], prefix='IntroduceCharacter')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Introduction')
+    utils.translate_prefix(BASE_PATH, values=['name', 'description'], prefix='IntroduceCharacter', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Introduction', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'flavor'], prefix='Items')
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'flavor'], prefix='Items', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='KeywordDictionary')
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='KeywordDictionary', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='kr_settings')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='LoginUI')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MainUI')
+    exit(0)
 
-    utils.translate_prefix(BASE_PATH, values=['add', 'min'], prefix='MentalCondition')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='kr_settings', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='LoginUI', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MainUI', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonAbName')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonBattle')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonEgo')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonEnemy')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonName')
-    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='MirrorDungeonNode')
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='MirrorDungeonTheme')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonUI')
+    utils.translate_prefix(BASE_PATH, values=['add', 'min'], prefix='MentalCondition', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MissionUI')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonAbName', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonBattle', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonEgo', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonEnemy', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonName', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='MirrorDungeonNode', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='MirrorDungeonTheme', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MirrorDungeonUI', retry=NUM_RETRY)
+
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='MissionUI', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH,
                            values=['panicName', 'lowMoraleDescription', 'panicDescription'],
-                           prefix='PanicInfo')
+                           prefix='PanicInfo', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'summary'], prefix='Passive')
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'summary'], prefix='Passive', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['title', 'name', 'nameWithTitle', 'desc'], prefix='Personalities')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Personality')
+    utils.translate_prefix(BASE_PATH,
+                           values=['title', 'name', 'nameWithTitle', 'desc'],
+                           prefix='Personalities',
+                           retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Personality', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Quest')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Quest', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='RailwayDungeon.json')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='RailwayDungeonBuff')
-    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='RailwayDungeonNode')
-    utils.translate_prefix(BASE_PATH, values=['content', 'nameList', 'shortName'], prefix='RailwayDungeonStation')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='RailwayDungeonUI')
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='RailwayDungeon.json', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='RailwayDungeonBuff', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['title', 'desc'], prefix='RailwayDungeonNode', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH,
+                           values=['content', 'nameList', 'shortName'],
+                           prefix='RailwayDungeonStation',
+                           retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='RailwayDungeonUI', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ResistText')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ReturnPolicy')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='RewardDungeon')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='SeasonTitle')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ShopItemCount')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ShotcutKey')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ResistText', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ReturnPolicy', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='RewardDungeon', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='SeasonTitle', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ShopItemCount', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='ShotcutKey', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH,
                            values=['levelList', 'abName', 'name', 'desc', 'coinlist', 'coindescs', 'desc'],
-                           prefix='Skills')
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='SkillTag')
+                           prefix='Skills', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='SkillTag', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH,
                            values=['company', 'area', 'chapter', 'chaptertitle', 'timeline'],
-                           prefix='StageChapter')
-    utils.translate_prefix(BASE_PATH, values=['title', 'place', 'desc'], prefix='StageNode')
-    utils.translate_prefix(BASE_PATH, values=['parttitle'], prefix='StagePart')
+                           prefix='StageChapter', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['title', 'place', 'desc'], prefix='StageNode', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['parttitle'], prefix='StagePart', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='StoryDungeonUI')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='StoryDungeonUI', retry=NUM_RETRY)
 
     # skipping StoryText.json (test file)
 
-    utils.translate_prefix(BASE_PATH, values=['content', 'title', 'desc'], prefix='StoryTheater')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='StoryUIText')
+    utils.translate_prefix(BASE_PATH, values=['content', 'title', 'desc'], prefix='StoryTheater', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='StoryUIText', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='SuccessRate')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='SuccessRate', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['name'], prefix='ThreadDungeon')
+    utils.translate_prefix(BASE_PATH, values=['name'], prefix='ThreadDungeon', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Tutorial')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UI_')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Tutorial', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UI_', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UnitKeyword')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UnitKeyword', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['openCondition', 'askLevelUp'], prefix='UnlockCode')
+    utils.translate_prefix(BASE_PATH, values=['openCondition', 'askLevelUp'], prefix='UnlockCode', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UpgradeCharacter')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UpgradeCharacter', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UserAgreements')
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='UserBanner')
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UserInfo')
-    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='UserTicket')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UserAgreements', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='UserBanner', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='UserInfo', retry=NUM_RETRY)
+    utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='UserTicket', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Walpu')
+    utils.translate_prefix(BASE_PATH, values=['content'], prefix='Walpu', retry=NUM_RETRY)
 
     shutil.copy('LimbusLocalize_BIE.dll', os.path.join(BUILD_PATH, 'LimbusLocalize_BIE.dll'))
