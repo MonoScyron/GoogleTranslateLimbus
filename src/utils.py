@@ -8,7 +8,7 @@ import json
 import re
 import shutil
 
-from src.const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH
+from const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH
 
 translator = gt.Translator(
     raise_exception=True
@@ -104,14 +104,20 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
         if value == 'clue' and t == 'Clue':
             continue
 
-        translated = t
-        for j in range(len(lang_list) - 1):
-            translated, success = __translate_step(translated, j, retry)
-            if not success:
-                log.critical(f'failed translating in {filename}, skipping text: {t}')
-                translated = t
-                break
-        translation.append(translated)
+        if t in cache:
+            log.info(f'found cached value: {t}')
+            translation.append(cache[t])
+        else:
+            log.info(f'translating: {t}')
+            translated = t
+            for j in range(len(lang_list) - 1):
+                translated, success = __translate_step(translated, j, retry)
+                if not success:
+                    log.critical(f'failed translating in {filename}, skipping text: {t}')
+                    translated = t
+                    break
+            cache[t] = translated
+            translation.append(translated)
 
     return ''.join(translation)
 
@@ -165,15 +171,7 @@ def scramble(dv: str | list | dict, filename: str = '', v: str = '', values=None
             translated.append(scramble(e, filename=filename, v=v, values=values, retry=retry, cache=cache))
         return translated
     elif type(dv) == str:
-        # todo: cache in scramble_single
-        if dv in cache:
-            log.info(f'found cached value: {dv}')
-            return cache[dv]
-        else:
-            log.info(f'translating: {dv}')
-            trans = scramble_single(dv, filename, v, cache=cache, retry=retry)
-            cache[dv] = trans
-            return trans
+        return scramble_single(dv, filename, v, cache=cache, retry=retry)
     elif type(dv) == dict:
         translated = dv
         for k in dv:

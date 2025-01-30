@@ -2,7 +2,7 @@ import os
 import utils
 import shutil
 
-from src.const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH, NUM_RETRY
+from const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH, NUM_RETRY
 
 if __name__ == '__main__':
     utils.translate(STORY_PATH, ['content', 'teller', 'title', 'place'])  # story
