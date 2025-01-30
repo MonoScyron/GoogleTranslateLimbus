@@ -5,12 +5,14 @@ import shutil
 from const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH, NUM_RETRY
 
 if __name__ == '__main__':
-    utils.translate(STORY_PATH, ['content', 'teller', 'title', 'place'])  # story
-    utils.translate(ANNOUNCER_PATH, ['dlg'])  # announcers
-    utils.translate(ID_PATH, ['dlg'])  # id dialogue
-    utils.translate(EGO_PATH, ['dlg'])  # ego dialogue
+    utils.translate_prefix('.', ['trans'], prefix='testing.json', retry=NUM_RETRY)
 
-    utils.translate_prefix(BASE_PATH, ['teller', 'dialog'], prefix='AbDlg_')
+    utils.translate(STORY_PATH, ['content', 'teller', 'title', 'place'], retry=NUM_RETRY)  # story
+    utils.translate(ANNOUNCER_PATH, ['dlg'], retry=NUM_RETRY)  # announcers
+    utils.translate(ID_PATH, ['dlg'], retry=NUM_RETRY)  # id dialogue
+    utils.translate(EGO_PATH, ['dlg'], retry=NUM_RETRY)  # ego dialogue
+
+    utils.translate_prefix(BASE_PATH, ['teller', 'dialog'], prefix='AbDlg_', retry=NUM_RETRY)
 
     # todo: value "title" is sus
     abs_event_values = ['title', 'eventDesc', 'prevDesc', 'behaveDesc', 'successDesc', 'failureDesc']
@@ -100,8 +102,6 @@ if __name__ == '__main__':
     utils.translate_prefix(BASE_PATH, values=['name', 'desc', 'flavor'], prefix='Items', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH, values=['name', 'desc'], prefix='KeywordDictionary', retry=NUM_RETRY)
-
-    exit(0)
 
     utils.translate_prefix(BASE_PATH, values=['content'], prefix='kr_settings', retry=NUM_RETRY)
     utils.translate_prefix(BASE_PATH, values=['content'], prefix='LoginUI', retry=NUM_RETRY)
