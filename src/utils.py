@@ -8,7 +8,7 @@ import json
 import re
 import shutil
 
-from const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH
+from const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH, NUM_RETRY
 
 translator = gt.Translator(
     raise_exception=True
@@ -63,7 +63,8 @@ def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]
             trans_text = trans_text.text
             time.sleep(WAIT_ON_SUCCESS)
         except Exception as e:
-            log.error(f'error on text at lang_index {lang_index}: {e}')
+            log.error(f'error on text at lang_index {lang_index} '
+                      f'{f"retry {retry} of {NUM_RETRY}" if NUM_RETRY > 0 else ""}: {e}')
             if "The block will expire shortly after those requests stop" in f'{e}':
                 time.sleep(WAIT_ON_BIG_ERROR)
             else:
