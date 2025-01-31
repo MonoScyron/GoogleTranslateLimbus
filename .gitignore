@@ -165,3 +165,4 @@ cython_debug/
 run.sh
 diff.sh
 .python-version
+testing.json

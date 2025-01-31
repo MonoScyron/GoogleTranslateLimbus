@@ -1,1 +1,128 @@
-{"dataList": [{"id": "mirrordungeonui_level_up", "content": "Choose your identity to improve"}, {"id": "mirrordungeonui_ask_level_up", "content": "Do you want to improve your preferences?"}, {"id": "mirrordungeonui_warning_stop_dungeon", "content": "After leaving the probe, you will be awarded the first floor of the cleaning floor."}, {"id": "mirrordungeonui_current_reward", "content": "Current compensation"}, {"id": "mirrordungeonui_acquire_new_character", "content": "Earned"}, {"id": "mirrordungeonui_level_up_complete", "content": "Driving identification"}, {"id": "mirrordungeonui_continue", "content": "Do you continue your studies?"}, {"id": "mirrordungeonui_select_character", "content": "Choose a sinner"}, {"id": "mirrordungeonui_able_to_equip", "content": "The equipment is possible"}, {"id": "mirrordungeon_success_to_levelup", "content": "Identity controller!"}, {"id": "mirrordungeon_additional_exp", "content": "Award is using rapidly"}, {"id": "mirrordungeon_already_in_member", "content": "In a group"}, {"id": "mirrordungeon_select_start_character", "content": "Identify the world's world"}, {"id": "mirrordungeon_acquire_ego_gift_popup", "content": "For example, the gift!"}, {"id": "mirrordungeon_additional_exp_weekly", "content": "Metchuwevs Award every week"}, {"id": "mirrordungeon_daily_free", "content": "Get off everyday free"}, {"id": "mirrordungeon_entrance_quit_former_simulation", "content": "Do you want to close your current simulation?"}, {"id": "mirrordungeon_progress_rate_simulation", "content": "{0} Double progress"}, {"id": "mirrordungeon_resume_simulation", "content": "Initial simulation"}, {"id": "mirrordungeon_stop_simulation", "content": "To prevent"}, {"id": "mirrordungeon_simulation_info_1", "content": "They don't need to spend packing"}, {"id": "mirrordungeon_simulation_info_2", "content": "There is no award"}, {"id": "mirrordungeon_progress", "content": "Help yourself"}, {"id": "mirrordungeon_stop", "content": "Stop the test"}, {"id": "mirrordungeon_dungeon_name_simulation", "content": "{0} Simulation"}, {"id": "mirrordungeon_warning_not_equip_ego", "content": "For example, there is no device.\nDo you want to follow?"}, {"id": "mirrordungeon_acquire_rewards", "content": "Requirements"}, {"id": "mirrordungeon_ask_select_character_level_up", "content": "Used to improve"}, {"id": "mirrordungeon_simulation_info_no_use_module", "content": "And the NCCIFFINAL IS NOT ACCOUNT ITEM."}, {"id": "mirrordungeon_after_levelup", "content": "Seal #{0}"}, {"id": "mirrordunge_ego_gift_history_button_label", "content": "For example, I'm a partner"}, {"id": "mirrordungeon_weekly_reset_description", "content": "Read each week.\nGo to the window."}, {"id": "mirrordungeon_simulation_on", "content": "File!"}, {"id": "mirrordungeon_participated", "content": "Partner"}, {"id": "select_ego_gift", "content": "Choose yourself"}, {"id": "explore_dungeon_finished", "content": "The search has been completed"}, {"id": "participated_personality", "content": "Recognition"}, {"id": "dungeon_final_area", "content": "Last time"}, {"id": "total_progress_rate", "content": "Simple progress"}, {"id": "mirrordungeon_weekly_reset", "content": "The last session executed.\nFind the gift."}, {"id": "mirror_dungeon_error_desc", "content": "Server errors have lost data."}]}
+{
+  "dataList": [
+    {
+      "id": "mirrordungeonui_level_up",
+      "content": "Choose your identity to improve"
+    }, {
+      "id": "mirrordungeonui_ask_level_up",
+      "content": "Do you want to improve your preferences?"
+    }, {
+      "id": "mirrordungeonui_warning_stop_dungeon",
+      "content": "After leaving the probe, you will be awarded the first floor of the cleaning floor."
+    }, {
+      "id": "mirrordungeonui_current_reward",
+      "content": "Current compensation"
+    }, {
+      "id": "mirrordungeonui_acquire_new_character",
+      "content": "Earned"
+    }, {
+      "id": "mirrordungeonui_level_up_complete",
+      "content": "Driving identification"
+    }, {
+      "id": "mirrordungeonui_continue",
+      "content": "Do you continue your studies?"
+    }, {
+      "id": "mirrordungeonui_select_character",
+      "content": "Choose a sinner"
+    }, {
+      "id": "mirrordungeonui_able_to_equip",
+      "content": "The equipment is possible"
+    }, {
+      "id": "mirrordungeon_success_to_levelup",
+      "content": "Identity controller!"
+    }, {
+      "id": "mirrordungeon_additional_exp",
+      "content": "Award is using rapidly"
+    }, {
+      "id": "mirrordungeon_already_in_member",
+      "content": "In a group"
+    }, {
+      "id": "mirrordungeon_select_start_character",
+      "content": "Identify the world's world"
+    }, {
+      "id": "mirrordungeon_acquire_ego_gift_popup",
+      "content": "For example, the gift!"
+    }, {
+      "id": "mirrordungeon_additional_exp_weekly",
+      "content": "Metchuwevs Award every week"
+    }, {
+      "id": "mirrordungeon_daily_free",
+      "content": "Get off everyday free"
+    }, {
+      "id": "mirrordungeon_entrance_quit_former_simulation",
+      "content": "Do you want to close your current simulation?"
+    }, {
+      "id": "mirrordungeon_progress_rate_simulation",
+      "content": "{0} Double progress"
+    }, {
+      "id": "mirrordungeon_resume_simulation",
+      "content": "Initial simulation"
+    }, {
+      "id": "mirrordungeon_stop_simulation",
+      "content": "To prevent"
+    }, {
+      "id": "mirrordungeon_simulation_info_1",
+      "content": "They don't need to spend packing"
+    }, {
+      "id": "mirrordungeon_simulation_info_2",
+      "content": "There is no award"
+    }, {
+      "id": "mirrordungeon_progress",
+      "content": "Help yourself"
+    }, {
+      "id": "mirrordungeon_stop",
+      "content": "Stop the test"
+    }, {
+      "id": "mirrordungeon_dungeon_name_simulation",
+      "content": "{0} Simulation"
+    }, {
+      "id": "mirrordungeon_warning_not_equip_ego",
+      "content": "For example, there is no device.\nDo you want to follow?"
+    }, {
+      "id": "mirrordungeon_acquire_rewards",
+      "content": "Requirements"
+    }, {
+      "id": "mirrordungeon_ask_select_character_level_up",
+      "content": "Used to improve"
+    }, {
+      "id": "mirrordungeon_simulation_info_no_use_module",
+      "content": "And the NCCIFFINAL IS NOT ACCOUNT ITEM."
+    }, {
+      "id": "mirrordungeon_after_levelup",
+      "content": "Seal #{0}"
+    }, {
+      "id": "mirrordunge_ego_gift_history_button_label",
+      "content": "For example, I'm a partner"
+    }, {
+      "id": "mirrordungeon_weekly_reset_description",
+      "content": "Read each week.\nGo to the window."
+    }, {
+      "id": "mirrordungeon_simulation_on",
+      "content": "File!"
+    }, {
+      "id": "mirrordungeon_participated",
+      "content": "Partner"
+    }, {
+      "id": "select_ego_gift",
+      "content": "Choose yourself"
+    }, {
+      "id": "explore_dungeon_finished",
+      "content": "The search has been completed"
+    }, {
+      "id": "participated_personality",
+      "content": "Recognition"
+    }, {
+      "id": "dungeon_final_area",
+      "content": "Last time"
+    }, {
+      "id": "total_progress_rate",
+      "content": "Simple progress"
+    }, {
+      "id": "mirrordungeon_weekly_reset",
+      "content": "The last session executed.\nFind the gift."
+    }, {
+      "id": "mirror_dungeon_error_desc",
+      "content": "Server errors have lost data."
+    }
+  ]
+}

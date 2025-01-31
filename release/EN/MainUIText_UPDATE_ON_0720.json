@@ -1,1 +1,29 @@
-{"dataList": [{"id": "move_to_inventory", "content": "Go to the list"}, {"id": "progress_personality_gacksung", "content": "U 丿 丿"}, {"id": "mainui_reinforce_support_passive", "content": "Responsible[{0}] Revision"}, {"id": "mainui_reinforce_battle_passive", "content": "Flight[{0}] Revision"}, {"id": "mainui_battle_passsive_reinforce", "content": "Improved to fight with him"}, {"id": "mainui_support_passsive_reinforce", "content": "Support a negative version"}, {"id": "mainui_target_num_label", "content": "Trapped"}, {"id": "mainui_awaken_requirement_label", "content": "Rex."}]}
+{
+  "dataList": [
+    {
+      "id": "move_to_inventory",
+      "content": "Go to the list"
+    }, {
+      "id": "progress_personality_gacksung",
+      "content": "U 丿 丿"
+    }, {
+      "id": "mainui_reinforce_support_passive",
+      "content": "Responsible [{0}] Revision"
+    }, {
+      "id": "mainui_reinforce_battle_passive",
+      "content": "Flight [{0}] Revision"
+    }, {
+      "id": "mainui_battle_passsive_reinforce",
+      "content": "Improved to fight with him"
+    }, {
+      "id": "mainui_support_passsive_reinforce",
+      "content": "Support a negative version"
+    }, {
+      "id": "mainui_target_num_label",
+      "content": "Trapped"
+    }, {
+      "id": "mainui_awaken_requirement_label",
+      "content": "Rex."
+    }
+  ]
+}

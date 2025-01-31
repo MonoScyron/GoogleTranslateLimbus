@@ -1,1 +1,17 @@
-{"dataList": [{"id": 40000101, "name": "Strike cookies, cypress breath", "desc": "Destroy this device device on this deviceIs correctFor purpose (up to 5)"}, {"id": 40000102, "name": "Geebana bus", "desc": "If the unit level is higher than the target, use rubbing and more than +1 or moreBowl and measure (twice)"}, {"id": 40000103, "name": "Sanguage vision", "desc": "Losing conflict: Benefits(No sumbar never twice)"}]}
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "name": "Strike cookies, cypress breath",
+      "desc": "Destroy this device device on this deviceIs correctFor purpose (up to 5)"
+    }, {
+      "id": 40000102,
+      "name": "Geebana bus",
+      "desc": "If the unit level is higher than the target, use rubbing and more than +1 or moreBowl and measure (twice)"
+    }, {
+      "id": 40000103,
+      "name": "Sanguage vision",
+      "desc": "Losing conflict: Benefits(No sumbar never twice)"
+    }
+  ]
+}

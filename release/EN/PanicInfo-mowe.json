@@ -1,1 +1,10 @@
-{"dataList": [{"id": 1025, "panicName": "Blood", "lowMoraleDescription": "Start: 1 1 comes in[Vulnerable] And and[AttackDmgUp]", "panicDescription": "Start: 2[Vulnerable] And and[AttackDmgUp]"}]}
+{
+  "dataList": [
+    {
+      "id": 1025,
+      "panicName": "Blood",
+      "lowMoraleDescription": "Start: 1 1 comes in [Vulnerable] And and [AttackDmgUp]",
+      "panicDescription": "Start: 2 [Vulnerable] And and [AttackDmgUp]"
+    }
+  ]
+}

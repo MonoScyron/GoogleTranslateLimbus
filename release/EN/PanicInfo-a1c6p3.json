@@ -1,1 +1,9 @@
-{"dataList": [{"id": 9997, "panicName": "???", "panicDescription": "Uncomfortable"}]}
+{
+  "dataList": [
+    {
+      "id": 9997,
+      "panicName": "???",
+      "panicDescription": "Uncomfortable"
+    }
+  ]
+}

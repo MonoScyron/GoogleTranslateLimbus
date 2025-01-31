@@ -1,1 +1,30 @@
-{"dataList": [{"id": 1029, "panicName": "A criminal", "lowMoraleDescription": "End 1[Vulnerable] And and[MentalIncreaseDown] Valley", "panicDescription": "Endowment[Vulnerable] And and[MentalIncreaseDown] The next line."}, {"id": 1031, "panicName": "Agriculture", "lowMoraleDescription": "From[Laceration]The power of friction 1;[Laceration] Pain", "panicDescription": "If your goal is.[Laceration], Wotctica +2;[Laceration]HP in Carls Power-2[Laceration] Pain"}, {"id": 1032, "panicName": "A criminal", "lowMoraleDescription": "End 1[Vulnerable] And and[MentalIncreaseDown] Valley", "panicDescription": "Endowment[Vulnerable] And and[MentalIncreaseDown] The next line."}, {"id": 1034, "panicName": "Forests", "lowMoraleDescription": "-1 2 inches[Enhancement] 1[Vulnerable]Were, and,,,,,,,,,,,,,,\nTreatment + 30% x\n-This is this[RegainedStrength] In the initial stage, the value of its value and less than 2 profits[AttackUp] And and[DefenseDown] Valley", "panicDescription": "-1 2 inches[Enhancement] Increase the maximum speed speed.\nTreatment + 50% x\n-This is this[RegainedStrength] From scratch he won less than 3.[AttackUp] And 5[DefenseDown] Valley"}, {"id": 1033, "panicName": "Hollok's joy is coming back", "lowMoraleDescription": "Start: 2[AttackUp]Were, and,,,,,,,,,,,,,,", "panicDescription": "Early Rit: Benefits <[DefenseUp]Get more 3[AttackUp] Valley"}]}
+{
+  "dataList": [
+    {
+      "id": 1029,
+      "panicName": "A criminal",
+      "lowMoraleDescription": "End 1 [Vulnerable] And and [MentalIncreaseDown] Valley",
+      "panicDescription": "Endowment [Vulnerable] And and [MentalIncreaseDown] The next line."
+    }, {
+      "id": 1031,
+      "panicName": "Agriculture",
+      "lowMoraleDescription": "From [Laceration] The power of friction 1; [Laceration] Pain",
+      "panicDescription": "If your goal is. [Laceration], Wotctica +2; [Laceration] HP in Carls Power-2 [Laceration] Pain"
+    }, {
+      "id": 1032,
+      "panicName": "A criminal",
+      "lowMoraleDescription": "End 1 [Vulnerable] And and [MentalIncreaseDown] Valley",
+      "panicDescription": "Endowment [Vulnerable] And and [MentalIncreaseDown] The next line."
+    }, {
+      "id": 1034,
+      "panicName": "Forests",
+      "lowMoraleDescription": "-1 2 inches [Enhancement] 1 [Vulnerable] Were, and,,,,,,,,,,,,,,\nTreatment + 30% x\n-This is this [RegainedStrength] In the initial stage, the value of its value and less than 2 profits [AttackUp] And and [DefenseDown] Valley",
+      "panicDescription": "-1 2 inches [Enhancement] Increase the maximum speed speed.\nTreatment + 50% x\n-This is this [RegainedStrength] From scratch he won less than 3. [AttackUp] And 5 [DefenseDown] Valley"
+    }, {
+      "id": 1033,
+      "panicName": "Hollok's joy is coming back",
+      "lowMoraleDescription": "Start: 2 [AttackUp] Were, and,,,,,,,,,,,,,,",
+      "panicDescription": "Early Rit: Benefits <[DefenseUp] Get more 3 [AttackUp] Valley"
+    }
+  ]
+}

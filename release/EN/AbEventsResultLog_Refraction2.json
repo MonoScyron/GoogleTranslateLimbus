@@ -1,1 +1,98 @@
-{"dataList": [{"id": "853901_success_1_1", "content": "<color=#ebcaa2>There will be a full old umbrella</color> A common share<color=#00ff9c>Up to 30.</color>"}, {"id": "853901_success_1_2", "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic{1} Ticket sales</color>"}, {"id": "853901_failure_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic{1} Ticket sales</color>"}, {"id": "854101_success_1_1", "content": "<color=#ebcaa2>[{0}] Enthusiastic{2} [{1}]Were, and,,,,,,,,,,,,,,</color>"}, {"id": "854101_success_1_2", "content": "<color=#ebcaa2>All[{0}]\"Part Time Work</color> <color=#ebcaa2>to get</color> %{2} [{1}]Were, and,,,,,,,,,,,,,,"}, {"id": "854101_failure_1_1", "content": "<color=#ebcaa2>[{0}] Were, and,,,,,,,,,,,,,,{2} [{1}]Were, and,,,,,,,,,,,,,,</color>"}, {"id": "854101_failure_1_2", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> %{2} [{1}]Were, and,,,,,,,,,,,,,,"}, {"id": "854201_success_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease{1} Hard power</color>"}, {"id": "854201_success_1_2", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> %{2} [{1}]Were, and,,,,,,,,,,,,,,{4} [{3}]And and{6} [{5}]Were, and,,,,,,,,,,,,,,"}, {"id": "854201_failure_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease{1} Hard power</color>"}, {"id": "854201_failure_1_2", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> %{2} [{1}]Were, and,,,,,,,,,,,,,,{4} [{3}]And and{6} [{5}]Were, and,,,,,,,,,,,,,,"}, {"id": "854401_success_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Use</color> {2} {1}"}, {"id": "854401_success_1_2", "content": "[{0}] Fork<color=#00ff9c>{2} {1}</color> Valley"}, {"id": "854401_failure_1_1", "content": "<color=#ebcaa2>All{1} Remove</color> By<color=#ebcaa2>[{0}]</color>"}, {"id": "854501_success_1_1", "content": "<color=#ebcaa2>{0} Very pleasant</color>"}, {"id": "854501_success_1_2", "content": "<color=#ebcaa2>[{0}] Fork</color> {2} <color=#e30000>[{1}]</color>Intersection"}, {"id": "854501_failure_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic{1} Love.</color>"}, {"id": "854901_success_1_1", "content": "<color=#ebcaa2>Villa is very easy!</color>"}, {"id": "854901_failure_1_1", "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000>{2} [{1}]</color>"}, {"id": "854901_failure_1_2", "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000>{2} [{1}]</color>"}, {"id": "855001_success_1_1", "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000>{2} [{1}]</color>"}, {"id": "855001_success_1_2", "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000>{2} [{1}]</color>"}, {"id": "855001_failure_1_1", "content": "<color=#ebcaa2>[{0}] Epidemic</color> <color=#e30000>Up to 20{1} Love)</color>"}, {"id": "855501_success_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Epidemic</color> <color=#e30000>{2} {1}</color>"}, {"id": "855501_success_1_2", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> <color=#e30000>{2} {1}</color>"}, {"id": "855501_failure_1_1", "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> <color=#e30000>{2} {1}</color>"}, {"id": "855501_failure_1_2", "content": "<color=#ebcaa2>[{0}] Papi</color> <color=#ebcaa2>Fork</color> <color=#e30000>{2} {1}</color>"}, {"id": "855601_1_1", "content": "All characters should be{0}% Injury"}, {"id": "855601_1_2", "content": "All signs are assigned{0}% Injury"}, {"id": "85560101_success_1_1", "content": "All characters<color=#00ff9c>Agreement{1}% Injury</color> And and[{0}] Hobbies"}, {"id": "85560101_success_1_2", "content": "All characters<color=#e30000>Pick up{1}% Injury</color> And and[{0}] Hobbies"}]}
+{
+  "dataList": [
+    {
+      "id": "853901_success_1_1",
+      "content": "<color=#ebcaa2>There will be a full old umbrella</color> A common share<color=#00ff9c>Up to 30.</color>"
+    }, {
+      "id": "853901_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+    }, {
+      "id": "853901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+    }, {
+      "id": "854101_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] Enthusiastic {2} [{1}] Were, and,,,,,,,,,,,,,,</color>"
+    }, {
+      "id": "854101_success_1_2",
+      "content": "<color=#ebcaa2>All [{0}]\"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+    }, {
+      "id": "854101_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] Were, and,,,,,,,,,,,,,, {2} [{1}] Were, and,,,,,,,,,,,,,,</color>"
+    }, {
+      "id": "854101_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+    }, {
+      "id": "854201_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
+    }, {
+      "id": "854201_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,, {4} [{3}] And and {6} [{5}] Were, and,,,,,,,,,,,,,,"
+    }, {
+      "id": "854201_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
+    }, {
+      "id": "854201_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,, {4} [{3}] And and {6} [{5}] Were, and,,,,,,,,,,,,,,"
+    }, {
+      "id": "854401_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Use</color> {2} {1}"
+    }, {
+      "id": "854401_success_1_2",
+      "content": "[{0}] Fork<color=#00ff9c> {2} {1}</color> Valley"
+    }, {
+      "id": "854401_failure_1_1",
+      "content": "<color=#ebcaa2>All {1} Remove</color> By<color=#ebcaa2>[{0}]</color>"
+    }, {
+      "id": "854501_success_1_1",
+      "content": "<color=#ebcaa2> {0} Very pleasant</color>"
+    }, {
+      "id": "854501_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] Fork</color> {2} <color=#e30000>[{1}]</color>Intersection"
+    }, {
+      "id": "854501_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
+    }, {
+      "id": "854901_success_1_1",
+      "content": "<color=#ebcaa2>Villa is very easy!</color>"
+    }, {
+      "id": "854901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000> {2} [{1}]</color>"
+    }, {
+      "id": "854901_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000> {2} [{1}]</color>"
+    }, {
+      "id": "855001_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000> {2} [{1}]</color>"
+    }, {
+      "id": "855001_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000> {2} [{1}]</color>"
+    }, {
+      "id": "855001_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] Epidemic</color> <color=#e30000>Up to 20 {1} Love)</color>"
+    }, {
+      "id": "855501_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Epidemic</color> <color=#e30000> {2} {1}</color>"
+    }, {
+      "id": "855501_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> <color=#e30000> {2} {1}</color>"
+    }, {
+      "id": "855501_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> <color=#e30000> {2} {1}</color>"
+    }, {
+      "id": "855501_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] Papi</color> <color=#ebcaa2>Fork</color> <color=#e30000> {2} {1}</color>"
+    }, {
+      "id": "855601_1_1",
+      "content": "All characters should be {0}% Injury"
+    }, {
+      "id": "855601_1_2",
+      "content": "All signs are assigned {0}% Injury"
+    }, {
+      "id": "85560101_success_1_1",
+      "content": "All characters<color=#00ff9c>Agreement {1}% Injury</color> And and [{0}] Hobbies"
+    }, {
+      "id": "85560101_success_1_2",
+      "content": "All characters<color=#e30000>Pick up {1}% Injury</color> And and [{0}] Hobbies"
+    }
+  ]
+}

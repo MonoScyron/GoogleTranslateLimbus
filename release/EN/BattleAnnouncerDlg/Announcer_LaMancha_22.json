@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_22_1", "dlg": "Can we live with them and help Mrs. Dolin?\n\"It doesn't think it can kill the slide show window.\"\n-B ... It is very difficult to be very difficult."}, {"id": "announcer_cheer_22_2", "dlg": "Which is bleed here.\nIt's just a kind and liberal ability.\nHis name is \"patience to stand your father\"?\n-Mog- how much danger is."}, {"id": "announcer_specialcheer_22_1", "dlg": "-Uck!\n- And if you are mentally tired, don't hesitate to see me."}, {"id": "announcer_specialcheer_22_2", "dlg": "He was standing on his side.\n-1 Think that it is another way to enjoy.\n-Mell will tell them."}, {"id": "announcer_enemy_break_22_1", "dlg": "-\n-No ... This curve curved base game is not healthy in life.\n-This is more interesting."}, {"id": "announcer_ally_break_22_1", "dlg": "-A!\n\"The fixed price of his name did not resign from patriotism."}, {"id": "announcer_killenemy_22_1", "dlg": "-This is!\nIf you are infected, go to the ambulance or select Hems.\n-Houver, then the next lack of blood goes on the left!"}, {"id": "announcer_ally_dead_22_1", "dlg": "-... Customer.\n- .. Oh, I will ask you to go slow!"}, {"id": "announcer_enemy_adv_22_1", "dlg": "Cass.\n- We wife Dussen!"}, {"id": "announcer_ally_adv_22_1", "dlg": "You don't give these physical gravity?\nI know people and blood factories prefer to do their body."}, {"id": "announcer_danger_22_1", "dlg": "This is the face of medicine!\n-Pol, I should not recommend anxiety."}, {"id": "announcer_enemy_specialskill_22_1", "dlg": "-Lad is ready to start the terrorist attack.\n-A!"}, {"id": "announcer_enemy_specialgimmick_22_1", "dlg": "-It this problem difficult?\nThe father in adults is a problem that makes this attraction comfortable.\n- Yes ..."}, {"id": "announcer_advatk_physical_22_1", "dlg": "-And to understand.\n-Sonia!"}, {"id": "announcer_disadvatk_physical_22_1", "dlg": "- Oh my God!\nWhy is it not appropriate for other weapons at the entrance?"}, {"id": "announcer_advatk_attr_22_1", "dlg": "- And?\n-Pay!"}, {"id": "announcer_disadvatk_attr_22_1", "dlg": "Avoid white bows.\nInterestingly, that."}, {"id": "announcer_enemy_specialbuff_22_1", "dlg": "-A ... they prefer hepion.\n-We it is really bad.\nWere, and,,,,,,,,,,,,,,\nWe are hating hemopari."}, {"id": "announcer_enemy_specialdebuff_22_1", "dlg": "-1 Think it's water ..."}, {"id": "announcer_ally_specialbuff_22_1", "dlg": "-Heh!\n-U ... your clothes\nDrivers and tourist attractions with my device!"}, {"id": "announcer_ally_specialdebuff_22_1", "dlg": "-Cade and soft.\n-E, this is not \"temptation.\""}, {"id": "announcer_enemy_destroy_22_1", "dlg": "Bonus point to suppress poster.\nDon't worry."}, {"id": "announcer_enemy_destroy_22_2", "dlg": "-Sistest value: Free persecution: Mary's blood.\n- You can enjoy animals: blood merry, you do not need to bleed!"}, {"id": "announcer_round_takebigdmg_22_1", "dlg": "-You feel tired and independent.\n-What service ~"}, {"id": "announcer_round_takebigdmg_22_2", "dlg": "It is removed from left!\n-Te-Entry history."}, {"id": "announcer_round_givebigdmg_22_1", "dlg": "-This is very strong\nWhat is a wave!"}, {"id": "announcer_round_givebigdmg_22_2", "dlg": "ਮ ਮ Do you think it's an ambulance spook?\nI was a little wounded, but not important ... which metal shot?\n- .. tract I am bubble!"}, {"id": "announcer_multikillenemy_22_1", "dlg": "- Artists are real!\nWork for Justice!\n-We go to the bed, if it is very unreasonable."}, {"id": "announcer_equip_22_1", "dlg": "-I know the guy waiting now ~!\nThe time repair process in this field is today.\n-Via will start soon."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_22_1",
+      "dlg": "Can we live with them and help Mrs. Dolin?\n\"It doesn't think it can kill the slide show window.\"\n-B ... It is very difficult to be very difficult."
+    }, {
+      "id": "announcer_cheer_22_2",
+      "dlg": "Which is bleed here.\nIt's just a kind and liberal ability.\nHis name is \"patience to stand your father\"?\n-Mog- how much danger is."
+    }, {
+      "id": "announcer_specialcheer_22_1",
+      "dlg": "-Uck!\n- And if you are mentally tired, don't hesitate to see me."
+    }, {
+      "id": "announcer_specialcheer_22_2",
+      "dlg": "He was standing on his side.\n-1 Think that it is another way to enjoy.\n-Mell will tell them."
+    }, {
+      "id": "announcer_enemy_break_22_1",
+      "dlg": "-\n-No ... This curve curved base game is not healthy in life.\n-This is more interesting."
+    }, {
+      "id": "announcer_ally_break_22_1",
+      "dlg": "-A!\n\"The fixed price of his name did not resign from patriotism."
+    }, {
+      "id": "announcer_killenemy_22_1",
+      "dlg": "-This is!\nIf you are infected, go to the ambulance or select Hems.\n-Houver, then the next lack of blood goes on the left!"
+    }, {
+      "id": "announcer_ally_dead_22_1",
+      "dlg": "-... Customer.\n- .. Oh, I will ask you to go slow!"
+    }, {
+      "id": "announcer_enemy_adv_22_1",
+      "dlg": "Cass.\n- We wife Dussen!"
+    }, {
+      "id": "announcer_ally_adv_22_1",
+      "dlg": "You don't give these physical gravity?\nI know people and blood factories prefer to do their body."
+    }, {
+      "id": "announcer_danger_22_1",
+      "dlg": "This is the face of medicine!\n-Pol, I should not recommend anxiety."
+    }, {
+      "id": "announcer_enemy_specialskill_22_1",
+      "dlg": "-Lad is ready to start the terrorist attack.\n-A!"
+    }, {
+      "id": "announcer_enemy_specialgimmick_22_1",
+      "dlg": "-It this problem difficult?\nThe father in adults is a problem that makes this attraction comfortable.\n- Yes ..."
+    }, {
+      "id": "announcer_advatk_physical_22_1",
+      "dlg": "-And to understand.\n-Sonia!"
+    }, {
+      "id": "announcer_disadvatk_physical_22_1",
+      "dlg": "- Oh my God!\nWhy is it not appropriate for other weapons at the entrance?"
+    }, {
+      "id": "announcer_advatk_attr_22_1",
+      "dlg": "- And?\n-Pay!"
+    }, {
+      "id": "announcer_disadvatk_attr_22_1",
+      "dlg": "Avoid white bows.\nInterestingly, that."
+    }, {
+      "id": "announcer_enemy_specialbuff_22_1",
+      "dlg": "-A ... they prefer hepion.\n-We it is really bad.\nWere, and,,,,,,,,,,,,,,\nWe are hating hemopari."
+    }, {
+      "id": "announcer_enemy_specialdebuff_22_1",
+      "dlg": "-1 Think it's water ..."
+    }, {
+      "id": "announcer_ally_specialbuff_22_1",
+      "dlg": "-Heh!\n-U ... your clothes\nDrivers and tourist attractions with my device!"
+    }, {
+      "id": "announcer_ally_specialdebuff_22_1",
+      "dlg": "-Cade and soft.\n-E, this is not \"temptation.\""
+    }, {
+      "id": "announcer_enemy_destroy_22_1",
+      "dlg": "Bonus point to suppress poster.\nDon't worry."
+    }, {
+      "id": "announcer_enemy_destroy_22_2",
+      "dlg": "-Sistest value: Free persecution: Mary's blood.\n- You can enjoy animals: blood merry, you do not need to bleed!"
+    }, {
+      "id": "announcer_round_takebigdmg_22_1",
+      "dlg": "-You feel tired and independent.\n-What service ~"
+    }, {
+      "id": "announcer_round_takebigdmg_22_2",
+      "dlg": "It is removed from left!\n-Te-Entry history."
+    }, {
+      "id": "announcer_round_givebigdmg_22_1",
+      "dlg": "-This is very strong\nWhat is a wave!"
+    }, {
+      "id": "announcer_round_givebigdmg_22_2",
+      "dlg": "ਮ ਮ Do you think it's an ambulance spook?\nI was a little wounded, but not important ... which metal shot?\n- .. tract I am bubble!"
+    }, {
+      "id": "announcer_multikillenemy_22_1",
+      "dlg": "- Artists are real!\nWork for Justice!\n-We go to the bed, if it is very unreasonable."
+    }, {
+      "id": "announcer_equip_22_1",
+      "dlg": "-I know the guy waiting now ~!\nThe time repair process in this field is today.\n-Via will start soon."
+    }
+  ]
+}

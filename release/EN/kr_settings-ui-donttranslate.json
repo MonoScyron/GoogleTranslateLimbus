@@ -1,1 +1,188 @@
-{"dataList": [{"id": "mainui_settings_game", "content": "How to play"}, {"id": "mainui_settings_graphic", "content": "Charts"}, {"id": "mainui_settings_sound", "content": "Control"}, {"id": "mainui_settings_notice", "content": "Application"}, {"id": "mainui_settings_etc", "content": "I am free"}, {"id": "mainui_settings_download", "content": "Pick up"}, {"id": "mainui_settings_download_complete", "content": "Completely download"}, {"id": "mainui_settings_video_resource", "content": "Video sauce"}, {"id": "mainui_settings_audio_resource", "content": "Sound"}, {"id": "mainui_settings_animation_resource", "content": "Source"}, {"id": "mainui_settings_ego_presentation", "content": "For example, animation"}, {"id": "mainui_settings_on", "content": "Calculation"}, {"id": "mainui_settings_off", "content": "Depart"}, {"id": "mainui_settings_play_once_per_day", "content": "Once a day"}, {"id": "mainui_settings_resolution", "content": "Go out"}, {"id": "mainui_settings_resolution_windowded", "content": "Window"}, {"id": "mainui_settings_resolution_fullscreen", "content": "Screen"}, {"id": "mainui_settings_texquality", "content": "Quality"}, {"id": "mainui_settings_resolution_warning", "content": "Excellent accuracy heats the device and can use extra energy."}, {"id": "mainui_settings_fps_warning", "content": "Large frames heat the device and use additional energy."}, {"id": "mainui_settings_low", "content": "Short"}, {"id": "mainui_settings_middle", "content": "Headquarters"}, {"id": "mainui_settings_high", "content": "Long"}, {"id": "mainui_settings_postprocessing", "content": "Mail after processing"}, {"id": "mainui_settings_ppon", "content": "Calculation"}, {"id": "mainui_settings_ppoff", "content": "Depart"}, {"id": "mainui_settings_ppdesc", "content": "Maintain the performance of camera show for the game."}, {"id": "mainui_settings_antialiasing", "content": "Anteriaxdent"}, {"id": "mainui_settings_clear", "content": "Restoration"}, {"id": "mainui_settings_clear_ask", "content": "Standard Value Complete Reset?"}, {"id": "mainui_settings_render_acceleration", "content": "Sensorhip"}, {"id": "mainui_settings_sound_master", "content": "Class"}, {"id": "mainui_settings_sound_sfx", "content": "Kajrava a."}, {"id": "mainui_settings_sound_voice", "content": "Vote"}, {"id": "mainui_settings_sound_battle_announcer", "content": "Like pronunciation"}, {"id": "mainui_settings_notice_enkephalin_full", "content": "Recovery infeyphin"}, {"id": "mainui_settings_notice_ads", "content": "Statements"}, {"id": "mainui_settings_notice_ads_night", "content": "Description of the advertisement (evening)"}, {"id": "mainui_settings_change_launguage", "content": "The tongue"}, {"id": "mainui_settings_change_launguage_ask", "content": "After the game began, the language changed."}, {"id": "mainui_settings_faq_btn", "content": "customer service"}, {"id": "connect_to_google_account", "content": "Link to Google"}, {"id": "connect_to_apple_account", "content": "Apple Link Friends"}, {"id": "explain_sucession", "content": "If you finish your account, all games and purchases will be deleted."}, {"id": "explain_sucession_remain_days", "content": "It brought you a 7-day limit."}, {"id": "explain_writing_code_for_sucession", "content": "If you agree with the above sentence\nEnter the letter shown in the field."}, {"id": "explain_secession_status", "content": "The account is currently in the present day.\nFor the remaining time:{0}By{1}P.{2}Without\nIf you are enrolled now, you can restore your account.\nDo you want to restore your account?"}, {"id": "recover", "content": "Religion"}, {"id": "request_sucession", "content": "The request will be full"}, {"id": "request_sucession_success", "content": "Closed off."}, {"id": "mainui_settings_account", "content": "Account"}, {"id": "account_secede", "content": "To close"}, {"id": "connected_accounts", "content": "Related Account"}, {"id": "mainui_settings_bloom", "content": "Radan"}, {"id": "mainui_settings_blur", "content": "It is not clear"}, {"id": "mainui_settings_bloomdesc", "content": "Check the effects of comprehensive light."}, {"id": "mainui_settings_blurdesc", "content": "Mysterious effect of traffic performance management."}, {"id": "mainui_settings_fps_common", "content": "Normal FPS"}, {"id": "mainui_settings_fps_battle", "content": "FCS fight"}, {"id": "mainui_settings_renderingscale", "content": "Scaling"}, {"id": "mainui_settings_renderingscale_warning", "content": "This is advised to set to the computer.\nQuick screen width increases drainage and calories."}]}
+{
+  "dataList": [
+    {
+      "id": "mainui_settings_game",
+      "content": "How to play"
+    }, {
+      "id": "mainui_settings_graphic",
+      "content": "Charts"
+    }, {
+      "id": "mainui_settings_sound",
+      "content": "Control"
+    }, {
+      "id": "mainui_settings_notice",
+      "content": "Application"
+    }, {
+      "id": "mainui_settings_etc",
+      "content": "I am free"
+    }, {
+      "id": "mainui_settings_download",
+      "content": "Pick up"
+    }, {
+      "id": "mainui_settings_download_complete",
+      "content": "Completely download"
+    }, {
+      "id": "mainui_settings_video_resource",
+      "content": "Video sauce"
+    }, {
+      "id": "mainui_settings_audio_resource",
+      "content": "Sound"
+    }, {
+      "id": "mainui_settings_animation_resource",
+      "content": "Source"
+    }, {
+      "id": "mainui_settings_ego_presentation",
+      "content": "For example, animation"
+    }, {
+      "id": "mainui_settings_on",
+      "content": "Calculation"
+    }, {
+      "id": "mainui_settings_off",
+      "content": "Depart"
+    }, {
+      "id": "mainui_settings_play_once_per_day",
+      "content": "Once a day"
+    }, {
+      "id": "mainui_settings_resolution",
+      "content": "Go out"
+    }, {
+      "id": "mainui_settings_resolution_windowded",
+      "content": "Window"
+    }, {
+      "id": "mainui_settings_resolution_fullscreen",
+      "content": "Screen"
+    }, {
+      "id": "mainui_settings_texquality",
+      "content": "Quality"
+    }, {
+      "id": "mainui_settings_resolution_warning",
+      "content": "Excellent accuracy heats the device and can use extra energy."
+    }, {
+      "id": "mainui_settings_fps_warning",
+      "content": "Large frames heat the device and use additional energy."
+    }, {
+      "id": "mainui_settings_low",
+      "content": "Short"
+    }, {
+      "id": "mainui_settings_middle",
+      "content": "Headquarters"
+    }, {
+      "id": "mainui_settings_high",
+      "content": "Long"
+    }, {
+      "id": "mainui_settings_postprocessing",
+      "content": "Mail after processing"
+    }, {
+      "id": "mainui_settings_ppon",
+      "content": "Calculation"
+    }, {
+      "id": "mainui_settings_ppoff",
+      "content": "Depart"
+    }, {
+      "id": "mainui_settings_ppdesc",
+      "content": "Maintain the performance of camera show for the game."
+    }, {
+      "id": "mainui_settings_antialiasing",
+      "content": "Anteriaxdent"
+    }, {
+      "id": "mainui_settings_clear",
+      "content": "Restoration"
+    }, {
+      "id": "mainui_settings_clear_ask",
+      "content": "Standard Value Complete Reset?"
+    }, {
+      "id": "mainui_settings_render_acceleration",
+      "content": "Sensorhip"
+    }, {
+      "id": "mainui_settings_sound_master",
+      "content": "Class"
+    }, {
+      "id": "mainui_settings_sound_sfx",
+      "content": "Kajrava a."
+    }, {
+      "id": "mainui_settings_sound_voice",
+      "content": "Vote"
+    }, {
+      "id": "mainui_settings_sound_battle_announcer",
+      "content": "Like pronunciation"
+    }, {
+      "id": "mainui_settings_notice_enkephalin_full",
+      "content": "Recovery infeyphin"
+    }, {
+      "id": "mainui_settings_notice_ads",
+      "content": "Statements"
+    }, {
+      "id": "mainui_settings_notice_ads_night",
+      "content": "Description of the advertisement (evening)"
+    }, {
+      "id": "mainui_settings_change_launguage",
+      "content": "The tongue"
+    }, {
+      "id": "mainui_settings_change_launguage_ask",
+      "content": "After the game began, the language changed."
+    }, {
+      "id": "mainui_settings_faq_btn",
+      "content": "customer service"
+    }, {
+      "id": "connect_to_google_account",
+      "content": "Link to Google"
+    }, {
+      "id": "connect_to_apple_account",
+      "content": "Apple Link Friends"
+    }, {
+      "id": "explain_sucession",
+      "content": "If you finish your account, all games and purchases will be deleted."
+    }, {
+      "id": "explain_sucession_remain_days",
+      "content": "It brought you a 7-day limit."
+    }, {
+      "id": "explain_writing_code_for_sucession",
+      "content": "If you agree with the above sentence\nEnter the letter shown in the field."
+    }, {
+      "id": "explain_secession_status",
+      "content": "The account is currently in the present day.\nFor the remaining time: {0} By {1} P. {2} Without\nIf you are enrolled now, you can restore your account.\nDo you want to restore your account?"
+    }, {
+      "id": "recover",
+      "content": "Religion"
+    }, {
+      "id": "request_sucession",
+      "content": "The request will be full"
+    }, {
+      "id": "request_sucession_success",
+      "content": "Closed off."
+    }, {
+      "id": "mainui_settings_account",
+      "content": "Account"
+    }, {
+      "id": "account_secede",
+      "content": "To close"
+    }, {
+      "id": "connected_accounts",
+      "content": "Related Account"
+    }, {
+      "id": "mainui_settings_bloom",
+      "content": "Radan"
+    }, {
+      "id": "mainui_settings_blur",
+      "content": "It is not clear"
+    }, {
+      "id": "mainui_settings_bloomdesc",
+      "content": "Check the effects of comprehensive light."
+    }, {
+      "id": "mainui_settings_blurdesc",
+      "content": "Mysterious effect of traffic performance management."
+    }, {
+      "id": "mainui_settings_fps_common",
+      "content": "Normal FPS"
+    }, {
+      "id": "mainui_settings_fps_battle",
+      "content": "FCS fight"
+    }, {
+      "id": "mainui_settings_renderingscale",
+      "content": "Scaling"
+    }, {
+      "id": "mainui_settings_renderingscale_warning",
+      "content": "This is advised to set to the computer.\nQuick screen width increases drainage and calories."
+    }
+  ]
+}

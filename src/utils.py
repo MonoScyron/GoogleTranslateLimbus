@@ -84,25 +84,30 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
     if not any(char.isalpha() for char in text) or text[:2] == '//':
         return text
 
-    raw_split = re.split(r"(</?[a-z]*[=/].*?>|</?i>|</?b>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)", text)
+    raw_split = re.split(r"(\s*)(</?[a-z\s]*[=/].*?>|</?i>|</?b>|</?u>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)", text)
     translation = []
     for i, t in enumerate(raw_split):
         # skip empty
         if len(t.strip()) < 1:
+            translation.append(t)
             continue
         # skip text tags
         if t[0] == '<' and t[-1] == '>' and (
                 '=' in t or
                 '/' in t or
                 t == '<i>' or
+                t == '<u>' or
                 t == '<b>'
         ):
+            translation.append(t)
             continue
         # skip escape vars
         if t == '\n' or re.match(r'\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+]', t):
+            translation.append(t)
             continue
         # skip Clue for clue specifically
         if value == 'clue' and t == 'Clue':
+            translation.append(t)
             continue
 
         if t in cache:

@@ -1,1 +1,32 @@
-{"dataList": [{"id": "dungeon_battle_reward_case_format_cost_acquisition", "content": "to get{0} Cost"}, {"id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition", "content": "to get{0} Cost\n{1}Opportunity to achieve random levels{2} Or lower gift test determined at the beginning of dark glass"}, {"id": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition", "content": "to get{0} Cost\n{1}Opportunity to get a gift."}, {"id": "dungeon_battle_reward_case_format_random_gift_acquisition", "content": "Randomly{0} I love the arrival of Marty"}, {"id": "dungeon_battle_reward_case_format_chip_acquisition", "content": "High{0} Compared to the mirror"}, {"id": "dungeon_battle_reward_case_format_random_ego_resource_acquisition", "content": "For example, SOS +{1} Below{0} Position."}, {"id": "dungeon_battle_reward_case_format_least_ego_resource_acquisition", "content": "For example, SOS +{1} Below{0} Short"}, {"id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword", "content": "to get{0} Cost\n{1}Opportunity to achieve random levels{2} {3} For example, to arrive"}, {"id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword_none_or_random", "content": "to get{0} Cost\n{1}Opportunity to achieve random levels{2} For example, to arrive"}]}
+{
+  "dataList": [
+    {
+      "id": "dungeon_battle_reward_case_format_cost_acquisition",
+      "content": "to get {0} Cost"
+    }, {
+      "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition",
+      "content": "to get {0} Cost\n{1} Opportunity to achieve random levels {2} Or lower gift test determined at the beginning of dark glass"
+    }, {
+      "id": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition",
+      "content": "to get {0} Cost\n{1} Opportunity to get a gift."
+    }, {
+      "id": "dungeon_battle_reward_case_format_random_gift_acquisition",
+      "content": "Randomly {0} I love the arrival of Marty"
+    }, {
+      "id": "dungeon_battle_reward_case_format_chip_acquisition",
+      "content": "High {0} Compared to the mirror"
+    }, {
+      "id": "dungeon_battle_reward_case_format_random_ego_resource_acquisition",
+      "content": "For example, SOS + {1} Below {0} Position."
+    }, {
+      "id": "dungeon_battle_reward_case_format_least_ego_resource_acquisition",
+      "content": "For example, SOS + {1} Below {0} Short"
+    }, {
+      "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword",
+      "content": "to get {0} Cost\n{1} Opportunity to achieve random levels {2} {3} For example, to arrive"
+    }, {
+      "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword_none_or_random",
+      "content": "to get {0} Cost\n{1} Opportunity to achieve random levels {2} For example, to arrive"
+    }
+  ]
+}

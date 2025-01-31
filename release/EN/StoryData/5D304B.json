@@ -1,1 +1,30 @@
-{"dataList": [{"id": 0, "place": "Whales", "model": "다친이스마엘", "content": "You have a staff opportunity!"}, {"id": 1, "model": "다친이스마엘", "content": "See where they are ...!"}, {"id": 2, "model": "에이해브", "content": "Always be careful ... the palms are ancient corridor."}, {"id": 3, "model": "에이해브", "content": "I said I stole her choice."}, {"id": 4, "model": "에이해브", "content": "Because they cannot live in this world."}, {"id": 5, "model": "에이해브그림자", "content": "I saw the last sea of ​​my commands!"}]}
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Whales",
+      "model": "다친이스마엘",
+      "content": "You have a staff opportunity!"
+    }, {
+      "id": 1,
+      "model": "다친이스마엘",
+      "content": "See where they are ...!"
+    }, {
+      "id": 2,
+      "model": "에이해브",
+      "content": "Always be careful ... the palms are ancient corridor."
+    }, {
+      "id": 3,
+      "model": "에이해브",
+      "content": "I said I stole her choice."
+    }, {
+      "id": 4,
+      "model": "에이해브",
+      "content": "Because they cannot live in this world."
+    }, {
+      "id": 5,
+      "model": "에이해브그림자",
+      "content": "I saw the last sea of ​​my commands!"
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"dataList": [{"id": 815901, "name": "Resistance", "desc": "If it is not a device or broken part, reduce the multiplication of 5 mountains."}, {"id": 816001, "name": "Resistance", "desc": "50% less unless the equipment or part damaged[Burst] Epidemic"}, {"id": 816501, "name": "He was not obstruction", "desc": "Less than 65% HP: 1 1[AttackUp] 1[TakeHpHealIncrease] Vibushhols\nLess than 40% HP: 1[AttackUp] 1[TakeHpHealIncrease] To use\nAt least until it becomes active, it is maintained after implementation.", "summary": "Adapt to the influences of conditional conditions."}, {"id": 816502, "name": "Anger", "desc": "After winning the first place and repair 10%, anger was damaged."}, {"id": 816503, "name": "Manual", "desc": "At the time of killing, brief and part of the 200 Horse Power.\nGet 1[Agility]Three, three[DefenseUp]There is no way[AttackUp] The next line."}, {"id": 816504, "name": "Symptoms", "desc": "Line[AaCfPbBe]"}, {"id": 816401, "name": "Selfish", "desc": "All technologies are assigned in the heidi beats.\nIf hedrifel died, the appointment will win."}, {"id": 816402, "name": "Explosives", "desc": "The result is \"a blast\" of this unit."}, {"id": 816403, "name": "Deeper", "desc": "If the \"the closest relationship of the closest relationship before prove the device are more effective than the effect 2[AaCfPbBd] There are two turnover and new technical models.\nIf this effect does not end during this period, lose the result and get 6.[AttackUp] Blood[Agility] The next line."}, {"id": 816404, "name": "There is nothing", "desc": "There is nothing"}, {"id": 816405, "name": "Amazing", "desc": "If the device is not found in Helkliffe, the end of technology has declined to feel the explosion.\nWhen the device starts from scratch, you can lose blast at the end of the turn.\nEach partition does not lose three explosives."}, {"id": 816406, "name": "General", "desc": "Starting to rotate: Action is processed on 45 SPS.\nSpin: If you're subtle sp, if you find SP in 0.\nSpin: If this device is considered scary, it will be 2.[Enhancement] In the next step"}, {"id": 816505, "name": "give me", "desc": "1 Horse Power rolling is more than 40%.\nHe found a new table"}]}
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "name": "Resistance",
+      "desc": "If it is not a device or broken part, reduce the multiplication of 5 mountains."
+    }, {
+      "id": 816001,
+      "name": "Resistance",
+      "desc": "50% less unless the equipment or part damaged [Burst] Epidemic"
+    }, {
+      "id": 816501,
+      "name": "He was not obstruction",
+      "desc": "Less than 65% HP: 1 1 [AttackUp] 1 [TakeHpHealIncrease] Vibushhols\nLess than 40% HP: 1 [AttackUp] 1 [TakeHpHealIncrease] To use\nAt least until it becomes active, it is maintained after implementation.",
+      "summary": "Adapt to the influences of conditional conditions."
+    }, {
+      "id": 816502,
+      "name": "Anger",
+      "desc": "After winning the first place and repair 10%, anger was damaged."
+    }, {
+      "id": 816503,
+      "name": "Manual",
+      "desc": "At the time of killing, brief and part of the 200 Horse Power.\nGet 1 [Agility] Three, three [DefenseUp] There is no way [AttackUp] The next line."
+    }, {
+      "id": 816504,
+      "name": "Symptoms",
+      "desc": "Line [AaCfPbBe]"
+    }, {
+      "id": 816401,
+      "name": "Selfish",
+      "desc": "All technologies are assigned in the heidi beats.\nIf hedrifel died, the appointment will win."
+    }, {
+      "id": 816402,
+      "name": "Explosives",
+      "desc": "The result is \"a blast\" of this unit."
+    }, {
+      "id": 816403,
+      "name": "Deeper",
+      "desc": "If the \"the closest relationship of the closest relationship before prove the device are more effective than the effect 2 [AaCfPbBd] There are two turnover and new technical models.\nIf this effect does not end during this period, lose the result and get 6. [AttackUp] Blood [Agility] The next line."
+    }, {
+      "id": 816404,
+      "name": "There is nothing",
+      "desc": "There is nothing"
+    }, {
+      "id": 816405,
+      "name": "Amazing",
+      "desc": "If the device is not found in Helkliffe, the end of technology has declined to feel the explosion.\nWhen the device starts from scratch, you can lose blast at the end of the turn.\nEach partition does not lose three explosives."
+    }, {
+      "id": 816406,
+      "name": "General",
+      "desc": "Starting to rotate: Action is processed on 45 SPS.\nSpin: If you're subtle sp, if you find SP in 0.\nSpin: If this device is considered scary, it will be 2. [Enhancement] In the next step"
+    }, {
+      "id": 816505,
+      "name": "give me",
+      "desc": "1 Horse Power rolling is more than 40%.\nHe found a new table"
+    }
+  ]
+}

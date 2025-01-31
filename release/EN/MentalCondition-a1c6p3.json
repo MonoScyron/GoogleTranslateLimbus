@@ -1,1 +1,9 @@
-{"dataList": [{"id": "MentalConditionUnknown", "add": "Uncomfortable", "min": "Uncomfortable"}]}
+{
+  "dataList": [
+    {
+      "id": "MentalConditionUnknown",
+      "add": "Uncomfortable",
+      "min": "Uncomfortable"
+    }
+  ]
+}

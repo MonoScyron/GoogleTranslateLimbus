@@ -1,1 +1,23 @@
-{"dataList": [{"id": "stage_recommend_level_popup_battle_participant_desc", "content": "Apply average levels for current identification<color=#990000>To reduce</color> A proposal at this level.\nIt doesn't matter how the meeting starts?"}, {"id": "stage_recommend_level_popup_formation_desc", "content": "The current average tax level is as follows:<color=#990000>To reduce</color> A proposal at this level.\nIt doesn't matter how the meeting starts?"}, {"id": "stage_recommend_level_popup_dungeon_entrance_desc", "content": "The current average tax level is as follows:<color=#990000>To reduce</color> A proposal at this level.\nGo to the cabinet?"}, {"id": "current_average_level_and_recommend_level_format", "content": "August.{0}\n<color=#f8c200>Level reference:{1}</color>"}, {"id": "current_average_level_with_additional_val_and_recommend_level_format", "content": "August.{0} Were, and,,,,,,,,,,,,,,{1}Were, and,,,,,,,,,,,,,,\n<color=#f8c200>Level reference:{2}</color>"}, {"id": "stage_recommend_uptie_popup_dungeon_entrance_desc", "content": "<color=#f8c200>Recommended identifiers such as / gramspin<color=#990000>Letter:{0}</color> </color>"}]}
+{
+  "dataList": [
+    {
+      "id": "stage_recommend_level_popup_battle_participant_desc",
+      "content": "Apply average levels for current identification<color=#990000>To reduce</color> A proposal at this level.\nIt doesn't matter how the meeting starts?"
+    }, {
+      "id": "stage_recommend_level_popup_formation_desc",
+      "content": "The current average tax level is as follows:<color=#990000>To reduce</color> A proposal at this level.\nIt doesn't matter how the meeting starts?"
+    }, {
+      "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+      "content": "The current average tax level is as follows:<color=#990000>To reduce</color> A proposal at this level.\nGo to the cabinet?"
+    }, {
+      "id": "current_average_level_and_recommend_level_format",
+      "content": "August. {0}\n<color=#f8c200>Level reference: {1}</color>"
+    }, {
+      "id": "current_average_level_with_additional_val_and_recommend_level_format",
+      "content": "August. {0} Were, and,,,,,,,,,,,,,, {1} Were, and,,,,,,,,,,,,,,\n<color=#f8c200>Level reference: {2}</color>"
+    }, {
+      "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+      "content": "<color=#f8c200>Recommended identifiers such as / gramspin<color=#990000>Letter: {0}</color> </color>"
+    }
+  ]
+}

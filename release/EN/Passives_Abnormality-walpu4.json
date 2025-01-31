@@ -1,1 +1,33 @@
-{"dataList": [{"id": 836301, "name": "Black damage", "desc": "If the device is damaged, there will also be a loss to 1 to 3."}, {"id": 836401, "name": "Method", "desc": "The device works on a special automatic game."}, {"id": 836402, "name": "Method", "desc": "The device works on a special automatic game."}, {"id": 836403, "name": "Method", "desc": "The device works on a special automatic game."}, {"id": 836601, "name": "Provoke", "desc": "3 injuries to all enemies"}, {"id": 836302, "name": "To close", "desc": "The device works on a special automatic game."}, {"id": 836602, "name": "Famous", "desc": "Hands broke up to close some methods."}]}
+{
+  "dataList": [
+    {
+      "id": 836301,
+      "name": "Black damage",
+      "desc": "If the device is damaged, there will also be a loss to 1 to 3."
+    }, {
+      "id": 836401,
+      "name": "Method",
+      "desc": "The device works on a special automatic game."
+    }, {
+      "id": 836402,
+      "name": "Method",
+      "desc": "The device works on a special automatic game."
+    }, {
+      "id": 836403,
+      "name": "Method",
+      "desc": "The device works on a special automatic game."
+    }, {
+      "id": 836601,
+      "name": "Provoke",
+      "desc": "3 injuries to all enemies"
+    }, {
+      "id": 836302,
+      "name": "To close",
+      "desc": "The device works on a special automatic game."
+    }, {
+      "id": 836602,
+      "name": "Famous",
+      "desc": "Hands broke up to close some methods."
+    }
+  ]
+}

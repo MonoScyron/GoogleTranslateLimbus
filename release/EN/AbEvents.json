@@ -165,7 +165,7 @@
       "prevDesc": "",
       "behaveDesc": "Who can open the door?",
       "successDesc": [
-        "{0} Pay the door with all the power.\n\n\"It's good to drink milk ...\"\n\nThere is a small door, but I don't want to give up here.\n\n\"Okay, I did enough ...\"\n\nBut I will try to stop sinners{0}He still encourages the door and focus completely.\n\nAfter a while ...\n\n\"There!\"\n\nThe door opened.\nHe was hidden behind him."
+        "{0} Pay the door with all the power.\n\n\"It's good to drink milk ...\"\n\nThere is a small door, but I don't want to give up here.\n\n\"Okay, I did enough ...\"\n\nBut I will try to stop sinners {0} He still encourages the door and focus completely.\n\nAfter a while ...\n\n\"There!\"\n\nThe door opened.\nHe was hidden behind him."
       ],
       "failureDesc": [
         "{0} Pay the door with all the power.\n\n\"... it doesn't work.\"\n\nThis way the door is not thrown.\n\nYou want to know outside the door ...\nThere is no option right now."
@@ -177,7 +177,7 @@
       "prevDesc": "",
       "behaveDesc": "The perfect sin is very good ...",
       "successDesc": [
-        "{0} Look around.\n\nWere, and,,,,,,,,,,,,,,\n\nKnowing that I was on the wall\n{0}Leave Lima to win.\n\n\"HMM?\"\n\nEat the door.\n\nOf course, the door is brick.\n{0}He clearly said he returned to his place and opened it.\n\nThere is a hidden road behind the door."
+        "{0} Look around.\n\nWere, and,,,,,,,,,,,,,,\n\nKnowing that I was on the wall\n{0} Leave Lima to win.\n\n\"HMM?\"\n\nEat the door.\n\nOf course, the door is brick.\n{0} He clearly said he returned to his place and opened it.\n\nThere is a hidden road behind the door."
       ],
       "failureDesc": [
         "{0} Look around.\n\nBut I had nothing to do.\n\n\"Oh good ...\"\n\nI have no other way to leave the room."
@@ -217,7 +217,7 @@
         "But this is the first and most important battle.\n\n\"Thunder!\n\nThe syllair holled off, locked the code on the handle and fails it to the side.\n\nHe stopped him and was confused due to the attack while the investigation.\nNow we can handle the competitive design process by the main front."
       ],
       "failureDesc": [
-        "Ask{0}He refused to attack, but ...\nThe wonderful screen cannot be closed.\n\nTo close{0}The previous legs now.\nWe must fight this harm."
+        "Ask {0} He refused to attack, but ...\nThe wonderful screen cannot be closed.\n\nTo close {0} The previous legs now.\nWe must fight this harm."
       ]
     }, {
       "id": 1030601,
@@ -226,11 +226,11 @@
       "prevDesc": "",
       "behaveDesc": "Should you enter any elements?",
       "successDesc": [
-        "{0}Sigil was found to be leaning in a hallway.\n\nIt is not able to attack the body, but the most important thing is to prove the internet.\n\nI pulled out the bomb from the room and started the pump in front of you."
+        "{0} Sigil was found to be leaning in a hallway.\n\nIt is not able to attack the body, but the most important thing is to prove the internet.\n\nI pulled out the bomb from the room and started the pump in front of you."
       ],
       "failureDesc": [
-        "{0}Weapons and loss is calculated, but at all he has nothing to find.\n\n\"HIRK ... fun ...\"\n\nEvery time you find your body{0}To repeat\n... it is not useful.\n\nExplain{0}If they will give everything in their power, we will get out of the room.\nWe lost something and found something.",
-        "{0}Weapons and loss is calculated, but at all he has nothing to find.\n\n\"HIRK ... fun ...\"\n\nEvery time you find your body{0}To repeat\n... it is not useful.\n\nPlease explain{0}If they will give everything in their power, we will get out of the room.\nWe lost something and found something."
+        "{0} Weapons and loss is calculated, but at all he has nothing to find.\n\n\"HIRK ... fun ...\"\n\nEvery time you find your body {0} To repeat\n... it is not useful.\n\nExplain{0} If they will give everything in their power, we will get out of the room.\nWe lost something and found something.",
+        "{0} Weapons and loss is calculated, but at all he has nothing to find.\n\n\"HIRK ... fun ...\"\n\nEvery time you find your body {0} To repeat\n... it is not useful.\n\nPlease explain{0} If they will give everything in their power, we will get out of the room.\nWe lost something and found something."
       ]
     }, {
       "id": 1030801,
@@ -239,10 +239,10 @@
       "prevDesc": "",
       "behaveDesc": "Who can be shipped on the road?",
       "successDesc": [
-        "{0}He ran away with hot water from sandal legs.\nEntices from the fire to turn in turn.\n\nDiving dive with pain,{0}He was successful on the other side ...\n\nFor the altar and red handle.\nwhen?{0}Pull the handle and take the way to a quick way.\nWe can walk safely."
+        "{0} He ran away with hot water from sandal legs.\nEntices from the fire to turn in turn.\n\nDiving dive with pain, {0} He was successful on the other side ...\n\nFor the altar and red handle.\nwhen? {0} Pull the handle and take the way to a quick way.\nWe can walk safely."
       ],
       "failureDesc": [
-        "{0}He ran away with hot water from sandal legs.\nEntices from the fire to turn in turn.\n\n{0}The agent is almost painful ...\n\nBut they can no longer deal with them and can't tackle with.\nIt looks like we didn't take this way.\nWe need to follow the other moment and learn a lot.",
+        "{0} He ran away with hot water from sandal legs.\nEntices from the fire to turn in turn.\n\n{0} The agent is almost painful ...\n\nBut they can no longer deal with them and can't tackle with.\nIt looks like we didn't take this way.\nWe need to follow the other moment and learn a lot.",
         "Full acute:\n\n\"I don't take my feet!\""
       ]
     }, {
@@ -252,10 +252,10 @@
       "prevDesc": "",
       "behaveDesc": "what's wrong?",
       "successDesc": [
-        "{0}Sit at the chair.\n... a terrible scream filled the room.\nTears are running continuously{0}Focus.\n\nImmediately was full of vicious tears.\nWhen I was on the altar, the altar fell and opened the baggage.\n\n\"Smile, height ... for hell.\"\n\n{0}The snow is shaking.\nDon't ask what they see.\n\n\"... is a plate out of the door.\"\n\nWe turned out of the room with Blue signal."
+        "{0} Sit at the chair.\n... a terrible scream filled the room.\nTears are running continuously {0} Focus.\n\nImmediately was full of vicious tears.\nWhen I was on the altar, the altar fell and opened the baggage.\n\n\"Smile, height ... for hell.\"\n\n{0} The snow is shaking.\nDon't ask what they see.\n\n\"... is a plate out of the door.\"\n\nWe turned out of the room with Blue signal."
       ],
       "failureDesc": [
-        "{0}Sit at the chair.\n... a terrible scream filled the room.\nTears are running continuously{0}Focus.\n\nBut filling the morale is not enough.\nThe sinners wonder that tears are fighting for happiness.\nHelp me get out of the room{0}Her legs are painful."
+        "{0} Sit at the chair.\n... a terrible scream filled the room.\nTears are running continuously {0} Focus.\n\nBut filling the morale is not enough.\nThe sinners wonder that tears are fighting for happiness.\nHelp me get out of the room {0} Her legs are painful."
       ]
     }, {
       "id": 1031201,
@@ -264,10 +264,10 @@
       "prevDesc": "",
       "behaveDesc": "How should you send it to your nails?",
       "successDesc": [
-        "{0}It's on a loaded top device.\nWhen sin inspires the eyes, it slowly moved the head.\n\n... Corridor is screaming.\n\nThe door will open early.\nSigil is waiting for this.\nWe took the cigar and sat down in front of the mischievous{0}Out of the crossroads."
+        "{0} It's on a loaded top device.\nWhen sin inspires the eyes, it slowly moved the head.\n\n... Corridor is screaming.\n\nThe door will open early.\nSigil is waiting for this.\nWe took the cigar and sat down in front of the mischievous {0} Out of the crossroads."
       ],
       "failureDesc": [
-        "{0}It's on a loaded top device.\nWhen sin inspires the eyes, it slowly moved the head.\n\n... Corridor is screaming.\n\nBut this is not the answer.\nPinners do not have enough problems?\nWe guarantee this{0}In most cases, there is a understanding, but the door is not open yet."
+        "{0} It's on a loaded top device.\nWhen sin inspires the eyes, it slowly moved the head.\n\n... Corridor is screaming.\n\nBut this is not the answer.\nPinners do not have enough problems?\nWe guarantee this {0} In most cases, there is a understanding, but the door is not open yet."
       ]
     }, {
       "id": 1031401,
@@ -276,10 +276,10 @@
       "prevDesc": "",
       "behaveDesc": "Who is the best speaker?",
       "successDesc": [
-        "{0}Call to investigate.\n\n\"... You said well. His words were reliable.\n\nAfter a small talk, I asked him to open the door."
+        "{0} Call to investigate.\n\n\"... You said well. His words were reliable.\n\nAfter a small talk, I asked him to open the door."
       ],
       "failureDesc": [
-        "{0}Call to investigate.\n\nWere, and,,,,,,,,,,,,,,\n\nBut the question is quiet.\n\n\"... rejected me.\"\n\nWe are rejected the time.\n{0}After all, he had to get back to us.\n... I want to talk to the throat."
+        "{0} Call to investigate.\n\nWere, and,,,,,,,,,,,,,,\n\nBut the question is quiet.\n\n\"... rejected me.\"\n\nWe are rejected the time.\n{0} After all, he had to get back to us.\n... I want to talk to the throat."
       ]
     }, {
       "id": 103003,
@@ -287,8 +287,8 @@
       "eventDesc": "Read the inscription on the closed door.\n\nProve your fear and fear\nTears",
       "prevDesc": "",
       "behaveDesc": "Who can destroy our tears?",
-      "successDesc": ["{0}Tears are filled with courage.\nPedestrians fell on the floor and opened the door."],
-      "failureDesc": ["{0}The container cannot be charged.\nYou need to open the door with each individual group."]
+      "successDesc": ["{0} Tears are filled with courage.\nPedestrians fell on the floor and opened the door."],
+      "failureDesc": ["{0} The container cannot be charged.\nYou need to open the door with each individual group."]
     }, {
       "id": 103004,
       "title": "00 10304 three: 00",
@@ -296,10 +296,10 @@
       "prevDesc": "",
       "behaveDesc": "Who can leave this heating channel?",
       "successDesc": [
-        "{0}I went without shoes along the way.\nWhen the other sinner was successful, the plate was reversed at the door.\n\nwhen?{0}I used to cool.\nWe can walk safely."
+        "{0} I went without shoes along the way.\nWhen the other sinner was successful, the plate was reversed at the door.\n\nwhen? {0} I used to cool.\nWe can walk safely."
       ],
       "failureDesc": [
-        "{0}Lie down without sandal on the road.\nBut sinners did not return to pick up their calories.\nWe are getting across the road with the Sarj."
+        "{0} Lie down without sandal on the road.\nBut sinners did not return to pick up their calories.\nWe are getting across the road with the Sarj."
       ]
     }, {
       "id": 103005,
@@ -308,10 +308,10 @@
       "prevDesc": "",
       "behaveDesc": "Who is the best repentance?",
       "successDesc": [
-        "{0}It's on a loaded top device.\nLabi is hurt by crying.\n\nThe door will open early.\nAttendance{0}Remove emotional items."
+        "{0} It's on a loaded top device.\nLabi is hurt by crying.\n\nThe door will open early.\nAttendance {0} Remove emotional items."
       ],
       "failureDesc": [
-        "{0}It's on a loaded top device.\nLobby cry.\nBut this is not the answer.\n\nWe came out after the test after the test."
+        "{0} It's on a loaded top device.\nLobby cry.\nBut this is not the answer.\n\nWe came out after the test after the test."
       ]
     }, {
       "id": 10300601,
@@ -319,9 +319,9 @@
       "eventDesc": "Let's talk about things first.",
       "prevDesc": "",
       "behaveDesc": "What is wrong with the question?",
-      "successDesc": ["{0}I called the check and gave the wisdom.\nAfter discussing, they opened our way."],
+      "successDesc": ["{0} I called the check and gave the wisdom.\nAfter discussing, they opened our way."],
       "failureDesc": [
-        "{0}Call the question to try to communicate.\nAfter a little religion, we met sinners.\n\nLooks stronger than a knife pen."
+        "{0} Call the question to try to communicate.\nAfter a little religion, we met sinners.\n\nLooks stronger than a knife pen."
       ]
     }, {
       "id": 802501,
@@ -364,10 +364,10 @@
       "prevDesc": "Very tired.",
       "behaveDesc": "Who can take this opportunity?",
       "successDesc": [
-        "{0}They breathe her breathing.\n\nHe was afraid immediately.\n{0}I did not get the opportunity to publish the crisp opportunity.\n\nVery effective.\nMaybe I?"
+        "{0} They breathe her breathing.\n\nHe was afraid immediately.\n{0} I did not get the opportunity to publish the crisp opportunity.\n\nVery effective.\nMaybe I?"
       ],
       "failureDesc": [
-        "{0}They breathe her breathing.\n\n\"Sat Sri Akal.\"\n\nFor unknown reasons{0}He is straightforward.\n\nHas his meat test or chrome canceled?\n\nThe children did not try to withdraw their hands before returning.\n\nYou can be something there."
+        "{0} They breathe her breathing.\n\n\"Sat Sri Akal.\"\n\nFor unknown reasons {0} He is straightforward.\n\nHas his meat test or chrome canceled?\n\nThe children did not try to withdraw their hands before returning.\n\nYou can be something there."
       ]
     }, {
       "id": 803101,
@@ -376,10 +376,10 @@
       "eventDesc": "His plane was full of red liquid.\nIt seems always starting.\nIf the door is cut, a bubble can be a bubble.",
       "behaveDesc": "Who can be around the neck?",
       "successDesc": [
-        "{0}Go quickly and look at your neck.\nThere is no way to load the sore throat.\nAfter immediate control{0}It is used to reduce the stomach weapon.\nThe liquid fell from the ground and lost everything made in print."
+        "{0} Go quickly and look at your neck.\nThere is no way to load the sore throat.\nAfter immediate control {0} It is used to reduce the stomach weapon.\nThe liquid fell from the ground and lost everything made in print."
       ],
       "failureDesc": [
-        "{0}Rotate early and cut the neck.\nHowever, the process of burning bleeding does not weaken the weak throat.\n\n\"Wrong.\"\n\nPap has created opinions, but what did you do?\nThere is only one opportunity."
+        "{0} Rotate early and cut the neck.\nHowever, the process of burning bleeding does not weaken the weak throat.\n\n\"Wrong.\"\n\nPap has created opinions, but what did you do?\nThere is only one opportunity."
       ]
     }, {
       "id": 803201,
@@ -388,10 +388,10 @@
       "eventDesc": "Light between work.\nIf you have no problem, the situation will be bad.",
       "behaveDesc": "Who do the terrible niques come?",
       "successDesc": [
-        "{0}Put the weapons on the ground.\n\"Is your heart bursting?\"\nSomeone found him, but he resolved work for evidence.\nSeriously absorb the earth according to the accused weapon.\n\"... then.\"\nIn fact, interesting matches will be jumping from public businesses near the arms.\nThe joke is that the king touches the power on the road."
+        "{0} Put the weapons on the ground.\n\"Is your heart bursting?\"\nSomeone found him, but he resolved work for evidence.\nSeriously absorb the earth according to the accused weapon.\n\"... then.\"\nIn fact, interesting matches will be jumping from public businesses near the arms.\nThe joke is that the king touches the power on the road."
       ],
       "failureDesc": [
-        "{0}Put the weapons on the ground.\nThe room is trying to build in the country.\n\"... very short. He will not be killed now.\nIn fact, heavy electric bolts did not hesitate to go to the column.\n\"Oi, see ... seriously?\"\nUnfortunately, red electricity has become a light in lutin juvenile."
+        "{0} Put the weapons on the ground.\nThe room is trying to build in the country.\n\"... very short. He will not be killed now.\nIn fact, heavy electric bolts did not hesitate to go to the column.\n\"Oi, see ... seriously?\"\nUnfortunately, red electricity has become a light in lutin juvenile."
       ]
     }, {
       "id": 851001,
@@ -400,10 +400,10 @@
       "eventDesc": "You want to remove his plane for a long time.\nTwo good eyes with blue tears or round eyes.\nWhen you open the mouth, the hole is full of a dark sky.\nIt's better to get rid of the air.",
       "behaveDesc": "Who prevents your strong opposition?",
       "successDesc": [
-        "\"I'm a little hard ...\"\n\n{0}The snake was inspired by the swollen sound.\n\n\"Then PF!\"\n\nSound of a soluble cave.\n\n\"All employees ...\"\n\nThis is a critical shape and it is a riding thick.\n\n\"How sad this is.\"\n\nYou can skip bad taste, but still likely."
+        "\"I'm a little hard ...\"\n\n{0} The snake was inspired by the swollen sound.\n\n\"Then PF!\"\n\nSound of a soluble cave.\n\n\"All employees ...\"\n\nThis is a critical shape and it is a riding thick.\n\n\"How sad this is.\"\n\nYou can skip bad taste, but still likely."
       ],
       "failureDesc": [
-        "{0}He went on the frog.\n\n\"Crocodile!\"\n\nThe sinners can be a little aware.\n\nwhen?{0}He went with the frog, opened the lips and started making a beautiful sad noise.\n\n\"C is ... coke and ... crying and ... crying ...\n\n{0}Consciousness is associated with the sun.\nNow they are crying like frogs."
+        "{0} He went on the frog.\n\n\"Crocodile!\"\n\nThe sinners can be a little aware.\n\nwhen? {0} He went with the frog, opened the lips and started making a beautiful sad noise.\n\n\"C is ... coke and ... crying and ... crying ...\n\n{0} Consciousness is associated with the sun.\nNow they are crying like frogs."
       ]
     }, {
       "id": 851901,
@@ -412,10 +412,10 @@
       "eventDesc": "Machine toy represents the thread of the floor.\nThen this star is dug under the roots.\nDo you want to get electricity from the country?\n\nAndroid and Print:\n\n<Work together! \"\n\n\"... a bargain, you don't do anything at the time of shipping.\"\n\nSinful doesn't think about listening to their requests.",
       "behaveDesc": "Who can destroy and fill?",
       "successDesc": [
-        "{0}It runs faster.\nMachine toy is a good opportunity.\nThe transparent sounds in this field quickly.\nHe attacked strong attacks and broke the city.\n\n<Cook Device ... CSD ... ppra ... @%.\n\nEach message is complete before the station is closed.\nWhat is perfection?"
+        "{0} It runs faster.\nMachine toy is a good opportunity.\nThe transparent sounds in this field quickly.\nHe attacked strong attacks and broke the city.\n\n<Cook Device ... CSD ... ppra ... @%.\n\nEach message is complete before the station is closed.\nWhat is perfection?"
       ],
       "failureDesc": [
-        "{0}It runs faster.\nMachine toy is a good opportunity.\nUnfortunately ...\n\n\"Person!\"\n\nWarning to others,{0}He hit the star with a toy on the floor.\nShould provide the results without touching the outdoor care results.\n{0}Close heavy power.\nFortunately, the effect is not fatal, but the appliance is taken back from the ground.\nGreat.\nIs it always according to the plan?"
+        "{0} It runs faster.\nMachine toy is a good opportunity.\nUnfortunately ...\n\n\"Person!\"\n\nWarning to others, {0} He hit the star with a toy on the floor.\nShould provide the results without touching the outdoor care results.\n{0} Close heavy power.\nFortunately, the effect is not fatal, but the appliance is taken back from the ground.\nGreat.\nIs it always according to the plan?"
       ]
     }, {
       "id": 852701,
@@ -424,10 +424,10 @@
       "eventDesc": "Only peace seems to be made.\nHe accepts all suffering and fear.\nNot everyone.\nThe desire to lose fighting is useful.\nOn the front page, no one can completely hide the suffering of others.\nBefore someone is wrong and before using the attachment, you need to break idols.",
       "behaveDesc": "Who can violate this fraud?",
       "successDesc": [
-        "{0}Take your head\nWhen he saw her back, everyone hit the law.\n{0}This means that the room is the result of the brain cleaning.\nYou don't have to explain people's opinion and you think it's true.\nA huge attack statue is broken and everyone has been returned to his consciousness."
+        "{0} Take your head\nWhen he saw her back, everyone hit the law.\n{0} This means that the room is the result of the brain cleaning.\nYou don't have to explain people's opinion and you think it's true.\nA huge attack statue is broken and everyone has been returned to his consciousness."
       ],
       "failureDesc": [
-        "{0}I'll pull my foot like a stone.\nThey can't stop sinners because they are busy and admire.\n{0}Some entertainment has been completed on the road.\nListen to the terrible words, this is honesty.\n{0}Belief that their lives have become a light.\nThe wrong body should update its power and interest.\nNow ...\nTime is over."
+        "{0} I'll pull my foot like a stone.\nThey can't stop sinners because they are busy and admire.\n{0} Some entertainment has been completed on the road.\nListen to the terrible words, this is honesty.\n{0} Belief that their lives have become a light.\nThe wrong body should update its power and interest.\nNow ...\nTime is over."
       ]
     }, {
       "id": 91030201,
@@ -435,10 +435,10 @@
       "eventDesc": "Chicken is similar to chicken girls.\nSomeone should do it.",
       "behaveDesc": "Who has on this job?",
       "successDesc": [
-        "{0}We are not ready to send a large device.\nHmmm ...\nIs a sinner behind the chicken.\nStart sewing 1 minute in the standard route.\n\"How.\"\nFortunately, the needle pain is not like this.\nJumped after sewing{0}Thank you\n\"Little!\"\n{0}This is good confusion."
+        "{0} We are not ready to send a large device.\nHmmm ...\nIs a sinner behind the chicken.\nStart sewing 1 minute in the standard route.\n\"How.\"\nFortunately, the needle pain is not like this.\nJumped after sewing {0} Thank you\n\"Little!\"\n{0} This is good confusion."
       ],
       "failureDesc": [
-        "{0}I believe\n\"Look ...\"\nIs a sinner behind the chicken.\nDespite their early faith, his wrestlers gradually became a graphic user interface.\n\"Holiday!\"\nAfter this{0}They can remove and push the chickens.\n\"... Why are you doing first?\"\nI crush the stitch again and then saw it.\n{0}To leave."
+        "{0} I believe\n\"Look ...\"\nIs a sinner behind the chicken.\nDespite their early faith, his wrestlers gradually became a graphic user interface.\n\"Holiday!\"\nAfter this {0} They can remove and push the chickens.\n\"... Why are you doing first?\"\nI crush the stitch again and then saw it.\n{0} To leave."
       ]
     }, {
       "id": 804501,
@@ -447,10 +447,10 @@
       "eventDesc": "The body begins in the middle of the fanida.\n\"They're gathered now.\"\nAs he said that the sinner had blowing lots of communication in the middle of the sinner.\nPerhaps it's good to stop it.",
       "behaveDesc": "Who can stop it?",
       "successDesc": [
-        "[{0}]Click on the Ditsipidia.\n\"Oh!\"\nOpen a sharp shield.\nCan you really live in this century?\nThis should be a very few chance."
+        "[{0}] Click on the Ditsipidia.\n\"Oh!\"\nOpen a sharp shield.\nCan you really live in this century?\nThis should be a very few chance."
       ],
       "failureDesc": [
-        "[{0}]Click on the Ditsipidia.\nUnbelievable ...\nCan the energy of the warehouse look like?\nDrilling from the heart and percent of the percentage.\nIt should be[{0}]Bold.\nLuckily, I made a mistake and a loss ...\nBut the Senate was angry.\nIf you wake up, you have a good idea."
+        "[{0}] Click on the Ditsipidia.\nUnbelievable ...\nCan the energy of the warehouse look like?\nDrilling from the heart and percent of the percentage.\nIt should be [{0}] Bold.\nLuckily, I made a mistake and a loss ...\nBut the Senate was angry.\nIf you wake up, you have a good idea."
       ]
     }, {
       "id": 804601,
@@ -459,10 +459,10 @@
       "eventDesc": "Pongigi stood around the old dolls.\nOlder, fatigue and fatigue canopy.\nThe umbrella knows to protect the umbrella from the wings, but the effect is not good.\nWere, and,,,,,,,,,,,,,,\nThen he slowed down.\nFox newss that sinners are coming, but he is feeling comfortable from anger or prosperity.\nPlace all stable places and keep calm.",
       "behaveDesc": "Who says the destruction?",
       "successDesc": [
-        "[{0}]Go to the lis before changing under tired umbrella.\nThere is an umbrella, but still can rain.\nRegular under the bouttone in the air and wet air.\nWere, and,,,,,,,,,,,,,,\nBut not[{0}]He caught his head and smiled looking deep into the sky.\nThe sinner knows that the rain will be a few days later."
+        "[{0}] Go to the lis before changing under tired umbrella.\nThere is an umbrella, but still can rain.\nRegular under the bouttone in the air and wet air.\nWere, and,,,,,,,,,,,,,,\nBut not [{0}] He caught his head and smiled looking deep into the sky.\nThe sinner knows that the rain will be a few days later."
       ],
       "failureDesc": [
-        "[{0}]Go to the lis before changing under tired umbrella.\nThere is an umbrella, but still can rain.\nRegular under the bouttone in the air and wet air.\n\". Subject.\"\n[{0}]It is in the fire.\nIt's easy to take care of the distance.\nBut these people are wet because of the fear of darkness and darkness."
+        "[{0}] Go to the lis before changing under tired umbrella.\nThere is an umbrella, but still can rain.\nRegular under the bouttone in the air and wet air.\n\". Subject.\"\n[{0}] It is in the fire.\nIt's easy to take care of the distance.\nBut these people are wet because of the fear of darkness and darkness."
       ]
     }, {
       "id": 804701,
@@ -471,10 +471,10 @@
       "eventDesc": "Wood doll stops and nothing happens.\nWhen I reviewed the Tatbergun, his head fell ...\nThey may be able to see sinners.\nWere, and,,,,,,,,,,,,,,\nYes, criminal shoulders.\nThey forgot to fight a moment.\nThen they started remove the body theater.\nWhat can I write?",
       "behaveDesc": "Who will return after his visit?",
       "successDesc": [
-        "[{0}]Thai stands separately in a wooden doll.\nIt looks calm.\nDoes it authorize sinners?\nI returned to the place of Tat Islands with patience.\n[{0}]Summer on hands ...\nHe felt to empty the magnet and came into the data toy.\n\"So no cry ...\"\nAfter this sentence[{0}]Go back to their position."
+        "[{0}] Thai stands separately in a wooden doll.\nIt looks calm.\nDoes it authorize sinners?\nI returned to the place of Tat Islands with patience.\n[{0}] Summer on hands ...\nHe felt to empty the magnet and came into the data toy.\n\"So no cry ...\"\nAfter this sentence [{0}] Go back to their position."
       ],
       "failureDesc": [
-        "[{0}]Thai stands separately in a wooden doll.\nWere, and,,,,,,,,,,,,,,\nSerear, and then reach your hand[{0}]Intersection\nI think it's tykvan[{0}]Pak scycarro,\n\"Sat Sri Akal!\"\nThe tree turned and touched the body of sin.\nAlways[{0}]After melting, he melted at a stage.\n... Is this treatment?"
+        "[{0}] Thai stands separately in a wooden doll.\nWere, and,,,,,,,,,,,,,,\nSerear, and then reach your hand [{0}] Intersection\nI think it's tykvan[{0}] Pak scycarro,\n\"Sat Sri Akal!\"\nThe tree turned and touched the body of sin.\nAlway1 [{0}] After melting, he melted at a stage.\n... Is this treatment?"
       ]
     }, {
       "id": 804801,
@@ -483,10 +483,10 @@
       "eventDesc": "God smiled with happiness.\n\"Continue ... I can't see more.\"\nYou can also hear a little IC.\n\"I believe I have very small and shortions.\"\nThen the fairy story puts a cup in his mouth.\n\"Hey! Doubt?\"\n\"We should have black frustration!\"\n... he has stopped drinking a villa in a cup.",
       "behaveDesc": "Who Takes a Glass of Jehovah?",
       "successDesc": [
-        "[{0}]He was standing in front of the mountain.\n\"Hey. Although you have respect, I can't share with you.\"\nUnnecessary[{0}]He just saw a virtual story.\n\"... goal.\"\nHe is completely calm and not moving the muscles.\n\"... good, good! I can do a little ... a little.\"\n[{0}]Take your head\n\"Do you say to give me all?\"\nPPI.\n\"You ...\"\n\"Fu, ha,\n[{0}]When he claimed to be a cup, he finally smiled."
+        "[{0}] He was standing in front of the mountain.\n\"Hey. Although you have respect, I can't share with you.\"\nUnnecessary [{0}] He just saw a virtual story.\n\"... goal.\"\nHe is completely calm and not moving the muscles.\n\"... good, good! I can do a little ... a little.\"\n[{0}] Take your head\n\"Do you say to give me all?\"\nPPI.\n\"You ...\"\n\"Fu, ha,\n[{0}] When he claimed to be a cup, he finally smiled."
       ],
       "failureDesc": [
-        "[{0}]He was standing in front of the mountain.\n\"Hey. Although you have respect, I can't share with you.\"\nUnnecessary[{0}]He just saw a virtual story.\n\"... goal.\"\nHe is completely calm and not moving the muscles.\n\"... I stand, my answer will not change.\nBring the whole mirror in a smiling and the pound abdomen.\n\"I can't give you everything and how much I care for you?\"\nDefeat[{0}]Income."
+        "[{0}] He was standing in front of the mountain.\n\"Hey. Although you have respect, I can't share with you.\"\nUnnecessary [{0}] He just saw a virtual story.\n\"... goal.\"\nHe is completely calm and not moving the muscles.\n\"... I stand, my answer will not change.\nBring the whole mirror in a smiling and the pound abdomen.\n\"I can't give you everything and how much I care for you?\"\nDefeat [{0}] Income."
       ]
     }, {
       "id": 1040101,
@@ -495,10 +495,10 @@
       "eventDesc": "Good sinners can help you find it.",
       "behaveDesc": "Who is the most effective work?",
       "successDesc": [
-        "This is an injury[{0}]Hand during cooking.\nFortunately, we were able to find small owners.\n\"After trying this problem ...\"\nAt the end of the movement, there were more sinful abundance.\n... next time you have to leave the room."
+        "This is an injury [{0}] Hand during cooking.\nFortunately, we were able to find small owners.\n\"After trying this problem ...\"\nAt the end of the movement, there were more sinful abundance.\n... next time you have to leave the room."
       ],
       "failureDesc": [
-        "Fractures.More than expected.\nWere, and,,,,,,,,,,,,,,\nThis is an injury[{0}]Hand during cooking.\n\"I haven't seen anything.\"\nIt was useless after a few minutes.\nWere, and,,,,,,,,,,,,,,\nI think of a big mistake."
+        "Fractures.More than expected.\nWere, and,,,,,,,,,,,,,,\nThis is an injury [{0}] Hand during cooking.\n\"I haven't seen anything.\"\nIt was useless after a few minutes.\nWere, and,,,,,,,,,,,,,,\nI think of a big mistake."
       ]
     }, {
       "id": 1040301,
@@ -507,10 +507,10 @@
       "eventDesc": "Because we got the fitness gift\nMaybe we can get something here, it can help you find darkness.",
       "behaveDesc": "Who is the most effective work?\nSpend a comfortable time with a wonderful hand.",
       "successDesc": [
-        "\"Oh!\"\n[{0}]Touched the egg.\nHe soon became strong and turned into a rum.\n\"That is how it is.\"\n[{0}]It is tired, but it does not belong to the body we can see.\nWe left the jewelery."
+        "\"Oh!\"\n[{0}] Touched the egg.\nHe soon became strong and turned into a rum.\n\"That is how it is.\"\n[{0}] It is tired, but it does not belong to the body we can see.\nWe left the jewelery."
       ],
       "failureDesc": [
-        "\"Oh!\"\n[{0}]Touched the egg.\nBut the eggs were cutting down the dust.\n\"A ...\"\nAre still mystical injuries[{0}]Center.\nI am guilty and tired.\n... we left a comfortable room[{0}]Intersection"
+        "\"Oh!\"\n[{0}] Touched the egg.\nBut the eggs were cutting down the dust.\n\"A ...\"\nAre still mystical injuries [{0}] Center.\nI am guilty and tired.\n... we left a comfortable room [{0}] Intersection"
       ]
     }, {
       "id": 1040401,
@@ -519,9 +519,9 @@
       "eventDesc": "If you look closely, you can see something inside.\nPapers can be good with sharp sight.",
       "behaveDesc": "Who will see?",
       "successDesc": [
-        "[{0}]See the board of ministers.\nPapy found an hidden stairs.\nThe area was soon covered and the office disappeared."
+        "[{0}] See the board of ministers.\nPapy found an hidden stairs.\nThe area was soon covered and the office disappeared."
       ],
-      "failureDesc": ["[{0}]See the board of ministers.\nPerhaps sin has been so long and the office has disappeared."]
+      "failureDesc": ["[{0}] See the board of ministers.\nPerhaps sin has been so long and the office has disappeared."]
     }, {
       "id": 1040801,
       "title": "Try to say",
@@ -529,11 +529,11 @@
       "eventDesc": "All sinners are the window.",
       "behaveDesc": "Who says the data?",
       "successDesc": [
-        "<i>Also IC DV VV VTC Cap.\nOh!\nHot components:\nOption\n\nwhen?[{0}]He went to the window with the window, guilty and disappeared.\nThen this piece reduced.\nWe took him and left the room.</i>",
-        "<i>Also IC DV VV VTC Cap.\nOh!\nHot components:\nOption\n\nwhen?[{0}]He went to the window with the window, guilty and disappeared.\nThen this piece reduced.\nWe took him and left the room.</i>"
+        "<i>Also IC DV VV VTC Cap.\nOh!\nHot components:\nOption\n\nwhen? [{0}] He went to the window with the window, guilty and disappeared.\nThen this piece reduced.\nWe took him and left the room.</i>",
+        "<i>Also IC DV VV VTC Cap.\nOh!\nHot components:\nOption\n\nwhen? [{0}] He went to the window with the window, guilty and disappeared.\nThen this piece reduced.\nWe took him and left the room.</i>"
       ],
       "failureDesc": [
-        "Were, and,,,,,,,,,,,,,,\n[{0}]I tried to say, but this is not the answer.\nStatistics are not good and disappeared quickly.\n\"What do they like?\"\nWe gave up peace with a criminal."
+        "Were, and,,,,,,,,,,,,,,\n[{0}] I tried to say, but this is not the answer.\nStatistics are not good and disappeared quickly.\n\"What do they like?\"\nWe gave up peace with a criminal."
       ]
     }, {
       "id": 805002,
@@ -542,10 +542,10 @@
       "eventDesc": "",
       "behaveDesc": "Do you want to stop?",
       "successDesc": [
-        "[{0}]Stop the attack.\n\n\"Eat that ... eat.\"\n\nThe hills are confused with the production of arms.\nCold anger happened under her tragic smile."
+        "[{0}] Stop the attack.\n\n\"Eat that ... eat.\"\n\nThe hills are confused with the production of arms.\nCold anger happened under her tragic smile."
       ],
       "failureDesc": [
-        "[{0}]I am trying to keep the mountain, but unfortunately ...\n\n\"Yes, you must do all kinds of garbage.\"\n\nThis attack can be stronger than the estimated value.\n\n\"Eat that ... eat.\"\n\"Do you like your responsibility for seeds?\"\n\nAt the spot, smile is a kind of cold anger."
+        "[{0}] I am trying to keep the mountain, but unfortunately ...\n\n\"Yes, you must do all kinds of garbage.\"\n\nThis attack can be stronger than the estimated value.\n\n\"Eat that ... eat.\"\n\"Do you like your responsibility for seeds?\"\n\nAt the spot, smile is a kind of cold anger."
       ]
     }, {
       "id": 805004,
@@ -554,10 +554,10 @@
       "eventDesc": "",
       "behaveDesc": "Has the mountain re-stopped?",
       "successDesc": [
-        "[{0}]When the weapon works in the mountains, I am interested.\n\n\"Kilograms ...\"\n\nThe attack was successful.\nDid not appear.\n\n\"I know where you are ...\"\n\n\"Then I have to observe everyone and tell the ideal for everyone.\""
+        "[{0}] When the weapon works in the mountains, I am interested.\n\n\"Kilograms ...\"\n\nThe attack was successful.\nDid not appear.\n\n\"I know where you are ...\"\n\n\"Then I have to observe everyone and tell the ideal for everyone.\""
       ],
       "failureDesc": [
-        "{0}]When the weapon works in the mountains, I am interested.\n\n\"It has been closed.\"\n\nBut it feels that the emptiness has saved him.\nHe killed the wrong attack.\n\n\"Yes, I know where you are ...\"\n\n\"Don't give me the choice. Refuse everyone to wonderful claims."
+        "{0}] When the weapon works in the mountains, I am interested.\n\n\"It has been closed.\"\n\nBut it feels that the emptiness has saved him.\nHe killed the wrong attack.\n\n\"Yes, I know where you are ...\"\n\n\"Don't give me the choice. Refuse everyone to wonderful claims."
       ]
     }, {
       "id": 805006,
@@ -576,10 +576,10 @@
       "eventDesc": "Great plants made with virtual stories are thick.\n\nThey are their clothes.\n\nCinnamon can stop the lighting village of the building.\n\nThen softly softened the trunk of the heights.",
       "behaveDesc": "Who was surprised to see the trunk?",
       "successDesc": [
-        "Enter the trunk[{0}]The plants go and the feet put on their hands.\n\nSinful went up and another one looked like a small thing.\n\nThe plant sees more without limits, but it is over.\n\nFinally,[{0}]Climb upper leaves on top.\n\nThen carefully ...\n\nThe hole was the Id with leaves, so it fell very much in a virtual story.\n\nThis fairy tale seemed amazing that so much noise."
+        "Enter the trunk [{0}] The plants go and the feet put on their hands.\n\nSinful went up and another one looked like a small thing.\n\nThe plant sees more without limits, but it is over.\n\nFinally, [{0}] Climb upper leaves on top.\n\nThen carefully ...\n\nThe hole was the Id with leaves, so it fell very much in a virtual story.\n\nThis fairy tale seemed amazing that so much noise."
       ],
       "failureDesc": [
-        "Enter the trunk[{0}]The plants go and the feet put on their hands.\n\nSinful went up and another one looked like a small thing.\n\nThe plant sees more without limits, but it is over.\n\nFinally,[{0}]Climb upper leaves on top.\n\nBut you can't remember the amount of water made from guilty leaves ...\n\nQuickly[{0}]They woke up and to the right.\n\n... Probably happiness or lotus will not die."
+        "Enter the trunk [{0}] The plants go and the feet put on their hands.\n\nSinful went up and another one looked like a small thing.\n\nThe plant sees more without limits, but it is over.\n\nFinally, [{0}] Climb upper leaves on top.\n\nBut you can't remember the amount of water made from guilty leaves ...\n\nQuickly [{0}] They woke up and to the right.\n\n... Probably happiness or lotus will not die."
       ]
     }
   ]

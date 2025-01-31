@@ -1,1 +1,95 @@
-{"dataList": [{"id": 1001, "panicName": "Flexible", "lowMoraleDescription": "Started: 2 << Spart's Name = \"Precise\"><color=#f8c200><><link=\"Agility\">To go</color></link></u> And 2 << Inventive \"><color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>", "panicDescription": "Exchange: 10 km loss."}, {"id": 1002, "panicName": "Encourages", "lowMoraleDescription": "Start with Turnover: 2 << Spare Name = \"Activity\"><color=#f8c200><><link=\"Enhancement\">Consent</color></link></u> And 2 << Inventive \"><color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>", "panicDescription": "Start with work: All things lose 20 lbs."}, {"id": 1003, "panicName": "Damage", "lowMoraleDescription": "As a result: 2 << the devil's name = \"cut\"><color=#e30000><><link=\"Reduction\">With the power of the attack</color></link></u>", "panicDescription": "This trip is not affected."}, {"id": 1004, "panicName": "Perfect gentleman", "lowMoraleDescription": "As a result: 2 << the devil's name = \"cut\"><color=#e30000><><link=\"Reduction\">With the power of the attack</color></link></u>", "panicDescription": "Start with rotation: 4 <sprite's name = \"Cut\"><color=#e30000><><link=\"Reduction\">With the power of the attack</color></link></u>"}, {"id": 1005, "panicName": "Uncomfortable", "lowMoraleDescription": "Start with Quartenine: Benefits <Spice Name = \"AxotomoP\"><color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u> And 2 << Inventive \"><color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>", "panicDescription": "Start: 2 <spriqt name = \"Ekikkirbu\" >><color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u> And 5 <name spit = \"I can't save me\"><color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>"}, {"id": 1006, "panicName": "Part time work", "lowMoraleDescription": "This line is irrational.", "panicDescription": ""}, {"id": 1007, "panicName": "He is hurt", "lowMoraleDescription": "Benefits 2<color=#e30000><><link=\"AttackDmgDown\">Epidemic</color></link></u> All travels", "panicDescription": "Benefits 5<color=#e30000><><link=\"AttackDmgDown\">Epidemic</color></link></u> And 2 << Inventive \"><color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u> All travels"}, {"id": 1008, "panicName": "off one's nuts", "lowMoraleDescription": "The purpose of care is not clear that the morality is the first time.", "panicDescription": "The goal is confused.<color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u>"}, {"id": 1009, "panicName": "Suicide", "lowMoraleDescription": "When you cannot take less than the first time", "panicDescription": "Caus."}, {"id": 1010, "panicName": "Roaming", "lowMoraleDescription": "Final Performance: Choose 2p -schade in the peers", "panicDescription": "Finally: Five risks to fight after the third round."}, {"id": 1011, "panicName": "Unstable", "lowMoraleDescription": "Start with Turnover: 2 << Spare Name = \"Activity\"><color=#f8c200><><link=\"Enhancement\">Consent</color></link></u> And 3 << Spart's Name = \"Binding\"><color=#e30000><><link=\"Binding\">Tahki</color></link></u>", "panicDescription": "Recycling: Start"}, {"id": 1012, "panicName": "Action", "lowMoraleDescription": "1 <subert name = \"Esf\"> jet<color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>Were, and,,,,,,,,,,,,,,", "panicDescription": "Benefits 3 <name and name = \"found\"><color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>Were, and,,,,,,,,,,,,,,"}, {"id": 9999, "panicName": "Short", "lowMoraleDescription": "", "panicDescription": "This trip is not affected."}, {"id": 1013, "panicName": "Dirty", "lowMoraleDescription": "1 <subert name = \"Esf\"> jet<color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>Panc", "panicDescription": "1 <subert name = \"Esf\"> jet<color=#e30000><><link=\"Vulnerable\">A crisp</color></link></u>Ces has finished 5 pm."}, {"id": 1014, "panicName": "Exchange of currencies", "lowMoraleDescription": "Start: 1 <sprite's name = \"Revolution\"><color=#f8c200><><link=\"Enhancement\">Consent</color></link></u> And 3 <name name = \"Security\"><color=#e30000><><link=\"DefenseDown\">Below</color></link></u>This is worse.<color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u> Last round (1 <name = \"damage from<color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u> 3% loss)", "panicDescription": "Start with Turnover: 2 << Spare Name = \"Activity\"><color=#f8c200><><link=\"Enhancement\">Consent</color></link></u> And 6 <spret names<color=#e30000><><link=\"DefenseDown\">Below</color></link></u>This is worse.<color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u> Last round (1 <name = \"damage from<color=#f8c200><><link=\"AttackDmgUp\">Epidemic</color></link></u> 3% loss)"}, {"id": 1015, "panicName": "Holy", "lowMoraleDescription": "[Stl dc sexyipotic and] mentally", "panicDescription": "Each end of the bar: Benefits <spittum name = #binding '>><color=#f8c200><><link=\"Binding\">Tahki</color></link></u>Intersection\nEach connection is the tail of the device."}, {"id": 1016, "panicName": "The fury", "lowMoraleDescription": "Start: 2[AttackDmgUp] Blood[DefenseDown]", "panicDescription": "Start: 1 1 comes in[Enhancement] And 5[DefenseDown]"}, {"id": 1026, "panicName": "Partition", "lowMoraleDescription": "Benefits 3[Sinking] The strength of layers of each round 1", "panicDescription": "Benefits 5[Sinking] And +3[Sinking] Add both ends of the curve."}]}
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "panicName": "Flexible",
+      "lowMoraleDescription": "Started: 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">To go</color></link></u> And 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>",
+      "panicDescription": "Exchange: 10 km loss."
+    }, {
+      "id": 1002,
+      "panicName": "Encourages",
+      "lowMoraleDescription": "Start with Turnover: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Consent</color></link></u> And 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>",
+      "panicDescription": "Start with work: All things lose 20 lbs."
+    }, {
+      "id": 1003,
+      "panicName": "Damage",
+      "lowMoraleDescription": "As a result: 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">With the power of the attack</color></link></u>",
+      "panicDescription": "This trip is not affected."
+    }, {
+      "id": 1004,
+      "panicName": "Perfect gentleman",
+      "lowMoraleDescription": "As a result: 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">With the power of the attack</color></link></u>",
+      "panicDescription": "Start with rotation: 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">With the power of the attack</color></link></u>"
+    }, {
+      "id": 1005,
+      "panicName": "Uncomfortable",
+      "lowMoraleDescription": "Start with Quartenine: Benefits <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u> And 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>",
+      "panicDescription": "Start: 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u> And 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>"
+    }, {
+      "id": 1006,
+      "panicName": "Part time work",
+      "lowMoraleDescription": "This line is irrational.",
+      "panicDescription": ""
+    }, {
+      "id": 1007,
+      "panicName": "He is hurt",
+      "lowMoraleDescription": "Benefits 2 <sprite name=\"AttackDmgDown\"><u><link=\"AttackDmgDown\">Epidemic</color></link></u> All travels",
+      "panicDescription": "Benefits 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Epidemic</color></link></u> And 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u> All travels"
+    }, {
+      "id": 1008,
+      "panicName": "off one's nuts",
+      "lowMoraleDescription": "The purpose of care is not clear that the morality is the first time.",
+      "panicDescription": "The goal is confused. <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u>"
+    }, {
+      "id": 1009,
+      "panicName": "Suicide",
+      "lowMoraleDescription": "When you cannot take less than the first time",
+      "panicDescription": "Caus."
+    }, {
+      "id": 1010,
+      "panicName": "Roaming",
+      "lowMoraleDescription": "Final Performance: Choose 2p -schade in the peers",
+      "panicDescription": "Finally: Five risks to fight after the third round."
+    }, {
+      "id": 1011,
+      "panicName": "Unstable",
+      "lowMoraleDescription": "Start with Turnover: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Consent</color></link></u> And 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Tahki</color></link></u>",
+      "panicDescription": "Recycling: Start"
+    }, {
+      "id": 1012,
+      "panicName": "Action",
+      "lowMoraleDescription": "1 jet <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>Were, and,,,,,,,,,,,,,,",
+      "panicDescription": "Benefits 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>Were, and,,,,,,,,,,,,,,"
+    }, {
+      "id": 9999,
+      "panicName": "Short",
+      "lowMoraleDescription": "",
+      "panicDescription": "This trip is not affected."
+    }, {
+      "id": 1013,
+      "panicName": "Dirty",
+      "lowMoraleDescription": "1 jet <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>Panc",
+      "panicDescription": "1 jet <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">A crisp</color></link></u>Ces has finished 5 pm."
+    }, {
+      "id": 1014,
+      "panicName": "Exchange of currencies",
+      "lowMoraleDescription": "Start: 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Consent</color></link></u> And 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Below</color></link></u>This is worse.<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u> Last round (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u> 3% loss)",
+      "panicDescription": "Start with Turnover: 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Consent</color></link></u> And 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Below</color></link></u>This is worse.<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u> Last round (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Epidemic</color></link></u> 3% loss)"
+    }, {
+      "id": 1015,
+      "panicName": "Holy",
+      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] mentally",
+      "panicDescription": "Each end of the bar: Benefits <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Tahki</color></link></u>Intersection\nEach connection is the tail of the device."
+    }, {
+      "id": 1016,
+      "panicName": "The fury",
+      "lowMoraleDescription": "Start: 2 [AttackDmgUp] Blood [DefenseDown]",
+      "panicDescription": "Start: 1 1 comes in [Enhancement] And 5 [DefenseDown]"
+    }, {
+      "id": 1026,
+      "panicName": "Partition",
+      "lowMoraleDescription": "Benefits 3 [Sinking] The strength of layers of each round 1",
+      "panicDescription": "Benefits 5 [Sinking] And +3 [Sinking] Add both ends of the curve."
+    }
+  ]
+}

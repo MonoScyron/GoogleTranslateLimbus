@@ -1,1 +1,890 @@
-{"dataList": [{"id": "dungeon_selectable", "content": "Optional"}, {"id": "dungeon_battle_reawrd_card_selection", "content": "Select the award card"}, {"id": "dungeon_opportunity_to_select_rewards_remaining", "content": "You did not choose award.\nHave you selected the award yet?"}, {"id": "mirrordungeon_appear_able_theme_pack_title", "content": "{0} -Part from content"}, {"id": "mirrordungeon_theme_pack_boss", "content": "High"}, {"id": "mirrordungeon_theme_pack_ego_gift", "content": "Special gift"}, {"id": "mirrordunge_theme_pack_history_button_label", "content": "Coordination Image Package"}, {"id": "simulation_difficulty", "content": "Simulation"}, {"id": "ritournelle_difficulty", "content": "R t or daughter"}, {"id": "enter_simulation_difficulty", "content": "Analog input"}, {"id": "enter_ritournelle_difficulty", "content": "Enter torern"}, {"id": "mirror_dungeon_progress_text_4_normal", "content": "Internal part{0}"}, {"id": "mirror_dungeon_progress_text_4_hard", "content": "A kind of fish{0}"}, {"id": "mirror_dungeon_progress_text_before_exploration", "content": "Before the entrance before"}, {"id": "mirror_dungeon4_entrance_hard_hint_after_release", "content": "<Open the word:\nActually 5-3\nProstitute\nSIMUlation trouble"}, {"id": "dungeon_encounter_guide_elite_battle", "content": "The class of elite"}, {"id": "purchase_ego_gift", "content": "Live like a gift"}, {"id": "purchase_personality_skill_desc", "content": "Deleting<color=#f8c200>{0}</color> Does the cost change these methods?"}, {"id": "mirror_dungeon_4_start_buff_name", "content": "Star"}, {"id": "mirror_dungeon_4_buffs_title_1", "content": "About the storm."}, {"id": "mirror_dungeon_4_buffs_title_2", "content": "Thunder"}, {"id": "mirror_dungeon_4_buffs_title_3", "content": "Feet"}, {"id": "mirror_dungeon_4_buffs_title_4", "content": "high school"}, {"id": "mirror_dungeon_4_buffs_title_5", "content": "Basti"}, {"id": "mirror_dungeon_4_buffs_title_6", "content": "Collect"}, {"id": "mirror_dungeon_4_buffs_title_7", "content": "Storms"}, {"id": "mirror_dungeon_4_buffs_title_8", "content": "The beginning of the New Year"}, {"id": "mirror_dungeon_4_buffs_title_9", "content": "Weak"}, {"id": "mirror_dungeon_4_buffs_title_10", "content": "Black polarization evening"}, {"id": "mirror_dungeon_4_buffs_title_11", "content": "Anywhere"}, {"id": "mirror_dungeon_4_buffs_title_12", "content": "Winter"}, {"id": "mirror_dungeon_4_buffs_title_13", "content": "The city of the night"}, {"id": "mirror_dungeon_4_buffs_title_14", "content": "Partially"}, {"id": "mirror_dungeon_4_buffs_title_15", "content": "Sea"}, {"id": "mirror_dungeon_4_buffs_title_16", "content": "To cut"}, {"id": "mirror_dungeon_4_buffs_title_17", "content": "For a long time"}, {"id": "mirror_dungeon_4_buffs_title_18", "content": "Western"}, {"id": "mirror_dungeon_4_buffs_title_19", "content": "To complete"}, {"id": "mirror_dungeon_4_buffs_title_19_1", "content": "The rain in the evening"}, {"id": "mirror_dungeon_4_buffs_title_20", "content": "Holidays"}, {"id": "mirror_dungeon_4_buffs_title_21", "content": "Post"}, {"id": "mirror_dungeon_4_buffs_title_22", "content": "Fog"}, {"id": "mirror_dungeon_4_buffs_title_23", "content": "Rain on the road"}, {"id": "mirror_dungeon_4_buffs_title_24", "content": "An unlimited stream"}, {"id": "mirror_dungeon_4_buffs_title_25", "content": "Events"}, {"id": "mirror_dungeon_4_buffs_title_26", "content": "Galaxy"}, {"id": "mirror_dungeon_4_buffs_title_27", "content": "A criminal"}, {"id": "md4_buffs_summaryDesc_100", "content": "[Limited]\nEat 200 stars of this star (if it is only if it does not affect the status of active)"}, {"id": "md4_buffs_summaryDesc_101", "content": "[Start the gift]\nShe in the first prize collection E.O."}, {"id": "md4_buffs_summaryDesc_1011", "content": "[Start the gift]\nFuel"}, {"id": "md4_buffs_summaryDesc_1012", "content": "[Start the gift]\nBleeding like gift"}, {"id": "md4_buffs_summaryDesc_1013", "content": "[Start the gift]\nReflect like the gift of the Huddla"}, {"id": "md4_buffs_summaryDesc_1014", "content": "[Start the gift]\nLuck tears, such as gifts"}, {"id": "md4_buffs_summaryDesc_1015", "content": "[Start the gift]\nI opened the gifts for gifts"}, {"id": "md4_buffs_summaryDesc_1016", "content": "[Start the gift]\nSafety taxin-fis"}, {"id": "md4_buffs_summaryDesc_1017", "content": "[Start the gift]\nOpen e.Multiplier"}, {"id": "md4_buffs_summaryDesc_102", "content": "[Start the gift]\nIn the first collection of gifts, he presented six gifts."}, {"id": "md4_buffs_summaryDesc_1021", "content": "[Start the gift]\nUnlocked rewards like a bear"}, {"id": "md4_buffs_summaryDesc_1022", "content": "[Start the gift]\nDo less vice as a gift."}, {"id": "md4_buffs_summaryDesc_1023", "content": "[Start the gift]\nOpen Bottoto as a reward limit"}, {"id": "md4_buffs_summaryDesc_1024", "content": "(Not used)"}, {"id": "md4_buffs_summaryDesc_103", "content": "[Universal]\nBenefits +50"}, {"id": "md4_buffs_summaryDesc_1031", "content": "[Universal]\nBenefits +50"}, {"id": "md4_buffs_summaryDesc_1032", "content": "[Universal]\nBenefits +50"}, {"id": "md4_buffs_summaryDesc_1033", "content": "[Universal]\nBenefits +50"}, {"id": "md4_buffs_summaryDesc_104", "content": "[Universal]\n16 new levels, shops, close gifts and poles of preaching pool"}, {"id": "md4_buffs_summaryDesc_1041", "content": "[Start the gift]\nThe number of gifts appears in the burn +1 partition."}, {"id": "md4_buffs_summaryDesc_1042", "content": "[Start the gift]\nThe number of gifts is the same."}, {"id": "md4_buffs_summaryDesc_1043", "content": "[Start the gift]\nFor example, the number of gifts found in + + range"}, {"id": "md4_buffs_summaryDesc_1044", "content": "[Start the gift]\nThe number of gifts is the same."}, {"id": "md4_buffs_summaryDesc_1045", "content": "[Start the gift]\nThe number of gifts is the same."}, {"id": "md4_buffs_summaryDesc_1046", "content": "[Start the gift]\nThe number of gifts appears in the section of a +1 meeting."}, {"id": "md4_buffs_summaryDesc_1047", "content": "[Start the gift]\nFor example, the +1 the gifts of gifts are found in the download range."}, {"id": "md4_buffs_summaryDesc_105", "content": "[Universal]\nI have visited a new 3 ~ 4 E.O, a gift and wide bridge."}, {"id": "md4_buffs_summaryDesc_1051", "content": "[Start the gift]\nThe number of the gifts appears in the +1 category"}, {"id": "md4_buffs_summaryDesc_1052", "content": "[Start the gift]\nNumber of gifts in the Dock +1 category"}, {"id": "md4_buffs_summaryDesc_1053", "content": "[Start the gift]\nNumber of electrical prices like BUBBTON +1"}, {"id": "md4_buffs_summaryDesc_1054", "content": "[Start the gift]\nNumber of gifts like random access 11"}, {"id": "md4_buffs_summaryDesc_106", "content": "[Shops]\nThe drain in the store +1 was sold"}, {"id": "md4_buffs_summaryDesc_111", "content": "[Shops]\nSelling the high levels of gifts"}, {"id": "md4_buffs_summaryDesc_1111", "content": "[Shops]\nSelling the high levels of gifts"}, {"id": "md4_buffs_summaryDesc_1112", "content": "[Shops]\nSelling the high levels of gifts"}, {"id": "md4_buffs_summaryDesc_1113", "content": "[Shops]\nSelling the high levels of gifts"}, {"id": "md4_buffs_summaryDesc_112", "content": "[Shops]\nThe drain in the store +1 was sold"}, {"id": "md4_buffs_summaryDesc_1121", "content": "[Shops]\n-20% cost update"}, {"id": "md4_buffs_summaryDesc_1122", "content": "[Shops]\n-20% cost update"}, {"id": "md4_buffs_summaryDesc_113", "content": "[Shops]\nFor example, Gronto-5% Kappuvin"}, {"id": "md4_buffs_summaryDesc_1131", "content": "[Shops]\n1 Purchase Futures Nopro-7.5%"}, {"id": "md4_buffs_summaryDesc_1132", "content": "[Shops]\n2 Yooo OFIR 5.5%"}, {"id": "md4_buffs_summaryDesc_1133", "content": "[Shops]\nTire is like buying 3 -7.5%"}, {"id": "md4_buffs_summaryDesc_1134", "content": "[Shops]\n4 or more tires:"}, {"id": "md4_buffs_summaryDesc_114", "content": "[Shops]\nFor example, Gronto-5% Kappuvin"}, {"id": "md4_buffs_summaryDesc_1141", "content": "[Shops]\nViolent"}, {"id": "md4_buffs_summaryDesc_1142", "content": "[Shops]\nBleeding like a cost of egg"}, {"id": "md4_buffs_summaryDesc_1143", "content": "[Shops]\n7.5%"}, {"id": "md4_buffs_summaryDesc_1144", "content": "[Shops]\nFor example, the purchase was purchased by the adagper"}, {"id": "md4_buffs_summaryDesc_1145", "content": "[Shops]\nDrilling Gifting -Cup-7.5%"}, {"id": "md4_buffs_summaryDesc_1146", "content": "[Shops]\nFor example, the price of balance and baked bread-7.5%"}, {"id": "md4_buffs_summaryDesc_1147", "content": "[Shops]\nCold costs -7.5%"}, {"id": "md4_buffs_summaryDesc_115", "content": "[Shops]\nFor example, Gronto-5% Kappuvin"}, {"id": "md4_buffs_summaryDesc_1151", "content": "[Shops]\nIn countries like the price of gifts-7.5%"}, {"id": "md4_buffs_summaryDesc_1152", "content": "[Shops]\nJam Nawara Jahafa."}, {"id": "md4_buffs_summaryDesc_1153", "content": "[Shops]\nFor example, both"}, {"id": "md4_buffs_summaryDesc_1154", "content": "[Shops]\nSelf-dependent of the main word without buying custatta-7.5%"}, {"id": "md4_buffs_summaryDesc_116", "content": "[Shops]\nThe drain in the store +1 was sold"}, {"id": "md4_buffs_summaryDesc_1161", "content": "[Shops]\nTier 1, for example, the price of Crosow is 20%"}, {"id": "md4_buffs_summaryDesc_1162", "content": "[Shops]\nTire 2"}, {"id": "md4_buffs_summaryDesc_1163", "content": "[Shops]\nTier 3, Example: Price + 20%"}, {"id": "md4_buffs_summaryDesc_1164", "content": "[Shops]\nFor example, the price of Crosswa is 20% Tire 4+"}, {"id": "md4_buffs_summaryDesc_1165", "content": "[Shops]\nTechnology Change -20%"}, {"id": "md4_buffs_summaryDesc_1166", "content": "[Shops]\nTechnology Change -20%"}, {"id": "md4_buffs_summaryDesc_121", "content": "[Rest Stops]\nFor example, the futures increased -7.5%"}, {"id": "md4_buffs_summaryDesc_1211", "content": "[Rest Stops]\nTier 1 detailed prize-7.5%"}, {"id": "md4_buffs_summaryDesc_1212", "content": "[Rest Stops]\nTier 2, for example, an additional gift - 7.5%"}, {"id": "md4_buffs_summaryDesc_1213", "content": "[Rest Stops]\nFor example, tire 3"}, {"id": "md4_buffs_summaryDesc_1214", "content": "[Rest Stops]\n4 or more tires:"}, {"id": "md4_buffs_summaryDesc_122", "content": "[Shops]\n20% not updated"}, {"id": "md4_buffs_summaryDesc_123", "content": "[Rest Stops]\nFor example, the futures increased -7.5%"}, {"id": "md4_buffs_summaryDesc_1231", "content": "[Rest Stops]\nIrritation, futures consoles 7.5%"}, {"id": "md4_buffs_summaryDesc_1232", "content": "[Rest Stops]\nBlood flow"}, {"id": "md4_buffs_summaryDesc_1233", "content": "[Rest Stops]\nFor example, additional futures a single-7.5%"}, {"id": "md4_buffs_summaryDesc_1234", "content": "[Rest Stops]\nfor example."}, {"id": "md4_buffs_summaryDesc_1235", "content": "[Rest Stops]\nFor example, heavy 7.5% understand"}, {"id": "md4_buffs_summaryDesc_1236", "content": "[Rest Stops]\nPosts, over 7.5% prize"}, {"id": "md4_buffs_summaryDesc_1237", "content": "[Rest Stops]\nExtensive future accumulated as 7.5%"}, {"id": "md4_buffs_summaryDesc_124", "content": "[Rest Stops]\n20% of the possibility of reflective"}, {"id": "md4_buffs_summaryDesc_125", "content": "[Rest Stops]\nFor example, add 10% of the gift"}, {"id": "md4_buffs_summaryDesc_1251", "content": "[Rest Stops]\nReward-like gift is up to 7.5%"}, {"id": "md4_buffs_summaryDesc_1252", "content": "[Rest Stops]\n-7.5% single yard"}, {"id": "md4_buffs_summaryDesc_1253", "content": "[Rest Stops]\nFor example, both"}, {"id": "md4_buffs_summaryDesc_1254", "content": "[Rest Stops]\nRewards Free Vegetables -7-7-7-7.5%"}, {"id": "md4_buffs_summaryDesc_126", "content": "[Universal]\nThe benefit of the benefit of the benefit after the fighting + 10%"}, {"id": "md4_buffs_summaryDesc_1261", "content": "[Universal]\n10% profits after winning a regular meeting"}, {"id": "md4_buffs_summaryDesc_1262", "content": "[Universal]\nAfter winning the most important meeting, benefits + 10%"}, {"id": "md4_buffs_summaryDesc_1263", "content": "[Universal]\nElieT meeting + win after 10%"}, {"id": "md4_buffs_summaryDesc_1264", "content": "[Universal]\nBoss after the match + 10% win"}, {"id": "md4_buffs_summaryDesc_131", "content": "[Floor Theme]\nThing 2"}, {"id": "md4_buffs_summaryDesc_132", "content": "[Encounters]\nBusiness + 2.5% of loss"}, {"id": "md4_buffs_summaryDesc_1321", "content": "[Encounters]\nBusiness + 2.5% of loss"}, {"id": "md4_buffs_summaryDesc_1322", "content": "[Encounters]\nBusiness + 2.5% of loss"}, {"id": "md4_buffs_summaryDesc_1323", "content": "[Encounters]\nBusiness + 2.5% of loss"}, {"id": "md4_buffs_summaryDesc_1324", "content": "[Encounters]\nIllegal level +1"}, {"id": "md4_buffs_summaryDesc_1325", "content": "[Encounters]\nIllegal level +1"}, {"id": "md4_buffs_summaryDesc_133", "content": "[Encounter Reward Cards]\nNumber of card options +1"}, {"id": "md4_buffs_summaryDesc_134", "content": "[Encounters]\n-2.5% loss"}, {"id": "md4_buffs_summaryDesc_1341", "content": "[Encounters]\n-2.5% loss"}, {"id": "md4_buffs_summaryDesc_1342", "content": "[Encounters]\n-2.5% loss"}, {"id": "md4_buffs_summaryDesc_1343", "content": "[Encounters]\n-2.5% loss"}, {"id": "md4_buffs_summaryDesc_1344", "content": "[Encounters]\nSecurity level is +1"}, {"id": "md4_buffs_summaryDesc_1345", "content": "[Encounters]\nSecurity level is +1"}, {"id": "md4_buffs_summaryDesc_1346", "content": "[Encounters]\nSecurity level is +1"}, {"id": "md4_buffs_summaryDesc_135", "content": "[Floor Theme]\nThing 2"}, {"id": "md4_buffs_summaryDesc_136", "content": "[Encounters]\n+1 resource mirrors for all sources of the dark"}, {"id": "md4_buffs_summaryDesc_1361", "content": "[Encounters]\n+1 resource mirrors for all sources of the dark"}, {"id": "md4_buffs_summaryDesc_1362", "content": "[Encounters]\nMaximum speed + +"}, {"id": "md4_buffs_summaryDesc_1363", "content": "[Encounters]\nMaximum speed + +"}, {"id": "md4_buffs_summaryDesc_141", "content": "For example, select a gift +1"}, {"id": "md4_buffs_summaryDesc_142", "content": "Cost is +250"}, {"id": "md4_buffs_summaryDesc_14", "content": "After selecting the first gifts"}, {"id": "mirror_ego_gift_combine_guide_desc_1", "content": "For example, combined with the gift<color=#f8c200>Ages</color> The correct keyword gift such as better to improve the opportunity of the gifts."}, {"id": "mirror_ego_gift_combine_guide_desc_2", "content": "The following gifts such as future 2."}, {"id": "mirror_ego_gift_combine_guide_table_diffrent_keyword", "content": "And the gift with other major words"}, {"id": "mirror_ego_gift_combine_guide_table_identical_keyword", "content": "And with the same key word"}, {"id": "mirror_ego_gift_combine_guide_table_two_same_keywords", "content": "If only one heard of the gift to share the keyword, gather it."}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_1_0", "content": "Tire 1 + tire 1 => tire 1"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_1_1", "content": "Tier 1 + Level 1 =><color=#f8c200>Tire 2</color>"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_2_0", "content": "Tire 1 + tire 2 => tire 1"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_2_1", "content": "Tire 1 + tire 2 =><color=#f8c200>Tire 2</color>"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_3_0", "content": "Tire 1 + layer 3 => tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_3_1", "content": "Tire 1 + layer 3 => tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_4_0", "content": "2 + tire tire 2 => tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_4_1", "content": "2 + tire tire 2 => tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_5_0", "content": "2 + tire tire 3 => tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_5_1", "content": "2 + tire tire 3 => tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_6_0", "content": "Tier 3 + Level => Tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_1_desc_6_1", "content": "Tier 3 + Level => Tire 3"}, {"id": "mirror_ego_gift_combine_guide_desc_3", "content": "The following keywords, for example, 2 hours."}, {"id": "mirror_ego_gift_combine_guide_table_2_desc_1_0", "content": "Rates of grooms like grooms: 37.5% 37.5%\nIntegration: 25% of other keywords"}, {"id": "mirror_ego_gift_combine_guide_table_2_desc_1_1", "content": "Keyword Speed ​​of the same element as a gift: 75%\nIntegration: 25% of other keywords"}, {"id": "mirror_ego_gift_combine_guide_desc_4", "content": "It is assumed that the following gift is tile."}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_1_0", "content": "Tier 1 + Tire 1 + Tire 1 => tire 1"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_1_1", "content": "Tier 1 + Tire 1 + Level 1 =><color=#f8c200>Tire 2</color>"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_2_0", "content": "Tier 1 + Tire 1 + Tire 2 => Tire 1"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_2_1", "content": "Tier 1 + Tire 1 + Level 2 =><color=#f8c200>Tire 2</color>"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_3_0", "content": "Tier 1 + Tire 1 + Tire 3 => Tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_3_1", "content": "Tier 1 + Tire 1 + Tire 3 => Tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_4_0", "content": "Tier 1 + Tire 2 + Tire 2 => Tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_4_1", "content": "Tier 1 + Tire 2 + Tire 2 => Tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_5_0", "content": "Tier 1 + Tire 2 + Level 3 => Tire 2"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_5_1", "content": "Tier 1 + Tire 2 + Level 3 = >><color=#f8c200>Tire 3</color>"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_6_0", "content": "Tier 1 + Level 3 => Tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_6_1", "content": "Tier 1 + Level 3 => Tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_7_0", "content": "2 + tire 2 + tire 2 => tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_7_1", "content": "2 + tire 2 + tire 2 => tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_8_0", "content": "2 + tire 2 + tire 3 => tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_8_1", "content": "2 + tire 2 + tire 2 => tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_9_0", "content": "2 + tire 3 + level 3 => tire 3"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_9_1", "content": "Tier 2 + Level 3 =><color=#f8c200>4 tires</color>"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_10_0", "content": "Tier 3 + Level 3 => Tire 4"}, {"id": "mirror_ego_gift_combine_guide_table_3_desc_10_1", "content": "Tier 3 + Level 3 => Tire 4"}, {"id": "mirror_ego_gift_combine_guide_desc_5", "content": "The following keywords can be the same e .3, which can be three gifts."}, {"id": "mirror_ego_gift_combine_guide_table_4_desc_1_0", "content": "Keywords of Keywords for parts like limbs: 25% 25%\nIntegration: 25% of other keywords"}, {"id": "mirror_ego_gift_combine_guide_table_4_desc_1_1", "content": "As the speed of sharing keywords.\n\nInsert keyword, because the key is shown in the word: 25%\n\nIntegration: 25% of other keywords"}, {"id": "mirror_ego_gift_combine_guide_table_4_desc_1_2", "content": "Keyword Speed ​​of the same element as a gift: 75%\n\nIntegration: 25% of other keywords"}, {"id": "mirror_ego_gift_combine_guide_desc_6", "content": "However, if the future is not a gift, other levels or major gifts are a gift for EO words."}, {"id": "mirror_ego_gift_combine_guide_popup_title", "content": "Connection"}, {"id": "mirrordungeon_select_theme_pack_at_floor", "content": "Select the flooring{0} Theater package"}, {"id": "mirrordungeon_ego_gift_appear_rate_up", "content": "Piece"}, {"id": "mirrordungeon_ego_gift_appearable", "content": "Don"}, {"id": "mirrordungeon_selected_floor_theme_label", "content": "Flooding"}, {"id": "mirrordungeon_ego_gift_sort_by_tier", "content": "Level"}, {"id": "mirrordungeon_ego_gift_sort_by_keyword", "content": "Canot"}, {"id": "side_content_cannot_acquire_specific_ego_gift", "content": "There is no level{0} For example, you can get a gift from this subject."}, {"id": "side_content_free_refresh", "content": "[Grand Sea of Clouds] The active of war\nFree recovery price"}, {"id": "side_content_egogift_free_upgrade", "content": "[Fierce Gust] The active of war\nIncreased income cost"}, {"id": "mirror_dungeon_finished_panel_floor_theme", "content": "Land"}, {"id": "mirror_dungeon_finished_panel_battle_reward", "content": "Medal"}, {"id": "mirror_dungeon_finished_panel_used", "content": "Accuracy"}, {"id": "mirror_dungeon_appeared_ego_gift", "content": "Special gift"}, {"id": "mirror_dungeon_select_theme_drag", "content": "Select the bag\nRubbing"}, {"id": "mirror_dungeon_cannot_acquired_ego_gift", "content": "for example"}, {"id": "simulation_difficulty_short", "content": "Simulation"}, {"id": "ritournelle_difficulty_short", "content": "R t or daughter"}, {"id": "easy_difficulty_simple", "content": "Lights"}, {"id": "refresh_shop_item_by_chip_warning", "content": "Do you use restoration?\n\n<size=70%>Use Star Light Updates.<color=#990000>Tara shines at the beginning of the dark</color> And and<color=#990000>Every star won the dark contest</color>Intersection\nWhatever you have, you cannot use more stars on it.</size>\n\n<size=85%>At the beginning of the dark, the light of the star is thus.{0}</size>"}, {"id": "mirror_dungeon_theme_ego_gift_popup_valid_atk", "content": "Is useless"}, {"id": "mirror_dungeon_shop_keyword_refresh", "content": "Coating with the words of tea"}, {"id": "mirror_dungeon_shop_refresh_by_chip", "content": "The stars"}, {"id": "mirror_dungeon_shop_keyword_refresh_popup_title", "content": "Again shop"}, {"id": "mirror_dungeon_shop_keyword_refresh_popup_desc", "content": "To enhance the possibility of keyword category in the restoration key \"store\"\nDeleting{0} New price?"}, {"id": "ego_gift_combine_ui_plz_select_keyword", "content": "Select Keywords."}, {"id": "ego_gift_select_keyword_ui_title", "content": "Choose a combination of the main word"}, {"id": "ego_gift_select_keyword_ui_desc", "content": "Select the keyword to close."}, {"id": "new_ego_gift_combine_guide_desc_1", "content": "Select <Fuse Zone> at the back of the screen."}, {"id": "new_ego_gift_combine_guide_table_1_col_1_title", "content": "Number of gifts used to mix"}, {"id": "new_ego_gift_combine_guide_table_1_col_2_title", "content": "Gift to lift your keyword"}, {"id": "new_ego_gift_combine_guide_table_1_desc_1_0", "content": "2 gifts"}, {"id": "new_ego_gift_combine_guide_table_1_desc_1_1", "content": "60%"}, {"id": "new_ego_gift_combine_guide_table_1_desc_2_0", "content": "3 gifts"}, {"id": "new_ego_gift_combine_guide_table_1_desc_2_1", "content": "90%"}, {"id": "new_ego_gift_combine_guide_diffrent_keyword_notice", "content": "The keywords of the limbs do not affect the effects of integration."}, {"id": "new_ego_gift_combine_guide_desc_2", "content": "Gifts have been written under the tables: For example, 2 gifts."}, {"id": "new_ego_gift_combine_guide_table_2_col_1_title", "content": "For example, the primary"}, {"id": "new_ego_gift_combine_guide_table_2_col_2_title", "content": "Like the gift"}, {"id": "new_ego_gift_combine_guide_table_2_desc_1_0", "content": "Tier 1 + division 1"}, {"id": "new_ego_gift_combine_guide_table_2_desc_2_0", "content": "1 + division 2 tires"}, {"id": "new_ego_gift_combine_guide_table_2_desc_3_0", "content": "1 + division 3 tires"}, {"id": "new_ego_gift_combine_guide_table_2_desc_4_0", "content": "2 + division 2 tires"}, {"id": "new_ego_gift_combine_guide_table_2_desc_5_0", "content": "2 + division 3 tires"}, {"id": "new_ego_gift_combine_guide_table_2_desc_6_0", "content": "Tier 3 + division 3"}, {"id": "new_ego_gift_combine_guide_desc_3", "content": "Below is the gift of four EA's levels when you add 3G gifts."}, {"id": "new_ego_gift_combine_guide_table_3_col_1_title", "content": "And the gift with other major words"}, {"id": "new_ego_gift_combine_guide_table_3_col_2_title", "content": "Like the gift"}, {"id": "new_ego_gift_combine_guide_table_3_desc_1_0", "content": "Tier 1 + Tire 1 + Tire 1"}, {"id": "new_ego_gift_combine_guide_table_3_desc_2_0", "content": "1 tire + tire 1 + frame 2"}, {"id": "new_ego_gift_combine_guide_table_3_desc_3_0", "content": "1 tire + tire 1 + frame 3"}, {"id": "new_ego_gift_combine_guide_table_3_desc_4_0", "content": "1 + Frame 2 + Frame 2"}, {"id": "new_ego_gift_combine_guide_table_3_desc_5_0", "content": "Tier 1 + Frame 2 + Frame 3"}, {"id": "new_ego_gift_combine_guide_table_3_desc_6_0", "content": "Tier 1 + Domain 3 + Tire 3"}, {"id": "new_ego_gift_combine_guide_table_3_desc_7_0", "content": "2 Tires + Frame 2 + Frame 2"}, {"id": "new_ego_gift_combine_guide_table_3_desc_8_0", "content": "2 Tires + Frame 2 + Frame 3"}, {"id": "new_ego_gift_combine_guide_table_3_desc_9_0", "content": "2 Tires + Frame 3 + Frame 3"}, {"id": "new_ego_gift_combine_guide_table_3_desc_10_0", "content": "Tier 3 + Level 3 3 3 3"}, {"id": "new_ego_gift_combine_guide_tier_1", "content": "Tire 1"}, {"id": "new_ego_gift_combine_guide_tier_2", "content": "Tire 2"}, {"id": "new_ego_gift_combine_guide_tier_3", "content": "Tire 3"}, {"id": "new_ego_gift_combine_guide_tier_4", "content": "4 tires"}, {"id": "new_ego_gift_combine_guide_desc_4", "content": "However, each of the keys and level groups each one gets a gift or gift or the floor of the floor head.<b>You can get gifts from more large levels or words.</u></b> In the list above."}, {"id": "new_ego_gift_combine_guide_desc_5", "content": "If you get all the gifts correctly or for the above reasons you cannot get all gifts, <u><b>I can't track the Fascia</u></b>Intersection"}, {"id": "mirror_battle_reward_card_guide_popup_title", "content": "English Compensation Guide"}, {"id": "mirror_battle_reward_card_guide_text_1", "content": "After cleaning, you can have the opportunity to win award."}, {"id": "mirror_battle_reward_card_guide_text_2", "content": "Fill your gift card with a constitutional average."}, {"id": "mirror_battle_reward_card_guide_table_1_desc_0_1", "content": "Woman"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_0_2", "content": "Dry Dark Retarter (Rutron)"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_1_0", "content": "First floor"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_1_1", "content": "Traditional Meeting: 7.5%\nIntense meet: -\nIssues are as follows: -\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_1_2", "content": "Traditional Meeting: 7.5%\nIntense meet: -\nIssues are as follows: -\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_2_0", "content": "2 floor"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_2_1", "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_2_2", "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_3_0", "content": "Third floor"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_3_1", "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_3_2", "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_4_0", "content": "Fourth floor"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_4_1", "content": "Traditional Meeting: 12.5%\nIntense meeting: 25%\nExperience: 50%\nCollect the President: -"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_4_2", "content": "Traditional Meeting: 12.5%\nIntense meeting: 25%\nExperience: 50%\nBasic Trainer: 100%"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_5_0", "content": "5th floor"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_5_1", "content": "-"}, {"id": "mirror_battle_reward_card_guide_table_1_desc_5_2", "content": "Traditional Meeting: 12.5%\nIntense meeting: 25%\nExperience: 50%\nCollect the President: -"}, {"id": "expected_result", "content": "Thank you"}, {"id": "confirmed", "content": "make sure"}, {"id": "combine_tooltip_title", "content": "The result is different from wide expectations and differs from assessment of keywords \"(Random)."}, {"id": "combine_tooltip_desc1", "content": "For example, if everyone can use it."}, {"id": "combine_tooltip_desc2", "content": "Keywords and Pre-authenticated stitching levels are indicated to all mirrors or prices (you can find in the next layer)"}, {"id": "combine_tooltip_notice", "content": "All gifts are not included in a combination of future levels."}]}
+{
+  "dataList": [
+    {
+      "id": "dungeon_selectable",
+      "content": "Optional"
+    }, {
+      "id": "dungeon_battle_reawrd_card_selection",
+      "content": "Select the award card"
+    }, {
+      "id": "dungeon_opportunity_to_select_rewards_remaining",
+      "content": "You did not choose award.\nHave you selected the award yet?"
+    }, {
+      "id": "mirrordungeon_appear_able_theme_pack_title",
+      "content": "{0} -Part from content"
+    }, {
+      "id": "mirrordungeon_theme_pack_boss",
+      "content": "High"
+    }, {
+      "id": "mirrordungeon_theme_pack_ego_gift",
+      "content": "Special gift"
+    }, {
+      "id": "mirrordunge_theme_pack_history_button_label",
+      "content": "Coordination Image Package"
+    }, {
+      "id": "simulation_difficulty",
+      "content": "Simulation"
+    }, {
+      "id": "ritournelle_difficulty",
+      "content": "R t or daughter"
+    }, {
+      "id": "enter_simulation_difficulty",
+      "content": "Analog input"
+    }, {
+      "id": "enter_ritournelle_difficulty",
+      "content": "Enter torern"
+    }, {
+      "id": "mirror_dungeon_progress_text_4_normal",
+      "content": "Internal part {0}"
+    }, {
+      "id": "mirror_dungeon_progress_text_4_hard",
+      "content": "A kind of fish {0}"
+    }, {
+      "id": "mirror_dungeon_progress_text_before_exploration",
+      "content": "Before the entrance before"
+    }, {
+      "id": "mirror_dungeon4_entrance_hard_hint_after_release",
+      "content": "<Open the word:\nActually 5-3\nProstitute\nSIMUlation trouble"
+    }, {
+      "id": "dungeon_encounter_guide_elite_battle",
+      "content": "The class of elite"
+    }, {
+      "id": "purchase_ego_gift",
+      "content": "Live like a gift"
+    }, {
+      "id": "purchase_personality_skill_desc",
+      "content": "Deleting<color=#f8c200> {0}</color> Does the cost change these methods?"
+    }, {
+      "id": "mirror_dungeon_4_start_buff_name",
+      "content": "Star"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_1",
+      "content": "About the storm."
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_2",
+      "content": "Thunder"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_3",
+      "content": "Feet"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_4",
+      "content": "high school"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_5",
+      "content": "Basti"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_6",
+      "content": "Collect"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_7",
+      "content": "Storms"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_8",
+      "content": "The beginning of the New Year"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_9",
+      "content": "Weak"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_10",
+      "content": "Black polarization evening"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_11",
+      "content": "Anywhere"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_12",
+      "content": "Winter"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_13",
+      "content": "The city of the night"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_14",
+      "content": "Partially"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_15",
+      "content": "Sea"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_16",
+      "content": "To cut"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_17",
+      "content": "For a long time"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_18",
+      "content": "Western"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_19",
+      "content": "To complete"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_19_1",
+      "content": "The rain in the evening"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_20",
+      "content": "Holidays"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_21",
+      "content": "Post"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_22",
+      "content": "Fog"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_23",
+      "content": "Rain on the road"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_24",
+      "content": "An unlimited stream"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_25",
+      "content": "Events"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_26",
+      "content": "Galaxy"
+    }, {
+      "id": "mirror_dungeon_4_buffs_title_27",
+      "content": "A criminal"
+    }, {
+      "id": "md4_buffs_summaryDesc_100",
+      "content": "[Limited]\nEat 200 stars of this star (if it is only if it does not affect the status of active)"
+    }, {
+      "id": "md4_buffs_summaryDesc_101",
+      "content": "[Start the gift]\nShe in the first prize collection E.O."
+    }, {
+      "id": "md4_buffs_summaryDesc_1011",
+      "content": "[Start the gift]\nFuel"
+    }, {
+      "id": "md4_buffs_summaryDesc_1012",
+      "content": "[Start the gift]\nBleeding like gift"
+    }, {
+      "id": "md4_buffs_summaryDesc_1013",
+      "content": "[Start the gift]\nReflect like the gift of the Huddla"
+    }, {
+      "id": "md4_buffs_summaryDesc_1014",
+      "content": "[Start the gift]\nLuck tears, such as gifts"
+    }, {
+      "id": "md4_buffs_summaryDesc_1015",
+      "content": "[Start the gift]\nI opened the gifts for gifts"
+    }, {
+      "id": "md4_buffs_summaryDesc_1016",
+      "content": "[Start the gift]\nSafety taxin-fis"
+    }, {
+      "id": "md4_buffs_summaryDesc_1017",
+      "content": "[Start the gift]\nOpen e.Multiplier"
+    }, {
+      "id": "md4_buffs_summaryDesc_102",
+      "content": "[Start the gift]\nIn the first collection of gifts, he presented six gifts."
+    }, {
+      "id": "md4_buffs_summaryDesc_1021",
+      "content": "[Start the gift]\nUnlocked rewards like a bear"
+    }, {
+      "id": "md4_buffs_summaryDesc_1022",
+      "content": "[Start the gift]\nDo less vice as a gift."
+    }, {
+      "id": "md4_buffs_summaryDesc_1023",
+      "content": "[Start the gift]\nOpen Bottoto as a reward limit"
+    }, {
+      "id": "md4_buffs_summaryDesc_1024",
+      "content": "(Not used)"
+    }, {
+      "id": "md4_buffs_summaryDesc_103",
+      "content": "[Universal]\nBenefits +50"
+    }, {
+      "id": "md4_buffs_summaryDesc_1031",
+      "content": "[Universal]\nBenefits +50"
+    }, {
+      "id": "md4_buffs_summaryDesc_1032",
+      "content": "[Universal]\nBenefits +50"
+    }, {
+      "id": "md4_buffs_summaryDesc_1033",
+      "content": "[Universal]\nBenefits +50"
+    }, {
+      "id": "md4_buffs_summaryDesc_104",
+      "content": "[Universal]\n16 new levels, shops, close gifts and poles of preaching pool"
+    }, {
+      "id": "md4_buffs_summaryDesc_1041",
+      "content": "[Start the gift]\nThe number of gifts appears in the burn +1 partition."
+    }, {
+      "id": "md4_buffs_summaryDesc_1042",
+      "content": "[Start the gift]\nThe number of gifts is the same."
+    }, {
+      "id": "md4_buffs_summaryDesc_1043",
+      "content": "[Start the gift]\nFor example, the number of gifts found in + + range"
+    }, {
+      "id": "md4_buffs_summaryDesc_1044",
+      "content": "[Start the gift]\nThe number of gifts is the same."
+    }, {
+      "id": "md4_buffs_summaryDesc_1045",
+      "content": "[Start the gift]\nThe number of gifts is the same."
+    }, {
+      "id": "md4_buffs_summaryDesc_1046",
+      "content": "[Start the gift]\nThe number of gifts appears in the section of a +1 meeting."
+    }, {
+      "id": "md4_buffs_summaryDesc_1047",
+      "content": "[Start the gift]\nFor example, the +1 the gifts of gifts are found in the download range."
+    }, {
+      "id": "md4_buffs_summaryDesc_105",
+      "content": "[Universal]\nI have visited a new 3 ~ 4 E.O, a gift and wide bridge."
+    }, {
+      "id": "md4_buffs_summaryDesc_1051",
+      "content": "[Start the gift]\nThe number of the gifts appears in the +1 category"
+    }, {
+      "id": "md4_buffs_summaryDesc_1052",
+      "content": "[Start the gift]\nNumber of gifts in the Dock +1 category"
+    }, {
+      "id": "md4_buffs_summaryDesc_1053",
+      "content": "[Start the gift]\nNumber of electrical prices like BUBBTON +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_1054",
+      "content": "[Start the gift]\nNumber of gifts like random access 11"
+    }, {
+      "id": "md4_buffs_summaryDesc_106",
+      "content": "[Shops]\nThe drain in the store +1 was sold"
+    }, {
+      "id": "md4_buffs_summaryDesc_111",
+      "content": "[Shops]\nSelling the high levels of gifts"
+    }, {
+      "id": "md4_buffs_summaryDesc_1111",
+      "content": "[Shops]\nSelling the high levels of gifts"
+    }, {
+      "id": "md4_buffs_summaryDesc_1112",
+      "content": "[Shops]\nSelling the high levels of gifts"
+    }, {
+      "id": "md4_buffs_summaryDesc_1113",
+      "content": "[Shops]\nSelling the high levels of gifts"
+    }, {
+      "id": "md4_buffs_summaryDesc_112",
+      "content": "[Shops]\nThe drain in the store +1 was sold"
+    }, {
+      "id": "md4_buffs_summaryDesc_1121",
+      "content": "[Shops]\n-20% cost update"
+    }, {
+      "id": "md4_buffs_summaryDesc_1122",
+      "content": "[Shops]\n-20% cost update"
+    }, {
+      "id": "md4_buffs_summaryDesc_113",
+      "content": "[Shops]\nFor example, Gronto-5% Kappuvin"
+    }, {
+      "id": "md4_buffs_summaryDesc_1131",
+      "content": "[Shops]\n1 Purchase Futures Nopro-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1132",
+      "content": "[Shops]\n2 Yooo OFIR 5.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1133",
+      "content": "[Shops]\nTire is like buying 3 -7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1134",
+      "content": "[Shops]\n4 or more tires:"
+    }, {
+      "id": "md4_buffs_summaryDesc_114",
+      "content": "[Shops]\nFor example, Gronto-5% Kappuvin"
+    }, {
+      "id": "md4_buffs_summaryDesc_1141",
+      "content": "[Shops]\nViolent"
+    }, {
+      "id": "md4_buffs_summaryDesc_1142",
+      "content": "[Shops]\nBleeding like a cost of egg"
+    }, {
+      "id": "md4_buffs_summaryDesc_1143",
+      "content": "[Shops]\n7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1144",
+      "content": "[Shops]\nFor example, the purchase was purchased by the adagper"
+    }, {
+      "id": "md4_buffs_summaryDesc_1145",
+      "content": "[Shops]\nDrilling Gifting -Cup-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1146",
+      "content": "[Shops]\nFor example, the price of balance and baked bread-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1147",
+      "content": "[Shops]\nCold costs -7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_115",
+      "content": "[Shops]\nFor example, Gronto-5% Kappuvin"
+    }, {
+      "id": "md4_buffs_summaryDesc_1151",
+      "content": "[Shops]\nIn countries like the price of gifts-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1152",
+      "content": "[Shops]\nJam Nawara Jahafa."
+    }, {
+      "id": "md4_buffs_summaryDesc_1153",
+      "content": "[Shops]\nFor example, both"
+    }, {
+      "id": "md4_buffs_summaryDesc_1154",
+      "content": "[Shops]\nSelf-dependent of the main word without buying custatta-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_116",
+      "content": "[Shops]\nThe drain in the store +1 was sold"
+    }, {
+      "id": "md4_buffs_summaryDesc_1161",
+      "content": "[Shops]\nTier 1, for example, the price of Crosow is 20%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1162",
+      "content": "[Shops]\nTire 2"
+    }, {
+      "id": "md4_buffs_summaryDesc_1163",
+      "content": "[Shops]\nTier 3, Example: Price + 20%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1164",
+      "content": "[Shops]\nFor example, the price of Crosswa is 20% Tire 4+"
+    }, {
+      "id": "md4_buffs_summaryDesc_1165",
+      "content": "[Shops]\nTechnology Change -20%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1166",
+      "content": "[Shops]\nTechnology Change -20%"
+    }, {
+      "id": "md4_buffs_summaryDesc_121",
+      "content": "[Rest Stops]\nFor example, the futures increased -7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1211",
+      "content": "[Rest Stops]\nTier 1 detailed prize-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1212",
+      "content": "[Rest Stops]\nTier 2, for example, an additional gift - 7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1213",
+      "content": "[Rest Stops]\nFor example, tire 3"
+    }, {
+      "id": "md4_buffs_summaryDesc_1214",
+      "content": "[Rest Stops]\n4 or more tires:"
+    }, {
+      "id": "md4_buffs_summaryDesc_122",
+      "content": "[Shops]\n20% not updated"
+    }, {
+      "id": "md4_buffs_summaryDesc_123",
+      "content": "[Rest Stops]\nFor example, the futures increased -7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1231",
+      "content": "[Rest Stops]\nIrritation, futures consoles 7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1232",
+      "content": "[Rest Stops]\nBlood flow"
+    }, {
+      "id": "md4_buffs_summaryDesc_1233",
+      "content": "[Rest Stops]\nFor example, additional futures a single-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1234",
+      "content": "[Rest Stops]\nfor example."
+    }, {
+      "id": "md4_buffs_summaryDesc_1235",
+      "content": "[Rest Stops]\nFor example, heavy 7.5% understand"
+    }, {
+      "id": "md4_buffs_summaryDesc_1236",
+      "content": "[Rest Stops]\nPosts, over 7.5% prize"
+    }, {
+      "id": "md4_buffs_summaryDesc_1237",
+      "content": "[Rest Stops]\nExtensive future accumulated as 7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_124",
+      "content": "[Rest Stops]\n20% of the possibility of reflective"
+    }, {
+      "id": "md4_buffs_summaryDesc_125",
+      "content": "[Rest Stops]\nFor example, add 10% of the gift"
+    }, {
+      "id": "md4_buffs_summaryDesc_1251",
+      "content": "[Rest Stops]\nReward-like gift is up to 7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1252",
+      "content": "[Rest Stops]\n-7.5% single yard"
+    }, {
+      "id": "md4_buffs_summaryDesc_1253",
+      "content": "[Rest Stops]\nFor example, both"
+    }, {
+      "id": "md4_buffs_summaryDesc_1254",
+      "content": "[Rest Stops]\nRewards Free Vegetables -7-7-7-7.5%"
+    }, {
+      "id": "md4_buffs_summaryDesc_126",
+      "content": "[Universal]\nThe benefit of the benefit of the benefit after the fighting + 10%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1261",
+      "content": "[Universal]\n10% profits after winning a regular meeting"
+    }, {
+      "id": "md4_buffs_summaryDesc_1262",
+      "content": "[Universal]\nAfter winning the most important meeting, benefits + 10%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1263",
+      "content": "[Universal]\nElieT meeting + win after 10%"
+    }, {
+      "id": "md4_buffs_summaryDesc_1264",
+      "content": "[Universal]\nBoss after the match + 10% win"
+    }, {
+      "id": "md4_buffs_summaryDesc_131",
+      "content": "[Floor Theme]\nThing 2"
+    }, {
+      "id": "md4_buffs_summaryDesc_132",
+      "content": "[Encounters]\nBusiness + 2.5% of loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1321",
+      "content": "[Encounters]\nBusiness + 2.5% of loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1322",
+      "content": "[Encounters]\nBusiness + 2.5% of loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1323",
+      "content": "[Encounters]\nBusiness + 2.5% of loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1324",
+      "content": "[Encounters]\nIllegal level +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_1325",
+      "content": "[Encounters]\nIllegal level +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_133",
+      "content": "[Encounter Reward Cards]\nNumber of card options +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_134",
+      "content": "[Encounters]\n-2.5% loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1341",
+      "content": "[Encounters]\n-2.5% loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1342",
+      "content": "[Encounters]\n-2.5% loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1343",
+      "content": "[Encounters]\n-2.5% loss"
+    }, {
+      "id": "md4_buffs_summaryDesc_1344",
+      "content": "[Encounters]\nSecurity level is +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_1345",
+      "content": "[Encounters]\nSecurity level is +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_1346",
+      "content": "[Encounters]\nSecurity level is +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_135",
+      "content": "[Floor Theme]\nThing 2"
+    }, {
+      "id": "md4_buffs_summaryDesc_136",
+      "content": "[Encounters]\n+1 resource mirrors for all sources of the dark"
+    }, {
+      "id": "md4_buffs_summaryDesc_1361",
+      "content": "[Encounters]\n+1 resource mirrors for all sources of the dark"
+    }, {
+      "id": "md4_buffs_summaryDesc_1362",
+      "content": "[Encounters]\nMaximum speed + +"
+    }, {
+      "id": "md4_buffs_summaryDesc_1363",
+      "content": "[Encounters]\nMaximum speed + +"
+    }, {
+      "id": "md4_buffs_summaryDesc_141",
+      "content": "For example, select a gift +1"
+    }, {
+      "id": "md4_buffs_summaryDesc_142",
+      "content": "Cost is +250"
+    }, {
+      "id": "md4_buffs_summaryDesc_14",
+      "content": "After selecting the first gifts"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_desc_1",
+      "content": "For example, combined with the gift<color=#f8c200>Ages</color> The correct keyword gift such as better to improve the opportunity of the gifts."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_desc_2",
+      "content": "The following gifts such as future 2."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_diffrent_keyword",
+      "content": "And the gift with other major words"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_identical_keyword",
+      "content": "And with the same key word"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_two_same_keywords",
+      "content": "If only one heard of the gift to share the keyword, gather it."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "Tire 1 + tire 1 => tire 1"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "Tier 1 + Level 1 =><color=#f8c200>Tire 2</color>"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "Tire 1 + tire 2 => tire 1"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "Tire 1 + tire 2 =><color=#f8c200>Tire 2</color>"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "Tire 1 + layer 3 => tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "Tire 1 + layer 3 => tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_0",
+      "content": "2 + tire tire 2 => tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_1",
+      "content": "2 + tire tire 2 => tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_0",
+      "content": "2 + tire tire 3 => tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_1",
+      "content": "2 + tire tire 3 => tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_0",
+      "content": "Tier 3 + Level => Tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_1",
+      "content": "Tier 3 + Level => Tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_desc_3",
+      "content": "The following keywords, for example, 2 hours."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "Rates of grooms like grooms: 37.5% 37.5%\nIntegration: 25% of other keywords"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_1",
+      "content": "Keyword Speed ​​of the same element as a gift: 75%\nIntegration: 25% of other keywords"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_desc_4",
+      "content": "It is assumed that the following gift is tile."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "Tier 1 + Tire 1 + Tire 1 => tire 1"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_1",
+      "content": "Tier 1 + Tire 1 + Level 1 =><color=#f8c200>Tire 2</color>"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "Tier 1 + Tire 1 + Tire 2 => Tire 1"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_1",
+      "content": "Tier 1 + Tire 1 + Level 2 =><color=#f8c200>Tire 2</color>"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "Tier 1 + Tire 1 + Tire 3 => Tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_1",
+      "content": "Tier 1 + Tire 1 + Tire 3 => Tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "Tier 1 + Tire 2 + Tire 2 => Tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_1",
+      "content": "Tier 1 + Tire 2 + Tire 2 => Tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "Tier 1 + Tire 2 + Level 3 => Tire 2"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_1",
+      "content": "Tier 1 + Tire 2 + Level 3 = >><color=#f8c200>Tire 3</color>"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "Tier 1 + Level 3 => Tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_1",
+      "content": "Tier 1 + Level 3 => Tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "2 + tire 2 + tire 2 => tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_1",
+      "content": "2 + tire 2 + tire 2 => tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "2 + tire 2 + tire 3 => tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_1",
+      "content": "2 + tire 2 + tire 2 => tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "2 + tire 3 + level 3 => tire 3"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_1",
+      "content": "Tier 2 + Level 3 =><color=#f8c200>4 tires</color>"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "Tier 3 + Level 3 => Tire 4"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_1",
+      "content": "Tier 3 + Level 3 => Tire 4"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_desc_5",
+      "content": "The following keywords can be the same e .3, which can be three gifts."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
+      "content": "Keywords of Keywords for parts like limbs: 25% 25%\nIntegration: 25% of other keywords"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
+      "content": "As the speed of sharing keywords.\n\nInsert keyword, because the key is shown in the word: 25%\n\nIntegration: 25% of other keywords"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",
+      "content": "Keyword Speed ​​of the same element as a gift: 75%\n\nIntegration: 25% of other keywords"
+    }, {
+      "id": "mirror_ego_gift_combine_guide_desc_6",
+      "content": "However, if the future is not a gift, other levels or major gifts are a gift for EO words."
+    }, {
+      "id": "mirror_ego_gift_combine_guide_popup_title",
+      "content": "Connection"
+    }, {
+      "id": "mirrordungeon_select_theme_pack_at_floor",
+      "content": "Select the flooring {0} Theater package"
+    }, {
+      "id": "mirrordungeon_ego_gift_appear_rate_up",
+      "content": "Piece"
+    }, {
+      "id": "mirrordungeon_ego_gift_appearable",
+      "content": "Don"
+    }, {
+      "id": "mirrordungeon_selected_floor_theme_label",
+      "content": "Flooding"
+    }, {
+      "id": "mirrordungeon_ego_gift_sort_by_tier",
+      "content": "Level"
+    }, {
+      "id": "mirrordungeon_ego_gift_sort_by_keyword",
+      "content": "Canot"
+    }, {
+      "id": "side_content_cannot_acquire_specific_ego_gift",
+      "content": "There is no level {0} For example, you can get a gift from this subject."
+    }, {
+      "id": "side_content_free_refresh",
+      "content": "[Grand Sea of Clouds] The active of war\nFree recovery price"
+    }, {
+      "id": "side_content_egogift_free_upgrade",
+      "content": "[Fierce Gust] The active of war\nIncreased income cost"
+    }, {
+      "id": "mirror_dungeon_finished_panel_floor_theme",
+      "content": "Land"
+    }, {
+      "id": "mirror_dungeon_finished_panel_battle_reward",
+      "content": "Medal"
+    }, {
+      "id": "mirror_dungeon_finished_panel_used",
+      "content": "Accuracy"
+    }, {
+      "id": "mirror_dungeon_appeared_ego_gift",
+      "content": "Special gift"
+    }, {
+      "id": "mirror_dungeon_select_theme_drag",
+      "content": "Select the bag\nRubbing"
+    }, {
+      "id": "mirror_dungeon_cannot_acquired_ego_gift",
+      "content": "for example"
+    }, {
+      "id": "simulation_difficulty_short",
+      "content": "Simulation"
+    }, {
+      "id": "ritournelle_difficulty_short",
+      "content": "R t or daughter"
+    }, {
+      "id": "easy_difficulty_simple",
+      "content": "Lights"
+    }, {
+      "id": "refresh_shop_item_by_chip_warning",
+      "content": "Do you use restoration?\n\n<size=70%>Use Star Light Updates.<color=#990000>Tara shines at the beginning of the dark</color> And and<color=#990000>Every star won the dark contest</color>Intersection\nWhatever you have, you cannot use more stars on it.</size>\n\n<size=85%>At the beginning of the dark, the light of the star is thus. {0}</size>"
+    }, {
+      "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
+      "content": "Is useless"
+    }, {
+      "id": "mirror_dungeon_shop_keyword_refresh",
+      "content": "Coating with the words of tea"
+    }, {
+      "id": "mirror_dungeon_shop_refresh_by_chip",
+      "content": "The stars"
+    }, {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
+      "content": "Again shop"
+    }, {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
+      "content": "To enhance the possibility of keyword category in the restoration key \"store\"\nDeleting {0} New price?"
+    }, {
+      "id": "ego_gift_combine_ui_plz_select_keyword",
+      "content": "Select Keywords."
+    }, {
+      "id": "ego_gift_select_keyword_ui_title",
+      "content": "Choose a combination of the main word"
+    }, {
+      "id": "ego_gift_select_keyword_ui_desc",
+      "content": "Select the keyword to close."
+    }, {
+      "id": "new_ego_gift_combine_guide_desc_1",
+      "content": "Select <Fuse Zone> at the back of the screen."
+    }, {
+      "id": "new_ego_gift_combine_guide_table_1_col_1_title",
+      "content": "Number of gifts used to mix"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_1_col_2_title",
+      "content": "Gift to lift your keyword"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "2 gifts"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "60%"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "3 gifts"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "90%"
+    }, {
+      "id": "new_ego_gift_combine_guide_diffrent_keyword_notice",
+      "content": "The keywords of the limbs do not affect the effects of integration."
+    }, {
+      "id": "new_ego_gift_combine_guide_desc_2",
+      "content": "Gifts have been written under the tables: For example, 2 gifts."
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_col_1_title",
+      "content": "For example, the primary"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_col_2_title",
+      "content": "Like the gift"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "Tier 1 + division 1"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_desc_2_0",
+      "content": "1 + division 2 tires"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_desc_3_0",
+      "content": "1 + division 3 tires"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_desc_4_0",
+      "content": "2 + division 2 tires"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_desc_5_0",
+      "content": "2 + division 3 tires"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_2_desc_6_0",
+      "content": "Tier 3 + division 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_desc_3",
+      "content": "Below is the gift of four EA's levels when you add 3G gifts."
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_col_1_title",
+      "content": "And the gift with other major words"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_col_2_title",
+      "content": "Like the gift"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "Tier 1 + Tire 1 + Tire 1"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "1 tire + tire 1 + frame 2"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "1 tire + tire 1 + frame 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "1 + Frame 2 + Frame 2"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "Tier 1 + Frame 2 + Frame 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "Tier 1 + Domain 3 + Tire 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "2 Tires + Frame 2 + Frame 2"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "2 Tires + Frame 2 + Frame 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "2 Tires + Frame 3 + Frame 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "Tier 3 + Level 3 3 3 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_tier_1",
+      "content": "Tire 1"
+    }, {
+      "id": "new_ego_gift_combine_guide_tier_2",
+      "content": "Tire 2"
+    }, {
+      "id": "new_ego_gift_combine_guide_tier_3",
+      "content": "Tire 3"
+    }, {
+      "id": "new_ego_gift_combine_guide_tier_4",
+      "content": "4 tires"
+    }, {
+      "id": "new_ego_gift_combine_guide_desc_4",
+      "content": "However, each of the keys and level groups each one gets a gift or gift or the floor of the floor head.<b>You can get gifts from more large levels or words.</u></b> In the list above."
+    }, {
+      "id": "new_ego_gift_combine_guide_desc_5",
+      "content": "If you get all the gifts correctly or for the above reasons you cannot get all gifts, <u><b>I can't track the Fascia</u></b>Intersection"
+    }, {
+      "id": "mirror_battle_reward_card_guide_popup_title",
+      "content": "English Compensation Guide"
+    }, {
+      "id": "mirror_battle_reward_card_guide_text_1",
+      "content": "After cleaning, you can have the opportunity to win award."
+    }, {
+      "id": "mirror_battle_reward_card_guide_text_2",
+      "content": "Fill your gift card with a constitutional average."
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "Woman"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "Dry Dark Retarter (Rutron)"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
+      "content": "First floor"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "Traditional Meeting: 7.5%\nIntense meet: -\nIssues are as follows: -\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "Traditional Meeting: 7.5%\nIntense meet: -\nIssues are as follows: -\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_0",
+      "content": "2 floor"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
+      "content": "Third floor"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "Traditional Meeting: 10%\nAppointment: 20%\nElite meeting: 33%\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_0",
+      "content": "Fourth floor"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "Traditional Meeting: 12.5%\nIntense meeting: 25%\nExperience: 50%\nCollect the President: -"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "Traditional Meeting: 12.5%\nIntense meeting: 25%\nExperience: 50%\nBasic Trainer: 100%"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
+      "content": "5th floor"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "-"
+    }, {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "Traditional Meeting: 12.5%\nIntense meeting: 25%\nExperience: 50%\nCollect the President: -"
+    }, {
+      "id": "expected_result",
+      "content": "Thank you"
+    }, {
+      "id": "confirmed",
+      "content": "make sure"
+    }, {
+      "id": "combine_tooltip_title",
+      "content": "The result is different from wide expectations and differs from assessment of keywords \"(Random)."
+    }, {
+      "id": "combine_tooltip_desc1",
+      "content": "For example, if everyone can use it."
+    }, {
+      "id": "combine_tooltip_desc2",
+      "content": "Keywords and Pre-authenticated stitching levels are indicated to all mirrors or prices (you can find in the next layer)"
+    }, {
+      "id": "combine_tooltip_notice",
+      "content": "All gifts are not included in a combination of future levels."
+    }
+  ]
+}

@@ -1,1 +1,155 @@
-{"dataList": [{"id": "loginui_sign_in_with_google", "content": "Enter Google"}, {"id": "loginui_sign_in_with_apple", "content": "Result"}, {"id": "loginui_sign_in_with_steam", "content": "Log in with a couple"}, {"id": "loginui_sign_in_with_guest", "content": "Result"}, {"id": "loginui_sign_out_current_account", "content": "Membership resistance"}, {"id": "loginui_sign_out_current_account_desc", "content": "Do you want to log in the partner?\nIf you play as a guest, you can lose data."}, {"id": "loginui_sign_out_switch_account_desc", "content": "Log out from the recurring account\nDo you choose\nIf you play as a guest, you can lose data."}, {"id": "switch_account", "content": "Change your account"}, {"id": "user_agreements", "content": "Terms of service"}, {"id": "title_game_data_download", "content": "Download the game"}, {"id": "content_game_data_download", "content": "Charge{0} Noodles."}, {"id": "content_game_data_download_description", "content": "If you do not have enough memory on the device, go to the address screen."}, {"id": "content_game_data_download_recommend", "content": "Directly to the Internet connection (Y-Fi) is recommended."}, {"id": "switch_allcacheclear", "content": "Clear the full cash"}, {"id": "switch_oldcacheclear", "content": "Clean the old cake"}, {"id": "networkingerror_content", "content": "The network is unstable.\nCheck the online connection."}, {"id": "networkingerror_close", "content": "Depart"}, {"id": "networkingerror_retry", "content": "try again"}, {"id": "loginui_ok", "content": "Check"}, {"id": "login_cancel", "content": "To remove"}, {"id": "loginui_loading_battlehint", "content": "Warrior"}, {"id": "servererror_content", "content": "There is a server error.\ntry again."}, {"id": "forcequit_content", "content": "I can't work in sports.\nStop now."}, {"id": "serverstate_openpreparation", "content": "The situation is still ready!"}, {"id": "serverstate_regularcheck", "content": "The server is currently maintained."}, {"id": "serverstate_temporary_check", "content": "The server is currently maintained."}, {"id": "serverstate_verify_invaliduser", "content": "No account or closed."}, {"id": "serverstate_verify_ban", "content": "Limited to account sports."}, {"id": "serverstate_verify_invalidauth", "content": "There is an error.\nLogin again."}, {"id": "guestlogin_failed_try_newguest", "content": "The guest application failed.\nNo account for guests or absent.\n\nDo you want to create a new guest account?"}, {"id": "secession_remain_days", "content": "The account is currently in the present day.\nFor the remaining time:{0}By{1}P.{2}Without\n\nIf you are enrolled now, you can restore your account.\nDo you want to restore your account?"}, {"id": "secession_canceled", "content": "Account has been updated successfully."}, {"id": "serverstate_verify_invalidclientversion", "content": "Sports customers should update."}, {"id": "create_guest", "content": "Create a guest account"}, {"id": "ask_to_remove_all_cache", "content": "Do you want to clear the whole cash?"}, {"id": "networkingerror_update", "content": "Storage"}, {"id": "speed_hack_warning", "content": "The third page got an unofficial scheme."}, {"id": "serverstate_verify_ban_startdate", "content": "Date"}, {"id": "serverstate_verify_ban_reason", "content": "Explain"}, {"id": "serverstate_verify_ban_reason_refund", "content": "Using the best system"}, {"id": "serverstate_verify_ban_reason_cheat", "content": "Enter an unusual game"}, {"id": "serverstate_blocking_endpoint", "content": "This is currently maintenance."}, {"id": "serverstate_verify_invaliduuid", "content": "The request has been fixed.\nSync the restore and the game."}, {"id": "login_scene_mini_story_warning_spoiler_format", "content": "The story was appointed after the most important chapter of history.{0}Do you want to recognize this story yet?"}, {"id": "login_scene_mini_story_unlock_code_105", "content": "5"}, {"id": "login_scene_mini_story_unlock_code_9105", "content": "5.5"}, {"id": "switch_clearcatalog", "content": "Remove the guide"}, {"id": "panel_clearcatalog", "content": "Do you want to delete the folder?"}, {"id": "serverstate_error_thirdparty_api", "content": "Complete information about external servers."}, {"id": "servererror_invalid_purchasing_package", "content": "Treatment failed."}]}
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "Enter Google"
+    }, {
+      "id": "loginui_sign_in_with_apple",
+      "content": "Result"
+    }, {
+      "id": "loginui_sign_in_with_steam",
+      "content": "Log in with a couple"
+    }, {
+      "id": "loginui_sign_in_with_guest",
+      "content": "Result"
+    }, {
+      "id": "loginui_sign_out_current_account",
+      "content": "Membership resistance"
+    }, {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "Do you want to log in the partner?\nIf you play as a guest, you can lose data."
+    }, {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "Log out from the recurring account\nDo you choose\nIf you play as a guest, you can lose data."
+    }, {
+      "id": "switch_account",
+      "content": "Change your account"
+    }, {
+      "id": "user_agreements",
+      "content": "Terms of service"
+    }, {
+      "id": "title_game_data_download",
+      "content": "Download the game"
+    }, {
+      "id": "content_game_data_download",
+      "content": "Charge {0} Noodles."
+    }, {
+      "id": "content_game_data_download_description",
+      "content": "If you do not have enough memory on the device, go to the address screen."
+    }, {
+      "id": "content_game_data_download_recommend",
+      "content": "Directly to the Internet connection (Y-Fi) is recommended."
+    }, {
+      "id": "switch_allcacheclear",
+      "content": "Clear the full cash"
+    }, {
+      "id": "switch_oldcacheclear",
+      "content": "Clean the old cake"
+    }, {
+      "id": "networkingerror_content",
+      "content": "The network is unstable.\nCheck the online connection."
+    }, {
+      "id": "networkingerror_close",
+      "content": "Depart"
+    }, {
+      "id": "networkingerror_retry",
+      "content": "try again"
+    }, {
+      "id": "loginui_ok",
+      "content": "Check"
+    }, {
+      "id": "login_cancel",
+      "content": "To remove"
+    }, {
+      "id": "loginui_loading_battlehint",
+      "content": "Warrior"
+    }, {
+      "id": "servererror_content",
+      "content": "There is a server error.\ntry again."
+    }, {
+      "id": "forcequit_content",
+      "content": "I can't work in sports.\nStop now."
+    }, {
+      "id": "serverstate_openpreparation",
+      "content": "The situation is still ready!"
+    }, {
+      "id": "serverstate_regularcheck",
+      "content": "The server is currently maintained."
+    }, {
+      "id": "serverstate_temporary_check",
+      "content": "The server is currently maintained."
+    }, {
+      "id": "serverstate_verify_invaliduser",
+      "content": "No account or closed."
+    }, {
+      "id": "serverstate_verify_ban",
+      "content": "Limited to account sports."
+    }, {
+      "id": "serverstate_verify_invalidauth",
+      "content": "There is an error.\nLogin again."
+    }, {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "The guest application failed.\nNo account for guests or absent.\n\nDo you want to create a new guest account?"
+    }, {
+      "id": "secession_remain_days",
+      "content": "The account is currently in the present day.\nFor the remaining time: {0} By {1} P. {2} Without\n\nIf you are enrolled now, you can restore your account.\nDo you want to restore your account?"
+    }, {
+      "id": "secession_canceled",
+      "content": "Account has been updated successfully."
+    }, {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "Sports customers should update."
+    }, {
+      "id": "create_guest",
+      "content": "Create a guest account"
+    }, {
+      "id": "ask_to_remove_all_cache",
+      "content": "Do you want to clear the whole cash?"
+    }, {
+      "id": "networkingerror_update",
+      "content": "Storage"
+    }, {
+      "id": "speed_hack_warning",
+      "content": "The third page got an unofficial scheme."
+    }, {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "Date"
+    }, {
+      "id": "serverstate_verify_ban_reason",
+      "content": "Explain"
+    }, {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "Using the best system"
+    }, {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "Enter an unusual game"
+    }, {
+      "id": "serverstate_blocking_endpoint",
+      "content": "This is currently maintenance."
+    }, {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "The request has been fixed.\nSync the restore and the game."
+    }, {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "The story was appointed after the most important chapter of history. {0} Do you want to recognize this story yet?"
+    }, {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    }, {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    }, {
+      "id": "switch_clearcatalog",
+      "content": "Remove the guide"
+    }, {
+      "id": "panel_clearcatalog",
+      "content": "Do you want to delete the folder?"
+    }, {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "Complete information about external servers."
+    }, {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "Treatment failed."
+    }
+  ]
+}

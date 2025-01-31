@@ -1,1 +1,66 @@
-{"dataList": [{"id": 1010311, "name": "Participate", "desc": "Profit is calculated in success.\nCulture for each 5 digit +1."}, {"id": 1020211, "name": "For faith", "desc": "You get a +1 computer after the attack.\nAfter the attack, he brought random computer ali +1."}, {"id": 1050311, "name": "Connection", "desc": "+1 when the download number is +1.\nGISK +1 account number after losing conflict."}, {"id": 1070411, "name": "To prepare ...", "desc": "If there is an ally, he loses 10 SP and receives a line.\nIf you have four or more readers of this item, \"n corporation fiftyx\", Coins Power +1."}, {"id": 1100211, "name": "Killer", "desc": "The contract chain + will hurt the final technology of the final technology of 20%.\nIf the partner (except this device) receives 50% + 1 of the capacity capacity of interest.", "summary": "Final Contract Chain Technology Final Currency + 20% loss."}, {"id": 1020411, "name": "Granular work", "desc": "When the Jaz begins, they are SP 15 F.There are at least two things from.\nIf you are an ally \"corporate\", use two types of basics."}, {"id": 1020431, "name": "Strong", "desc": "When Hunter started the phase, at least 15 co-embersiled Florida.\nIf you are an ally \"corporate\", use two types of basics."}, {"id": 1100511, "name": "off one's nuts", "desc": "He won the battle or defeated the enemy and SCReduced 50%.\nThere is no \"N\" when using more than five units of reading this device."}, {"id": 1070311, "name": "Scratchi", "desc": "Benefits (more serious).\nBill 5+ and make an effective attack.\nAlways Activity: 0.3 ammunition at the beginning of the phase."}, {"id": 1050611, "name": "Queue # 4 Miss lawsuit", "desc": "At the end of the way, digital accounts in the next line is the maximum speed.\nWhen the journey begins, it will last for five years, which will take three years after the appliance."}, {"id": 1080511, "name": "Fill the liquid", "desc": "If the device does not attack HP damage with technology, the maximum screen benefit is 10%."}, {"id": 1080211, "name": "Take care of the brain", "desc": "At the beginning of the hunter stage, attack the power attack (glue / 3).\nIf the device has not been damaged, 15 SPS will be lost after development."}, {"id": 1040511, "name": "Edge", "desc": "After the enemy falls"}, {"id": 1040531, "name": "Face", "desc": "If contribute enemies lose out of HP, you get download number +3 (one round)."}, {"id": 1060611, "name": "Cleaning and popular space", "desc": "If you count 5+ at the beginning of the Hunter view, you get two enemies race.<style=\"highlight\">Get a person with 10 people.</style>"}]}
+{
+  "dataList": [
+    {
+      "id": 1010311,
+      "name": "Participate",
+      "desc": "Profit is calculated in success.\nCulture for each 5 digit +1."
+    }, {
+      "id": 1020211,
+      "name": "For faith",
+      "desc": "You get a +1 computer after the attack.\nAfter the attack, he brought random computer ali +1."
+    }, {
+      "id": 1050311,
+      "name": "Connection",
+      "desc": "+1 when the download number is +1.\nGISK +1 account number after losing conflict."
+    }, {
+      "id": 1070411,
+      "name": "To prepare ...",
+      "desc": "If there is an ally, he loses 10 SP and receives a line.\nIf you have four or more readers of this item, \"n corporation fiftyx\", Coins Power +1."
+    }, {
+      "id": 1100211,
+      "name": "Killer",
+      "desc": "The contract chain + will hurt the final technology of the final technology of 20%.\nIf the partner (except this device) receives 50% + 1 of the capacity capacity of interest.",
+      "summary": "Final Contract Chain Technology Final Currency + 20% loss."
+    }, {
+      "id": 1020411,
+      "name": "Granular work",
+      "desc": "When the Jaz begins, they are SP 15 F.There are at least two things from.\nIf you are an ally \"corporate\", use two types of basics."
+    }, {
+      "id": 1020431,
+      "name": "Strong",
+      "desc": "When Hunter started the phase, at least 15 co-embersiled Florida.\nIf you are an ally \"corporate\", use two types of basics."
+    }, {
+      "id": 1100511,
+      "name": "off one's nuts",
+      "desc": "He won the battle or defeated the enemy and SCReduced 50%.\nThere is no \"N\" when using more than five units of reading this device."
+    }, {
+      "id": 1070311,
+      "name": "Scratchi",
+      "desc": "Benefits (more serious).\nBill 5+ and make an effective attack.\nAlways Activity: 0.3 ammunition at the beginning of the phase."
+    }, {
+      "id": 1050611,
+      "name": "Queue # 4 Miss lawsuit",
+      "desc": "At the end of the way, digital accounts in the next line is the maximum speed.\nWhen the journey begins, it will last for five years, which will take three years after the appliance."
+    }, {
+      "id": 1080511,
+      "name": "Fill the liquid",
+      "desc": "If the device does not attack HP damage with technology, the maximum screen benefit is 10%."
+    }, {
+      "id": 1080211,
+      "name": "Take care of the brain",
+      "desc": "At the beginning of the hunter stage, attack the power attack (glue / 3).\nIf the device has not been damaged, 15 SPS will be lost after development."
+    }, {
+      "id": 1040511,
+      "name": "Edge",
+      "desc": "After the enemy falls"
+    }, {
+      "id": 1040531,
+      "name": "Face",
+      "desc": "If contribute enemies lose out of HP, you get download number +3 (one round)."
+    }, {
+      "id": 1060611,
+      "name": "Cleaning and popular space",
+      "desc": "If you count 5+ at the beginning of the Hunter view, you get two enemies race.<style=\"highlight\">Get a person with 10 people.</style>"
+    }
+  ]
+}

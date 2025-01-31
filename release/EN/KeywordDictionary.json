@@ -1,1 +1,13 @@
-{"dataList": [{"id": "Gcorp", "name": "C. Company", "desc": "This is a company."}, {"id": "body", "name": "Body", "desc": "Body (Name): A person's body or animal after death."}]}
+{
+  "dataList": [
+    {
+      "id": "Gcorp",
+      "name": "C. Company",
+      "desc": "This is a company."
+    }, {
+      "id": "body",
+      "name": "Body",
+      "desc": "Body (Name): A person's body or animal after death."
+    }
+  ]
+}
