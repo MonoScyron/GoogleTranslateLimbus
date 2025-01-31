@@ -84,7 +84,8 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
     if not any(char.isalpha() for char in text) or text[:2] == '//':
         return text
 
-    raw_split = re.split(r"(\s*)(</?[a-z\s]*[=/].*?>|</?i>|</?b>|</?u>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)", text)
+    raw_split = re.split(r"(\s*)(</?[a-z\s]*[=/].*?>|</?i>|</?b>|</?u>|\n|\[?{[0-9a-zA-Z]+}]?|\[[a-zA-Z0-9\s]+])(\s*)",
+                         text)
     translation = []
     for i, t in enumerate(raw_split):
         # skip empty
@@ -138,15 +139,20 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
         return
 
     # if file isn't json or has no dataList, copy raw
-    if not filename.endswith('.json'):
-        log.info(f'{filename} not json, copying raw')
-        shutil.copy(os.path.join(local_path, filename), write_path)
+    raw_file_path = os.path.join(local_path, filename)
+    if not os.path.isfile(raw_file_path):
+        log.info(f'{filename} not file, skipping')
         return
 
-    data = readfile(os.path.join(local_path, filename))
+    if not filename.endswith('.json'):
+        log.info(f'{filename} not json, copying raw')
+        shutil.copy(raw_file_path, write_path)
+        return
+
+    data = readfile(raw_file_path)
     if 'dataList' not in data:
         log.info(f'{filename} has no dataList, copying raw')
-        shutil.copy(os.path.join(local_path, filename), write_path)
+        shutil.copy(raw_file_path, write_path)
         return
 
     cache = {}
