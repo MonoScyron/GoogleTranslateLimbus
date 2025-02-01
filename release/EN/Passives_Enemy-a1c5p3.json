@@ -1,1 +1,25 @@
-{"dataList": [{"id": 9009801, "name": "Gray pens-up", "desc": "Initially, the \"illegal levels\" and \"security levels\" were obtained according to the number of readers (except this unit).", "summary": ""}, {"id": 9009802, "name": "Captain", "desc": "Initially", "summary": ""}, {"id": 9009803, "name": "Hate and friendly vaccine", "desc": "As a result: 50% HP, attack the power attack in the next poem.", "summary": ""}, {"id": 9009804, "name": "Bald", "desc": "Final Support: The probability of changing the appearance of technology is 50%.", "summary": ""}]}
+{
+  "dataList": [
+    {
+      "id": 9009801,
+      "name": "Gray pens-up",
+      "desc": "Initially, the \"illegal levels\" and \"security levels\" were obtained according to the number of readers (except this unit).",
+      "summary": ""
+    }, {
+      "id": 9009802,
+      "name": "Captain",
+      "desc": "Initially",
+      "summary": ""
+    }, {
+      "id": 9009803,
+      "name": "Hate and friendly vaccine",
+      "desc": "As a result: 50% HP, attack the power attack in the next poem.",
+      "summary": ""
+    }, {
+      "id": 9009804,
+      "name": "Bald",
+      "desc": "Final Support: The probability of changing the appearance of technology is 50%.",
+      "summary": ""
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"dataList": [{"id": 9011601, "name": "That ... ... ... ... ... .... ... ..... ... ... ... ... .... ... ... ...... ... ... ... ... ....... ... .... ... ... ... ... ... ... ...... ... ... ... ... .... ... ... ...... ... ... ... ... ....... ... .... ... ... ... ... ... ... ...... ... ... ... ... .... ... ... ...... ... ... ... ... ....... ... .... ... ... ... ... ... ... ...... ... ... ... ... .... ... ... ...... ... ... ... ... ... ... ... ...", "desc": "The smallest goal is HP + 10% treatment", "summary": "+ 10% injury"}, {"id": 9011801, "name": "...", "desc": "If the RSS has lost controversy, the problem will be bad.", "summary": "Requires 3 ps injuries for target"}, {"id": 9012001, "name": "Beautiful", "desc": "If you use technology, if the goal is less than 50%, technical strength is +1.", "summary": "Technology Power +1"}, {"id": 9012201, "name": "Events", "desc": "While using technology, loss is reduced to 50% + 30% on the phone.", "summary": "TV + 30%"}, {"id": 9012301, "name": "Civilization", "desc": "If you use technology, if the device's speed is faster than the target, +1 confusing strength", "summary": "Calcash electric 11"}, {"id": 9012501, "name": "Rats", "desc": "If the technique is used, if the speed of this device is faster than the target, rubbing +11 and its contrast.", "summary": "Power +1, Processing + 20% Damage"}, {"id": 9012601, "name": "I will ... will be everything", "desc": "When you fall, will end", "summary": ""}, {"id": 9012602, "name": "I want to forgive ... teacher!", "desc": "Finally, as you know: If this device is recovered, you will be attacked.", "summary": "Attach the electricity on the next line"}, {"id": 9101401, "name": "I will clean you ...", "desc": "Finally: If you are connected, use the lifestyle and violate 20 SPS.", "summary": ""}, {"id": 9101402, "name": "Drugs are fools!", "desc": "If the speed of this device is faster than +2 of the target", "summary": "Energy Dispute +2"}, {"id": 9101403, "name": "The sound of the hostess ...", "desc": "If every 10 SP connection attack is discussed in the attack", "summary": "Treatment 10S.P."}, {"id": 9101404, "name": "Are you going to teacher, witnesses?", "desc": "If the object and object sync -15 or less, you will get three levels of the next round.", "summary": ""}, {"id": 9999999, "name": "Improvements", "desc": "Spin: If you are worried, make SP0 again.", "summary": ""}, {"id": 9999998, "name": "Nervous", "desc": "If you change the type of terrorism, do not change the type of fear of this device.", "summary": ""}]}
+{
+  "dataList": [
+    {
+      "id": 9011601,
+      "name": "That ... ... ... ... ... .... ... ..... ... ... ... ... .... ... ... ...... ... ... ... ... ....... ... .... ... ... ... ... ... ... ...... ... ... ... ... .... ... ... ...... ... ... ... ... ....... ... .... ... ... ... ... ... ... ...... ... ... ... ... .... ... ... ...... ... ... ... ... ....... ... .... ... ... ... ... ... ... ...... ... ... ... ... .... ... ... ...... ... ... ... ... ... ... ... ...",
+      "desc": "The smallest goal is HP + 10% treatment",
+      "summary": "+ 10% injury"
+    }, {
+      "id": 9011801,
+      "name": "...",
+      "desc": "If the RSS has lost controversy, the problem will be bad.",
+      "summary": "Requires 3 ps injuries for target"
+    }, {
+      "id": 9012001,
+      "name": "Beautiful",
+      "desc": "If you use technology, if the goal is less than 50%, technical strength is +1.",
+      "summary": "Technology Power +1"
+    }, {
+      "id": 9012201,
+      "name": "Events",
+      "desc": "While using technology, loss is reduced to 50% + 30% on the phone.",
+      "summary": "TV + 30%"
+    }, {
+      "id": 9012301,
+      "name": "Civilization",
+      "desc": "If you use technology, if the device's speed is faster than the target, +1 confusing strength",
+      "summary": "Calcash electric 11"
+    }, {
+      "id": 9012501,
+      "name": "Rats",
+      "desc": "If the technique is used, if the speed of this device is faster than the target, rubbing +11 and its contrast.",
+      "summary": "Power +1, Processing + 20% Damage"
+    }, {
+      "id": 9012601,
+      "name": "I will ... will be everything",
+      "desc": "When you fall, will end",
+      "summary": ""
+    }, {
+      "id": 9012602,
+      "name": "I want to forgive ... teacher!",
+      "desc": "Finally, as you know: If this device is recovered, you will be attacked.",
+      "summary": "Attach the electricity on the next line"
+    }, {
+      "id": 9101401,
+      "name": "I will clean you ...",
+      "desc": "Finally: If you are connected, use the lifestyle and violate 20 SPS.",
+      "summary": ""
+    }, {
+      "id": 9101402,
+      "name": "Drugs are fools!",
+      "desc": "If the speed of this device is faster than +2 of the target",
+      "summary": "Energy Dispute +2"
+    }, {
+      "id": 9101403,
+      "name": "The sound of the hostess ...",
+      "desc": "If every 10 SP connection attack is discussed in the attack",
+      "summary": "Treatment 10S.P."
+    }, {
+      "id": 9101404,
+      "name": "Are you going to teacher, witnesses?",
+      "desc": "If the object and object sync -15 or less, you will get three levels of the next round.",
+      "summary": ""
+    }, {
+      "id": 9999999,
+      "name": "Improvements",
+      "desc": "Spin: If you are worried, make SP0 again.",
+      "summary": ""
+    }, {
+      "id": 9999998,
+      "name": "Nervous",
+      "desc": "If you change the type of terrorism, do not change the type of fear of this device.",
+      "summary": ""
+    }
+  ]
+}

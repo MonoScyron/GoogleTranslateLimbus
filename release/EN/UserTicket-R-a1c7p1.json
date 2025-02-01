@@ -1,1 +1,17 @@
-{"dataList": [{"id": 38, "name": "???", "desc": "Season 5 70 free levels"}, {"id": 39, "name": "???", "desc": "The lemon card is adopted at the season 5 90 levels."}, {"id": 40, "name": "???", "desc": "Season 5 Free Belts 110 Level 110"}]}
+{
+  "dataList": [
+    {
+      "id": 38,
+      "name": "???",
+      "desc": "Season 5 70 free levels"
+    }, {
+      "id": 39,
+      "name": "???",
+      "desc": "The lemon card is adopted at the season 5 90 levels."
+    }, {
+      "id": 40,
+      "name": "???",
+      "desc": "Season 5 Free Belts 110 Level 110"
+    }
+  ]
+}

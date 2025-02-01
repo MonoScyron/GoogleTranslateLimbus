@@ -1,1 +1,1703 @@
-{"dataList": [{"id": 837801, "levelList": [{"level": 1, "name": "This is not forgiven ...", "desc": "[WhenUse] Receives 20 [Laceration] And +1 [Laceration] Account\n[DefeatDuel] Benefits +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 837802, "levelList": [{"level": 1, "name": "Follow the character ...", "desc": "[WhenUse] Receives 20 [Laceration] And +1 [Laceration] Account\n[DefeatDuel] Benefits +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 837803, "levelList": [{"level": 1, "name": "Do you think about blood today?", "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Use up to 30 [BloodDinner]Auxiliary assistants (minimum ('),[BloodDinner] Consumption x 2).", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [WornHeart] 1 [BloodyHand]"}]}]}]}, {"id": 837804, "levelList": [{"level": 1, "name": "You still think about blood?", "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Up to 20 [BloodDinner]However, friendly and friendly (abstract) and accessories (core and partitions)[BloodDinner] Consumption x 2).\n-Po if you don't have friends, a double ring will be compared.", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]\n[OnSucceedAttack] App +2 [Laceration] Account\n[OnSucceedAttack] If the device contains 50% + HPs, it is active. [Laceration] 1 with them [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [WornHeart] And and [BloodyHand]\n[OnSucceedAttack] From 10 [WornHeart]3 Add [BloodyHand] And get 1 [AttackUp] Valley"}]}]}]}, {"id": 837805, "levelList": [{"level": 1, "name": "More, more blood ...!", "desc": "[WhenUse] Usually used as 50 [BloodDinner] And get 1 [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] Get 10 [Laceration]\n[WhenUse] Benefits 3 [BloodyHand]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [BloodyHand] Every 5 people [Laceration] For purpose (up to 5)"}]}]}]}, {"id": 837806, "levelList": [{"level": 1, "name": "how many ...", "desc": "[WhenUse] The target is 6+ [Laceration], Call ++ 1\n[WhenUse] Use up to 30 [BloodDinner]: Take energy for each [BloodDinner] User\n[DefeatDuel] Get 1 [Vulnerable] Valley", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]\n[OnSucceedAttack] 4 app 4 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] HP processing is similar to damage (up to 30).\n[OnSucceedAttack] If this technical cost is 30 [BloodDinner], If the device is 40+\n- And if you can't eat this method [BloodDinner]Receives 20 [Laceration]"}]}]}]}, {"id": 837807, "levelList": [{"level": 1, "name": "Family hunt", "desc": "[WhenUse] 50% + HP, Activation [Laceration] Self (up to 3; 3 to 3; Reduce the number of uselessness, the number of bleeding, not due to this damage)\n[WhenUse] All employees have 5SP colds (I)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 837808, "levelList": [{"level": 1, "name": "Blood ...", "desc": "[WhenUse] The target is 6+ [Laceration]Processing 20% ​​damaged and increased.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 837901, "levelList": [{"level": 1, "name": "Expressing love", "desc": "Least negative effects of priority goals\n[WhenUse] If you do not have an impact on your goal, use the following rules of love \"hard manifestations\":\n\n[WhenUse] If the negative impression of the target is greater than purpose [FaintMemory] Use next \"sad throat\"", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 4 app 4 [AffectionTeddy]"}, {"desc": "[WinDuelAttack] 2 Anxiety [Vulnerable] Valley"}]}]}]}, {"id": 837902, "levelList": [{"level": 1, "name": "Response", "desc": "Least negative effects of priority goals\n[WinDuel] Application 3 [AffectionTeddy] Valley\n[DefeatDuel] Application 1 [AffectionTeddy] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [NailPersonality]"}]}]}]}, {"id": 837903, "levelList": [{"level": 1, "name": "Violent rape", "desc": "Least negative effects of priority goals\n[WinDuel] Application 3 [AffectionTeddy] Valley\n[DefeatDuel] Application 1 [AffectionTeddy] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Curse]"}]}]}]}, {"id": 837904, "levelList": [{"level": 1, "name": "Expressing love", "desc": "[DuelCounter]\n[WhenUse] 2 Anxiety [Disarming] Valley\n[WhenUse] Application 1 [Curse]", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] If your goal is. [AffectionTeddy], Use [AffectionTeddy] Development [Curse] And and [NailPersonality] From the other side [AffectionTeddy] Consumption (up to 4)"}, {"desc": "[OnSucceedAttack] Target 4+ [Curse]Entries 4 [Curse] Application Target and 1 [CursePackage]"}]}]}]}, {"id": 837905, "levelList": [{"level": 1, "name": "A harsh expression of love", "desc": "[CantChangeTarget]\nThe goal is the goal.", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "If there are no side effects on the target, the contract is 100% 100%"}, {"desc": "[OnSucceedAttack] Application 3 [Curse]"}, {"desc": "[WinDuelAttack] Application 6 [NailPersonality]"}]}]}]}, {"id": 837906, "levelList": [{"level": 1, "name": "Grief", "desc": "[CantChangeTarget]\nThe goal is the goal.\nThe goal has been damaged from 0 to 0\n[StartBattle] Get 2 [Vulnerable] In the next round\n[EndBattle] Gradually enter God", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] SP's goal is completely treated"}]}]}]}, {"id": 837907, "levelList": [{"level": 1, "name": "And the ancient sound was disappointed", "desc": "[DefeatDuel] Use this method to ensure half damage to the enemy.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Curse]"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 4 app 4 [NailPersonality]"}, {"desc": "[OnSucceedAttack] Remove everything [AffectionTeddy] Matampon\n- When the unit wins in me, the target is canceled ([AffectionTeddy] Consumption x10)"}]}]}]}, {"id": 837301, "levelList": [{"level": 1, "name": "Bracket", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration] And +2 [Laceration] Account"}]}]}]}, {"id": 837302, "levelList": [{"level": 1, "name": "Crash", "desc": "[WhenUse] Target 4+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 6 [Laceration]"}]}]}]}, {"id": 837303, "levelList": [{"level": 1, "name": "Be in the sudden attack", "desc": "[WhenUse] Target 4+ [Laceration], The basic energy + +", "coinlist": [{"coindescs": [{"desc": "[WinDuelAttack] Crisis [Laceration] The same number [Laceration] Objective objectives"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 10 applications [Laceration]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [ScarletTakeDamageUp] Valley"}]}]}]}, {"id": 837304, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] HP +10 is all 4 forbidden [Laceration] For purpose (up to 30)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 837401, "levelList": [{"level": 1, "name": "Pisai", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[CriticalOnSucceedAttack] Application 1 [Vulnerable] Valley"}]}]}]}, {"id": 837402, "levelList": [{"level": 1, "name": "Piece", "desc": "[WhenUse] Benefits 5 [Breath]", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [IndigoTakeDamageUp] Valley"}, {"desc": "[CriticalOnSucceedAttack] Application 1 [Vulnerable] Valley"}]}]}]}, {"id": 837403, "levelList": [{"level": 1, "name": "Arrogant", "desc": "[WhenUse] 5+ [Breath]Call strength + + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 4 [Breath] And +3 [Breath] Account"}, {"desc": "[CriticalOnSucceedAttack] Business + 100% loss"}]}]}]}, {"id": 837404, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] 6+ [Breath]Call strength + + +", "coinlist": [{"coindescs": [{"desc": "[CriticalOnSucceedAttack] Business + 50% of damage"}, {"desc": "[OnSucceedAttack] Benefits +2 [Breath] The next line measure"}]}]}]}, {"id": 838001, "levelList": [{"level": 1, "name": "Piece", "desc": "[WhenUse] Consumption 10 [BloodDinner]: Vijay 1 [BloodArmor]\n[WhenUse] +1 for every 10 connections [BloodArmor] (the best)\n[WhenUse] +1 for every 15 connections [Laceration] (Max 3) (maximum)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 838002, "levelList": [{"level": 1, "name": "Game Injuries", "desc": "[WhenUse] Up to 20 [BloodDinner]: Vijay 1 [BloodArmor] Every 10 [BloodDinner] User\n[WhenUse] +1 for every 10 connections [BloodArmor] (the best)\n[WhenUse] +1 for every 15 connections [Laceration] (Max 3) (maximum)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 838003, "levelList": [{"level": 1, "name": "Corn is funny", "desc": "[WhenUse] Consumption 4 [BloodArmor] Ticket sales\n[WhenUse] Consumption 10 [BloodDinner] 1 [BloodArmor] And he recovered 10.\n- And if you can't eat this device [BloodDinner], Benefits 3 [Laceration]Intersection", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] + 10% damage to everyone [Laceration] Goal (up to 100%)"}, {"desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"}]}]}]}, {"id": 838004, "levelList": [{"level": 1, "name": "Late", "desc": "Ignoring the movement\n[StartBattle] Perhaps [Laceration], Active [Laceration] About all enemies, enemy 2 [Laceration] Account\n[WhenUse] If this effect is not active at the beginning of the war, get 30. [Laceration]Intersection\n[WinDuel] Use up to 40 [BloodDinner]: Every 10 [BloodDinner] Payment, Receipt 1 [BloodArmor] Damage + 25% (up to 100%)\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]Action [Laceration] Now. [Laceration] Account\n[EndSkill] This change is over", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}]}]}]}, {"id": 838005, "levelList": [{"level": 1, "name": "Don's UI Archery 4-Star", "desc": "[WhenUse] The target is 6+ [Laceration], Call ++ 1\n[WinDuel] If you use this method, there are + 20% more damage at each stage. [BloodArmor] (Up to 60%)\n[DefeatDuel] Consumption 4 [BloodArmor] 20 Power Disks", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}]}]}]}, {"id": 838006, "levelList": [{"level": 1, "name": "Don Cucus Hardbook Art 11-Black Cloud Protein", "desc": "[WhenUse] 311 real power [Laceration] For purpose (up to 3)\n[WinDuel] If you use this method, there are + 20% more damage at each stage. [BloodArmor] (Up to 60%)\n[DefeatDuel] Consumption 4 [BloodArmor] 20 Power Disks", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Turn off travel [Laceration] He achieved the goal. [Laceration] Trust 1"}]}]}]}, {"id": 838007, "levelList": [{"level": 1, "name": "Don't catch hard blood RT2-.", "desc": "Ignoring the movement\n[StartBattle] Use 200 [BloodDinner], 500 km shield, 5 gates 5 [BloodArmor]1 [SwirlingBlood]\n-Nar This device is not enough [BloodDinner], 50 [Laceration]Action [Laceration] Now. [Laceration] 500 Horse Power and 1 Disk Account [SwirlingBlood] (This damage cannot reduce HP1)\n[WinDuel] Get 200 horse power\n[DefeatDuel] Benefits 3 [Vulnerable] As long as the technique is active\n[DefeatDuel] Employment -50% less damage, this technical loss does not contaminate the target.\n[EndSkill] This change is over", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}, {"coindescs": [{"desc": "[SuperCoin]"}]}, {"coindescs": [{"desc": "[SuperCoin]"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration] And +3 [Laceration] Account"}]}]}]}, {"id": 838008, "levelList": [{"level": 1, "name": "Don Quiko style: Sache Arts 4-deductions", "desc": "Priority [Laceration]\n[BeforeAttack] If the goal is high [Laceration], Atk heavy +2, dispute + p\n[WhenUse] Use up to 30 [BloodDinner]: Vijay 1 [BloodArmor] And 15 electrical currencies +1 [BloodDinner] Consumption (up to 2)\n- And if you can't eat this device [BloodDinner], Zinc 10 [Laceration]Action [Laceration] Now. [Laceration] Account\n[EndSkill] To extend [BloodDinner] Same damage in this technique", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 8 Application [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Binding] Valley\n-It technique is 30,000, 30 [BloodDinner], Apply it to 2 [Binding]"}]}]}]}, {"id": 838009, "levelList": [{"level": 1, "name": "Don Quintage Sample: Cyche Arts 3 -bans", "desc": "Priority [Laceration]\n[BeforeAttack] If the goal is high [Laceration], Atk heavy +2, dispute + p\n[WhenUse] Usually used as 50 [BloodDinner]: Vijay 1 [BloodArmor] And 10 basic powers [BloodDinner] Consumption (up to 5)\n- And if you can't eat this device [BloodDinner], Zinc 10 [Laceration]Action [Laceration] On [Laceration] Account\n[EndSkill] To extend [BloodDinner] Same damage in this technique", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley\n-It technology is consumed by 50, [BloodDinner], Apply it to 2 [Paralysis]"}]}]}]}, {"id": 838010, "levelList": [{"level": 1, "name": "Don Quent Sample: Tarist Art 2 -la Southern", "desc": "Ignoring the movement\n[WhenUse] 50 use [BloodDinner] Application 1 [Paralysis] I'm opposing conflict and their goals\n[WhenUse] Consumption 100 [BloodDinner] Power Crash +5\n-They is not enough [BloodDinner]Clash with 100 Horseatters of this device +5\n[EndSkill] This change is over", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttackHead] 8 Application [Laceration]"}, {"desc": "[OnSucceedAttackHead] Compensation"}]}]}]}, {"id": 838011, "levelList": [{"level": 1, "name": "Send La Atura Lee", "desc": "[StartBattle] Use (45-Korean games) [BloodDinner] The maximum 45-hour treatment\n-They is not enough [BloodDinner]Drug sedam reaches 45 p.m.\n-Cup printing [BloodDinner] (Up to 100)\n[WinDuel] 10 applications [Laceration]\n[DefeatDuel] Consumption 100 [BloodDinner]\n[EndSkill] To extend [BloodDinner] Inspired", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] + 10% damage to everyone [Laceration] For the purpose (up to 200%)"}, {"desc": "[OnSucceedAttack] + 10% damage to everyone [BloodDinner] (Up to 100)"}, {"desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"}]}]}]}, {"id": 839401, "levelList": [{"level": 1, "name": "-Hoharah hai hi ahi", "desc": "[WhenUse] Benefits 3 [DefenseUp]\n[DefeatDuel] Benefits 3 [DefenseUp]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"}]}]}]}, {"id": 839402, "levelList": [{"level": 1, "name": "You can lose mostly boy", "desc": "[WinDuel] Application 1 [Binding] Valley\n[WhenUse] Every 41 basic strength [DefenseUp] Off (up to 2)\n[WhenUse] Benefits 3 [DefenseUp]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"}]}]}]}, {"id": 839403, "levelList": [{"level": 1, "name": "Ken is good", "desc": "[StartBattle] Record 3 [DefenseUp] 1% 1% of the competition, 1% in this section, at least one competition\n[WhenUse] Early energy on 711 [DefenseUp] (Maximum) (maximum)", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] This is equal to the level of crime [DefenseUp] Valley"}]}]}]}, {"id": 839404, "levelList": [{"level": 1, "name": "Power", "desc": "[StartBattle] 2 get (receive[DefenseUp] Yourself in itself) Shells HP (20 or 2 times round)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 837601, "levelList": [{"level": 1, "name": "Common stake", "desc": "[WhenUse] The target is 6+ [Burst], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Burst]"}]}]}]}, {"id": 837602, "levelList": [{"level": 1, "name": "Koda", "desc": "[WhenUse] The target is 6+ [Burst], Call ++ 1\n[WinDuel] App +2 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the target is smaller than 5 [Burst] Account, app +2 [Burst] Account\n-Llay 5+ [Burst] Dimensions, app 2 [Burst] instead of"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the target is smaller than 5 [Burst] Account, app +2 [Burst] Account\n-Llay 5+ [Burst] Dimensions, app 2 [Burst] instead of"}]}]}]}, {"id": 837603, "levelList": [{"level": 1, "name": "Sorting", "desc": "SP Tour\n[WhenUse] Cool 0, conflict power +3\n[WhenUse] 4 coins +1 [Burst] For purpose (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 10th\nISSSSSSSStad Restore 20SPS If it is 0-3"}]}]}]}, {"id": 837604, "levelList": [{"level": 1, "name": "Migration", "desc": "Line [ThornNoose]\nFrom [ThornNoose]Actually -50% light loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack]If your goal is. [ThornNoose], Anxiety 2 [Burst]\n- When the target is 10+, [Burst], Application +2 [Burst] instead of"}]}, {"coindescs": [{"desc": "[OnSucceedAttack]If your goal is. [ThornNoose], Anxiety 2 [Burst]\n- When the target is 10+, [Burst], Application +2 [Burst] instead of"}]}, {"coindescs": [{"desc": "[OnSucceedAttack]If your goal is. [ThornNoose], Anxiety 2 [Burst]\n- When the target is 10+, [Burst], Application +2 [Burst] instead of"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] If your goal is. [ThornNoose], Processing + 50% loss"}]}]}]}, {"id": 837605, "levelList": [{"level": 1, "name": "TB", "desc": "[WhenUse] If the speed of this device is faster than the target\n[WhenUse] 4 coins +1 [Burst] In the form of the target (up to 2)\n[WhenUse] Get the primary power according to the target [ThornNoose]", "coinlist": [{}, {}, {}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 4 app 4 [Burst] And +2 [Burst] Account"}, {"desc": "[OnSucceedAttack] The goal has been set or [ThornNoose], Therapy + 30% loss"}, {"desc": "[EnemyKill] (To be used) use ([Burst] Measurement target x 2) [Burst] To all enemies (up to 10)"}]}]}]}, {"id": 837606, "levelList": [{"level": 1, "name": "To take", "desc": "[StartBattle] (Number of enemies) [ThornNoose]HPS is used as an iced", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 837607, "levelList": [{"level": 1, "name": "Laso-Work", "desc": "[StartBattle] 3 If not know [ThornNoose]1 apply [ThornNoose]", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] App +2 [Burst] Account"}]}]}]}, {"id": 837701, "levelList": [{"level": 1, "name": "Tingling", "desc": "[CantChangeTarget]\nDo with the thorns", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Burst] And +2 [Burst] Account"}]}]}]}, {"id": 839601, "levelList": [{"level": 1, "name": "Unnecessary ...", "desc": "[WhenUse] The target is 6+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}]}]}]}, {"id": 839001, "levelList": [{"level": 1, "name": "An unlimited matrix", "desc": "[CantDuel]\nIf target maintenology use, treatment of treatment,-100% 100% 100% 100%\n[WhenUse] 1 Odo Stuckid creates the following line", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 839002, "levelList": [{"level": 1, "name": "Eternal festivals", "desc": "[CantDuel]\nIf target maintenology use, treatment of treatment,-100% 100% 100% 100%\n[WhenUse] 4 gandola creates the next line", "coinlist": [{"coindescs": [{}]}, {"coindescs": [{}]}, {"coindescs": [{}]}, {"coindescs": [{}]}]}]}, {"id": 840301, "levelList": [{"level": 1, "name": "To finish!", "desc": "Use your control method in the next round.", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 840302, "levelList": [{"level": 1, "name": "It will be early !!!!!", "desc": "[CantDuel]\n[StartBattle] 3 hidden", "coinlist": [{"coindescs": [{"desc": "[EndCoin] After canceling 10 requirements from the target, you will lose it."}]}]}]}, {"id": 840303, "levelList": [{"level": 1, "name": "After!", "desc": "[CantDuel]", "coinlist": [{"coindescs": [{"desc": "[EndCoin] Remove 10 desires from the subject."}]}]}]}, {"id": 841001, "levelList": [{"level": 1, "name": "Irritation", "desc": "[WhenUse] Early energy on 711 [Laceration] For purpose (up to 3)\n[WhenUse] Use up to 30 [BloodDinner]: Vijay 1 [RegainedStrength] Every 10 [BloodDinner] User\n[DefeatDuel] The third list is lost", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 841002, "levelList": [{"level": 1, "name": "Is bad", "desc": "[WhenUse] Use up to 40 [BloodDinner]: Vijay 1 [RegainedStrength] And 10 10 to treat [BloodDinner] User\n\n[DefeatDuel] The third list is lost\n[DefeatDuel] Blood [RegainedStrength].Bo 3 [DefenseDown] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Reliable loss, great desire"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Reliable loss, great desire"}]}]}]}, {"id": 841003, "levelList": [{"level": 1, "name": "Don Quintik Haro Arts 2 Storage", "desc": "The biggest goal of the attack [Laceration]\n[WhenUse] 5 Connection +1 [Laceration] In the form of the target (up to 2)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Goods similar to the loss of reliable loss ([Laceration] Button Account X)"}]}]}]}, {"id": 841004, "levelList": [{"level": 1, "name": "Nail", "desc": "[StartBattle] Each number gets 3 atk-flows +1 [RegainedStrength] Off (up to 2)\n[EndSkill] Blood [RegainedStrength]", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[WinDuelAttack] Application 3 [Burst]"}, {"desc": "[DefeatDuelAttack] Use 1 [RegainedStrength]"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[WinDuelAttack] Application 3 [Burst]"}, {"desc": "[DefeatDuelAttack] Use 1 [RegainedStrength]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 841005, "levelList": [{"level": 1, "name": "Blood", "desc": "[WhenUse] Use up to 40 [BloodDinner]: Vijay 1 [RegainedStrength] Every 10 [BloodDinner] User", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}]}]}]}, {"id": 841006, "levelList": [{"level": 1, "name": "Anywhere", "desc": "[CantIdentify]\n[WhenUse] Up to 300 [BloodDinner]: Vijay 1 [RegainedStrength] And 10 10 to treat [BloodDinner] User\n[WhenUse] Using this device [BloodDinner], Therapy 30 p", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}]}]}, {"id": 841007, "levelList": [{"level": 1, "name": "Don's UI Archery 4-Star", "desc": "There is no obstruction to the use of this technique.\n[WhenUse] Up to 100 [BloodDinner]: Vijay 1 [RegainedStrength] 15 sp 10 times [BloodDinner] User\n[WhenUse] This device is for +1 +1 (max 15)\n[DefeatDuel] Mr. 30% of loss and this technology is not indicated for a short time.\n[EndSkill] In this way, on the next line [AttackDown] And and [DefenseDown] The same power is the power of this technology.", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 8 Application [Laceration]"}, {"desc": "[OnSucceedAttack] Admission 2 [RegainedStrength]"}]}]}]}, {"id": 841008, "levelList": [{"level": 1, "name": "Don EXECECTTY HARDO Art 14: Book", "desc": "[DuelGuard]\n[WinDuel] 4 app 4 [Laceration] And and [Burst]\n[DefeatDuel] Admission 2 [RegainedStrength]", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}]}]}, {"id": 841009, "levelList": [{"level": 1, "name": "Good and very weak", "desc": "[DuelCounter]\n10 basic powers [RegainedStrength]\n5 Connection +1 [Laceration] In the form of the target (up to 2)\n[DefeatDuel] The third list is lost", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +2 [Laceration] Account"}]}]}]}, {"id": 841010, "levelList": [{"level": 1, "name": "Bloody happiness", "desc": "[CantDuel]\n[WhenUse] I will sleep on the next intense line", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}]}]}, {"id": 841011, "levelList": [{"level": 1, "name": "Is bad", "desc": "[DefeatDuel] The third list is lost", "coinlist": [{"coindescs": [{}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] The goal was found by mistake [Penetration] Valley"}, {"desc": "[EndCoin] 25 is the goal of loser [Laceration] Depression to the broken sky [Laceration] Increase [BloodDinner] This is worth it"}]}]}]}, {"id": 841012, "levelList": [{"level": 1, "name": "I'm going out of kitty hardtad", "desc": "There is no obstruction to the use of this technique.\nConstantly harm [blood).\n[WhenUse] In 30 in\n[WhenUse] Every 10 stronger power [RegainedStrength]\n[EndSkill] Remove everything [RegainedStrength]This is home [Vulnerable] This disability and front is square .. GGBBBLIC 2 [Binding] The next line.", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}, {"coindescs": [{"desc": "[SuperCoin]"}]}]}]}, {"id": 837501, "levelList": [{"level": 1, "name": "Cut the truth", "desc": "[WhenUse] Application\n[WhenUse] Benefits 5 [Breath]\n[WinDuel] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 837502, "levelList": [{"level": 1, "name": "HnnnhhhhhhhhhhhhhhhhhhhhHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhHhhhHhhhhhhHhhhhhhHhhhhhhhHhhhhhhhh ghhhhhhhhhhhhhhhHhhhhhhhhhhhh హహ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్", "desc": "[WhenUse] Get 2 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}, {"desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst]"}]}]}]}, {"id": 837503, "levelList": [{"level": 1, "name": "Key", "desc": "[WhenUse] 7+ [Breath]Call strength + + +\n[WinDuel] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] Account"}, {"desc": "[CriticalOnSucceedAttack] + 50% loss due to severe attacks"}]}]}]}, {"id": 837504, "levelList": [{"level": 1, "name": "Cut the truth", "desc": "[WhenUse] If the speed of this device is over the target capacity, minutes 1, 1 minute -1 (ie different +1, 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +4 [Breath] Account"}, {"desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] And +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 5 [Breath]"}, {"desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] And +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 5 [Breath]"}, {"desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] And +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] + 100% loss due to severe attacks"}, {"desc": "[OnSucceedAttack] Contract + each one is damaged 5% [Burst] For purpose (up to 50%)"}]}]}]}, {"id": 837505, "levelList": [{"level": 1, "name": "Power", "desc": "[WinDuel] This award provides according to the number of conflicts (every war goes to 50% or up to 50%)\n[WinDuel] Get 2 [Agility] Valley\n[DefeatDuel] Get 2 [Binding] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Vulnerable] Valley"}]}]}]}, {"id": 837506, "levelList": [{"level": 1, "name": "ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਹਾਹਾ ਹਲ ਭਲਾ ਹਾਫਾ ਹਾਹ ਹਲ ਭਸ਼ਾ ਹਾਹਾ ਹਾਹਾ ਹਾਹਾ ਹਾਉ ਹਲ ਹਲ ਲਈ ਹੈਲਾ ਹਾ ਹਲ ਭਸ਼ਾ ਹਲ ਹੇਹਾ ਹਾਹਾ ਹਾਹ ਹੈ, ਹਾਹਾ ਹਾਹ ਹੈ, ਹਾਹੇ ਹਥੈ ਹਾਹਾ ਹਾਏ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾHa Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Ha H'Ha Hahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Ha Ha Ha Ha Ha Ha Ha houseHa Hah Ha Ha Ha Ha Ha Ha H'How Ha Ha Ha Ha Ha Ha Ha houseਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾHa Ha Ha Ha Ha Hahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Ha Ha Ha Ha Ha houseHa Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha househ) HHH Hh Hawth Hh Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Haਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾHa Ha Ha Ha Ha Ha Ha hi", "desc": "[OnSucceedEvade] Get 1 [Agility] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 841013, "levelList": [{"level": 1, "name": "I, without him, the art of blood", "desc": "", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 841301, "levelList": [{"level": 1, "name": "A good adventure memory", "desc": "[StartBattle] 1 [ParryingResultUp] 1 [AttackDmgUp] Papi\n[StartBattle] Application 1 [Vulnerable] Opposition and their normal dreams", "coinlist": [{"coindescs": [{}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 837801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This is not forgiven ...",
+          "desc": "[WhenUse] Receives 20 [Laceration] And +1 [Laceration] Account\n[DefeatDuel] Benefits +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Follow the character ...",
+          "desc": "[WhenUse] Receives 20 [Laceration] And +1 [Laceration] Account\n[DefeatDuel] Benefits +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do you think about blood today?",
+          "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Use up to 30 [BloodDinner]Auxiliary assistants (minimum ('),[BloodDinner] Consumption x 2).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [WornHeart] 1 [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You still think about blood?",
+          "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Up to 20 [BloodDinner]However, friendly and friendly (abstract) and accessories (core and partitions)[BloodDinner] Consumption x 2).\n-Po if you don't have friends, a double ring will be compared.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]\n[OnSucceedAttack] App +2 [Laceration] Account\n[OnSucceedAttack] If the device contains 50% + HPs, it is active. [Laceration] 1 with them [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [WornHeart] And and [BloodyHand]\n[OnSucceedAttack] From 10 [WornHeart]3 Add [BloodyHand] And get 1 [AttackUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "More, more blood ...!",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner] And get 1 [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] Get 10 [Laceration]\n[WhenUse] Benefits 3 [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [BloodyHand] Every 5 people [Laceration] For purpose (up to 5)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "how many ...",
+          "desc": "[WhenUse] The target is 6+ [Laceration], Call ++ 1\n[WhenUse] Use up to 30 [BloodDinner]: Take energy for each [BloodDinner] User\n[DefeatDuel] Get 1 [Vulnerable] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]\n[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] HP processing is similar to damage (up to 30).\n[OnSucceedAttack] If this technical cost is 30 [BloodDinner], If the device is 40+\n- And if you can't eat this method [BloodDinner]Receives 20 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Family hunt",
+          "desc": "[WhenUse] 50% + HP, Activation [Laceration] Self (up to 3; 3 to 3; Reduce the number of uselessness, the number of bleeding, not due to this damage)\n[WhenUse] All employees have 5SP colds (I)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blood ...",
+          "desc": "[WhenUse] The target is 6+ [Laceration]Processing 20% ​​damaged and increased.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expressing love",
+          "desc": "Least negative effects of priority goals\n[WhenUse] If you do not have an impact on your goal, use the following rules of love \"hard manifestations\":\n\n[WhenUse] If the negative impression of the target is greater than purpose [FaintMemory] Use next \"sad throat\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 4 app 4 [AffectionTeddy]"
+                }, {
+                  "desc": "[WinDuelAttack] 2 Anxiety [Vulnerable] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Response",
+          "desc": "Least negative effects of priority goals\n[WinDuel] Application 3 [AffectionTeddy] Valley\n[DefeatDuel] Application 1 [AffectionTeddy] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violent rape",
+          "desc": "Least negative effects of priority goals\n[WinDuel] Application 3 [AffectionTeddy] Valley\n[DefeatDuel] Application 1 [AffectionTeddy] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Curse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expressing love",
+          "desc": "[DuelCounter]\n[WhenUse] 2 Anxiety [Disarming] Valley\n[WhenUse] Application 1 [Curse]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [AffectionTeddy], Use [AffectionTeddy] Development [Curse] And and [NailPersonality] From the other side [AffectionTeddy] Consumption (up to 4)"
+                }, {
+                  "desc": "[OnSucceedAttack] Target 4+ [Curse]Entries 4 [Curse] Application Target and 1 [CursePackage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A harsh expression of love",
+          "desc": "[CantChangeTarget]\nThe goal is the goal.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "If there are no side effects on the target, the contract is 100% 100%"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [Curse]"
+                }, {
+                  "desc": "[WinDuelAttack] Application 6 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grief",
+          "desc": "[CantChangeTarget]\nThe goal is the goal.\nThe goal has been damaged from 0 to 0\n[StartBattle] Get 2 [Vulnerable] In the next round\n[EndBattle] Gradually enter God",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] SP's goal is completely treated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "And the ancient sound was disappointed",
+          "desc": "[DefeatDuel] Use this method to ensure half damage to the enemy.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Curse]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 4 app 4 [NailPersonality]"
+                }, {
+                  "desc": "[OnSucceedAttack] Remove everything [AffectionTeddy] Matampon\n- When the unit wins in me, the target is canceled ([AffectionTeddy] Consumption x10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bracket",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crash",
+          "desc": "[WhenUse] Target 4+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be in the sudden attack",
+          "desc": "[WhenUse] Target 4+ [Laceration], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Crisis [Laceration] The same number [Laceration] Objective objectives"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10 applications [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [ScarletTakeDamageUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] HP +10 is all 4 forbidden [Laceration] For purpose (up to 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pisai",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Application 1 [Vulnerable] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piece",
+          "desc": "[WhenUse] Benefits 5 [Breath]",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [IndigoTakeDamageUp] Valley"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Application 1 [Vulnerable] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arrogant",
+          "desc": "[WhenUse] 5+ [Breath]Call strength + + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 4 [Breath] And +3 [Breath] Account"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Business + 100% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] 6+ [Breath]Call strength + + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Business + 50% of damage"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] The next line measure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piece",
+          "desc": "[WhenUse] Consumption 10 [BloodDinner]: Vijay 1 [BloodArmor]\n[WhenUse] +1 for every 10 connections [BloodArmor] (the best)\n[WhenUse] +1 for every 15 connections [Laceration] (Max 3) (maximum)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Game Injuries",
+          "desc": "[WhenUse] Up to 20 [BloodDinner]: Vijay 1 [BloodArmor] Every 10 [BloodDinner] User\n[WhenUse] +1 for every 10 connections [BloodArmor] (the best)\n[WhenUse] +1 for every 15 connections [Laceration] (Max 3) (maximum)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corn is funny",
+          "desc": "[WhenUse] Consumption 4 [BloodArmor] Ticket sales\n[WhenUse] Consumption 10 [BloodDinner] 1 [BloodArmor] And he recovered 10.\n- And if you can't eat this device [BloodDinner], Benefits 3 [Laceration]Intersection",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] + 10% damage to everyone [Laceration] Goal (up to 100%)"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Late",
+          "desc": "Ignoring the movement\n[StartBattle] Perhaps [Laceration], Active [Laceration] About all enemies, enemy 2 [Laceration] Account\n[WhenUse] If this effect is not active at the beginning of the war, get 30. [Laceration]Intersection\n[WinDuel] Use up to 40 [BloodDinner]: Every 10 [BloodDinner] Payment, Receipt 1 [BloodArmor] Damage + 25% (up to 100%)\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]Action [Laceration] Now. [Laceration] Account\n[EndSkill] This change is over",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don's UI Archery 4-Star",
+          "desc": "[WhenUse] The target is 6+ [Laceration], Call ++ 1\n[WinDuel] If you use this method, there are + 20% more damage at each stage. [BloodArmor] (Up to 60%)\n[DefeatDuel] Consumption 4 [BloodArmor] 20 Power Disks",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Cucus Hardbook Art 11-Black Cloud Protein",
+          "desc": "[WhenUse] 311 real power [Laceration] For purpose (up to 3)\n[WinDuel] If you use this method, there are + 20% more damage at each stage. [BloodArmor] (Up to 60%)\n[DefeatDuel] Consumption 4 [BloodArmor] 20 Power Disks",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Turn off travel [Laceration] He achieved the goal. [Laceration] Trust 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't catch hard blood RT2-.",
+          "desc": "Ignoring the movement\n[StartBattle] Use 200 [BloodDinner], 500 km shield, 5 gates 5 [BloodArmor]1 [SwirlingBlood]\n-Nar This device is not enough [BloodDinner], 50 [Laceration]Action [Laceration] Now. [Laceration] 500 Horse Power and 1 Disk Account [SwirlingBlood] (This damage cannot reduce HP1)\n[WinDuel] Get 200 horse power\n[DefeatDuel] Benefits 3 [Vulnerable] As long as the technique is active\n[DefeatDuel] Employment -50% less damage, this technical loss does not contaminate the target.\n[EndSkill] This change is over",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And +3 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quiko style: Sache Arts 4-deductions",
+          "desc": "Priority [Laceration]\n[BeforeAttack] If the goal is high [Laceration], Atk heavy +2, dispute + p\n[WhenUse] Use up to 30 [BloodDinner]: Vijay 1 [BloodArmor] And 15 electrical currencies +1 [BloodDinner] Consumption (up to 2)\n- And if you can't eat this device [BloodDinner], Zinc 10 [Laceration]Action [Laceration] Now. [Laceration] Account\n[EndSkill] To extend [BloodDinner] Same damage in this technique",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 Application [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Binding] Valley\n-It technique is 30,000, 30 [BloodDinner], Apply it to 2 [Binding]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quintage Sample: Cyche Arts 3 -bans",
+          "desc": "Priority [Laceration]\n[BeforeAttack] If the goal is high [Laceration], Atk heavy +2, dispute + p\n[WhenUse] Usually used as 50 [BloodDinner]: Vijay 1 [BloodArmor] And 10 basic powers [BloodDinner] Consumption (up to 5)\n- And if you can't eat this device [BloodDinner], Zinc 10 [Laceration]Action [Laceration] On [Laceration] Account\n[EndSkill] To extend [BloodDinner] Same damage in this technique",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley\n-It technology is consumed by 50, [BloodDinner], Apply it to 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quent Sample: Tarist Art 2 -la Southern",
+          "desc": "Ignoring the movement\n[WhenUse] 50 use [BloodDinner] Application 1 [Paralysis] I'm opposing conflict and their goals\n[WhenUse] Consumption 100 [BloodDinner] Power Crash +5\n-They is not enough [BloodDinner]Clash with 100 Horseatters of this device +5\n[EndSkill] This change is over",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 8 Application [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Compensation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Send La Atura Lee",
+          "desc": "[StartBattle] Use (45-Korean games) [BloodDinner] The maximum 45-hour treatment\n-They is not enough [BloodDinner]Drug sedam reaches 45 p.m.\n-Cup printing [BloodDinner] (Up to 100)\n[WinDuel] 10 applications [Laceration]\n[DefeatDuel] Consumption 100 [BloodDinner]\n[EndSkill] To extend [BloodDinner] Inspired",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] + 10% damage to everyone [Laceration] For the purpose (up to 200%)"
+                }, {
+                  "desc": "[OnSucceedAttack] + 10% damage to everyone [BloodDinner] (Up to 100)"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-Hoharah hai hi ahi",
+          "desc": "[WhenUse] Benefits 3 [DefenseUp]\n[DefeatDuel] Benefits 3 [DefenseUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You can lose mostly boy",
+          "desc": "[WinDuel] Application 1 [Binding] Valley\n[WhenUse] Every 41 basic strength [DefenseUp] Off (up to 2)\n[WhenUse] Benefits 3 [DefenseUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ken is good",
+          "desc": "[StartBattle] Record 3 [DefenseUp] 1% 1% of the competition, 1% in this section, at least one competition\n[WhenUse] Early energy on 711 [DefenseUp] (Maximum) (maximum)",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] This is equal to the level of crime [DefenseUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Power",
+          "desc": "[StartBattle] 2 get (receive[DefenseUp] Yourself in itself) Shells HP (20 or 2 times round)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Common stake",
+          "desc": "[WhenUse] The target is 6+ [Burst], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Koda",
+          "desc": "[WhenUse] The target is 6+ [Burst], Call ++ 1\n[WinDuel] App +2 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target is smaller than 5 [Burst] Account, app +2 [Burst] Account\n-Llay 5+ [Burst] Dimensions, app 2 [Burst] instead of"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target is smaller than 5 [Burst] Account, app +2 [Burst] Account\n-Llay 5+ [Burst] Dimensions, app 2 [Burst] instead of"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sorting",
+          "desc": "SP Tour\n[WhenUse] Cool 0, conflict power +3\n[WhenUse] 4 coins +1 [Burst] For purpose (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10th\nISSSSSSSStad Restore 20SPS If it is 0-3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "Line [ThornNoose]\nFrom [ThornNoose]Actually -50% light loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]If your goal is. [ThornNoose], Anxiety 2 [Burst]\n- When the target is 10+, [Burst], Application +2 [Burst] instead of"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]If your goal is. [ThornNoose], Anxiety 2 [Burst]\n- When the target is 10+, [Burst], Application +2 [Burst] instead of"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]If your goal is. [ThornNoose], Anxiety 2 [Burst]\n- When the target is 10+, [Burst], Application +2 [Burst] instead of"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [ThornNoose], Processing + 50% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "TB",
+          "desc": "[WhenUse] If the speed of this device is faster than the target\n[WhenUse] 4 coins +1 [Burst] In the form of the target (up to 2)\n[WhenUse] Get the primary power according to the target [ThornNoose]",
+          "coinlist": [
+            {}, {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Burst] And +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] The goal has been set or [ThornNoose], Therapy + 30% loss"
+                }, {
+                  "desc": "[EnemyKill] (To be used) use ([Burst] Measurement target x 2) [Burst] To all enemies (up to 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To take",
+          "desc": "[StartBattle] (Number of enemies) [ThornNoose]HPS is used as an iced",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Laso-Work",
+          "desc": "[StartBattle] 3 If not know [ThornNoose]1 apply [ThornNoose]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tingling",
+          "desc": "[CantChangeTarget]\nDo with the thorns",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Burst] And +2 [Burst] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Unnecessary ...",
+          "desc": "[WhenUse] The target is 6+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "An unlimited matrix",
+          "desc": "[CantDuel]\nIf target maintenology use, treatment of treatment,-100% 100% 100% 100%\n[WhenUse] 1 Odo Stuckid creates the following line",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 839002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eternal festivals",
+          "desc": "[CantDuel]\nIf target maintenology use, treatment of treatment,-100% 100% 100% 100%\n[WhenUse] 4 gandola creates the next line",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }, {
+              "coindescs": [{}]
+            }, {
+              "coindescs": [{}]
+            }, {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 840301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To finish!",
+          "desc": "Use your control method in the next round.",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 840302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It will be early !!!!!",
+          "desc": "[CantDuel]\n[StartBattle] 3 hidden",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] After canceling 10 requirements from the target, you will lose it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 840303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "After!",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Remove 10 desires from the subject."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Irritation",
+          "desc": "[WhenUse] Early energy on 711 [Laceration] For purpose (up to 3)\n[WhenUse] Use up to 30 [BloodDinner]: Vijay 1 [RegainedStrength] Every 10 [BloodDinner] User\n[DefeatDuel] The third list is lost",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is bad",
+          "desc": "[WhenUse] Use up to 40 [BloodDinner]: Vijay 1 [RegainedStrength] And 10 10 to treat [BloodDinner] User\n\n[DefeatDuel] The third list is lost\n[DefeatDuel] Blood [RegainedStrength].Bo 3 [DefenseDown] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reliable loss, great desire"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reliable loss, great desire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quintik Haro Arts 2 Storage",
+          "desc": "The biggest goal of the attack [Laceration]\n[WhenUse] 5 Connection +1 [Laceration] In the form of the target (up to 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Goods similar to the loss of reliable loss ([Laceration] Button Account X)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nail",
+          "desc": "[StartBattle] Each number gets 3 atk-flows +1 [RegainedStrength] Off (up to 2)\n[EndSkill] Blood [RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[WinDuelAttack] Application 3 [Burst]"
+                }, {
+                  "desc": "[DefeatDuelAttack] Use 1 [RegainedStrength]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[WinDuelAttack] Application 3 [Burst]"
+                }, {
+                  "desc": "[DefeatDuelAttack] Use 1 [RegainedStrength]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blood",
+          "desc": "[WhenUse] Use up to 40 [BloodDinner]: Vijay 1 [RegainedStrength] Every 10 [BloodDinner] User",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anywhere",
+          "desc": "[CantIdentify]\n[WhenUse] Up to 300 [BloodDinner]: Vijay 1 [RegainedStrength] And 10 10 to treat [BloodDinner] User\n[WhenUse] Using this device [BloodDinner], Therapy 30 p",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don's UI Archery 4-Star",
+          "desc": "There is no obstruction to the use of this technique.\n[WhenUse] Up to 100 [BloodDinner]: Vijay 1 [RegainedStrength] 15 sp 10 times [BloodDinner] User\n[WhenUse] This device is for +1 +1 (max 15)\n[DefeatDuel] Mr. 30% of loss and this technology is not indicated for a short time.\n[EndSkill] In this way, on the next line [AttackDown] And and [DefenseDown] The same power is the power of this technology.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 8 Application [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Admission 2 [RegainedStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don EXECECTTY HARDO Art 14: Book",
+          "desc": "[DuelGuard]\n[WinDuel] 4 app 4 [Laceration] And and [Burst]\n[DefeatDuel] Admission 2 [RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Good and very weak",
+          "desc": "[DuelCounter]\n10 basic powers [RegainedStrength]\n5 Connection +1 [Laceration] In the form of the target (up to 2)\n[DefeatDuel] The third list is lost",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bloody happiness",
+          "desc": "[CantDuel]\n[WhenUse] I will sleep on the next intense line",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is bad",
+          "desc": "[DefeatDuel] The third list is lost",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] The goal was found by mistake [Penetration] Valley"
+                }, {
+                  "desc": "[EndCoin] 25 is the goal of loser [Laceration] Depression to the broken sky [Laceration] Increase [BloodDinner] This is worth it"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm going out of kitty hardtad",
+          "desc": "There is no obstruction to the use of this technique.\nConstantly harm [blood).\n[WhenUse] In 30 in\n[WhenUse] Every 10 stronger power [RegainedStrength]\n[EndSkill] Remove everything [RegainedStrength]This is home [Vulnerable] This disability and front is square .. GGBBBLIC 2 [Binding] The next line.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut the truth",
+          "desc": "[WhenUse] Application\n[WhenUse] Benefits 5 [Breath]\n[WinDuel] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "HnnnhhhhhhhhhhhhhhhhhhhhHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhHhhhHhhhhhhHhhhhhhHhhhhhhhHhhhhhhhh ghhhhhhhhhhhhhhhHhhhhhhhhhhhh హహ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్హ్",
+          "desc": "[WhenUse] Get 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Key",
+          "desc": "[WhenUse] 7+ [Breath]Call strength + + +\n[WinDuel] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] Account"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] + 50% loss due to severe attacks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut the truth",
+          "desc": "[WhenUse] If the speed of this device is over the target capacity, minutes 1, 1 minute -1 (ie different +1, 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +4 [Breath] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] And +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 5 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] And +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 5 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttack] It can be used in 3+ 7+ after 3+ [Burst] And +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] + 100% loss due to severe attacks"
+                }, {
+                  "desc": "[OnSucceedAttack] Contract + each one is damaged 5% [Burst] For purpose (up to 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Power",
+          "desc": "[WinDuel] This award provides according to the number of conflicts (every war goes to 50% or up to 50%)\n[WinDuel] Get 2 [Agility] Valley\n[DefeatDuel] Get 2 [Binding] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 837506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਸ਼ਾਇਦ ਹਾਹਾ ਹਲ ਭਲਾ ਹਾਫਾ ਹਾਹ ਹਲ ਭਸ਼ਾ ਹਾਹਾ ਹਾਹਾ ਹਾਹਾ ਹਾਉ ਹਲ ਹਲ ਲਈ ਹੈਲਾ ਹਾ ਹਲ ਭਸ਼ਾ ਹਲ ਹੇਹਾ ਹਾਹਾ ਹਾਹ ਹੈ, ਹਾਹਾ ਹਾਹ ਹੈ, ਹਾਹੇ ਹਥੈ ਹਾਹਾ ਹਾਏ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾHa Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Ha H'Ha Hahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Ha Ha Ha Ha Ha Ha Ha houseHa Hah Ha Ha Ha Ha Ha Ha H'How Ha Ha Ha Ha Ha Ha Ha houseਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾHa Ha Ha Ha Ha Hahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Ha Ha Ha Ha Ha houseHa Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha househ) HHH Hh Hawth Hh Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Ha Haਹਾ ਹਾ ਹਾ ਹਾ ਹੈਕ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾ ਹਾHa Ha Ha Ha Ha Ha Ha hi",
+          "desc": "[OnSucceedEvade] Get 1 [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I, without him, the art of blood",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 841301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A good adventure memory",
+          "desc": "[StartBattle] 1 [ParryingResultUp] 1 [AttackDmgUp] Papi\n[StartBattle] Application 1 [Vulnerable] Opposition and their normal dreams",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,212 @@
-{"dataList": [{"id": "Walpu3_reward_button", "content": "Work"}, {"id": "Walpu3_story_theater_button", "content": "For theater."}, {"id": "Walpu3_normal_stage", "content": "Lights"}, {"id": "Walpu3_hard_stage", "content": "Trouble"}, {"id": "Walpu3_normal_stage_name", "content": "Villa's care"}, {"id": "Walpu3_hard_stage_name", "content": "Manual"}, {"id": "Walpu3_normal_stage_desc", "content": "Protects Villa employees.\nIf you are on the Villa's everything will be quiet."}, {"id": "Walpu3_hard_stage_desc", "content": "His abdomen and face is eaten, eaten, as he had eaten anything, as he was working with his own eyes.\nAt the same time, human blood and flesh shifted."}, {"id": "Walpu3_hard_stage_unlock_condition", "content": "It was obvious that it was easy to open"}, {"id": "EVENT_WALPU3_NORMAL", "content": "Lights"}, {"id": "EVENT_WALPU3_HARD", "content": "Trouble"}, {"id": "missionConditionTitle_10009", "content": "Normal control of respected feast"}, {"id": "missionConditionTitle_10010", "content": "Total disturbance"}, {"id": "missionConditionTitle_10011", "content": "All the disturbances without death"}, {"id": "missionConditionTitle_10012", "content": "There is no aliad SP in case of -45p."}, {"id": "missionConditionTitle_10013", "content": "The historic library is 10 times lower than the speed of killing."}, {"id": "missionConditionTitle_10014", "content": "After breaking the virtual story from the fight, it was completely free."}, {"id": "missionConditionTitle_10015", "content": "To get a virtual story, the virtual story is fully examined without the queen of the villa."}, {"id": "missionConditionTitle_10016", "content": "The history of Queen's mutation can cross the imaginary story in a meeting."}, {"id": "missionConditionTitle_10017", "content": "The history of the queen can cross the history of fans in the game."}, {"id": "missionConditionTitle_10018", "content": "Application for K + Disability (Bleeding, Bleeding, Explosives or Drows"}, {"id": "missionConditionTitle_10019", "content": "Explain about the failure of cracks or damage, bleeding in the meeting."}, {"id": "missionConditionTitle_10020", "content": "Controversy, bleeding, bleeding, stories about cracks or virtual tones"}, {"id": "missionConditionTitle_20009", "content": "Normal control of respected feast"}, {"id": "missionConditionTitle_20010", "content": "Total disturbance"}, {"id": "missionConditionTitle_20011", "content": "All the disturbances without death"}, {"id": "missionConditionTitle_20012", "content": "There is no aliad SP in case of -45p."}, {"id": "missionConditionTitle_20013", "content": "This is fully checking the historic library and comes from 5 enemies."}, {"id": "missionConditionTitle_20014", "content": "After breaking the virtual story from the fight, it was completely free."}, {"id": "missionConditionTitle_20015", "content": "To get a virtual story, the virtual story is fully examined without the queen of the villa."}, {"id": "missionConditionTitle_20016", "content": "The history of Queen's mutation can cross the imaginary story in a meeting."}, {"id": "missionConditionTitle_20017", "content": "Virtual Virtual Virtual Story of Virtual Queens + History Meeting."}, {"id": "missionConditionTitle_20018", "content": "Application for K + Disability (Bleeding, Bleeding, Explosives or Drows"}, {"id": "missionConditionTitle_20019", "content": "Explain about the failure of cracks or damage, bleeding in the meeting."}, {"id": "missionConditionTitle_20020", "content": "Controversy, bleeding, bleeding, stories about cracks or virtual tones"}, {"id": "missionConditionTitle_20021", "content": "Using a historic library atmack more than X +"}, {"id": "missionConditionTitle_30002", "content": "Do everything with simple and difficult trouble"}, {"id": "walpu3_reward_event_desc", "content": "Leave the pre-Titterow festival \"normal\" and \"hard\" problems and all the work.\n\nClean these applications and get different prices."}, {"id": "walpu3_reward_normal_tab", "content": "Lights"}, {"id": "walpu3_reward_hard_tab", "content": "Trouble"}, {"id": "walpu3_modal_yes", "content": "Yes"}, {"id": "walpu3_modal_no", "content": "Numbers"}, {"id": "walpu_modal_enterStage_10555", "content": "Are you joining the ferry festival?"}, {"id": "walpu_modal_enterStage_10556", "content": "Are you joining the ferry festival?"}, {"id": "walpu_battle_turn", "content": "Focus {0}"}, {"id": "walpu_battle_1_wave", "content": "Land history - {0}"}, {"id": "walpu_battle_name_10555", "content": "Congratulations to the fairy story"}, {"id": "walpu_battle_name_10556", "content": "Congratulations to the fairy story"}, {"id": "walpu_battle_name_10557", "content": "Congratulations to the fairy story"}, {"id": "walpu_battle_result_win", "content": "Denial {0} End"}, {"id": "walpu_battle_result_lose", "content": "Denial {0} Offensive"}, {"id": "tutorial_mainui_27_walpu3_01_title", "content": "Third Night-Winth Library Book"}, {"id": "tutorial_mainui_27_walpu3_01_title_01", "content": "Third Night-Winth Library Book"}, {"id": "tutorial_mainui_27_walpu3_01_desc_01", "content": "[The night's night Walpagis - A Special Library Book] The door is in the main history, regardless of progress."}, {"id": "tutorial_mainui_27_walpu3_02_title_01", "content": "Process"}, {"id": "tutorial_mainui_27_walpu3_02_desc_01", "content": "The third time of CHD Wallburgis is shown in a list of special book."}, {"id": "tutorial_mainui_27_walpu3_03_title_01", "content": "Experience"}, {"id": "tutorial_mainui_27_walpu3_03_desc_01", "content": "Select the door to face minor problems.\nAt the entrance he met the inputerin unit.\nAccording to the level of 45 years, every applicable level 45 is 45 regarding light problems.\nSimilarly, every case that runs the lower levels increases to 3 to 3.\nBut now you are"}, {"id": "tutorial_mainui_27_walpu3_03_title_02", "content": "Sexy"}, {"id": "tutorial_mainui_27_walpu3_03_desc_02", "content": "Use conflict cleaning to open serious problems.\nIn light of serious difficulties, identity, attacks and attacks"}, {"id": "tutorial_mainui_27_walpu3_04_title_01", "content": "Library"}, {"id": "tutorial_mainui_27_walpu3_04_desc_01", "content": "The Band list is different from the library of the history of history history."}, {"id": "tutorial_mainui_27_walpu3_05_title_01", "content": "Work"}, {"id": "tutorial_mainui_27_walpu3_05_desc_01", "content": "You can come [Missions] This page shows a list to complete meetings and awards."}, {"id": "tutorial_mainui_27_walpu3_06_desc_01", "content": "You can see the term of bonus re-RD [Missions] Toward them."}, {"id": "tutorial_mainui_27_walpu3_06_desc_02", "content": "Special work on personal work in light and serious problems."}, {"id": "tutorial_mainui_27_walpu3_06_desc_03", "content": "Ask to fill this work [Missions] Toward them."}, {"id": "tutorial_mainui_27_walpu3_07_desc_01", "content": "Even after the activity is complete, you can try a \"3, night of the night\" in a particular war, see the driver's story and try playing the game. [Detour Tales]Intersection"}, {"id": "walpu3_not_progress_event_date", "content": "The program has been closed"}]}
+{
+  "dataList": [
+    {
+      "id": "Walpu3_reward_button",
+      "content": "Work"
+    }, {
+      "id": "Walpu3_story_theater_button",
+      "content": "For theater."
+    }, {
+      "id": "Walpu3_normal_stage",
+      "content": "Lights"
+    }, {
+      "id": "Walpu3_hard_stage",
+      "content": "Trouble"
+    }, {
+      "id": "Walpu3_normal_stage_name",
+      "content": "Villa's care"
+    }, {
+      "id": "Walpu3_hard_stage_name",
+      "content": "Manual"
+    }, {
+      "id": "Walpu3_normal_stage_desc",
+      "content": "Protects Villa employees.\nIf you are on the Villa's everything will be quiet."
+    }, {
+      "id": "Walpu3_hard_stage_desc",
+      "content": "His abdomen and face is eaten, eaten, as he had eaten anything, as he was working with his own eyes.\nAt the same time, human blood and flesh shifted."
+    }, {
+      "id": "Walpu3_hard_stage_unlock_condition",
+      "content": "It was obvious that it was easy to open"
+    }, {
+      "id": "EVENT_WALPU3_NORMAL",
+      "content": "Lights"
+    }, {
+      "id": "EVENT_WALPU3_HARD",
+      "content": "Trouble"
+    }, {
+      "id": "missionConditionTitle_10009",
+      "content": "Normal control of respected feast"
+    }, {
+      "id": "missionConditionTitle_10010",
+      "content": "Total disturbance"
+    }, {
+      "id": "missionConditionTitle_10011",
+      "content": "All the disturbances without death"
+    }, {
+      "id": "missionConditionTitle_10012",
+      "content": "There is no aliad SP in case of -45p."
+    }, {
+      "id": "missionConditionTitle_10013",
+      "content": "The historic library is 10 times lower than the speed of killing."
+    }, {
+      "id": "missionConditionTitle_10014",
+      "content": "After breaking the virtual story from the fight, it was completely free."
+    }, {
+      "id": "missionConditionTitle_10015",
+      "content": "To get a virtual story, the virtual story is fully examined without the queen of the villa."
+    }, {
+      "id": "missionConditionTitle_10016",
+      "content": "The history of Queen's mutation can cross the imaginary story in a meeting."
+    }, {
+      "id": "missionConditionTitle_10017",
+      "content": "The history of the queen can cross the history of fans in the game."
+    }, {
+      "id": "missionConditionTitle_10018",
+      "content": "Application for K + Disability (Bleeding, Bleeding, Explosives or Drows"
+    }, {
+      "id": "missionConditionTitle_10019",
+      "content": "Explain about the failure of cracks or damage, bleeding in the meeting."
+    }, {
+      "id": "missionConditionTitle_10020",
+      "content": "Controversy, bleeding, bleeding, stories about cracks or virtual tones"
+    }, {
+      "id": "missionConditionTitle_20009",
+      "content": "Normal control of respected feast"
+    }, {
+      "id": "missionConditionTitle_20010",
+      "content": "Total disturbance"
+    }, {
+      "id": "missionConditionTitle_20011",
+      "content": "All the disturbances without death"
+    }, {
+      "id": "missionConditionTitle_20012",
+      "content": "There is no aliad SP in case of -45p."
+    }, {
+      "id": "missionConditionTitle_20013",
+      "content": "This is fully checking the historic library and comes from 5 enemies."
+    }, {
+      "id": "missionConditionTitle_20014",
+      "content": "After breaking the virtual story from the fight, it was completely free."
+    }, {
+      "id": "missionConditionTitle_20015",
+      "content": "To get a virtual story, the virtual story is fully examined without the queen of the villa."
+    }, {
+      "id": "missionConditionTitle_20016",
+      "content": "The history of Queen's mutation can cross the imaginary story in a meeting."
+    }, {
+      "id": "missionConditionTitle_20017",
+      "content": "Virtual Virtual Virtual Story of Virtual Queens + History Meeting."
+    }, {
+      "id": "missionConditionTitle_20018",
+      "content": "Application for K + Disability (Bleeding, Bleeding, Explosives or Drows"
+    }, {
+      "id": "missionConditionTitle_20019",
+      "content": "Explain about the failure of cracks or damage, bleeding in the meeting."
+    }, {
+      "id": "missionConditionTitle_20020",
+      "content": "Controversy, bleeding, bleeding, stories about cracks or virtual tones"
+    }, {
+      "id": "missionConditionTitle_20021",
+      "content": "Using a historic library atmack more than X +"
+    }, {
+      "id": "missionConditionTitle_30002",
+      "content": "Do everything with simple and difficult trouble"
+    }, {
+      "id": "walpu3_reward_event_desc",
+      "content": "Leave the pre-Titterow festival \"normal\" and \"hard\" problems and all the work.\n\nClean these applications and get different prices."
+    }, {
+      "id": "walpu3_reward_normal_tab",
+      "content": "Lights"
+    }, {
+      "id": "walpu3_reward_hard_tab",
+      "content": "Trouble"
+    }, {
+      "id": "walpu3_modal_yes",
+      "content": "Yes"
+    }, {
+      "id": "walpu3_modal_no",
+      "content": "Numbers"
+    }, {
+      "id": "walpu_modal_enterStage_10555",
+      "content": "Are you joining the ferry festival?"
+    }, {
+      "id": "walpu_modal_enterStage_10556",
+      "content": "Are you joining the ferry festival?"
+    }, {
+      "id": "walpu_battle_turn",
+      "content": "Focus {0}"
+    }, {
+      "id": "walpu_battle_1_wave",
+      "content": "Land history - {0}"
+    }, {
+      "id": "walpu_battle_name_10555",
+      "content": "Congratulations to the fairy story"
+    }, {
+      "id": "walpu_battle_name_10556",
+      "content": "Congratulations to the fairy story"
+    }, {
+      "id": "walpu_battle_name_10557",
+      "content": "Congratulations to the fairy story"
+    }, {
+      "id": "walpu_battle_result_win",
+      "content": "Denial {0} End"
+    }, {
+      "id": "walpu_battle_result_lose",
+      "content": "Denial {0} Offensive"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_01_title",
+      "content": "Third Night-Winth Library Book"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_01_title_01",
+      "content": "Third Night-Winth Library Book"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_01_desc_01",
+      "content": "[The night's night Walpagis - A Special Library Book] The door is in the main history, regardless of progress."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_02_title_01",
+      "content": "Process"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_02_desc_01",
+      "content": "The third time of CHD Wallburgis is shown in a list of special book."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_03_title_01",
+      "content": "Experience"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_03_desc_01",
+      "content": "Select the door to face minor problems.\nAt the entrance he met the inputerin unit.\nAccording to the level of 45 years, every applicable level 45 is 45 regarding light problems.\nSimilarly, every case that runs the lower levels increases to 3 to 3.\nBut now you are"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_03_title_02",
+      "content": "Sexy"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_03_desc_02",
+      "content": "Use conflict cleaning to open serious problems.\nIn light of serious difficulties, identity, attacks and attacks"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_04_title_01",
+      "content": "Library"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_04_desc_01",
+      "content": "The Band list is different from the library of the history of history history."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_05_title_01",
+      "content": "Work"
+    }, {
+      "id": "tutorial_mainui_27_walpu3_05_desc_01",
+      "content": "You can come [Missions] This page shows a list to complete meetings and awards."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_06_desc_01",
+      "content": "You can see the term of bonus re-RD [Missions] Toward them."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_06_desc_02",
+      "content": "Special work on personal work in light and serious problems."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_06_desc_03",
+      "content": "Ask to fill this work [Missions] Toward them."
+    }, {
+      "id": "tutorial_mainui_27_walpu3_07_desc_01",
+      "content": "Even after the activity is complete, you can try a \"3, night of the night\" in a particular war, see the driver's story and try playing the game. [Detour Tales]Intersection"
+    }, {
+      "id": "walpu3_not_progress_event_date",
+      "content": "The program has been closed"
+    }
+  ]
+}

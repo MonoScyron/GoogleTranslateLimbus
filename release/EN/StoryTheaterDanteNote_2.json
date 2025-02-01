@@ -1,1 +1,35 @@
-{"dataList": [{"id": "Association", "content": "Events"}, {"id": "ShiAsso", "content": "Yes"}, {"id": "LiuAsso", "content": "Association"}, {"id": "Office", "content": "Office"}, {"id": "LobotomyCorp", "content": "Lab for honey companies"}, {"id": "Enkephalin", "content": "Naxin"}, {"id": "Abnormality", "content": "Disorder"}, {"id": "Shank", "content": "Zinc"}, {"id": "String", "content": "Wire"}, {"id": "Singularity", "content": "Chair"}]}
+{
+  "dataList": [
+    {
+      "id": "Association",
+      "content": "Events"
+    }, {
+      "id": "ShiAsso",
+      "content": "Yes"
+    }, {
+      "id": "LiuAsso",
+      "content": "Association"
+    }, {
+      "id": "Office",
+      "content": "Office"
+    }, {
+      "id": "LobotomyCorp",
+      "content": "Lab for honey companies"
+    }, {
+      "id": "Enkephalin",
+      "content": "Naxin"
+    }, {
+      "id": "Abnormality",
+      "content": "Disorder"
+    }, {
+      "id": "Shank",
+      "content": "Zinc"
+    }, {
+      "id": "String",
+      "content": "Wire"
+    }, {
+      "id": "Singularity",
+      "content": "Chair"
+    }
+  ]
+}

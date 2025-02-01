@@ -1,1 +1,182 @@
-{"dataList": [{"id": "Walpu4_event_desc", "content": "Major factors of foreign series in the afternoon, the key factors of foreign series in the \"difficulties\" and \"difficulties\" was pressed.\n\nClean these applications and get different prices."}, {"id": "LobotomyStartTypo_Title_2", "content": "Pure"}, {"id": "LobotomyStartTypo_Name_2", "content": "Method"}, {"id": "LobotomyStartTypo_Desc_2", "content": "He had dreams, because he demanded to understand what they could not understand."}, {"id": "LobotomyStartTypo_KillCountTitle_2", "content": "Denial"}, {"id": "LobotomyClearTypo_Title_2", "content": "Pure"}, {"id": "LobotomyClearTypo_Name_2", "content": "Method"}, {"id": "missionConditionTitle_10026", "content": "LAN is fully controlled in Ryomo"}, {"id": "missionConditionTitle_10027", "content": "Complete Set 7 circuit"}, {"id": "missionConditionTitle_10028", "content": "The failure of the captain training team found three fruits in the conference."}, {"id": "missionConditionTitle_10029", "content": "The fruit uses the overall hope \"solution\" technology."}, {"id": "missionConditionTitle_10030", "content": "After the starting work, he (tenant) (tenant) (the tenant) (frede) loses bleeding, bleeding, starts or (integral)."}, {"id": "missionConditionTitle_10031", "content": "All the disturbances without death"}, {"id": "missionConditionTitle_10032", "content": "There is no aliad SP in case of -45p."}, {"id": "missionConditionTitle_10033", "content": "Use technology in the meeting to remove HP to 80% of the team."}, {"id": "missionConditionTitle_10034", "content": "The captain must be fully tested and the enemy attack is 10 times lower."}, {"id": "missionConditionTitle_10035", "content": "It is suitable for more negative effects than more than eight enemies in a role."}, {"id": "missionConditionTitle_10036", "content": "Beat more than one enemies in a circle"}, {"id": "missionConditionTitle_20026", "content": "Full food, attachment color color"}, {"id": "missionConditionTitle_20027", "content": "12 wheels are constantly reaching"}, {"id": "missionConditionTitle_20028", "content": "The failure of the captain training team found three fruits in the conference."}, {"id": "missionConditionTitle_20029", "content": "The fruit uses the overall hope \"solution\" technology."}, {"id": "missionConditionTitle_20030", "content": "End of work, bleeding, bleeding, explosion or enemy (paved)"}, {"id": "missionConditionTitle_20031", "content": "All the disturbances without death"}, {"id": "missionConditionTitle_20032", "content": "There is no aliad SP in case of -45p."}, {"id": "missionConditionTitle_20033", "content": "Use technology in the meeting to remove HP to 80% of the team."}, {"id": "missionConditionTitle_20034", "content": "Team training has completed direct attacks and enemies 5 times."}, {"id": "missionConditionTitle_20035", "content": "Slowly, it is suitable for negative effects of nine types of enemies."}, {"id": "missionConditionTitle_20036", "content": "Beat more than one enemies in a circle"}, {"id": "missionConditionTitle_20037", "content": "Violated control of parts transferred from the United States Authority."}, {"id": "missionConditionTitle_20038", "content": "We love you to the captain training team"}, {"id": "missionConditionTitle_30003", "content": "Do everything with simple and difficult trouble"}, {"id": "LobotomyClearTypo_Desc_2", "content": "He did nothing."}, {"id": "walpu4_hard_stage_unlock_condition", "content": "It was obvious that it was easy to open"}, {"id": "LobotomyStartTypo_Title_3", "content": "Purple lunch"}, {"id": "LobotomyStartTypo_Name_3", "content": "Love us"}, {"id": "LobotomyStartTypo_Desc_3", "content": "We can perform their actions."}, {"id": "LobotomyClearTypo_Title_3", "content": "Purple lunch"}, {"id": "LobotomyClearTypo_Name_3", "content": "Love us"}, {"id": "LobotomyClearTypo_Desc_3", "content": "We cannot understand or understand ourselves."}, {"id": "KillCount_Title_2", "content": "Pure"}, {"id": "KillCount_Title_1", "content": "Go green"}, {"id": "tutorial_mainui_walpu4_01_title", "content": "Happened in the afternoon picker"}, {"id": "tutorial_mainui_walpu4_01_title_01", "content": "4.vevergis -plplop Violet"}, {"id": "tutorial_mainui_walpu4_01_desc_01", "content": "[Walfangis starts progress in the main story of 1900]."}, {"id": "tutorial_mainui_walpu4_02_title_01", "content": "Process"}, {"id": "tutorial_mainui_walpu4_02_desc_01", "content": "Here, Waldardis activities, one event, simple and difficult problems, and compensation and compensation."}, {"id": "tutorial_mainui_walpu4_03_title_01", "content": "Experience"}, {"id": "tutorial_mainui_walpu4_03_desc_01", "content": "It is easy for them that are trouble."}, {"id": "tutorial_mainui_walpu4_03_title_02", "content": "Sexy"}, {"id": "tutorial_mainui_walpu4_03_desc_02", "content": "Difficulty, current identification, work levels and items are divided, it is difficult to tell."}, {"id": "tutorial_mainui_walpu4_04_title_01", "content": "Shock training effect"}, {"id": "tutorial_mainui_walpu4_04_desc_01", "content": "The Train menu has broken the Training \"Leader\" in the team."}, {"id": "tutorial_mainui_walpu4_05_title_01", "content": "Work"}, {"id": "tutorial_mainui_walpu4_05_desc_01", "content": "You can come [Missions] This page shows a list to complete meetings and awards."}, {"id": "tutorial_mainui_walpu4_06_desc_01", "content": "You can see the term of bonus re-RD [Missions] Toward them."}, {"id": "tutorial_mainui_walpu4_06_desc_02", "content": "Special work on personal work in light and serious problems."}, {"id": "tutorial_mainui_walpu4_06_desc_03", "content": "Ask to fill this work [Missions] Toward them."}, {"id": "tutorial_mainui_walpu4_07_desc_01", "content": "Even after this activity, you can try to meet the Hunter's tents \", 4. [Detour Tales]Intersection"}]}
+{
+  "dataList": [
+    {
+      "id": "Walpu4_event_desc",
+      "content": "Major factors of foreign series in the afternoon, the key factors of foreign series in the \"difficulties\" and \"difficulties\" was pressed.\n\nClean these applications and get different prices."
+    }, {
+      "id": "LobotomyStartTypo_Title_2",
+      "content": "Pure"
+    }, {
+      "id": "LobotomyStartTypo_Name_2",
+      "content": "Method"
+    }, {
+      "id": "LobotomyStartTypo_Desc_2",
+      "content": "He had dreams, because he demanded to understand what they could not understand."
+    }, {
+      "id": "LobotomyStartTypo_KillCountTitle_2",
+      "content": "Denial"
+    }, {
+      "id": "LobotomyClearTypo_Title_2",
+      "content": "Pure"
+    }, {
+      "id": "LobotomyClearTypo_Name_2",
+      "content": "Method"
+    }, {
+      "id": "missionConditionTitle_10026",
+      "content": "LAN is fully controlled in Ryomo"
+    }, {
+      "id": "missionConditionTitle_10027",
+      "content": "Complete Set 7 circuit"
+    }, {
+      "id": "missionConditionTitle_10028",
+      "content": "The failure of the captain training team found three fruits in the conference."
+    }, {
+      "id": "missionConditionTitle_10029",
+      "content": "The fruit uses the overall hope \"solution\" technology."
+    }, {
+      "id": "missionConditionTitle_10030",
+      "content": "After the starting work, he (tenant) (tenant) (the tenant) (frede) loses bleeding, bleeding, starts or (integral)."
+    }, {
+      "id": "missionConditionTitle_10031",
+      "content": "All the disturbances without death"
+    }, {
+      "id": "missionConditionTitle_10032",
+      "content": "There is no aliad SP in case of -45p."
+    }, {
+      "id": "missionConditionTitle_10033",
+      "content": "Use technology in the meeting to remove HP to 80% of the team."
+    }, {
+      "id": "missionConditionTitle_10034",
+      "content": "The captain must be fully tested and the enemy attack is 10 times lower."
+    }, {
+      "id": "missionConditionTitle_10035",
+      "content": "It is suitable for more negative effects than more than eight enemies in a role."
+    }, {
+      "id": "missionConditionTitle_10036",
+      "content": "Beat more than one enemies in a circle"
+    }, {
+      "id": "missionConditionTitle_20026",
+      "content": "Full food, attachment color color"
+    }, {
+      "id": "missionConditionTitle_20027",
+      "content": "12 wheels are constantly reaching"
+    }, {
+      "id": "missionConditionTitle_20028",
+      "content": "The failure of the captain training team found three fruits in the conference."
+    }, {
+      "id": "missionConditionTitle_20029",
+      "content": "The fruit uses the overall hope \"solution\" technology."
+    }, {
+      "id": "missionConditionTitle_20030",
+      "content": "End of work, bleeding, bleeding, explosion or enemy (paved)"
+    }, {
+      "id": "missionConditionTitle_20031",
+      "content": "All the disturbances without death"
+    }, {
+      "id": "missionConditionTitle_20032",
+      "content": "There is no aliad SP in case of -45p."
+    }, {
+      "id": "missionConditionTitle_20033",
+      "content": "Use technology in the meeting to remove HP to 80% of the team."
+    }, {
+      "id": "missionConditionTitle_20034",
+      "content": "Team training has completed direct attacks and enemies 5 times."
+    }, {
+      "id": "missionConditionTitle_20035",
+      "content": "Slowly, it is suitable for negative effects of nine types of enemies."
+    }, {
+      "id": "missionConditionTitle_20036",
+      "content": "Beat more than one enemies in a circle"
+    }, {
+      "id": "missionConditionTitle_20037",
+      "content": "Violated control of parts transferred from the United States Authority."
+    }, {
+      "id": "missionConditionTitle_20038",
+      "content": "We love you to the captain training team"
+    }, {
+      "id": "missionConditionTitle_30003",
+      "content": "Do everything with simple and difficult trouble"
+    }, {
+      "id": "LobotomyClearTypo_Desc_2",
+      "content": "He did nothing."
+    }, {
+      "id": "walpu4_hard_stage_unlock_condition",
+      "content": "It was obvious that it was easy to open"
+    }, {
+      "id": "LobotomyStartTypo_Title_3",
+      "content": "Purple lunch"
+    }, {
+      "id": "LobotomyStartTypo_Name_3",
+      "content": "Love us"
+    }, {
+      "id": "LobotomyStartTypo_Desc_3",
+      "content": "We can perform their actions."
+    }, {
+      "id": "LobotomyClearTypo_Title_3",
+      "content": "Purple lunch"
+    }, {
+      "id": "LobotomyClearTypo_Name_3",
+      "content": "Love us"
+    }, {
+      "id": "LobotomyClearTypo_Desc_3",
+      "content": "We cannot understand or understand ourselves."
+    }, {
+      "id": "KillCount_Title_2",
+      "content": "Pure"
+    }, {
+      "id": "KillCount_Title_1",
+      "content": "Go green"
+    }, {
+      "id": "tutorial_mainui_walpu4_01_title",
+      "content": "Happened in the afternoon picker"
+    }, {
+      "id": "tutorial_mainui_walpu4_01_title_01",
+      "content": "4.vevergis -plplop Violet"
+    }, {
+      "id": "tutorial_mainui_walpu4_01_desc_01",
+      "content": "[Walfangis starts progress in the main story of 1900]."
+    }, {
+      "id": "tutorial_mainui_walpu4_02_title_01",
+      "content": "Process"
+    }, {
+      "id": "tutorial_mainui_walpu4_02_desc_01",
+      "content": "Here, Waldardis activities, one event, simple and difficult problems, and compensation and compensation."
+    }, {
+      "id": "tutorial_mainui_walpu4_03_title_01",
+      "content": "Experience"
+    }, {
+      "id": "tutorial_mainui_walpu4_03_desc_01",
+      "content": "It is easy for them that are trouble."
+    }, {
+      "id": "tutorial_mainui_walpu4_03_title_02",
+      "content": "Sexy"
+    }, {
+      "id": "tutorial_mainui_walpu4_03_desc_02",
+      "content": "Difficulty, current identification, work levels and items are divided, it is difficult to tell."
+    }, {
+      "id": "tutorial_mainui_walpu4_04_title_01",
+      "content": "Shock training effect"
+    }, {
+      "id": "tutorial_mainui_walpu4_04_desc_01",
+      "content": "The Train menu has broken the Training \"Leader\" in the team."
+    }, {
+      "id": "tutorial_mainui_walpu4_05_title_01",
+      "content": "Work"
+    }, {
+      "id": "tutorial_mainui_walpu4_05_desc_01",
+      "content": "You can come [Missions] This page shows a list to complete meetings and awards."
+    }, {
+      "id": "tutorial_mainui_walpu4_06_desc_01",
+      "content": "You can see the term of bonus re-RD [Missions] Toward them."
+    }, {
+      "id": "tutorial_mainui_walpu4_06_desc_02",
+      "content": "Special work on personal work in light and serious problems."
+    }, {
+      "id": "tutorial_mainui_walpu4_06_desc_03",
+      "content": "Ask to fill this work [Missions] Toward them."
+    }, {
+      "id": "tutorial_mainui_walpu4_07_desc_01",
+      "content": "Even after this activity, you can try to meet the Hunter's tents \", 4. [Detour Tales]Intersection"
+    }
+  ]
+}

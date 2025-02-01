@@ -1,1 +1,134 @@
-{"dataList": [{"id": "clear_turn", "content": "He wants her heart"}, {"id": "accumulated_turn", "content": "She plays"}, {"id": "final_accumulated_turn", "content": "Last"}, {"id": "reward_after_clear", "content": "Expressed"}, {"id": "lost_and_found", "content": "Discipline and research"}, {"id": "railway_line", "content": "Wire {0}"}, {"id": "progressing_railway_line", "content": "Travel: {0}"}, {"id": "select_railway_line", "content": "What line are you traveling on?"}, {"id": "stage_info", "content": "Wireless information"}, {"id": "stage_number", "content": "Station {0}"}, {"id": "mirror_refraction_railway", "content": "Go down"}, {"id": "mirror_refraction_railway_with_dungeon_name", "content": "Go down {0}"}, {"id": "accumulated_records", "content": "Tour group"}, {"id": "rank_with_number", "content": "Color #{0}"}, {"id": "open_railway_dungeon_records", "content": "Call"}, {"id": "no_more_rewards_remains_desc", "content": "The award cannot be used."}, {"id": "use_enkephalin_module_to_acquire_rewards", "content": "Deleting <color=#990000>{0} Nicketing device</color>\nOpen price?"}, {"id": "able_to_acquire_rewards_without_using_enkephalin_module", "content": "After opening the door, you can get the value of this program at no additional cost function."}, {"id": "railway_dungeon_ask_for_re_enter", "content": "Now <color=#990000>{0} Station {1}</color>Intersection\nDo you want to add your trip?"}, {"id": "railway_dungeon_current_running", "content": "{0}Numbers{1} To run"}, {"id": "final_clear_accumulated_turn", "content": "Last"}, {"id": "railway_dungeon_detailed_info", "content": "Explanation"}, {"id": "railway_dungeon_1_banner_reward_condition_1", "content": "Retail sale {0}"}, {"id": "railway_dungeon_1_banner_reward_condition_2", "content": "Retail sale {0} Less {1} She plays"}, {"id": "railway_dungeon_1_banner_reward_condition_3", "content": "(Before completing {0}Were, and,,,,,,,,,,,,,,"}, {"id": "railway_dungeon_banner_reward_condition_title", "content": "Amazing"}, {"id": "railway_dungeon_banner_reward_unable_over", "content": "(The past cannot be used {0} General Round)"}, {"id": "no_records_description", "content": "Travels is now empty."}, {"id": "recover_after_resting_battle", "content": "Treatment\nOne after one\nAbove the soldier"}, {"id": "railway_dungeon_try_last_node", "content": "You cannot go back after entering the station.\n\nDo you want to enter the station?"}, {"id": "railway_dungeon_ask_stop_desc", "content": "Do you want to get out of the rest of the railway?"}, {"id": "railway_dungeon_finished_description", "content": "If the total image between two records are recorded, the number of death is higher.\nIf the number of death is the same, the number of elders will be drown."}, {"id": "railway_dungeon_open_duration", "content": "Time"}, {"id": "railway_dungeon_current_station", "content": "{0}"}, {"id": "railway_dungeon_route_map", "content": "Charts"}, {"id": "railway_dungeon_resume_operation", "content": "Travel at"}, {"id": "railway_dungeon_stop_operation", "content": "Travel"}, {"id": "railway_dungeon_station_info", "content": "Line information"}, {"id": "railway_dungeon_operation_closed", "content": "Deleting"}, {"id": "final_clear_accumulated_round", "content": "Last course number"}, {"id": "railway_clear_date", "content": "History registration"}, {"id": "railway_clear_turn_count", "content": "Total liquid account"}, {"id": "railway_clear_turn_count_by_stage", "content": "Each station is a clear and transparent reception."}]}
+{
+  "dataList": [
+    {
+      "id": "clear_turn",
+      "content": "He wants her heart"
+    }, {
+      "id": "accumulated_turn",
+      "content": "She plays"
+    }, {
+      "id": "final_accumulated_turn",
+      "content": "Last"
+    }, {
+      "id": "reward_after_clear",
+      "content": "Expressed"
+    }, {
+      "id": "lost_and_found",
+      "content": "Discipline and research"
+    }, {
+      "id": "railway_line",
+      "content": "Wire {0}"
+    }, {
+      "id": "progressing_railway_line",
+      "content": "Travel: {0}"
+    }, {
+      "id": "select_railway_line",
+      "content": "What line are you traveling on?"
+    }, {
+      "id": "stage_info",
+      "content": "Wireless information"
+    }, {
+      "id": "stage_number",
+      "content": "Station {0}"
+    }, {
+      "id": "mirror_refraction_railway",
+      "content": "Go down"
+    }, {
+      "id": "mirror_refraction_railway_with_dungeon_name",
+      "content": "Go down {0}"
+    }, {
+      "id": "accumulated_records",
+      "content": "Tour group"
+    }, {
+      "id": "rank_with_number",
+      "content": "Color #{0}"
+    }, {
+      "id": "open_railway_dungeon_records",
+      "content": "Call"
+    }, {
+      "id": "no_more_rewards_remains_desc",
+      "content": "The award cannot be used."
+    }, {
+      "id": "use_enkephalin_module_to_acquire_rewards",
+      "content": "Deleting <color=#990000>{0} Nicketing device</color>\nOpen price?"
+    }, {
+      "id": "able_to_acquire_rewards_without_using_enkephalin_module",
+      "content": "After opening the door, you can get the value of this program at no additional cost function."
+    }, {
+      "id": "railway_dungeon_ask_for_re_enter",
+      "content": "Now <color=#990000>{0} Station {1}</color>Intersection\nDo you want to add your trip?"
+    }, {
+      "id": "railway_dungeon_current_running",
+      "content": "{0}Numbers{1} To run"
+    }, {
+      "id": "final_clear_accumulated_turn",
+      "content": "Last"
+    }, {
+      "id": "railway_dungeon_detailed_info",
+      "content": "Explanation"
+    }, {
+      "id": "railway_dungeon_1_banner_reward_condition_1",
+      "content": "Retail sale {0}"
+    }, {
+      "id": "railway_dungeon_1_banner_reward_condition_2",
+      "content": "Retail sale {0} Less {1} She plays"
+    }, {
+      "id": "railway_dungeon_1_banner_reward_condition_3",
+      "content": "(Before completing {0}Were, and,,,,,,,,,,,,,,"
+    }, {
+      "id": "railway_dungeon_banner_reward_condition_title",
+      "content": "Amazing"
+    }, {
+      "id": "railway_dungeon_banner_reward_unable_over",
+      "content": "(The past cannot be used {0} General Round)"
+    }, {
+      "id": "no_records_description",
+      "content": "Travels is now empty."
+    }, {
+      "id": "recover_after_resting_battle",
+      "content": "Treatment\nOne after one\nAbove the soldier"
+    }, {
+      "id": "railway_dungeon_try_last_node",
+      "content": "You cannot go back after entering the station.\n\nDo you want to enter the station?"
+    }, {
+      "id": "railway_dungeon_ask_stop_desc",
+      "content": "Do you want to get out of the rest of the railway?"
+    }, {
+      "id": "railway_dungeon_finished_description",
+      "content": "If the total image between two records are recorded, the number of death is higher.\nIf the number of death is the same, the number of elders will be drown."
+    }, {
+      "id": "railway_dungeon_open_duration",
+      "content": "Time"
+    }, {
+      "id": "railway_dungeon_current_station",
+      "content": "{0}"
+    }, {
+      "id": "railway_dungeon_route_map",
+      "content": "Charts"
+    }, {
+      "id": "railway_dungeon_resume_operation",
+      "content": "Travel at"
+    }, {
+      "id": "railway_dungeon_stop_operation",
+      "content": "Travel"
+    }, {
+      "id": "railway_dungeon_station_info",
+      "content": "Line information"
+    }, {
+      "id": "railway_dungeon_operation_closed",
+      "content": "Deleting"
+    }, {
+      "id": "final_clear_accumulated_round",
+      "content": "Last course number"
+    }, {
+      "id": "railway_clear_date",
+      "content": "History registration"
+    }, {
+      "id": "railway_clear_turn_count",
+      "content": "Total liquid account"
+    }, {
+      "id": "railway_clear_turn_count_by_stage",
+      "content": "Each station is a clear and transparent reception."
+    }
+  ]
+}

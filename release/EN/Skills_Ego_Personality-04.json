@@ -1,1 +1,319 @@
-{"dataList": [{"id": 2040511, "levelList": [{"level": 1, "name": "Soda", "abName": "Velvet", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}, {"desc": "[EnemyKill] Get"}]}]}, {"level": 3, "name": "Soda", "abName": "Velvet", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 was used to quench"}, {"desc": "[EnemyKill] 3 stairs 3 SSP 3P 3P 3P"}]}]}, {"level": 4, "name": "Soda", "abName": "Velvet", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 6 sinks"}, {"desc": "[EnemyKill] 3 stairs 3 SSP 3P 3P 3P"}]}]}]}, {"id": 2040521, "levelList": [{"level": 1, "name": "Soda", "abName": "Velvet", "desc": "[CantIdentify]\nRandomly", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}, {"desc": "[EndSkill] All friends get +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">For example, resources</color></link></u>Intersection"}]}]}, {"level": 3, "name": "Soda", "abName": "Velvet", "desc": "[CantIdentify]\nRandomly", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 was used to quench"}, {"desc": "[EndSkill] All friends get +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">For example, resources</color></link></u>Intersection"}]}]}, {"level": 4, "name": "Soda", "abName": "Velvet", "desc": "[CantIdentify]\nRandomly", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 6 sinks"}, {"desc": "[EndSkill] All friends get +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">For example, resources</color></link></u>In the next poem 1"}]}]}]}, {"id": 2040611, "levelList": [{"level": 1, "name": "break down", "abName": "Urine technology", "desc": "[BeforeAttack] She gets four things", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Provide a lot of computer +2"}, {"desc": "[CriticalOnSucceedAttack] Provide a lot of computer +2"}]}]}, {"level": 3, "name": "break down", "abName": "Urine technology", "desc": "[BeforeAttack] She gets four things\n[EndSkill] Take two countries from this technology of each unit.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Provide a lot of computer +2"}, {"desc": "[CriticalOnSucceedAttack] Provide a lot of computer +2"}]}]}, {"level": 4, "name": "break down", "abName": "Urine technology", "desc": "[BeforeAttack] She gets four things\n[EndSkill] Take two countries from this technology of each unit.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Provide a lot of computer +2"}, {"desc": "[CriticalOnSucceedAttack] Provide a lot of computer +2"}]}]}]}, {"id": 2040621, "levelList": [{"level": 1, "name": "break down", "abName": "Urine technology", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4 square meters.\n[EndSkill] +4 profits are deleted for each item of this technique.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}]}]}, {"level": 3, "name": "break down", "abName": "Urine technology", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4 square meters.\n[EndSkill] +4 profits are deleted for each item of this technique.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}]}]}, {"level": 4, "name": "break down", "abName": "Urine technology", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4 square meters.\n[EndSkill] +4 profits are deleted for each item of this technique.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[CriticalOnSucceedAttack] 10+ [Breath]30% of the benefits of the benefits"}]}]}]}, {"id": 2040711, "levelList": [{"level": 1, "name": "Hate", "abName": "Hate", "desc": "[BeforeAttack] Benefits (maximum cause) weight (up to 2)\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] Were, and,,,,,,,,,,,,,,\n[EndSkill] In the second round loses 10 spins at the end of the circulation.", "coinlist": [{}, {"coindescs": [{"desc": "[EndSkill] 10 to 10 cases according to [Laceration] All goals"}]}]}, {"level": 3, "name": "Hate", "abName": "Hate", "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] Were, and,,,,,,,,,,,,,,\n[EndSkill] In the second round loses 10 spins at the end of the circulation.", "coinlist": [{}, {"coindescs": [{"desc": "[EndSkill] Entrance <style=\"highlight\">15</style> [Laceration] All goals"}]}]}, {"level": 4, "name": "Hate", "abName": "Hate", "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] <style=\"highlight\">Front row</style> Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[EndSkill] For example, if this technique is part of your desire, you will receive.</style>\n[EndSkill] In the second round loses 10 spins at the end of the circulation.", "coinlist": [{}, {"coindescs": [{"desc": "[EndSkill] Apply up to 15 [Laceration] All goals<style=\"highlight\"></style>"}]}]}]}, {"id": 2040721, "levelList": [{"level": 1, "name": "Hate", "abName": "Hate", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 7 7 7 7 [GazePersonality]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Measurement system and flowering target efficiency (up to 20%)"}, {"desc": "[OnSucceedAttack] Application (1 + Most RESSIONS. X1.5) [Laceration] (Over 10, round)"}, {"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}, {"level": 3, "name": "Hate", "abName": "Hate", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 7 7 7 7 [GazePersonality]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">. )))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) ))))))))))))))))))))))))))))))))))))))))))))))))))) To))) from)))))</style> [Laceration] the best <style=\"highlight\">15</style>Prototype)"}, {"desc": "[OnSucceedAttack] Application + + + +<style=\"highlight\">Blood</style> [Laceration] Account"}]}]}, {"level": 4, "name": "Hate", "abName": "Hate", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 7 7 7 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this technology is part of the desire, then 1</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">60%</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">+ (10 + Walls)</style> [Laceration] the best <style=\"highlight\">Siblings</style>Prototype)"}, {"desc": "[OnSucceedAttack] Application + + + +<style=\"highlight\">My</style> [Laceration] Account"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Velvet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }, {
+                  "desc": "[EnemyKill] Get"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Velvet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 was used to quench"
+                }, {
+                  "desc": "[EnemyKill] 3 stairs 3 SSP 3P 3P 3P"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Velvet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 sinks"
+                }, {
+                  "desc": "[EnemyKill] 3 stairs 3 SSP 3P 3P 3P"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Velvet",
+          "desc": "[CantIdentify]\nRandomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }, {
+                  "desc": "[EndSkill] All friends get +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">For example, resources</color></link></u>Intersection"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Velvet",
+          "desc": "[CantIdentify]\nRandomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 was used to quench"
+                }, {
+                  "desc": "[EndSkill] All friends get +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">For example, resources</color></link></u>Intersection"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Velvet",
+          "desc": "[CantIdentify]\nRandomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 sinks"
+                }, {
+                  "desc": "[EndSkill] All friends get +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">For example, resources</color></link></u>In the next poem 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "break down",
+          "abName": "Urine technology",
+          "desc": "[BeforeAttack] She gets four things",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provide a lot of computer +2"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Provide a lot of computer +2"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "break down",
+          "abName": "Urine technology",
+          "desc": "[BeforeAttack] She gets four things\n[EndSkill] Take two countries from this technology of each unit.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provide a lot of computer +2"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Provide a lot of computer +2"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "break down",
+          "abName": "Urine technology",
+          "desc": "[BeforeAttack] She gets four things\n[EndSkill] Take two countries from this technology of each unit.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provide a lot of computer +2"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Provide a lot of computer +2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "break down",
+          "abName": "Urine technology",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4 square meters.\n[EndSkill] +4 profits are deleted for each item of this technique.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "break down",
+          "abName": "Urine technology",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4 square meters.\n[EndSkill] +4 profits are deleted for each item of this technique.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "break down",
+          "abName": "Urine technology",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4 square meters.\n[EndSkill] +4 profits are deleted for each item of this technique.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 10+ [Breath]30% of the benefits of the benefits"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hate",
+          "abName": "Hate",
+          "desc": "[BeforeAttack] Benefits (maximum cause) weight (up to 2)\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] Were, and,,,,,,,,,,,,,,\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] 10 to 10 cases according to [Laceration] All goals"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Hate",
+          "abName": "Hate",
+          "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] Were, and,,,,,,,,,,,,,,\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Entrance <style=\"highlight\">15</style> [Laceration] All goals"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Hate",
+          "abName": "Hate",
+          "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] <style=\"highlight\">Front row</style> Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[EndSkill] For example, if this technique is part of your desire, you will receive.</style>\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Apply up to 15 [Laceration] All goals<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hate",
+          "abName": "Hate",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 7 7 7 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Measurement system and flowering target efficiency (up to 20%)"
+                }, {
+                  "desc": "[OnSucceedAttack] Application (1 + Most RESSIONS. X1.5) [Laceration] (Over 10, round)"
+                }, {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Hate",
+          "abName": "Hate",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 7 7 7 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">. )))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) ))))))))))))))))))))))))))))))))))))))))))))))))))) To))) from)))))</style> [Laceration] the best <style=\"highlight\">15</style>Prototype)"
+                }, {
+                  "desc": "[OnSucceedAttack] Application + + + +<style=\"highlight\">Blood</style> [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Hate",
+          "abName": "Hate",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 7 7 7 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this technology is part of the desire, then 1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">60%</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">+ (10 + Walls)</style> [Laceration] the best <style=\"highlight\">Siblings</style>Prototype)"
+                }, {
+                  "desc": "[OnSucceedAttack] Application + + + +<style=\"highlight\">My</style> [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

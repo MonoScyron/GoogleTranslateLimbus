@@ -1,1 +1,75 @@
-{"dataList": [{"id": 9013601, "name": "Yes ...", "desc": "Finally, if you are repaired, treat the burning mode and collection from the next round to the next round.", "summary": ""}, {"id": 9013602, "name": "Yes ...", "desc": "Finally, as you know: If this device is recovered, you will be attacked.", "summary": ""}, {"id": 9013603, "name": "Oh ...", "desc": "If the speed of this device is faster than +2 of the target", "summary": ""}, {"id": 9013604, "name": "You are ice cream ...!", "desc": "When every attack technology appears, 10 SG.", "summary": ""}, {"id": 9013606, "name": "Three ...", "desc": "In the struggle, the battle of 10 kilometers were killed in all battle-1.", "summary": ""}, {"id": 9013607, "name": "She ... TTA", "desc": "After losing the struggle, he violated three steps.", "summary": ""}, {"id": 9013701, "name": "Show ...", "desc": "Spin: If less than SP-10, you get three levels of the next crime.", "summary": ""}, {"id": 9013804, "name": "Two ...", "desc": "When every attack technology appears, 10 SG.", "summary": ""}, {"id": 9013801, "name": "This is ...", "desc": "If you use attack methods, if the target is less than 70 hours, you will get +1 default capacity and + 20%.", "summary": ""}, {"id": 9013802, "name": "With", "desc": "When using technology, if the unit's speed is faster than the target, energy loss against the collision is +2 and 20%", "summary": ""}, {"id": 817001, "name": "Wavy", "desc": "Less than 65% HP: 1 1 [AttackUp] 1 [TakeHpHealIncrease] Vibushhols\nLess than 40% HP: 1 [AttackUp] 1 [TakeHpHealIncrease] To use\nAt least until it becomes active, it is maintained after implementation.", "summary": ""}, {"id": 817002, "name": "Enemy ...", "desc": "After winning the first place and repair 10%, anger was damaged.", "summary": ""}, {"id": 817003, "name": "In the introduction ...", "desc": "At the time of killing, brief and part of the 200 Horse Power.\nGet 1 [Agility]Three, three [DefenseUp]There is no way [AttackUp] The next line.", "summary": ""}, {"id": 817004, "name": "Below", "desc": "Line [AaCfPbBe]", "summary": ""}]}
+{
+  "dataList": [
+    {
+      "id": 9013601,
+      "name": "Yes ...",
+      "desc": "Finally, if you are repaired, treat the burning mode and collection from the next round to the next round.",
+      "summary": ""
+    }, {
+      "id": 9013602,
+      "name": "Yes ...",
+      "desc": "Finally, as you know: If this device is recovered, you will be attacked.",
+      "summary": ""
+    }, {
+      "id": 9013603,
+      "name": "Oh ...",
+      "desc": "If the speed of this device is faster than +2 of the target",
+      "summary": ""
+    }, {
+      "id": 9013604,
+      "name": "You are ice cream ...!",
+      "desc": "When every attack technology appears, 10 SG.",
+      "summary": ""
+    }, {
+      "id": 9013606,
+      "name": "Three ...",
+      "desc": "In the struggle, the battle of 10 kilometers were killed in all battle-1.",
+      "summary": ""
+    }, {
+      "id": 9013607,
+      "name": "She ... TTA",
+      "desc": "After losing the struggle, he violated three steps.",
+      "summary": ""
+    }, {
+      "id": 9013701,
+      "name": "Show ...",
+      "desc": "Spin: If less than SP-10, you get three levels of the next crime.",
+      "summary": ""
+    }, {
+      "id": 9013804,
+      "name": "Two ...",
+      "desc": "When every attack technology appears, 10 SG.",
+      "summary": ""
+    }, {
+      "id": 9013801,
+      "name": "This is ...",
+      "desc": "If you use attack methods, if the target is less than 70 hours, you will get +1 default capacity and + 20%.",
+      "summary": ""
+    }, {
+      "id": 9013802,
+      "name": "With",
+      "desc": "When using technology, if the unit's speed is faster than the target, energy loss against the collision is +2 and 20%",
+      "summary": ""
+    }, {
+      "id": 817001,
+      "name": "Wavy",
+      "desc": "Less than 65% HP: 1 1 [AttackUp] 1 [TakeHpHealIncrease] Vibushhols\nLess than 40% HP: 1 [AttackUp] 1 [TakeHpHealIncrease] To use\nAt least until it becomes active, it is maintained after implementation.",
+      "summary": ""
+    }, {
+      "id": 817002,
+      "name": "Enemy ...",
+      "desc": "After winning the first place and repair 10%, anger was damaged.",
+      "summary": ""
+    }, {
+      "id": 817003,
+      "name": "In the introduction ...",
+      "desc": "At the time of killing, brief and part of the 200 Horse Power.\nGet 1 [Agility]Three, three [DefenseUp]There is no way [AttackUp] The next line.",
+      "summary": ""
+    }, {
+      "id": 817004,
+      "name": "Below",
+      "desc": "Line [AaCfPbBe]",
+      "summary": ""
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"dataList": [{"id": 827701, "name": "To extend", "desc": "1000 [LimitedTime] When the meeting begins"}, {"id": 827702, "name": "Rapid breeding", "desc": "Finally: If some are damaged, the same will be consumed 100 times in this section and will be return to a damaged situation in the next poem."}, {"id": 827801, "name": "Every moment", "desc": "In the second stage, 75% HP. [LimitedTime] Between all parts [OwnTime]Intersection"}, {"id": 827802, "name": "The same price", "desc": "Everything is over [EquitableDistribution]Intersection"}, {"id": 827803, "name": "Time", "desc": "Starting Shipment: All Part 5 Receive 5 [Protection]Intersection"}, {"id": 827804, "name": "are you alone?", "desc": "60%-down in HP [EquitableDistribution] Calculation [UnfairDistribution]Intersection"}]}
+{
+  "dataList": [
+    {
+      "id": 827701,
+      "name": "To extend",
+      "desc": "1000 [LimitedTime] When the meeting begins"
+    }, {
+      "id": 827702,
+      "name": "Rapid breeding",
+      "desc": "Finally: If some are damaged, the same will be consumed 100 times in this section and will be return to a damaged situation in the next poem."
+    }, {
+      "id": 827801,
+      "name": "Every moment",
+      "desc": "In the second stage, 75% HP. [LimitedTime] Between all parts [OwnTime]Intersection"
+    }, {
+      "id": 827802,
+      "name": "The same price",
+      "desc": "Everything is over [EquitableDistribution]Intersection"
+    }, {
+      "id": 827803,
+      "name": "Time",
+      "desc": "Starting Shipment: All Part 5 Receive 5 [Protection]Intersection"
+    }, {
+      "id": 827804,
+      "name": "are you alone?",
+      "desc": "60%-down in HP [EquitableDistribution] Calculation [UnfairDistribution]Intersection"
+    }
+  ]
+}

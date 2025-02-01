@@ -1,1 +1,69 @@
-{"dataList": [{"id": 850101, "name": "By notifications", "desc": "After starting the journey, if your HP is less than 50% you can cope with 20% or up to 20%."}, {"id": 851001, "name": "Beautiful", "desc": "After losing the fight, he was hidden."}, {"id": 851002, "name": "Blue Reds", "desc": "When some eyes grab the eye, the enemies of SP lose more than 35 Florida."}, {"id": 851003, "name": "Sewerage Tank is weak", "desc": "When something breaks, it starts here, these are three sensitive."}, {"id": 851901, "name": "The city began to visit", "desc": "If the number is 10+, change the operation at the beginning of the trip."}, {"id": 852001, "name": "Search wounds!", "desc": "When the unit loses, KKE -1 -1 -23 100 has been damaged and the next line is set.\nThen he lost their technical skills in the rest of the battles."}, {"id": 852101, "name": "High", "desc": "If it is less than 60 horsepower, enter the position of energy at the beginning of the turn."}, {"id": 852301, "name": "High HP ball", "desc": "When the disorder is hurting 2 and 2 weaknesses."}, {"id": 852701, "name": "Diana", "desc": "When the trip begins, it is safe to secure."}, {"id": 852702, "name": "You can see", "desc": "Find out that this is"}, {"id": 852703, "name": "Circular", "desc": "After a successful attack, all 10 virgin soldiers have exceeded their goals.\n(Other five deals are transferred to number of numbers).\nAs long as their companions live."}, {"id": 852704, "name": "Numbers", "desc": "At the beginning of the turn, if it is a wrinkle fairy, you travel 30 wires and 3 beautiful random trips and then enter into anataman (automatically.\nIn this case, all goals are achieved."}, {"id": 852705, "name": "Uncomfortable", "desc": "If the murder continues, the price of HP HP HP HP has increased 20%."}, {"id": 852706, "name": "Three intelligent text", "desc": "There is no lesson\nI can't hear a lesson here\nThere is no lesson"}, {"id": 852707, "name": "B is a fool", "desc": "You can completely restore HP at the beginning of the way."}, {"id": 852102, "name": "Apple love", "desc": "If the equipment is incomplete after the beginning of the trip, the maximum value is 25%."}]}
+{
+  "dataList": [
+    {
+      "id": 850101,
+      "name": "By notifications",
+      "desc": "After starting the journey, if your HP is less than 50% you can cope with 20% or up to 20%."
+    }, {
+      "id": 851001,
+      "name": "Beautiful",
+      "desc": "After losing the fight, he was hidden."
+    }, {
+      "id": 851002,
+      "name": "Blue Reds",
+      "desc": "When some eyes grab the eye, the enemies of SP lose more than 35 Florida."
+    }, {
+      "id": 851003,
+      "name": "Sewerage Tank is weak",
+      "desc": "When something breaks, it starts here, these are three sensitive."
+    }, {
+      "id": 851901,
+      "name": "The city began to visit",
+      "desc": "If the number is 10+, change the operation at the beginning of the trip."
+    }, {
+      "id": 852001,
+      "name": "Search wounds!",
+      "desc": "When the unit loses, KKE -1 -1 -23 100 has been damaged and the next line is set.\nThen he lost their technical skills in the rest of the battles."
+    }, {
+      "id": 852101,
+      "name": "High",
+      "desc": "If it is less than 60 horsepower, enter the position of energy at the beginning of the turn."
+    }, {
+      "id": 852301,
+      "name": "High HP ball",
+      "desc": "When the disorder is hurting 2 and 2 weaknesses."
+    }, {
+      "id": 852701,
+      "name": "Diana",
+      "desc": "When the trip begins, it is safe to secure."
+    }, {
+      "id": 852702,
+      "name": "You can see",
+      "desc": "Find out that this is"
+    }, {
+      "id": 852703,
+      "name": "Circular",
+      "desc": "After a successful attack, all 10 virgin soldiers have exceeded their goals.\n(Other five deals are transferred to number of numbers).\nAs long as their companions live."
+    }, {
+      "id": 852704,
+      "name": "Numbers",
+      "desc": "At the beginning of the turn, if it is a wrinkle fairy, you travel 30 wires and 3 beautiful random trips and then enter into anataman (automatically.\nIn this case, all goals are achieved."
+    }, {
+      "id": 852705,
+      "name": "Uncomfortable",
+      "desc": "If the murder continues, the price of HP HP HP HP has increased 20%."
+    }, {
+      "id": 852706,
+      "name": "Three intelligent text",
+      "desc": "There is no lesson\nI can't hear a lesson here\nThere is no lesson"
+    }, {
+      "id": 852707,
+      "name": "B is a fool",
+      "desc": "You can completely restore HP at the beginning of the way."
+    }, {
+      "id": 852102,
+      "name": "Apple love",
+      "desc": "If the equipment is incomplete after the beginning of the trip, the maximum value is 25%."
+    }
+  ]
+}

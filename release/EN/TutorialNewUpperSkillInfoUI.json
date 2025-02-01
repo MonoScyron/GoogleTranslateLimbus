@@ -1,1 +1,29 @@
-{"dataList": [{"id": "tutorial_upperSkillInfo_System_popup_title_01", "content": "In battle, adjust the intensity of information on the screen."}, {"id": "tutorial_upperSkillInfo_System_popup_01", "content": "There is a button in the fighting to keep the information shown in the upper right corner of the screen.\n\nThese three buttons on average value and determine the maximum value."}, {"id": "tutorial_upperSkillInfo_System_popup_title_02", "content": "the best"}, {"id": "tutorial_upperSkillInfo_System_popup_02", "content": "Most information gallery.\n\nThis standard setting is used earlier.\n\nMore information is displayed as compared to the second settings.\n\nDetails of the keywords used in technology is displayed."}, {"id": "tutorial_upperSkillInfo_System_popup_title_03", "content": "Headquarters"}, {"id": "tutorial_upperSkillInfo_System_popup_03", "content": "See intermediate information.\n\nThe most important details used in the technology is not displayed in this environment.\n\nOtherwise, you can use it as a maximum setting."}, {"id": "tutorial_upperSkillInfo_System_popup_title_04", "content": "At least"}, {"id": "tutorial_upperSkillInfo_System_popup_04", "content": "However, it creates the information label.\n\nThe main effects and words of this environment are not displayed."}]}
+{
+  "dataList": [
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_01",
+      "content": "In battle, adjust the intensity of information on the screen."
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_01",
+      "content": "There is a button in the fighting to keep the information shown in the upper right corner of the screen.\n\nThese three buttons on average value and determine the maximum value."
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_title_02",
+      "content": "the best"
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_02",
+      "content": "Most information gallery.\n\nThis standard setting is used earlier.\n\nMore information is displayed as compared to the second settings.\n\nDetails of the keywords used in technology is displayed."
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_title_03",
+      "content": "Headquarters"
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_03",
+      "content": "See intermediate information.\n\nThe most important details used in the technology is not displayed in this environment.\n\nOtherwise, you can use it as a maximum setting."
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_title_04",
+      "content": "At least"
+    }, {
+      "id": "tutorial_upperSkillInfo_System_popup_04",
+      "content": "However, it creates the information label.\n\nThe main effects and words of this environment are not displayed."
+    }
+  ]
+}

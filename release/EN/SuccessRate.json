@@ -1,1 +1,41 @@
-{"dataList": [{"id": "very-high", "content": "Oppose"}, {"id": "high", "content": "Work"}, {"id": "normal", "content": "Neutral"}, {"id": "low", "content": "Clash"}, {"id": "very-low", "content": "Despair"}, {"id": "impossible", "content": "Width"}, {"id": "event-very-high", "content": "Long"}, {"id": "event-high", "content": "Long"}, {"id": "event-normal", "content": "Naturally"}, {"id": "event-low", "content": "Short"}, {"id": "event-very-low", "content": "Very little"}, {"id": "event-impossible", "content": "Width"}]}
+{
+  "dataList": [
+    {
+      "id": "very-high",
+      "content": "Oppose"
+    }, {
+      "id": "high",
+      "content": "Work"
+    }, {
+      "id": "normal",
+      "content": "Neutral"
+    }, {
+      "id": "low",
+      "content": "Clash"
+    }, {
+      "id": "very-low",
+      "content": "Despair"
+    }, {
+      "id": "impossible",
+      "content": "Width"
+    }, {
+      "id": "event-very-high",
+      "content": "Long"
+    }, {
+      "id": "event-high",
+      "content": "Long"
+    }, {
+      "id": "event-normal",
+      "content": "Naturally"
+    }, {
+      "id": "event-low",
+      "content": "Short"
+    }, {
+      "id": "event-very-low",
+      "content": "Very little"
+    }, {
+      "id": "event-impossible",
+      "content": "Width"
+    }
+  ]
+}

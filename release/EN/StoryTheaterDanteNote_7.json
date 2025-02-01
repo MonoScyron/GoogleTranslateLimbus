@@ -1,1 +1,17 @@
-{"dataList": [{"id": "ButlerAssoc", "content": "Battery"}, {"id": "CityDirection", "content": "Spread"}, {"id": "Line4", "content": "Robbie 4 reflections"}, {"id": "PDA", "content": "PDA device"}]}
+{
+  "dataList": [
+    {
+      "id": "ButlerAssoc",
+      "content": "Battery"
+    }, {
+      "id": "CityDirection",
+      "content": "Spread"
+    }, {
+      "id": "Line4",
+      "content": "Robbie 4 reflections"
+    }, {
+      "id": "PDA",
+      "content": "PDA device"
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"dataList": [{"id": "UserAgreement_popup_title", "content": "Terms of service"}, {"id": "UserAgreement_title", "content": "User Protocol"}, {"id": "UserAgreement_personality_title", "content": "Information and personal data security policy"}, {"id": "UserAgreement_agreed", "content": "I agree"}]}
+{
+  "dataList": [
+    {
+      "id": "UserAgreement_popup_title",
+      "content": "Terms of service"
+    }, {
+      "id": "UserAgreement_title",
+      "content": "User Protocol"
+    }, {
+      "id": "UserAgreement_personality_title",
+      "content": "Information and personal data security policy"
+    }, {
+      "id": "UserAgreement_agreed",
+      "content": "I agree"
+    }
+  ]
+}

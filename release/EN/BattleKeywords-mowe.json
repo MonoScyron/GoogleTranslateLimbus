@@ -1,1 +1,35 @@
-{"dataList": [{"id": "KeptBlood", "name": "Except the blood", "desc": "Running value: 10\n-1 1 1, this device loses 5% HP.\n-Jielder, 1% unit processing HP", "summary": "", "undefined": "-"}, {"id": "BloodyCrave", "name": "Blood flow", "desc": "Every stage of friction and damage\n- a murder, blood was set up\nThis unit violates two sensitive crimes, a business and four crimes, not mentioned if blood does not take blood from blood.", "summary": "", "undefined": "-"}, {"id": "BloodPocket_LowMorale", "name": "Blood", "desc": "Initial: 1 sensor and damage", "summary": "", "undefined": "-"}, {"id": "BloodPocket_Panic", "name": "Blood", "desc": "Start Turnover: 2 gentle and damaged", "summary": "", "undefined": "-"}, {"id": "HardenedBlood", "name": "Severe blood", "desc": "Equal levels of crime and security (up to 5)", "summary": "", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "KeptBlood",
+      "name": "Except the blood",
+      "desc": "Running value: 10\n-1 1 1, this device loses 5% HP.\n-Jielder, 1% unit processing HP",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "BloodyCrave",
+      "name": "Blood flow",
+      "desc": "Every stage of friction and damage\n- a murder, blood was set up\nThis unit violates two sensitive crimes, a business and four crimes, not mentioned if blood does not take blood from blood.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "BloodPocket_LowMorale",
+      "name": "Blood",
+      "desc": "Initial: 1 sensor and damage",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "BloodPocket_Panic",
+      "name": "Blood",
+      "desc": "Start Turnover: 2 gentle and damaged",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "HardenedBlood",
+      "name": "Severe blood",
+      "desc": "Equal levels of crime and security (up to 5)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

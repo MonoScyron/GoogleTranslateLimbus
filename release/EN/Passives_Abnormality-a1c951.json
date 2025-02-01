@@ -1,1 +1,25 @@
-{"dataList": [{"id": 811301, "name": "IFA", "desc": "10+ [Charge] Call, get it [AaCeSeBa] The next line.\n30%-upths increases [AaCeSeBa] Every line.", "summary": ""}, {"id": 811302, "name": "Sheep", "desc": "The game has begun [Charge] If this device is good, counted.", "summary": ""}, {"id": 811303, "name": "To take", "desc": "1 [Breath] When technology is attacked", "summary": ""}, {"id": 811304, "name": "I can't display!", "desc": "If the part of the Gift bag breaks down, the Power-2 Base of-2 \"pack off\".", "summary": ""}]}
+{
+  "dataList": [
+    {
+      "id": 811301,
+      "name": "IFA",
+      "desc": "10+ [Charge] Call, get it [AaCeSeBa] The next line.\n30%-upths increases [AaCeSeBa] Every line.",
+      "summary": ""
+    }, {
+      "id": 811302,
+      "name": "Sheep",
+      "desc": "The game has begun [Charge] If this device is good, counted.",
+      "summary": ""
+    }, {
+      "id": 811303,
+      "name": "To take",
+      "desc": "1 [Breath] When technology is attacked",
+      "summary": ""
+    }, {
+      "id": 811304,
+      "name": "I can't display!",
+      "desc": "If the part of the Gift bag breaks down, the Power-2 Base of-2 \"pack off\".",
+      "summary": ""
+    }
+  ]
+}

@@ -1,1 +1,878 @@
-{"dataList": [{"id": 1080701, "levelList": [{"level": 1, "name": "Preparation", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Measure +3"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Application +2 tons"}]}]}, {"level": 2, "name": "Preparation", "desc": "[WhenUse] Benefits Measure +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Measure +3"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Application +2 tons"}]}]}, {"level": 4, "name": "Preparation", "desc": "[WhenUse] Benefits Measure +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Measure +3"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +2 tons"}]}]}]}, {"id": 1080702, "levelList": [{"level": 1, "name": "Explosives", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 tram account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 6 sinks"}, {"desc": "[OnSucceedAttackHead] Suitable for security level in the next round"}]}]}, {"level": 2, "name": "Explosives", "desc": "5+, Mungarcrate +1 is calculated", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 tram account"}, {"desc": "[OnSucceedAttack] Profits +2 tram"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 6 sinks"}, {"desc": "[OnSucceedAttack] The following 3 security levels 3 security levels"}]}]}, {"level": 4, "name": "Explosives", "desc": "5+, Mungarcrate +1 is calculated", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 tram account"}, {"desc": "[OnSucceedAttack] Profits +2 tram"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 6 sinks"}, {"desc": "[OnSucceedAttack] Use of 4 security levels in the next round"}]}]}]}, {"id": 1080703, "levelList": [{"level": 3, "name": "Accident decision", "desc": "5+, Mungarcrate +1 is calculated\nIf the target is to drown up 6+ categories, contracting + 20% will be lost", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application + 5-T-Tech Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}, {"desc": "[OnSucceedAttack] 1 App 1 Front line I used to use excellent account decorations."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}, {"desc": "[OnSucceedAttack] 5 trains of 5 trains to install two hidden corners"}]}]}, {"level": 4, "name": "Accident decision", "desc": "Provides each five thunder directive.\nIf the goal is 6+ years, it can harm Jungu + 40%.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application + 5-T-Tech Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}, {"desc": "[OnSucceedAttack] 1 App 1 Front line I used to use excellent account decorations."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}, {"desc": "[OnSucceedAttack] 5 trains of 5 trains to install two hidden corners"}]}]}]}, {"id": 1080704, "levelList": [{"level": 1, "name": "Steps", "desc": "[WhenUse] 2 steer protection (6 times per round)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 1080801, "levelList": [{"level": 1, "name": "Me!", "desc": "[WhenUse] HP + (high reason) next round of agricultural technology (one round one round)", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Bleeding establishment"}]}]}, {"level": 2, "name": "Me!", "desc": "[WhenUse] HP + (high reason) next round of agricultural technology (one round one round)\n-4+ In the upper part of the poor.", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}, {"level": 4, "name": "Me!", "desc": "<style=\"highlight\">[StartBattle] Apply 2 security levels to 2 security levels to two control panels.</style>\n[WhenUse] HP + (high reason) next round of agricultural technology (one round one round)\n-4+ In the upper part of the poor.", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 1080802, "levelList": [{"level": 1, "name": "Contact us from the end!", "desc": "[WhenUse] For whatever reason, the unit asked a friend on the right (control room). [CoverAttack] Stand up.", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] No. 1"}]}]}, {"level": 2, "name": "Contact us from the end!", "desc": "[WhenUse] Is a simple reason. [CoverAttack] Stand up.\n-Gattan gets 1 \"deficit\" to 4+ supporters.\nThere are more than 4 people and mix it.", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] No. 1"}]}]}, {"level": 4, "name": "Contact us from the end!", "desc": "[StartBattle] Apply 3 autumn levels at Control Panel and Autumn Levels next to the device\n[WhenUse] Requires a tool for simple reasons. [CoverAttack] Stand up.\n-A-A-Jackon Un-4+.\n-4+ is proud.", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] No. 1"}]}]}]}, {"id": 1080803, "levelList": [{"level": 3, "name": "off one's nuts", "desc": "Sometimes HP HP causes more damage (1% HP, 0.2% loss at any cost of any price)\n[EndSkill] If the goal is good or losing (1+ chat), if SP can treat 10 SPs, you can get 10 SPS, can get the apartment and get +4 numbers: 4)", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Burning measure +1"}]}]}, {"level": 4, "name": "off one's nuts", "desc": "HP HP HP (1% 0.3% Loss, Maximum Loss. + 30%)\n5 Connection +1 [Laceration] In the form of the target (up to 2)\n[EndSkill] If the goal is good or loser (1+ (A-Hormone), you can explain at least SP 10 SP to get two apartments and numbers + 4.", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Burning measure +1"}]}]}]}, {"id": 1080804, "levelList": [{"level": 1, "name": "Do not be afraid", "desc": "[WhenUse] 3 ps (twice) in the Control Room near the control room", "coinlist": [{"coindescs": [{"desc": ""}]}]}, {"level": 4, "name": "Do not be afraid", "desc": "[WhenUse] 2 accessories for SP2 panel near this device (up to twice)", "coinlist": [{}]}]}, {"id": 1080901, "levelList": [{"level": 1, "name": "Dive", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [Breath]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}]}, {"level": 2, "name": "Dive", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [Breath]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}]}, {"level": 4, "name": "Dive", "desc": "If the device is faster than the target capacity, minute-1\n[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [Breath]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}, {"desc": "[CriticalOnSucceedAttack] Get 1 [Agility] Valley"}]}]}]}, {"id": 1080902, "levelList": [{"level": 1, "name": "Local", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Agility] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Sinking]"}]}]}, {"level": 2, "name": "Local", "desc": "[WhenUse] Benefits +2 [Breath] Account\n[WinDuel] Get 2 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Agility] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Sinking]"}]}]}, {"level": 4, "name": "Local", "desc": "If the device is faster than the target capacity, minute-1\n[WhenUse] Benefits +2 [Breath] Account\n[WinDuel] Get 2 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Agility] Valley"}, {"desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Application 1 [Binding] Valley</style>"}, {"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Sinking]"}]}]}]}, {"id": 1080903, "levelList": [{"level": 3, "name": "Book", "desc": "[WhenUse] Benefits 6 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}, {"desc": "[OnSucceedAttack] Application 1 [Binding] Valley"}, {"desc": "[OnSucceedAttack] Application 1 [SlashTakeDamageUp] Valley"}]}]}, {"level": 4, "name": "Book", "desc": "If the device is faster than the target capacity, minute-1\n[WhenUse] Benefits 6 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Binding] Valley"}, {"desc": "[OnSucceedAttack] Application 1 [SlashTakeDamageUp] Valley"}]}]}]}, {"id": 1080904, "levelList": [{"level": 1, "name": "Migration", "desc": "", "coinlist": [{"coindescs": [{"desc": ""}]}]}, {"level": 4, "name": "Migration", "desc": "[OnSucceedEvade] Treatment 5S (again)", "coinlist": [{}]}]}, {"id": 1081001, "levelList": [{"level": 1, "name": "Night size", "desc": "[WhenUse] Benefits +2 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 4 [Vibration] Measure yourself (up to 2)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Vibration] Account"}, {"desc": "[OnSucceedAttack] Get 1 [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Vibration] Account"}, {"desc": "[OnSucceedAttack] Get 1 [DefenseUp] Valley"}]}]}, {"level": 2, "name": "Night size", "desc": "[WhenUse] Jin + +<style=\"highlight\">Blood</style> [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] All <style=\"highlight\">Blood</style> [Vibration] Measure yourself (up to 2)\n<style=\"highlight\">[WhenUse] 4+ [DefenseUp], The basic energy + +</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Vibration] Account"}, {"desc": "[OnSucceedAttack] to get <style=\"highlight\">There is no way</style> [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Vibration] Account"}, {"desc": "[OnSucceedAttack] to get <style=\"highlight\">There is no way</style> [DefenseUp] Valley"}]}]}, {"level": 4, "name": "Night size", "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] All <style=\"highlight\">There is no way</style> [Vibration] I believe in myself (maximum) <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] <style=\"highlight\">Every 41 basic strength [DefenseUp] (the best)</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Vibration] Account"}, {"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley<style=\"highlight\"></style>"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Vibration] Account"}, {"desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley<style=\"highlight\"></style>"}]}]}]}, {"id": 1081002, "levelList": [{"level": 1, "name": "I couldn't find you", "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] Measure yourself (3)\n[WinDuel] Benefits +3 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Personal Number) / 2) (up to 2)"}, {"desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"}]}]}, {"level": 2, "name": "I couldn't find you", "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[WhenUse] 5+ [DefenseUp], Call ++ 1</style>\n[WinDuel] Benefits +3 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"}]}]}, {"level": 4, "name": "I couldn't find you", "desc": "[WhenUse] Jin + +<style=\"highlight\">My</style> [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Calculation <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,, [DefenseUp], Call ++ 1\n[WinDuel] Benefits +3 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">4</style> [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] to get <style=\"highlight\">4</style> [DefenseUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "[OnSucceedAttack] Calculation <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,, [DefenseUp]1 apply [Reduction]"}]}]}]}, {"id": 1081003, "levelList": [{"level": 3, "name": "To separate", "desc": "[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] Measure yourself (3)\n[WhenUse] On this device [DefensiveStance], Processing + 50% loss\n[WhenUse] 4 coins +1 [DefenseUp] Off (up to 2)\n[WhenUse] Benefits +8 [Aggro] Grill to get the next rash technique\n[WinDuel] Benefits +3 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For the purpose of.\n-S SARPPORTS + (surplus) [Vibration] X 1.5)% (up to 30%)"}, {"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}, {"desc": "[OnSucceedAttack] On this device [DefensiveStance]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}]}, {"level": 4, "name": "To separate", "desc": "[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] On this device [DefensiveStance], Business +<style=\"highlight\">70</style>% Other damage\n[WhenUse] 4 coins +1 [DefenseUp] Up (maximum value) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Jin + +<style=\"highlight\">10</style> [Aggro] Grill to get the next rash technique\n[WinDuel] Benefits +3 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For <style=\"highlight\">20</style>Were, and,,,,,,,,,,,,,,\n-S SARPPORTS + (surplus) [Vibration] By <style=\"highlight\">My</style>) More damage (maximum injuries) <style=\"highlight\">50</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}, {"desc": "[OnSucceedAttack] On this device [DefensiveStance]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}]}]}, {"id": 1081004, "levelList": [{"level": 1, "name": "Your armor", "desc": "[CanDuelGuard]\n[StartBattle] Get 2 [DefensiveStance]Jiv\n[WhenUse] Benefits +10 [Vibration] Number (once)", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}]}, {"level": 4, "name": "Your armor", "desc": "[CanDuelGuard]\n[StartBattle] Get 2 [DefensiveStance]Jiv\n[WhenUse] Benefits +10 [Vibration] Number (once)\n<style=\"highlight\">[WinDuel] Tractor [VibrationExplosion]</style>", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 1080701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Preparation",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Measure +3"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application +2 tons"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Preparation",
+          "desc": "[WhenUse] Benefits Measure +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Measure +3"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application +2 tons"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Preparation",
+          "desc": "[WhenUse] Benefits Measure +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Measure +3"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +2 tons"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Explosives",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 tram account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 sinks"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Suitable for security level in the next round"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Explosives",
+          "desc": "5+, Mungarcrate +1 is calculated",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 tram account"
+                }, {
+                  "desc": "[OnSucceedAttack] Profits +2 tram"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] The following 3 security levels 3 security levels"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Explosives",
+          "desc": "5+, Mungarcrate +1 is calculated",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 tram account"
+                }, {
+                  "desc": "[OnSucceedAttack] Profits +2 tram"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] Use of 4 security levels in the next round"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Accident decision",
+          "desc": "5+, Mungarcrate +1 is calculated\nIf the target is to drown up 6+ categories, contracting + 20% will be lost",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application + 5-T-Tech Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 App 1 Front line I used to use excellent account decorations."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 trains of 5 trains to install two hidden corners"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Accident decision",
+          "desc": "Provides each five thunder directive.\nIf the goal is 6+ years, it can harm Jungu + 40%.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application + 5-T-Tech Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 App 1 Front line I used to use excellent account decorations."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 trains of 5 trains to install two hidden corners"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Steps",
+          "desc": "[WhenUse] 2 steer protection (6 times per round)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Me!",
+          "desc": "[WhenUse] HP + (high reason) next round of agricultural technology (one round one round)",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Me!",
+          "desc": "[WhenUse] HP + (high reason) next round of agricultural technology (one round one round)\n-4+ In the upper part of the poor.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Me!",
+          "desc": "<style=\"highlight\">[StartBattle] Apply 2 security levels to 2 security levels to two control panels.</style>\n[WhenUse] HP + (high reason) next round of agricultural technology (one round one round)\n-4+ In the upper part of the poor.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contact us from the end!",
+          "desc": "[WhenUse] For whatever reason, the unit asked a friend on the right (control room). [CoverAttack] Stand up.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] No. 1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Contact us from the end!",
+          "desc": "[WhenUse] Is a simple reason. [CoverAttack] Stand up.\n-Gattan gets 1 \"deficit\" to 4+ supporters.\nThere are more than 4 people and mix it.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] No. 1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Contact us from the end!",
+          "desc": "[StartBattle] Apply 3 autumn levels at Control Panel and Autumn Levels next to the device\n[WhenUse] Requires a tool for simple reasons. [CoverAttack] Stand up.\n-A-A-Jackon Un-4+.\n-4+ is proud.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] No. 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "off one's nuts",
+          "desc": "Sometimes HP HP causes more damage (1% HP, 0.2% loss at any cost of any price)\n[EndSkill] If the goal is good or losing (1+ chat), if SP can treat 10 SPs, you can get 10 SPS, can get the apartment and get +4 numbers: 4)",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Burning measure +1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "off one's nuts",
+          "desc": "HP HP HP (1% 0.3% Loss, Maximum Loss. + 30%)\n5 Connection +1 [Laceration] In the form of the target (up to 2)\n[EndSkill] If the goal is good or loser (1+ (A-Hormone), you can explain at least SP 10 SP to get two apartments and numbers + 4.",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Burning measure +1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do not be afraid",
+          "desc": "[WhenUse] 3 ps (twice) in the Control Room near the control room",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Do not be afraid",
+          "desc": "[WhenUse] 2 accessories for SP2 panel near this device (up to twice)",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1080901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dive",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Dive",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Dive",
+          "desc": "If the device is faster than the target capacity, minute-1\n[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Get 1 [Agility] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Local",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Agility] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Local",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account\n[WinDuel] Get 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Agility] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Local",
+          "desc": "If the device is faster than the target capacity, minute-1\n[WhenUse] Benefits +2 [Breath] Account\n[WinDuel] Get 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Agility] Valley"
+                }, {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Application 1 [Binding] Valley</style>"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Book",
+          "desc": "[WhenUse] Benefits 6 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Binding] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [SlashTakeDamageUp] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Book",
+          "desc": "If the device is faster than the target capacity, minute-1\n[WhenUse] Benefits 6 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Binding] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [SlashTakeDamageUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1080904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] Treatment 5S (again)",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1081001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Night size",
+          "desc": "[WhenUse] Benefits +2 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 4 [Vibration] Measure yourself (up to 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 1 [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 1 [DefenseUp] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Night size",
+          "desc": "[WhenUse] Jin + +<style=\"highlight\">Blood</style> [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] All <style=\"highlight\">Blood</style> [Vibration] Measure yourself (up to 2)\n<style=\"highlight\">[WhenUse] 4+ [DefenseUp], The basic energy + +</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] to get <style=\"highlight\">There is no way</style> [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] to get <style=\"highlight\">There is no way</style> [DefenseUp] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Night size",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] All <style=\"highlight\">There is no way</style> [Vibration] I believe in myself (maximum) <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] <style=\"highlight\">Every 41 basic strength [DefenseUp] (the best)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley<style=\"highlight\"></style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 2 [DefenseUp] Valley<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1081002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I couldn't find you",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] Measure yourself (3)\n[WinDuel] Benefits +3 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Personal Number) / 2) (up to 2)"
+                }, {
+                  "desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "I couldn't find you",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[WhenUse] 5+ [DefenseUp], Call ++ 1</style>\n[WinDuel] Benefits +3 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "I couldn't find you",
+          "desc": "[WhenUse] Jin + +<style=\"highlight\">My</style> [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Calculation <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,, [DefenseUp], Call ++ 1\n[WinDuel] Benefits +3 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] to get <style=\"highlight\">4</style> [DefenseUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "[OnSucceedAttack] Calculation <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,, [DefenseUp]1 apply [Reduction]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1081003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "To separate",
+          "desc": "[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] Measure yourself (3)\n[WhenUse] On this device [DefensiveStance], Processing + 50% loss\n[WhenUse] 4 coins +1 [DefenseUp] Off (up to 2)\n[WhenUse] Benefits +8 [Aggro] Grill to get the next rash technique\n[WinDuel] Benefits +3 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For the purpose of.\n-S SARPPORTS + (surplus) [Vibration] X 1.5)% (up to 30%)"
+                }, {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }, {
+                  "desc": "[OnSucceedAttack] On this device [DefensiveStance]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "To separate",
+          "desc": "[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] On this device [DefensiveStance], Business +<style=\"highlight\">70</style>% Other damage\n[WhenUse] 4 coins +1 [DefenseUp] Up (maximum value) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Jin + +<style=\"highlight\">10</style> [Aggro] Grill to get the next rash technique\n[WinDuel] Benefits +3 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For <style=\"highlight\">20</style>Were, and,,,,,,,,,,,,,,\n-S SARPPORTS + (surplus) [Vibration] By <style=\"highlight\">My</style>) More damage (maximum injuries) <style=\"highlight\">50</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }, {
+                  "desc": "[OnSucceedAttack] On this device [DefensiveStance]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1081004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Your armor",
+          "desc": "[CanDuelGuard]\n[StartBattle] Get 2 [DefensiveStance]Jiv\n[WhenUse] Benefits +10 [Vibration] Number (once)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Your armor",
+          "desc": "[CanDuelGuard]\n[StartBattle] Get 2 [DefensiveStance]Jiv\n[WhenUse] Benefits +10 [Vibration] Number (once)\n<style=\"highlight\">[WinDuel] Tractor [VibrationExplosion]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

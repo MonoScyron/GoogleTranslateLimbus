@@ -1,1 +1,215 @@
-{"dataList": [{"id": "GetConditionTitle", "content": "I need it"}, {"id": "BannerSelect", "content": "Amazing"}, {"id": "Personality", "content": "Recognition"}, {"id": "CharacterNumber", "content": "Rest"}, {"id": "Rarity", "content": "Rare"}, {"id": "Season", "content": "Season"}, {"id": "Group", "content": "Part time work"}, {"id": "Name", "content": "Address"}, {"id": "LastLoginDay", "content": "Finally on the Internet:"}, {"id": "Manager", "content": "Owner"}, {"id": "Company", "content": "Business"}, {"id": "Friends", "content": "Friends"}, {"id": "Add_Friends", "content": "Add a friend"}, {"id": "Delete_Friends", "content": "Delete your friend"}, {"id": "Waiting_Friends", "content": "Shipping request"}, {"id": "Accept_Friends", "content": "Entrance"}, {"id": "Last_Reload", "content": "{0}After that!"}, {"id": "WaitCancle", "content": "To remove"}, {"id": "Refuse", "content": "He falls"}, {"id": "Accept", "content": "Adoption"}, {"id": "Send_Add_Friends", "content": "Do you want to send a friend request?"}, {"id": "Delete_Friends_Apply", "content": "Do you want to remove this user from a friend list?"}, {"id": "SendSendFriend_1", "content": "You have a lot of requirements."}, {"id": "SendSendFriend_2", "content": "The list of friends have been completed."}, {"id": "SendSendFriend_3", "content": "There are many demands for customers right now."}, {"id": "SendSendFriend_4", "content": "The list of friends have been completed."}, {"id": "SendSendFriend_5", "content": "The user of hell."}, {"id": "SendSendFriend_6", "content": "The user is already on the application list."}, {"id": "SendSendFriend_7", "content": "This accident happened."}, {"id": "SendAcceptReceivedFriend_1", "content": "The list of friends have been completed."}, {"id": "SendAcceptReceivedFriend_2", "content": "The user friend's menu has been completed."}, {"id": "SendAcceptReceivedFriend_3", "content": "The user request has been canceled."}, {"id": "SendAcceptReceivedFriend_4", "content": "This accident happened."}, {"id": "Today", "content": "Today!"}, {"id": "Ago", "content": "{0}After this"}, {"id": "Day_Ago", "content": "Uncle / Uncle"}, {"id": "Change_Introduce", "content": "Logo version"}, {"id": "Sorting_Level", "content": "Guide"}, {"id": "Sorting_LastLogin", "content": "Last online"}, {"id": "Season_0", "content": "General"}, {"id": "Season_1", "content": "Season 1"}, {"id": "Season_2", "content": "Season 2"}, {"id": "Change", "content": "Exchange of currencies"}, {"id": "Uninstall", "content": "Impossible"}, {"id": "All", "content": "All"}, {"id": "Reset_Company_Title", "content": "Help"}, {"id": "Reset_Company_desc", "content": "Do you want to reset custom customs?"}, {"id": "NO_Friends", "content": "It is not visible here."}, {"id": "NO_SendFriends", "content": "There is no request."}, {"id": "NO_AcceptFriends", "content": "The request is not received."}, {"id": "SupportPersonality_Reset", "content": "Restoration"}, {"id": "SearchFriends", "content": "V / ID Search"}, {"id": "ReLoad", "content": "get up"}, {"id": "Btn_Search", "content": "I need it"}, {"id": "Sentence", "content": "Opinions"}, {"id": "Word", "content": "Words"}, {"id": "Uid_Copy", "content": "Copy"}, {"id": "Uid_Copy_ModalTitle", "content": "A copy of the symmetry"}, {"id": "Uid_Copy_ModalDesc", "content": "ID is copied."}, {"id": "TicketCustom_Button", "content": "Revision"}, {"id": "TicketCustom_Popup_L", "content": "Limit 1"}, {"id": "TicketCustom_Popup_R", "content": "Limit 2"}, {"id": "TicketCustom_Popup_EGOBG", "content": "Inside"}, {"id": "Using", "content": "To use"}, {"id": "IntroduceSort_Default", "content": "Standard"}, {"id": "IntroduceSort_ABC", "content": "Letters"}, {"id": "IntroduceSort_Acquisition", "content": "About"}, {"id": "SimilarBanner", "content": "Amazing"}, {"id": "SimilarTicket", "content": "Ticket menu"}, {"id": "Choosing", "content": "In the elections"}]}
+{
+  "dataList": [
+    {
+      "id": "GetConditionTitle",
+      "content": "I need it"
+    }, {
+      "id": "BannerSelect",
+      "content": "Amazing"
+    }, {
+      "id": "Personality",
+      "content": "Recognition"
+    }, {
+      "id": "CharacterNumber",
+      "content": "Rest"
+    }, {
+      "id": "Rarity",
+      "content": "Rare"
+    }, {
+      "id": "Season",
+      "content": "Season"
+    }, {
+      "id": "Group",
+      "content": "Part time work"
+    }, {
+      "id": "Name",
+      "content": "Address"
+    }, {
+      "id": "LastLoginDay",
+      "content": "Finally on the Internet:"
+    }, {
+      "id": "Manager",
+      "content": "Owner"
+    }, {
+      "id": "Company",
+      "content": "Business"
+    }, {
+      "id": "Friends",
+      "content": "Friends"
+    }, {
+      "id": "Add_Friends",
+      "content": "Add a friend"
+    }, {
+      "id": "Delete_Friends",
+      "content": "Delete your friend"
+    }, {
+      "id": "Waiting_Friends",
+      "content": "Shipping request"
+    }, {
+      "id": "Accept_Friends",
+      "content": "Entrance"
+    }, {
+      "id": "Last_Reload",
+      "content": "{0}After that!"
+    }, {
+      "id": "WaitCancle",
+      "content": "To remove"
+    }, {
+      "id": "Refuse",
+      "content": "He falls"
+    }, {
+      "id": "Accept",
+      "content": "Adoption"
+    }, {
+      "id": "Send_Add_Friends",
+      "content": "Do you want to send a friend request?"
+    }, {
+      "id": "Delete_Friends_Apply",
+      "content": "Do you want to remove this user from a friend list?"
+    }, {
+      "id": "SendSendFriend_1",
+      "content": "You have a lot of requirements."
+    }, {
+      "id": "SendSendFriend_2",
+      "content": "The list of friends have been completed."
+    }, {
+      "id": "SendSendFriend_3",
+      "content": "There are many demands for customers right now."
+    }, {
+      "id": "SendSendFriend_4",
+      "content": "The list of friends have been completed."
+    }, {
+      "id": "SendSendFriend_5",
+      "content": "The user of hell."
+    }, {
+      "id": "SendSendFriend_6",
+      "content": "The user is already on the application list."
+    }, {
+      "id": "SendSendFriend_7",
+      "content": "This accident happened."
+    }, {
+      "id": "SendAcceptReceivedFriend_1",
+      "content": "The list of friends have been completed."
+    }, {
+      "id": "SendAcceptReceivedFriend_2",
+      "content": "The user friend's menu has been completed."
+    }, {
+      "id": "SendAcceptReceivedFriend_3",
+      "content": "The user request has been canceled."
+    }, {
+      "id": "SendAcceptReceivedFriend_4",
+      "content": "This accident happened."
+    }, {
+      "id": "Today",
+      "content": "Today!"
+    }, {
+      "id": "Ago",
+      "content": "{0}After this"
+    }, {
+      "id": "Day_Ago",
+      "content": "Uncle / Uncle"
+    }, {
+      "id": "Change_Introduce",
+      "content": "Logo version"
+    }, {
+      "id": "Sorting_Level",
+      "content": "Guide"
+    }, {
+      "id": "Sorting_LastLogin",
+      "content": "Last online"
+    }, {
+      "id": "Season_0",
+      "content": "General"
+    }, {
+      "id": "Season_1",
+      "content": "Season 1"
+    }, {
+      "id": "Season_2",
+      "content": "Season 2"
+    }, {
+      "id": "Change",
+      "content": "Exchange of currencies"
+    }, {
+      "id": "Uninstall",
+      "content": "Impossible"
+    }, {
+      "id": "All",
+      "content": "All"
+    }, {
+      "id": "Reset_Company_Title",
+      "content": "Help"
+    }, {
+      "id": "Reset_Company_desc",
+      "content": "Do you want to reset custom customs?"
+    }, {
+      "id": "NO_Friends",
+      "content": "It is not visible here."
+    }, {
+      "id": "NO_SendFriends",
+      "content": "There is no request."
+    }, {
+      "id": "NO_AcceptFriends",
+      "content": "The request is not received."
+    }, {
+      "id": "SupportPersonality_Reset",
+      "content": "Restoration"
+    }, {
+      "id": "SearchFriends",
+      "content": "V / ID Search"
+    }, {
+      "id": "ReLoad",
+      "content": "get up"
+    }, {
+      "id": "Btn_Search",
+      "content": "I need it"
+    }, {
+      "id": "Sentence",
+      "content": "Opinions"
+    }, {
+      "id": "Word",
+      "content": "Words"
+    }, {
+      "id": "Uid_Copy",
+      "content": "Copy"
+    }, {
+      "id": "Uid_Copy_ModalTitle",
+      "content": "A copy of the symmetry"
+    }, {
+      "id": "Uid_Copy_ModalDesc",
+      "content": "ID is copied."
+    }, {
+      "id": "TicketCustom_Button",
+      "content": "Revision"
+    }, {
+      "id": "TicketCustom_Popup_L",
+      "content": "Limit 1"
+    }, {
+      "id": "TicketCustom_Popup_R",
+      "content": "Limit 2"
+    }, {
+      "id": "TicketCustom_Popup_EGOBG",
+      "content": "Inside"
+    }, {
+      "id": "Using",
+      "content": "To use"
+    }, {
+      "id": "IntroduceSort_Default",
+      "content": "Standard"
+    }, {
+      "id": "IntroduceSort_ABC",
+      "content": "Letters"
+    }, {
+      "id": "IntroduceSort_Acquisition",
+      "content": "About"
+    }, {
+      "id": "SimilarBanner",
+      "content": "Amazing"
+    }, {
+      "id": "SimilarTicket",
+      "content": "Ticket menu"
+    }, {
+      "id": "Choosing",
+      "content": "In the elections"
+    }
+  ]
+}

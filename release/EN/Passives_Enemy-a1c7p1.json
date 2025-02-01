@@ -1,1 +1,89 @@
-{"dataList": [{"id": 9015206, "name": "Hunger and drought", "desc": "to get [StarvingBarberOne] When the meeting begins"}, {"id": 9015202, "name": "Dry", "desc": "Starting of rotation: not with someone [Laceration]Little speed 2 (check, supported and enemy)"}, {"id": 9015203, "name": "B Katha", "desc": "Target in strike [Laceration], 15% medical loss"}, {"id": 9015204, "name": "Blood clots", "desc": "After the attack: If the target is 8+ [Laceration]1, 1 [HardenedBlood]"}, {"id": 9015205, "name": "Squasa block", "desc": "1+ [BloodScissor]Improved scissors."}, {"id": 9015207, "name": "B Katha", "desc": "Get + Get + [Laceration] Account.\nGet 1 [HardenedBlood] When you lose 20% HP at the same time, the device is every time.\nIf you have bloodted in this field, you can support or make enemies [BloodDinner] 30 also"}, {"id": 9015401, "name": "B Katha", "desc": "Target in strike [Laceration]20% Damage"}, {"id": 9015402, "name": "Blood clots", "desc": "After the attack: If the target is 5+ [Laceration]1, 1 [HardenedBlood]"}, {"id": 9015403, "name": "Thirst", "desc": "-L -l -l cells must be determined [Laceration]\nGrunk: If this tool has not been damaged 2 get 2. [Vulnerable] The next round violates the second floor\n-The: 5 SPS is processed after the loss of the device."}, {"id": 9015404, "name": "Blood", "desc": "Include a device that can be immediately in the device. [BloodDinner] Sheep [Laceration] Each device is damaged at the same time.\nWhen the device enters the ground, the battlefield is surface surface."}, {"id": 9015405, "name": "Squasa block", "desc": "2+ [BloodScissor]Improved scissors."}, {"id": 9015601, "name": "Blood flow", "desc": "However, it is to harm + 10%, although the loss to <blubfene or <lobdbag>."}, {"id": 9015602, "name": "Positive fishing techniques", "desc": "10% capacity that can use ++ to touch the enemy with the attack [Burst] Account"}, {"id": 9015603, "name": "Blood back", "desc": "When the target of use of technology is 10+, [Burst]Application, agreement, 30% damage [Burst] With the technique of this device"}, {"id": 9015604, "name": "Connection", "desc": "Pull: if this device is in [Laceration]1, 1 [Laceration] Account"}, {"id": 9016001, "name": "Schedule", "desc": "Applied in success of conflict [TrulyWeak]"}, {"id": 9016002, "name": "Cat", "desc": "Shoulders are weak"}, {"id": 9016003, "name": "Violence", "desc": "When you attack the enemy, Power +1 [TrulyWeak]"}, {"id": 9016101, "name": "Interview", "desc": "See 15% of two injuries"}, {"id": 9016102, "name": "Person dresses", "desc": "50% HP-Target White + 25% transactions"}, {"id": 9016103, "name": "Big and terrible", "desc": "In disputes, the other person may lose 1 SP."}]}
+{
+  "dataList": [
+    {
+      "id": 9015206,
+      "name": "Hunger and drought",
+      "desc": "to get [StarvingBarberOne] When the meeting begins"
+    }, {
+      "id": 9015202,
+      "name": "Dry",
+      "desc": "Starting of rotation: not with someone [Laceration]Little speed 2 (check, supported and enemy)"
+    }, {
+      "id": 9015203,
+      "name": "B Katha",
+      "desc": "Target in strike [Laceration], 15% medical loss"
+    }, {
+      "id": 9015204,
+      "name": "Blood clots",
+      "desc": "After the attack: If the target is 8+ [Laceration]1, 1 [HardenedBlood]"
+    }, {
+      "id": 9015205,
+      "name": "Squasa block",
+      "desc": "1+ [BloodScissor]Improved scissors."
+    }, {
+      "id": 9015207,
+      "name": "B Katha",
+      "desc": "Get + Get + [Laceration] Account.\nGet 1 [HardenedBlood] When you lose 20% HP at the same time, the device is every time.\nIf you have bloodted in this field, you can support or make enemies [BloodDinner] 30 also"
+    }, {
+      "id": 9015401,
+      "name": "B Katha",
+      "desc": "Target in strike [Laceration]20% Damage"
+    }, {
+      "id": 9015402,
+      "name": "Blood clots",
+      "desc": "After the attack: If the target is 5+ [Laceration]1, 1 [HardenedBlood]"
+    }, {
+      "id": 9015403,
+      "name": "Thirst",
+      "desc": "-L -l -l cells must be determined [Laceration]\nGrunk: If this tool has not been damaged 2 get 2. [Vulnerable] The next round violates the second floor\n-The: 5 SPS is processed after the loss of the device."
+    }, {
+      "id": 9015404,
+      "name": "Blood",
+      "desc": "Include a device that can be immediately in the device. [BloodDinner] Sheep [Laceration] Each device is damaged at the same time.\nWhen the device enters the ground, the battlefield is surface surface."
+    }, {
+      "id": 9015405,
+      "name": "Squasa block",
+      "desc": "2+ [BloodScissor]Improved scissors."
+    }, {
+      "id": 9015601,
+      "name": "Blood flow",
+      "desc": "However, it is to harm + 10%, although the loss to <blubfene or <lobdbag>."
+    }, {
+      "id": 9015602,
+      "name": "Positive fishing techniques",
+      "desc": "10% capacity that can use ++ to touch the enemy with the attack [Burst] Account"
+    }, {
+      "id": 9015603,
+      "name": "Blood back",
+      "desc": "When the target of use of technology is 10+, [Burst]Application, agreement, 30% damage [Burst] With the technique of this device"
+    }, {
+      "id": 9015604,
+      "name": "Connection",
+      "desc": "Pull: if this device is in [Laceration]1, 1 [Laceration] Account"
+    }, {
+      "id": 9016001,
+      "name": "Schedule",
+      "desc": "Applied in success of conflict [TrulyWeak]"
+    }, {
+      "id": 9016002,
+      "name": "Cat",
+      "desc": "Shoulders are weak"
+    }, {
+      "id": 9016003,
+      "name": "Violence",
+      "desc": "When you attack the enemy, Power +1 [TrulyWeak]"
+    }, {
+      "id": 9016101,
+      "name": "Interview",
+      "desc": "See 15% of two injuries"
+    }, {
+      "id": 9016102,
+      "name": "Person dresses",
+      "desc": "50% HP-Target White + 25% transactions"
+    }, {
+      "id": 9016103,
+      "name": "Big and terrible",
+      "desc": "In disputes, the other person may lose 1 SP."
+    }
+  ]
+}

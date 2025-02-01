@@ -1,1 +1,17 @@
-{"dataList": [{"id": "AaCeSeBa", "name": "Yes", "desc": "Spin: Benefits (Grief for you) the next silence\nThe price expires.", "summary": "", "undefined": "-"}, {"id": "AaCeSeBb", "name": "I will give you a gift", "desc": "Get three apartments for each round.\nSevere party: all the injuries, about 3sp", "summary": "", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "AaCeSeBa",
+      "name": "Yes",
+      "desc": "Spin: Benefits (Grief for you) the next silence\nThe price expires.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCeSeBb",
+      "name": "I will give you a gift",
+      "desc": "Get three apartments for each round.\nSevere party: all the injuries, about 3sp",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

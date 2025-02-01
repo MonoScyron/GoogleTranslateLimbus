@@ -1,1 +1,26 @@
-{"dataList": [{"id": "total_consumed_enkephalin", "content": "Used for total packing"}, {"id": "enkephalin_consumption_encourage", "content": "Yes, administrator!"}, {"id": "attendance_rewards_description_0", "content": "This was right during the package."}, {"id": "attendance_rewards_description_1", "content": "In the case of anoflinin, the price is 20 and tables a rope."}, {"id": "attendance_rewards_description_2", "content": "The mirror dance attack cannot be measured every day."}, {"id": "april_event_story_popup_title", "content": "It's true"}, {"id": "april_event_story_popup_content", "content": "Do you want to set \"the\" on the intermediate side \"?"}]}
+{
+  "dataList": [
+    {
+      "id": "total_consumed_enkephalin",
+      "content": "Used for total packing"
+    }, {
+      "id": "enkephalin_consumption_encourage",
+      "content": "Yes, administrator!"
+    }, {
+      "id": "attendance_rewards_description_0",
+      "content": "This was right during the package."
+    }, {
+      "id": "attendance_rewards_description_1",
+      "content": "In the case of anoflinin, the price is 20 and tables a rope."
+    }, {
+      "id": "attendance_rewards_description_2",
+      "content": "The mirror dance attack cannot be measured every day."
+    }, {
+      "id": "april_event_story_popup_title",
+      "content": "It's true"
+    }, {
+      "id": "april_event_story_popup_content",
+      "content": "Do you want to set \"the\" on the intermediate side \"?"
+    }
+  ]
+}

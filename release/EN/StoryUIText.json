@@ -1,1 +1,11 @@
-{"dataList": [{"id": "story_ui_clear_all_cathy_button", "content": "Change"}, {"id": "story_ui_ask_clear_all_cathy", "content": "Are you cleaning all the gods?"}]}
+{
+  "dataList": [
+    {
+      "id": "story_ui_clear_all_cathy_button",
+      "content": "Change"
+    }, {
+      "id": "story_ui_ask_clear_all_cathy",
+      "content": "Are you cleaning all the gods?"
+    }
+  ]
+}

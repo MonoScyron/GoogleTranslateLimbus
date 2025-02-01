@@ -1,1 +1,98 @@
-{"dataList": [{"id": "railway_dungeon_4_reward_condition_special_ticket", "content": "Part 4 Cleaning 4 Light 4 <color=#066386>{0}</color> It becomes a fully transformer or less change.\n<color=#4e3076>Season 4: Cleaning all cows</color> End"}, {"id": "railway_dungeon_4_banner_reward_condition_1", "content": "Were received from four brokers after first removal."}, {"id": "railway_dungeon_4_banner_reward_condition_2", "content": "I found art 4 cleaning {0} It becomes a fully transformer or less change.\nSeason 4: Clear the end of all cows"}, {"id": "formation_waiting_character", "content": "South"}, {"id": "railway_dungeon_entrance_warning", "content": "<Level and recommended levels>\n-R: frame 4, level 45\nExample: Wireless District 4"}, {"id": "railway_dungeon_formation_must_select_all_alive", "content": "There is no sin.\n\nChoose and prepare a total of 12 cartoon tariffs."}, {"id": "railway_dungeon_lose_battle_exit_title", "content": "Go back to select theater"}, {"id": "railway_dungeon_lose_battle_exit_content", "content": "Select the menu again on the platform.\nYou can customize your account before you enter this section."}, {"id": "railway_dungeon_lose_battle_retry_title", "content": "Steps"}, {"id": "railway_dungeon_lose_battle_retry_content", "content": "Recover in the first stage and start with the waves.\nThe implementation order does not change."}, {"id": "railway_dungeon_lose_battle_give_up_title", "content": "Close (end this option, delete this option)"}, {"id": "railway_dungeon_lose_battle_give_up_content", "content": "Unfortunately."}, {"id": "formation_participate_battle_label", "content": "The main participant"}, {"id": "formation_setting_waiting_character", "content": "Backup"}, {"id": "heal_character_who_does_not_participate_battle", "content": "The sound is treated to not participate in the fight."}, {"id": "railway_dungeon_ask_to_go_past_node", "content": "Progress and next stage is determined at this level.\n\nAnyway on the stage too?"}, {"id": "formation_baton_continue", "content": "Numbers"}, {"id": "railway_dungeon_lose_battle_all_identity_dead", "content": "He defeated all sinners."}, {"id": "railway_dungeon_4_unit_inited", "content": "HP and SP reset are reset."}, {"id": "railway_dungeon_4_entrance_recommended", "content": "Reference"}, {"id": "railway_dungeon_4_entrance_recommended_level", "content": "-R: frame 4, level 45"}, {"id": "railway_dungeon_4_entrance_recommended_gacksung", "content": "Example: Wireless District 4"}, {"id": "railway_dungeon_4_section_1", "content": "<font=\"BebasKai SDF\">Section 01</font>"}, {"id": "railway_dungeon_4_section_2", "content": "<font=\"BebasKai SDF\">Section 02</font>"}, {"id": "railway_dungeon_4_section_3", "content": "<font=\"BebasKai SDF\">Section 03</font>"}, {"id": "railway_dungeon_4_section_4", "content": "<font=\"BebasKai SDF\">Section 04</font>"}, {"id": "railway_dungeon_4_section_1_lost_and_found", "content": "Part 1"}, {"id": "railway_dungeon_4_section_2_lost_and_found", "content": "Section 2"}, {"id": "railway_dungeon_4_section_3_lost_and_found", "content": "Section 3"}, {"id": "railway_dungeon_4_section_4_lost_and_found", "content": "Section 4"}, {"id": "railway_dungeon_4_formation_reset", "content": "Clear options"}]}
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_4_reward_condition_special_ticket",
+      "content": "Part 4 Cleaning 4 Light 4 <color=#066386>{0}</color> It becomes a fully transformer or less change.\n<color=#4e3076>Season 4: Cleaning all cows</color> End"
+    }, {
+      "id": "railway_dungeon_4_banner_reward_condition_1",
+      "content": "Were received from four brokers after first removal."
+    }, {
+      "id": "railway_dungeon_4_banner_reward_condition_2",
+      "content": "I found art 4 cleaning {0} It becomes a fully transformer or less change.\nSeason 4: Clear the end of all cows"
+    }, {
+      "id": "formation_waiting_character",
+      "content": "South"
+    }, {
+      "id": "railway_dungeon_entrance_warning",
+      "content": "<Level and recommended levels>\n-R: frame 4, level 45\nExample: Wireless District 4"
+    }, {
+      "id": "railway_dungeon_formation_must_select_all_alive",
+      "content": "There is no sin.\n\nChoose and prepare a total of 12 cartoon tariffs."
+    }, {
+      "id": "railway_dungeon_lose_battle_exit_title",
+      "content": "Go back to select theater"
+    }, {
+      "id": "railway_dungeon_lose_battle_exit_content",
+      "content": "Select the menu again on the platform.\nYou can customize your account before you enter this section."
+    }, {
+      "id": "railway_dungeon_lose_battle_retry_title",
+      "content": "Steps"
+    }, {
+      "id": "railway_dungeon_lose_battle_retry_content",
+      "content": "Recover in the first stage and start with the waves.\nThe implementation order does not change."
+    }, {
+      "id": "railway_dungeon_lose_battle_give_up_title",
+      "content": "Close (end this option, delete this option)"
+    }, {
+      "id": "railway_dungeon_lose_battle_give_up_content",
+      "content": "Unfortunately."
+    }, {
+      "id": "formation_participate_battle_label",
+      "content": "The main participant"
+    }, {
+      "id": "formation_setting_waiting_character",
+      "content": "Backup"
+    }, {
+      "id": "heal_character_who_does_not_participate_battle",
+      "content": "The sound is treated to not participate in the fight."
+    }, {
+      "id": "railway_dungeon_ask_to_go_past_node",
+      "content": "Progress and next stage is determined at this level.\n\nAnyway on the stage too?"
+    }, {
+      "id": "formation_baton_continue",
+      "content": "Numbers"
+    }, {
+      "id": "railway_dungeon_lose_battle_all_identity_dead",
+      "content": "He defeated all sinners."
+    }, {
+      "id": "railway_dungeon_4_unit_inited",
+      "content": "HP and SP reset are reset."
+    }, {
+      "id": "railway_dungeon_4_entrance_recommended",
+      "content": "Reference"
+    }, {
+      "id": "railway_dungeon_4_entrance_recommended_level",
+      "content": "-R: frame 4, level 45"
+    }, {
+      "id": "railway_dungeon_4_entrance_recommended_gacksung",
+      "content": "Example: Wireless District 4"
+    }, {
+      "id": "railway_dungeon_4_section_1",
+      "content": "<font=\"BebasKai SDF\">Section 01</font>"
+    }, {
+      "id": "railway_dungeon_4_section_2",
+      "content": "<font=\"BebasKai SDF\">Section 02</font>"
+    }, {
+      "id": "railway_dungeon_4_section_3",
+      "content": "<font=\"BebasKai SDF\">Section 03</font>"
+    }, {
+      "id": "railway_dungeon_4_section_4",
+      "content": "<font=\"BebasKai SDF\">Section 04</font>"
+    }, {
+      "id": "railway_dungeon_4_section_1_lost_and_found",
+      "content": "Part 1"
+    }, {
+      "id": "railway_dungeon_4_section_2_lost_and_found",
+      "content": "Section 2"
+    }, {
+      "id": "railway_dungeon_4_section_3_lost_and_found",
+      "content": "Section 3"
+    }, {
+      "id": "railway_dungeon_4_section_4_lost_and_found",
+      "content": "Section 4"
+    }, {
+      "id": "railway_dungeon_4_formation_reset",
+      "content": "Clear options"
+    }
+  ]
+}

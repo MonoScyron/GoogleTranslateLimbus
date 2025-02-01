@@ -1,1 +1,62 @@
-{"dataList": [{"id": "City", "content": "The village"}, {"id": "Limbuscompany", "content": "Lemon company"}, {"id": "LCB", "content": "Leak b"}, {"id": "LCC", "content": "for you"}, {"id": "Nest", "content": "Nest"}, {"id": "Sinner", "content": "Papi"}, {"id": "Wings", "content": "Flight"}, {"id": "NestK", "content": "Of."}, {"id": "NestN", "content": "N."}, {"id": "NestL", "content": "L-cororrationrationrationration"}, {"id": "Backstreet", "content": "Background"}, {"id": "Swordgroup", "content": "Love Blade"}, {"id": "Kurokumo", "content": "Corolocomo clan"}, {"id": "Personality", "content": "Recognition"}, {"id": "Ego", "content": "for example"}, {"id": "Tech", "content": "Urban technology"}, {"id": "Organization", "content": "Rules"}, {"id": "Fixer", "content": "Privacy program"}, {"id": "Goldenbranch", "content": "Group of gold"}]}
+{
+  "dataList": [
+    {
+      "id": "City",
+      "content": "The village"
+    }, {
+      "id": "Limbuscompany",
+      "content": "Lemon company"
+    }, {
+      "id": "LCB",
+      "content": "Leak b"
+    }, {
+      "id": "LCC",
+      "content": "for you"
+    }, {
+      "id": "Nest",
+      "content": "Nest"
+    }, {
+      "id": "Sinner",
+      "content": "Papi"
+    }, {
+      "id": "Wings",
+      "content": "Flight"
+    }, {
+      "id": "NestK",
+      "content": "Of."
+    }, {
+      "id": "NestN",
+      "content": "N."
+    }, {
+      "id": "NestL",
+      "content": "L-cororrationrationrationration"
+    }, {
+      "id": "Backstreet",
+      "content": "Background"
+    }, {
+      "id": "Swordgroup",
+      "content": "Love Blade"
+    }, {
+      "id": "Kurokumo",
+      "content": "Corolocomo clan"
+    }, {
+      "id": "Personality",
+      "content": "Recognition"
+    }, {
+      "id": "Ego",
+      "content": "for example"
+    }, {
+      "id": "Tech",
+      "content": "Urban technology"
+    }, {
+      "id": "Organization",
+      "content": "Rules"
+    }, {
+      "id": "Fixer",
+      "content": "Privacy program"
+    }, {
+      "id": "Goldenbranch",
+      "content": "Group of gold"
+    }
+  ]
+}

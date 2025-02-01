@@ -1,1 +1,1071 @@
-{"dataList": [{"id": 9012801, "levelList": [{"level": 1, "name": "Chest", "desc": "[WhenUse] If your goal is. [Laceration]4 ticket sales", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 9012802, "levelList": [{"level": 1, "name": "Applying the rules.", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}]}]}, {"id": 9012803, "levelList": [{"level": 1, "name": "Head", "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}]}]}, {"id": 9012804, "levelList": [{"level": 1, "name": "Water", "desc": "If this device ends at the end of the round, there are 2 more HP disks [AttackDmgUp] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9012901, "levelList": [{"level": 1, "name": "Leave rules", "desc": "[WhenUse] If your goal is. [Laceration]4 ticket sales", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 9012902, "levelList": [{"level": 1, "name": "Oppose", "desc": "[WhenUse] Target 4+ [Laceration] Account, basic water 11", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}]}]}, {"id": 9012903, "levelList": [{"level": 1, "name": "Punishment", "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}]}]}, {"id": 9012904, "levelList": [{"level": 1, "name": "Water", "desc": "If this device ends at the end of the round, there are 2 more HP disks [AttackDmgUp] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9013001, "levelList": [{"level": 1, "name": "Good", "desc": "[WinDuel] The target is 5+ [Laceration]Repeat this procedure (once)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"}]}]}]}, {"id": 9013002, "levelList": [{"level": 1, "name": "Discipline", "desc": "The target is 5+ [Laceration], Therapy + 30% loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Laceration], Anxiety 2 [AttackDown] Valley"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Equal foundation ([Laceration]/ 2) Goal"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]Operation 7s"}]}]}]}, {"id": 9013003, "levelList": [{"level": 1, "name": "Violations", "desc": "Every 3 money power [Laceration] For purpose (up to 3)\n[WinDuel] The target is 6+ [Laceration]+ 40% of the treatment damage", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 8 Application [Laceration]"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration], 10b Body"}, {"desc": "[OnSucceedAttackHead] The target is 5+ [Laceration]Repeat this procedure (once)"}]}]}]}, {"id": 9013004, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] to get [Enhancement] (Up to 1)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9013101, "levelList": [{"level": 1, "name": "Charge", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 9013102, "levelList": [{"level": 1, "name": "Holidays", "desc": "The target is 5+ [Laceration], The basic energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"}]}]}]}, {"id": 9013103, "levelList": [{"level": 1, "name": "Strong", "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ [Laceration], Re-use this method (immediately)"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [DefenseDown]"}]}]}]}, {"id": 9013104, "levelList": [{"level": 1, "name": "Water", "desc": "If the device is the HP shield at the end of the device, [AttackDmgUp] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9013201, "levelList": [{"level": 1, "name": "Piece", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 9013202, "levelList": [{"level": 1, "name": "Asset", "desc": "The target is 5+ [Laceration], The basic energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"}]}]}]}, {"id": 9013203, "levelList": [{"level": 1, "name": "Optimism", "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Target 4+ [Laceration] Calculate, use this procedure (more than twice)"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [DefenseDown]"}]}]}]}, {"id": 9013204, "levelList": [{"level": 1, "name": "Water", "desc": "If the device is the HP shield at the end of the device, [AttackDmgUp] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9013301, "levelList": [{"level": 1, "name": "Color", "desc": "[WinDuel] The target is 5+ [Laceration]Use this method for each enemy after attack", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +4 [Laceration] Account"}]}]}]}, {"id": 9013302, "levelList": [{"level": 1, "name": "Optimism", "desc": "The target is 5+ [Laceration], Therapy + 30% loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Laceration], Anxiety 2 [AttackDown] Valley"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [AttackDown] Valley"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"}]}]}]}, {"id": 9013303, "levelList": [{"level": 1, "name": "Vehicles", "desc": "Every 3 money power [Laceration] For purpose (up to 4)\n[WinDuel] The target is 6+ [Laceration]+ 40% of the treatment damage", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 10 applications [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Same account [Laceration] Result"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"}]}]}]}, {"id": 9013304, "levelList": [{"level": 1, "name": "Blood flows", "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley\n[WinDuel] If the goal is 10+ [Laceration]1, 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ [Laceration], Restore this method (up to 3 times)"}, {"desc": "[OnSucceedAttack] To reduce [Laceration] Target Trust 1"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [DefenseDown]"}]}]}]}, {"id": 9013305, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] to get [Enhancement] (the best)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9013501, "levelList": [{"level": 1, "name": "Simple attack 1", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [AttackDown] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [AttackDown] Valley"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [Paralysis]"}]}]}]}, {"id": 9013502, "levelList": [{"level": 1, "name": "Normal attack 2", "desc": "[WhenUse] If your goal is. [AttackDown]Processing 20% ​​damaged and increased.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [HitResistDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [HitResistDown]"}, {"desc": "[OnSucceedAttackHead] Application 1 [DefenseDown] Valley"}]}]}]}, {"id": 9013503, "levelList": [{"level": 1, "name": "Normal attack 3", "desc": "[WhenUse] Goal 2+ [AttackDown], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Vulnerable]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Binding] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment 4S"}, {"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment 4S"}, {"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment 4S"}, {"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"}]}]}]}, {"id": 9013504, "levelList": [{"level": 1, "name": "Normal attack 4", "desc": "Preference target and negative effects\n[WhenUse] Gets +1 power to every 3 [DefenseDown] For purpose (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Vulnerable]"}, {"desc": "[OnSucceedAttack] Application 1 [Vulnerable] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Loss of 20% to +2 [AttackDown] Goal (up to 100%)"}, {"desc": "[OnSucceedAttackHead] If the goal has three or more negative effects (up to 1) (up to 1)"}]}]}]}, {"id": 9013505, "levelList": [{"level": 1, "name": "Hommer", "desc": "If your goal is. [Vulnerable], The basic energy + +", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9101501, "levelList": [{"level": 1, "name": "Apology, the game ...!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"}]}]}]}, {"id": 9101502, "levelList": [{"level": 1, "name": "I'll take you out", "desc": "[WinDuel] Basic Power +1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [AttackDown]20% loss of contract damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [AttackDown]20% loss of contract damage"}]}]}]}, {"id": 9101503, "levelList": [{"level": 1, "name": "You will work again", "desc": "[WinDuel] Goal 2+ [AttackDown], The basic energy + +\n[WhenUse] If your goal is. [AttackDown], Therapy + 30% loss", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment 4S"}]}]}]}, {"id": 9101504, "levelList": [{"level": 1, "name": "Collapse", "desc": "Preference target and negative effects\n[WinDuel] Every 3 money power [AttackDown] For purpose (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Vulnerable]"}, {"desc": "[OnSucceedAttack] Application 1 [Vulnerable] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] + Loss every 2 x 30% increase. [AttackDown] For the purpose (up to 120%)"}, {"desc": "[OnSucceedAttackHead] If the goal has three or more negative effects (up to 1) (up to 1)"}]}]}]}, {"id": 9101505, "levelList": [{"level": 1, "name": "Water", "desc": "[StartBattle] Read all your friends from another friend and take an additional 20 horse power shield.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9101601, "levelList": [{"level": 1, "name": "80 sections", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}]}]}, {"id": 9101602, "levelList": [{"level": 1, "name": "Mental balance", "desc": "[WinDuel] Get 1 [Enhancement] The next line is damaged 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[OnSucceedAttack] Crisis [Laceration] Is correct [Burst] Matampon"}]}]}]}, {"id": 9101603, "levelList": [{"level": 1, "name": "For rumors", "desc": "The target is 5+ [Burst], Power Clash ++ 1\nThe target is 5+ [Laceration], Power Clash ++ 1\n[WinDuel] Application +3 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Next call +1 power"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] The next connection is a power +2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"}, {"desc": "[OnSucceedAttack] A bonus of the halls equals equals the injuries ([Laceration] By [Laceration] Numbers)"}]}]}]}, {"id": 9101604, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] Get 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9101605, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] Get 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 9012801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chest",
+          "desc": "[WhenUse] If your goal is. [Laceration]4 ticket sales",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Applying the rules.",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Head",
+          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If this device ends at the end of the round, there are 2 more HP disks [AttackDmgUp] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leave rules",
+          "desc": "[WhenUse] If your goal is. [Laceration]4 ticket sales",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oppose",
+          "desc": "[WhenUse] Target 4+ [Laceration] Account, basic water 11",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punishment",
+          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9012904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If this device ends at the end of the round, there are 2 more HP disks [AttackDmgUp] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Good",
+          "desc": "[WinDuel] The target is 5+ [Laceration]Repeat this procedure (once)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Discipline",
+          "desc": "The target is 5+ [Laceration], Therapy + 30% loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Anxiety 2 [AttackDown] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Equal foundation ([Laceration]/ 2) Goal"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]Operation 7s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violations",
+          "desc": "Every 3 money power [Laceration] For purpose (up to 3)\n[WinDuel] The target is 6+ [Laceration]+ 40% of the treatment damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 Application [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], 10b Body"
+                }, {
+                  "desc": "[OnSucceedAttackHead] The target is 5+ [Laceration]Repeat this procedure (once)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] to get [Enhancement] (Up to 1)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Holidays",
+          "desc": "The target is 5+ [Laceration], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strong",
+          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration], 20% loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration], Re-use this method (immediately)"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If the device is the HP shield at the end of the device, [AttackDmgUp] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piece",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Asset",
+          "desc": "The target is 5+ [Laceration], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Optimism",
+          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target 4+ [Laceration] Call, 20% of damage loss"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target 4+ [Laceration] Calculate, use this procedure (more than twice)"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If the device is the HP shield at the end of the device, [AttackDmgUp] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Color",
+          "desc": "[WinDuel] The target is 5+ [Laceration]Use this method for each enemy after attack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +4 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Optimism",
+          "desc": "The target is 5+ [Laceration], Therapy + 30% loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Anxiety 2 [AttackDown] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [AttackDown] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vehicles",
+          "desc": "Every 3 money power [Laceration] For purpose (up to 4)\n[WinDuel] The target is 6+ [Laceration]+ 40% of the treatment damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10 applications [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Same account [Laceration] Result"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Burst] Is correct [Laceration] Matampon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blood flows",
+          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley\n[WinDuel] If the goal is 10+ [Laceration]1, 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration], Restore this method (up to 3 times)"
+                }, {
+                  "desc": "[OnSucceedAttack] To reduce [Laceration] Target Trust 1"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] to get [Enhancement] (the best)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Simple attack 1",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [AttackDown] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [AttackDown] Valley"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal attack 2",
+          "desc": "[WhenUse] If your goal is. [AttackDown]Processing 20% ​​damaged and increased.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [HitResistDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [HitResistDown]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [DefenseDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal attack 3",
+          "desc": "[WhenUse] Goal 2+ [AttackDown], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Binding] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment 4S"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment 4S"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment 4S"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal attack 4",
+          "desc": "Preference target and negative effects\n[WhenUse] Gets +1 power to every 3 [DefenseDown] For purpose (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Loss of 20% to +2 [AttackDown] Goal (up to 100%)"
+                }, {
+                  "desc": "[OnSucceedAttackHead] If the goal has three or more negative effects (up to 1) (up to 1)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9013505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "If your goal is. [Vulnerable], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apology, the game ...!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll take you out",
+          "desc": "[WinDuel] Basic Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [AttackDown]20% loss of contract damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [AttackDown]20% loss of contract damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You will work again",
+          "desc": "[WinDuel] Goal 2+ [AttackDown], The basic energy + +\n[WhenUse] If your goal is. [AttackDown], Therapy + 30% loss",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment 4S"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collapse",
+          "desc": "Preference target and negative effects\n[WinDuel] Every 3 money power [AttackDown] For purpose (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] + Loss every 2 x 30% increase. [AttackDown] For the purpose (up to 120%)"
+                }, {
+                  "desc": "[OnSucceedAttackHead] If the goal has three or more negative effects (up to 1) (up to 1)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[StartBattle] Read all your friends from another friend and take an additional 20 horse power shield.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "80 sections",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mental balance",
+          "desc": "[WinDuel] Get 1 [Enhancement] The next line is damaged 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Crisis [Laceration] Is correct [Burst] Matampon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "For rumors",
+          "desc": "The target is 5+ [Burst], Power Clash ++ 1\nThe target is 5+ [Laceration], Power Clash ++ 1\n[WinDuel] Application +3 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next call +1 power"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] The next connection is a power +2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] A bonus of the halls equals equals the injuries ([Laceration] By [Laceration] Numbers)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] Get 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9101605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] Get 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

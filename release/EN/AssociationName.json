@@ -1,1 +1,14 @@
-{"dataList": [{"id": "associationName_BLADE_LINEAGE", "content": "Paper"}, {"id": "associationName_BLACK_CLOUD", "content": "Kerbin family"}, {"id": "associationName_YURODIVY", "content": "HR O district"}]}
+{
+  "dataList": [
+    {
+      "id": "associationName_BLADE_LINEAGE",
+      "content": "Paper"
+    }, {
+      "id": "associationName_BLACK_CLOUD",
+      "content": "Kerbin family"
+    }, {
+      "id": "associationName_YURODIVY",
+      "content": "HR O district"
+    }
+  ]
+}

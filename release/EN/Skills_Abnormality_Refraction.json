@@ -1,1 +1,763 @@
-{"dataList": [{"id": 851001, "levelList": [{"level": 1, "name": "Call", "desc": "[WhenUse] The target is 15 SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Do 5 + 5 tons and do"}]}]}]}, {"id": 851002, "levelList": [{"level": 1, "name": "Waterfall", "desc": "[StartDuel] Target%", "coinlist": [{"coindescs": [{"desc": "[AlwaysUse] SP is damaged between the screen."}, {"desc": "[AlwaysUse] HP damage cannot be treated"}]}]}]}, {"id": 851003, "levelList": [{"level": 1, "name": "I'm the ball", "desc": "[WhenUse] Target 5 s\nIf younger than TP is the damage + 10%", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Goal loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Tonkley's SP target."}]}]}]}, {"id": 851004, "levelList": [{"level": 1, "name": "Holy", "desc": "[WhenUse] Target 5 s\nThe enemy", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Goal loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Tonkley's SP target."}]}]}]}, {"id": 851005, "levelList": [{"level": 1, "name": "Eye weight", "desc": "[DefeatDuel] Cancel all skills\n[DefeatDuel] 3 hidden\nIf the goal is less than 0 SP + 10%", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Three blank sounds and numbers"}]}]}]}, {"id": 851006, "levelList": [{"level": 1, "name": "Melt", "desc": "[WhenUse] Target 5 s\nIf younger than TP is the damage + 10%", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Tonkley's SP target."}]}]}]}, {"id": 851007, "levelList": [{"level": 1, "name": "Melt", "desc": "[WhenUse] Target 5 s\nIf younger than TP is the damage + 10%", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Goal loss"}]}]}]}, {"id": 851008, "levelList": [{"level": 1, "name": "This guy oops", "desc": "[StartBattle] Security 2", "coinlist": []}]}, {"id": 851901, "levelList": [{"level": 1, "name": "Dong-Dong trip", "desc": "[WhenUse] +4 digital fees", "coinlist": [{}]}]}, {"id": 851902, "levelList": [{"level": 1, "name": "Welcome to the way", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Add 1 in the next red app"}]}]}]}, {"id": 851903, "levelList": [{"level": 1, "name": "Support!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 851904, "levelList": [{"level": 1, "name": "Putting", "desc": "[WhenUse] Avoid all accounts", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Papi"}]}]}]}, {"id": 851905, "levelList": [{"level": 1, "name": "Darling neighboring, good to meet", "desc": "[CantDuel]\nGoal", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 10"}]}]}]}, {"id": 851906, "levelList": [{"level": 1, "name": "Find the system error", "desc": "Start the next line", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Cost of 2 charges on scapep 5"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Cost of 2 charges on scapep 5"}]}]}]}, {"id": 851907, "levelList": [{"level": 1, "name": "Restoration", "desc": "[WhenUse] 5 security", "coinlist": []}]}, {"id": 851908, "levelList": [{"level": 1, "name": "Start again ...", "desc": "", "coinlist": []}]}, {"id": 851909, "levelList": [{"level": 1, "name": "Putting", "desc": "[CantDuel]\n[CantChangeTarget]\nThe most desired units\n[WhenUse] All costs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Papi"}]}]}]}, {"id": 852101, "levelList": [{"level": 1, "name": "Don't go in", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Class application 1"}]}]}]}, {"id": 852102, "levelList": [{"level": 1, "name": "Bribery", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 3 Friends transactions"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +3 tear task"}]}]}]}, {"id": 852103, "levelList": [{"level": 1, "name": "Entrance", "desc": "[DefeatDuel] Treatment 10 HP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 tear application"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Danna HP -DMAG Power Power\nEliminate all the goals of the target"}]}]}]}, {"id": 852301, "levelList": [{"level": 1, "name": "Suspected", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 3 Friends transactions"}]}]}]}, {"id": 852302, "levelList": [{"level": 1, "name": "Denial", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 3 Friends transactions"}]}]}]}, {"id": 852303, "levelList": [{"level": 1, "name": "You can't do anything about it", "desc": "The most suitable corn", "coinlist": [{}, {"coindescs": [{"desc": "If the connection is a country, 10% loss"}]}, {"coindescs": [{"desc": "If two currencies on the ground were broken 10%"}]}, {"coindescs": [{"desc": "2 and 3 connections increases up + 30% loss"}]}]}]}, {"id": 852701, "levelList": [{"level": 1, "name": "The wind", "desc": "[WhenUse] 2-Damund to protect secretary", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Due to the next step loss"}]}]}]}, {"id": 852702, "levelList": [{"level": 1, "name": "Collect", "desc": "[WhenUse] Use 2 power randoms in a row", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Record two power supply to the next random rule."}]}]}]}, {"id": 852703, "levelList": [{"level": 1, "name": "good luck", "desc": "[WhenUse] Security 3 Another round protection", "coinlist": []}]}, {"id": 852704, "levelList": [{"level": 1, "name": "All people", "desc": "[WhenUse] 3 hits in the next round 3", "coinlist": []}]}, {"id": 852705, "levelList": [{"level": 1, "name": "Although he loves her", "desc": "[CantIdentify] Most bells goals\nSometimes the target wine (+ 2%) is processed.\nIf the target is not included in the target", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The goal."}]}]}]}, {"id": 852706, "levelList": [{"level": 1, "name": "Diana", "desc": "[WinDuel] Half of the negative position of this device", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] In the following steps, attack the electricity below."}]}]}]}, {"id": 852707, "levelList": [{"level": 1, "name": "Required", "desc": "[DefeatDuel] Second rogue support for the second poem uses 20 wires.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 20 deeds burned fire"}]}]}]}, {"id": 852708, "levelList": [{"level": 1, "name": "Click on the eye (eye and click)", "desc": "[DefeatDuel] Second rogue support for the second poem uses 20 wires.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 10 penalty mates"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 10 penalty mates"}]}]}]}, {"id": 852709, "levelList": [{"level": 1, "name": "Musket", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3. For example, remove the nearest source"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3. For example, remove the nearest source"}]}]}]}, {"id": 852710, "levelList": [{"level": 1, "name": "Click on the eye (eye and click)", "desc": "[CantDuel]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Application field"}, {"desc": "[OnSucceedAttackHead] 3 Next row paralyzed"}]}, {"coindescs": [{"desc": "3 The use of next rotation is very beautiful"}]}]}]}, {"id": 852711, "levelList": [{"level": 1, "name": "Body", "desc": "[WhenUse] 10 Loss\nFind the goal for the first time", "coinlist": []}]}, {"id": 852801, "levelList": [{"level": 1, "name": "Start", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Damage of 1 in the next step"}]}]}]}, {"id": 852802, "levelList": [{"level": 1, "name": "With", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Next Line App 1 Image"}]}]}]}, {"id": 852803, "levelList": [{"level": 1, "name": "Strange revenge", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 852901, "levelList": [{"level": 1, "name": "Conversation, especially", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Add 1 in the next red app"}]}]}]}, {"id": 852902, "levelList": [{"level": 1, "name": "Pyana Party!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The next red fall on autumn"}]}, {}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Next round is sensitive"}]}]}]}, {"id": 853001, "levelList": [{"level": 1, "name": "Meat", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] The next line 2 is paralyzed"}]}]}]}, {"id": 853002, "levelList": [{"level": 1, "name": "Oppose", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Damage of 1 in the next step"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 851001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Call",
+          "desc": "[WhenUse] The target is 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Do 5 + 5 tons and do"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waterfall",
+          "desc": "[StartDuel] Target%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[AlwaysUse] SP is damaged between the screen."
+                }, {
+                  "desc": "[AlwaysUse] HP damage cannot be treated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm the ball",
+          "desc": "[WhenUse] Target 5 s\nIf younger than TP is the damage + 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Goal loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Tonkley's SP target."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Holy",
+          "desc": "[WhenUse] Target 5 s\nThe enemy",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Goal loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Tonkley's SP target."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eye weight",
+          "desc": "[DefeatDuel] Cancel all skills\n[DefeatDuel] 3 hidden\nIf the goal is less than 0 SP + 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Three blank sounds and numbers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melt",
+          "desc": "[WhenUse] Target 5 s\nIf younger than TP is the damage + 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Tonkley's SP target."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melt",
+          "desc": "[WhenUse] Target 5 s\nIf younger than TP is the damage + 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Goal loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This guy oops",
+          "desc": "[StartBattle] Security 2",
+          "coinlist": []
+        }
+      ]
+    }, {
+      "id": 851901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dong-Dong trip",
+          "desc": "[WhenUse] +4 digital fees",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 851902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Welcome to the way",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Add 1 in the next red app"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Support!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Putting",
+          "desc": "[WhenUse] Avoid all accounts",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Papi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Darling neighboring, good to meet",
+          "desc": "[CantDuel]\nGoal",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Find the system error",
+          "desc": "Start the next line",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cost of 2 charges on scapep 5"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cost of 2 charges on scapep 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 851907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Restoration",
+          "desc": "[WhenUse] 5 security",
+          "coinlist": []
+        }
+      ]
+    }, {
+      "id": 851908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Start again ...",
+          "desc": "",
+          "coinlist": []
+        }
+      ]
+    }, {
+      "id": 851909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Putting",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nThe most desired units\n[WhenUse] All costs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Papi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't go in",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Class application 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bribery",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 3 Friends transactions"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 tear task"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entrance",
+          "desc": "[DefeatDuel] Treatment 10 HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 tear application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Danna HP -DMAG Power Power\nEliminate all the goals of the target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suspected",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 3 Friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Denial",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 3 Friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You can't do anything about it",
+          "desc": "The most suitable corn",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "If the connection is a country, 10% loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "If two currencies on the ground were broken 10%"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "2 and 3 connections increases up + 30% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The wind",
+          "desc": "[WhenUse] 2-Damund to protect secretary",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Due to the next step loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collect",
+          "desc": "[WhenUse] Use 2 power randoms in a row",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Record two power supply to the next random rule."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "good luck",
+          "desc": "[WhenUse] Security 3 Another round protection",
+          "coinlist": []
+        }
+      ]
+    }, {
+      "id": 852704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "All people",
+          "desc": "[WhenUse] 3 hits in the next round 3",
+          "coinlist": []
+        }
+      ]
+    }, {
+      "id": 852705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Although he loves her",
+          "desc": "[CantIdentify] Most bells goals\nSometimes the target wine (+ 2%) is processed.\nIf the target is not included in the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The goal."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Diana",
+          "desc": "[WinDuel] Half of the negative position of this device",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] In the following steps, attack the electricity below."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Required",
+          "desc": "[DefeatDuel] Second rogue support for the second poem uses 20 wires.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 20 deeds burned fire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Click on the eye (eye and click)",
+          "desc": "[DefeatDuel] Second rogue support for the second poem uses 20 wires.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10 penalty mates"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10 penalty mates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Musket",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3. For example, remove the nearest source"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3. For example, remove the nearest source"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852710,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Click on the eye (eye and click)",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Application field"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 3 Next row paralyzed"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "3 The use of next rotation is very beautiful"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Body",
+          "desc": "[WhenUse] 10 Loss\nFind the goal for the first time",
+          "coinlist": []
+        }
+      ]
+    }, {
+      "id": 852801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Start",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Damage of 1 in the next step"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next Line App 1 Image"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strange revenge",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Conversation, especially",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Add 1 in the next red app"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 852902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pyana Party!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next red fall on autumn"
+                }
+              ]
+            }, {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next round is sensitive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Meat",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] The next line 2 is paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oppose",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Damage of 1 in the next step"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

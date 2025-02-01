@@ -1,1 +1,14 @@
-{"dataList": [{"id": 20, "name": "Thirty blood"}, {"id": 21, "name": "Rich"}, {"id": 21, "name": "Don cok"}]}
+{
+  "dataList": [
+    {
+      "id": 20,
+      "name": "Thirty blood"
+    }, {
+      "id": 21,
+      "name": "Rich"
+    }, {
+      "id": 21,
+      "name": "Don cok"
+    }
+  ]
+}

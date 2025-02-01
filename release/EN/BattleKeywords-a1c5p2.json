@@ -1,1 +1,47 @@
-{"dataList": [{"id": "AaCePbBa", "name": "The plane", "desc": "Damage of SP +2\nUse 45SPS or the same BIFA application, use fear in the next poem.\nRotation: Reduce this effect 1", "summary": "Damage of SP +2", "undefined": "-"}, {"id": "AaCePbBb", "name": "Completely", "desc": "Each connection is the tail of the device.\nExpired", "summary": "Every connection is in the tail", "undefined": "-"}, {"id": "AaCePbBc", "name": "Dirty", "desc": "-The less fraud\n1 gets the froomo.", "summary": "If the device loses conflict, the target 2 will be lost.", "undefined": "-"}, {"id": "AaCePbBd", "name": "Dirty", "desc": "Twitter\n-2 sensitive.", "summary": "If this unit loses the struggle, the goal is to lose five hours.", "undefined": "-"}, {"id": "AaCePbBi", "name": "Type of testing", "desc": "Finally: Reduce the price with 1\nIt is active, but it has damaged techniques twice.\nIf this device is good, the effect works.\nWhen this device is protected, the result is updated, the next round is damaged.", "summary": "", "undefined": "-"}, {"id": "AaCePbBe", "name": "Vengeance", "desc": "-The less fraud\n-I: 1 Extend the benefits, 3-scale damage symbol (maximum loss of maximum. HP Loss)", "summary": "This loss depends on all loss of last round.", "undefined": "-"}, {"id": "AaCePbBf", "name": "Vengeance", "desc": "Twitter\nResidue: 2 levels of security levels and safety.\n(Loss reaches 3% to 3%. HP Loss)", "summary": "This loss depends on all loss of last round.", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "AaCePbBa",
+      "name": "The plane",
+      "desc": "Damage of SP +2\nUse 45SPS or the same BIFA application, use fear in the next poem.\nRotation: Reduce this effect 1",
+      "summary": "Damage of SP +2",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBb",
+      "name": "Completely",
+      "desc": "Each connection is the tail of the device.\nExpired",
+      "summary": "Every connection is in the tail",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBc",
+      "name": "Dirty",
+      "desc": "-The less fraud\n1 gets the froomo.",
+      "summary": "If the device loses conflict, the target 2 will be lost.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBd",
+      "name": "Dirty",
+      "desc": "Twitter\n-2 sensitive.",
+      "summary": "If this unit loses the struggle, the goal is to lose five hours.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBi",
+      "name": "Type of testing",
+      "desc": "Finally: Reduce the price with 1\nIt is active, but it has damaged techniques twice.\nIf this device is good, the effect works.\nWhen this device is protected, the result is updated, the next round is damaged.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBe",
+      "name": "Vengeance",
+      "desc": "-The less fraud\n-I: 1 Extend the benefits, 3-scale damage symbol (maximum loss of maximum. HP Loss)",
+      "summary": "This loss depends on all loss of last round.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBf",
+      "name": "Vengeance",
+      "desc": "Twitter\nResidue: 2 levels of security levels and safety.\n(Loss reaches 3% to 3%. HP Loss)",
+      "summary": "This loss depends on all loss of last round.",
+      "undefined": "-"
+    }
+  ]
+}

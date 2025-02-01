@@ -1,1 +1,227 @@
-{"dataList": [{"id": "MAINSTORY", "content": "History"}, {"id": "PERSONALITYSTORY", "content": "Id collection"}, {"id": "NOTE_OF_DANTE", "content": "Communication"}, {"id": "EPISODE", "content": "Father. {0}"}, {"id": "PAGE", "content": "Apologize. {0}"}, {"id": "PROGRESS", "content": "Development"}, {"id": "Before", "content": "War"}, {"id": "After", "content": "Old war"}, {"id": "None", "content": ""}, {"id": "ENTER", "content": "Entrance"}, {"id": "CLOSE", "content": "Depart"}, {"id": "MIRRORWOLDS", "content": "World Mirror"}, {"id": "STORY", "content": "History"}, {"id": "SECURITY_MATERIAL", "content": "Social class"}, {"id": "SPEECH", "content": "Conversation"}, {"id": "OPEN_CONDITION", "content": "Open:"}, {"id": "DEEP_ANALYSIS", "content": "Room:"}, {"id": "DATA_DOWNLOAD", "content": "Download"}, {"id": "DATA_DOWNLOAD_DESC", "content": "Do you want to run audio files for clean contact?\nMore information has been downloaded."}, {"id": "DATA_DOWNLOAD_NO", "content": "Non-natural\n(0.00)"}, {"id": "DATA_DOWNLOAD_YES", "content": "With\nWere, and,,,,,,,,{0} MBA)"}, {"id": "CV_1", "content": "Without"}, {"id": "CV_2", "content": "Park"}, {"id": "CV_3", "content": "Who is it"}, {"id": "CV_4", "content": "There is an HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHhaHharahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha."}, {"id": "CV_5", "content": "Q Press you"}, {"id": "CV_6", "content": "Kim Sen Vo"}, {"id": "CV_7", "content": "Hong Kong"}, {"id": "CV_8", "content": "Yang II"}, {"id": "CV_9", "content": "You"}, {"id": "CV_10", "content": "Kim Big-El"}, {"id": "CV_11", "content": "Golden towels"}, {"id": "CV_12", "content": "Nose"}, {"id": "gacksung", "content": "U 丿 丿"}, {"id": "EnterStoryPopupDesc", "content": "I'm here\n{0}Intersection"}, {"id": "No", "content": "To remove"}, {"id": "DetailStoryDungeon", "content": "In the dark"}, {"id": "NeedsPersonality", "content": "Requires recognition"}, {"id": "NeedsPersonalityButton", "content": "See the requirements"}, {"id": "MainStoryOpenCondition_101", "content": "Clear 1-1"}, {"id": "MainStoryOpenCondition_102", "content": "2-1 cleaning"}, {"id": "MainStoryOpenCondition_103", "content": "3-1 cleaning"}, {"id": "PersonalityStory_OpenCodition", "content": "It was done at the tune level {0}"}, {"id": "OTHERSTORY", "content": "Stable"}, {"id": "DanteNote_Record", "content": "A second"}, {"id": "DanteNote_Time", "content": "Time"}, {"id": "DanteNote_Update", "content": "Restoration"}, {"id": "DanteNote_Main", "content": "I don't know where to start.\nOf course, I think it is not clear to forget.\nIf you don't remember, you are starting writing a note."}, {"id": "MINI", "content": "Short"}, {"id": "DetailStoryMini", "content": "Short"}, {"id": "OtherStoryOpenCondition_9103", "content": "Actually 3.5-1"}, {"id": "OtherStoryOpenCondition_9010", "content": "Actually 3.5-9"}, {"id": "MainStoryOpenCondition_104", "content": "Clear 4-1"}, {"id": "OtherStoryOpenCondition_9104", "content": "4.5-1 clear"}, {"id": "OtherStoryOpenCondition_9011", "content": "4.5-11 is clear"}, {"id": "MainStoryOpenCondition_105", "content": "Clear 5-1"}, {"id": "OtherStoryOpenCondition_9012", "content": "Actually 5-33"}, {"id": "OtherStoryOpenCondition_9105", "content": "Cleaning 5.5-1"}, {"id": "OtherStoryOpenCondition_9013", "content": "5.5-12 Views"}, {"id": "OtherStoryOpenCondition_9014", "content": "5.5-12 Views"}, {"id": "OtherStoryOpenCondition_9107", "content": "5.5-13 View"}, {"id": "OtherStoryOpenCondition_9015", "content": "Remove 5.5-24"}, {"id": "MainStoryOpenCondition_106", "content": "Clean up with 6-1"}, {"id": "OtherStoryOpenCondition_9016", "content": "6-48 is clear"}, {"id": "theStoryOf", "content": "History"}, {"id": "OtherStoryOpenCondition_9109", "content": "6.5-1 Cleaning"}, {"id": "OtherStoryOpenCondition_9017", "content": "6-48 is clear"}, {"id": "OtherStoryOpenCondition_9110", "content": "6.5-16 is clear"}, {"id": "personality_voice_section_before_clear_chapter_format", "content": "After this\nGuangzhou {0}"}, {"id": "personality_voice_section_after_clear_chapter_format", "content": "Post\nGuangzhou {0}"}, {"id": "PersonalityStory_OpenCodition_UnlockCode106", "content": "The sixth transparency is six"}, {"id": "PersoanlityStory_After", "content": "(After)"}, {"id": "OtherStoryOpenCondition_9018", "content": "6.5-30 cleaning"}, {"id": "MainStoryOpenCondition_107", "content": "Clean up 7-1"}]}
+{
+  "dataList": [
+    {
+      "id": "MAINSTORY",
+      "content": "History"
+    }, {
+      "id": "PERSONALITYSTORY",
+      "content": "Id collection"
+    }, {
+      "id": "NOTE_OF_DANTE",
+      "content": "Communication"
+    }, {
+      "id": "EPISODE",
+      "content": "Father. {0}"
+    }, {
+      "id": "PAGE",
+      "content": "Apologize. {0}"
+    }, {
+      "id": "PROGRESS",
+      "content": "Development"
+    }, {
+      "id": "Before",
+      "content": "War"
+    }, {
+      "id": "After",
+      "content": "Old war"
+    }, {
+      "id": "None",
+      "content": ""
+    }, {
+      "id": "ENTER",
+      "content": "Entrance"
+    }, {
+      "id": "CLOSE",
+      "content": "Depart"
+    }, {
+      "id": "MIRRORWOLDS",
+      "content": "World Mirror"
+    }, {
+      "id": "STORY",
+      "content": "History"
+    }, {
+      "id": "SECURITY_MATERIAL",
+      "content": "Social class"
+    }, {
+      "id": "SPEECH",
+      "content": "Conversation"
+    }, {
+      "id": "OPEN_CONDITION",
+      "content": "Open:"
+    }, {
+      "id": "DEEP_ANALYSIS",
+      "content": "Room:"
+    }, {
+      "id": "DATA_DOWNLOAD",
+      "content": "Download"
+    }, {
+      "id": "DATA_DOWNLOAD_DESC",
+      "content": "Do you want to run audio files for clean contact?\nMore information has been downloaded."
+    }, {
+      "id": "DATA_DOWNLOAD_NO",
+      "content": "Non-natural\n(0.00)"
+    }, {
+      "id": "DATA_DOWNLOAD_YES",
+      "content": "With\nWere, and,,,,,,,,{0} MBA)"
+    }, {
+      "id": "CV_1",
+      "content": "Without"
+    }, {
+      "id": "CV_2",
+      "content": "Park"
+    }, {
+      "id": "CV_3",
+      "content": "Who is it"
+    }, {
+      "id": "CV_4",
+      "content": "There is an HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHhaHharahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha."
+    }, {
+      "id": "CV_5",
+      "content": "Q Press you"
+    }, {
+      "id": "CV_6",
+      "content": "Kim Sen Vo"
+    }, {
+      "id": "CV_7",
+      "content": "Hong Kong"
+    }, {
+      "id": "CV_8",
+      "content": "Yang II"
+    }, {
+      "id": "CV_9",
+      "content": "You"
+    }, {
+      "id": "CV_10",
+      "content": "Kim Big-El"
+    }, {
+      "id": "CV_11",
+      "content": "Golden towels"
+    }, {
+      "id": "CV_12",
+      "content": "Nose"
+    }, {
+      "id": "gacksung",
+      "content": "U 丿 丿"
+    }, {
+      "id": "EnterStoryPopupDesc",
+      "content": "I'm here\n{0}Intersection"
+    }, {
+      "id": "No",
+      "content": "To remove"
+    }, {
+      "id": "DetailStoryDungeon",
+      "content": "In the dark"
+    }, {
+      "id": "NeedsPersonality",
+      "content": "Requires recognition"
+    }, {
+      "id": "NeedsPersonalityButton",
+      "content": "See the requirements"
+    }, {
+      "id": "MainStoryOpenCondition_101",
+      "content": "Clear 1-1"
+    }, {
+      "id": "MainStoryOpenCondition_102",
+      "content": "2-1 cleaning"
+    }, {
+      "id": "MainStoryOpenCondition_103",
+      "content": "3-1 cleaning"
+    }, {
+      "id": "PersonalityStory_OpenCodition",
+      "content": "It was done at the tune level {0}"
+    }, {
+      "id": "OTHERSTORY",
+      "content": "Stable"
+    }, {
+      "id": "DanteNote_Record",
+      "content": "A second"
+    }, {
+      "id": "DanteNote_Time",
+      "content": "Time"
+    }, {
+      "id": "DanteNote_Update",
+      "content": "Restoration"
+    }, {
+      "id": "DanteNote_Main",
+      "content": "I don't know where to start.\nOf course, I think it is not clear to forget.\nIf you don't remember, you are starting writing a note."
+    }, {
+      "id": "MINI",
+      "content": "Short"
+    }, {
+      "id": "DetailStoryMini",
+      "content": "Short"
+    }, {
+      "id": "OtherStoryOpenCondition_9103",
+      "content": "Actually 3.5-1"
+    }, {
+      "id": "OtherStoryOpenCondition_9010",
+      "content": "Actually 3.5-9"
+    }, {
+      "id": "MainStoryOpenCondition_104",
+      "content": "Clear 4-1"
+    }, {
+      "id": "OtherStoryOpenCondition_9104",
+      "content": "4.5-1 clear"
+    }, {
+      "id": "OtherStoryOpenCondition_9011",
+      "content": "4.5-11 is clear"
+    }, {
+      "id": "MainStoryOpenCondition_105",
+      "content": "Clear 5-1"
+    }, {
+      "id": "OtherStoryOpenCondition_9012",
+      "content": "Actually 5-33"
+    }, {
+      "id": "OtherStoryOpenCondition_9105",
+      "content": "Cleaning 5.5-1"
+    }, {
+      "id": "OtherStoryOpenCondition_9013",
+      "content": "5.5-12 Views"
+    }, {
+      "id": "OtherStoryOpenCondition_9014",
+      "content": "5.5-12 Views"
+    }, {
+      "id": "OtherStoryOpenCondition_9107",
+      "content": "5.5-13 View"
+    }, {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "Remove 5.5-24"
+    }, {
+      "id": "MainStoryOpenCondition_106",
+      "content": "Clean up with 6-1"
+    }, {
+      "id": "OtherStoryOpenCondition_9016",
+      "content": "6-48 is clear"
+    }, {
+      "id": "theStoryOf",
+      "content": "History"
+    }, {
+      "id": "OtherStoryOpenCondition_9109",
+      "content": "6.5-1 Cleaning"
+    }, {
+      "id": "OtherStoryOpenCondition_9017",
+      "content": "6-48 is clear"
+    }, {
+      "id": "OtherStoryOpenCondition_9110",
+      "content": "6.5-16 is clear"
+    }, {
+      "id": "personality_voice_section_before_clear_chapter_format",
+      "content": "After this\nGuangzhou {0}"
+    }, {
+      "id": "personality_voice_section_after_clear_chapter_format",
+      "content": "Post\nGuangzhou {0}"
+    }, {
+      "id": "PersonalityStory_OpenCodition_UnlockCode106",
+      "content": "The sixth transparency is six"
+    }, {
+      "id": "PersoanlityStory_After",
+      "content": "(After)"
+    }, {
+      "id": "OtherStoryOpenCondition_9018",
+      "content": "6.5-30 cleaning"
+    }, {
+      "id": "MainStoryOpenCondition_107",
+      "content": "Clean up 7-1"
+    }
+  ]
+}

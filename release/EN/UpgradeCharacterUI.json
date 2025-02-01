@@ -1,1 +1,14 @@
-{"dataList": [{"id": "upgrade_character_exp_up", "content": "Skills\nto get."}, {"id": "upgrade_character_level_up", "content": "Pace"}, {"id": "upgrade_character_level_max", "content": "<color=#f8c200>the best</color>\nHe arrived."}]}
+{
+  "dataList": [
+    {
+      "id": "upgrade_character_exp_up",
+      "content": "Skills\nto get."
+    }, {
+      "id": "upgrade_character_level_up",
+      "content": "Pace"
+    }, {
+      "id": "upgrade_character_level_max",
+      "content": "<color=#f8c200>the best</color>\nHe arrived."
+    }
+  ]
+}

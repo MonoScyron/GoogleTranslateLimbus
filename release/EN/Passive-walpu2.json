@@ -1,1 +1,29 @@
-{"dataList": [{"id": 814702, "name": "Suspected", "desc": "When Akata defeated the enemy because of the attack technology, all enemies were tied up with 10 injuries."}, {"id": 814801, "name": "John", "desc": "The unit treats 50 horsepower (molecules and parts), and the enemy attack Technology is sharp or lost."}, {"id": 814901, "name": "Pain", "desc": "If you lose during the cooperative war, give three damage: binding, hard attack and the following rules."}, {"id": 814902, "name": "Weakness", "desc": "When the device dies, all the enemies should be held in the total turn of all enemies."}, {"id": 815001, "name": "Person", "desc": "If you have a loud-cross-spray-in-law \"doubt\" and \"life\"."}, {"id": 815002, "name": "Start", "desc": "If this device is still alive, there is no smaller at the end of rotation."}]}
+{
+  "dataList": [
+    {
+      "id": 814702,
+      "name": "Suspected",
+      "desc": "When Akata defeated the enemy because of the attack technology, all enemies were tied up with 10 injuries."
+    }, {
+      "id": 814801,
+      "name": "John",
+      "desc": "The unit treats 50 horsepower (molecules and parts), and the enemy attack Technology is sharp or lost."
+    }, {
+      "id": 814901,
+      "name": "Pain",
+      "desc": "If you lose during the cooperative war, give three damage: binding, hard attack and the following rules."
+    }, {
+      "id": 814902,
+      "name": "Weakness",
+      "desc": "When the device dies, all the enemies should be held in the total turn of all enemies."
+    }, {
+      "id": 815001,
+      "name": "Person",
+      "desc": "If you have a loud-cross-spray-in-law \"doubt\" and \"life\"."
+    }, {
+      "id": 815002,
+      "name": "Start",
+      "desc": "If this device is still alive, there is no smaller at the end of rotation."
+    }
+  ]
+}

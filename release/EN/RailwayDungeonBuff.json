@@ -1,1 +1,14 @@
-{"dataList": [{"id": "HealHpMaxForSelected", "content": "Maintain unique identity please"}, {"id": "HealHpPercentageForAll", "content": "Correct the whole identity {0}Percentage"}, {"id": "ResurrectForSelected", "content": "Restore your identity with full HP treatment"}]}
+{
+  "dataList": [
+    {
+      "id": "HealHpMaxForSelected",
+      "content": "Maintain unique identity please"
+    }, {
+      "id": "HealHpPercentageForAll",
+      "content": "Correct the whole identity {0}Percentage"
+    }, {
+      "id": "ResurrectForSelected",
+      "content": "Restore your identity with full HP treatment"
+    }
+  ]
+}
