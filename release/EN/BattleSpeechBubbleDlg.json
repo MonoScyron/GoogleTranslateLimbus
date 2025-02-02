@@ -1,1 +1,45 @@
-{"dataList": [{"id": "battle_speechbubble_cromer_1", "desc": "말풍선 특수 대사_크로머", "dlg": "Hello ... you ...\nRain ...?"}, {"id": "battle_speechbubble_10808_1", "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘", "dlg": "Say all the mistakes ... what is?\nThank you all."}, {"id": "battle_speechbubble_10408_1", "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈", "dlg": "Sad.\nYou didn't save the fish."}, {"id": "battle_react_10710_1", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "Lovely sympathy at the party!"}, {"id": "battle_react_10710_2", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "... you were missing\nMood"}, {"id": "battle_react_10710_3", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "Do you still understand?\nYes ... no boat, you're nothing!"}, {"id": "battle_react_10710_4", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "Do the sheep are now in a wet lamb?\nOh, you don't remember this\ndo you have?"}, {"id": "battle_react_10710_5", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "HMPH, why to celebrate\nDid you hit the knife plate?"}, {"id": "battle_react_10710_6", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "Catherine ...\nAgain hugs!"}, {"id": "battle_react_10710_7", "desc": "말풍선 특수 대사_와일드헌트 히스클리프", "dlg": "You are the rock hub!\nI will be involved in Catherine!"}]}
+{
+  "dataList": [
+    {
+      "id": "battle_speechbubble_cromer_1",
+      "desc": "말풍선 특수 대사_크로머",
+      "dlg": "Hello ... you ...\nRain ...?"
+    }, {
+      "id": "battle_speechbubble_10808_1",
+      "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+      "dlg": "Say all the mistakes ... what is?\nThank you all."
+    }, {
+      "id": "battle_speechbubble_10408_1",
+      "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+      "dlg": "Sad.\nYou didn't save the fish."
+    }, {
+      "id": "battle_react_10710_1",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Lovely sympathy at the party!"
+    }, {
+      "id": "battle_react_10710_2",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "... you were missing\nMood"
+    }, {
+      "id": "battle_react_10710_3",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Do you still understand?\nYes ... no boat, you're nothing!"
+    }, {
+      "id": "battle_react_10710_4",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Do the sheep are now in a wet lamb?\nOh, you don't remember this\ndo you have?"
+    }, {
+      "id": "battle_react_10710_5",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "HMPH, why to celebrate\nDid you hit the knife plate?"
+    }, {
+      "id": "battle_react_10710_6",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Catherine ...\nAgain hugs!"
+    }, {
+      "id": "battle_react_10710_7",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "You are the rock hub!\nI will be involved in Catherine!"
+    }
+  ]
+}

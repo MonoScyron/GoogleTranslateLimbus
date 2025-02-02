@@ -1,1 +1,319 @@
-{"dataList": [{"id": 2010611, "levelList": [{"level": 1, "name": "B coner", "abName": "Photography", "desc": "[EndSkill] Random app (rational 6 +). [Sinking] In the goals", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 6+ [Sinking]1 apply [Binding] Valley"}]}]}, {"level": 3, "name": "B coner", "abName": "Photography", "desc": "[EndSkill] Random app (rational 6 +). [Sinking] In the goals", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 6+ [Sinking], Anxiety 2 [Binding] Valley"}]}]}, {"level": 4, "name": "B coner", "abName": "Photography", "desc": "[EndSkill] RAM (6 + (6 +))<style=\"highlight\">Due to x1.5</style>Were, and,,,,,,,,,,,,,, [Sinking] In the goals", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 6+ [Sinking], Anxiety 2 [Binding] Valley"}]}]}]}, {"id": 2010621, "levelList": [{"level": 1, "name": "B coner", "abName": "Photography", "desc": "[CantIdentify]\nRandomly", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]Night 2 [Binding] Valley"}, {"desc": "[OnSucceedAttack] The target is 6+ [Sinking]1 apply [Binding] Valley"}]}]}, {"level": 3, "name": "B coner", "abName": "Photography", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Atk -wth +1 + 3+ (at least reason)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]Night 2 [Binding] Valley"}, {"desc": "[OnSucceedAttack] The target is 6+ [Sinking]1 apply [Binding] Valley"}]}]}, {"level": 4, "name": "B coner", "abName": "Photography", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Atk -wth +1 + 3+ (at least reason)\n[BeforeAttack] Extra +1 structure in 5+ (gum reserve)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]Night 2 [Binding] Valley"}, {"desc": "[OnSucceedAttack] The target is 6+ [Sinking], Anxiety 2 [Binding] Valley"}]}]}]}, {"id": 2010711, "levelList": [{"level": 1, "name": "He falls", "abName": "Invest in liquid", "desc": "Focus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]", "coinlist": [{"coindescs": [{"desc": "This posture only hurts the most important interests."}, {"desc": "The main goal of support is to prepare for the preparation of support of support, if we have full loss of + 8%. [BoseProjektil] (Up to 56%)"}, {"desc": "[AllyKill] Record 2 [Breath] For you and for both partners"}, {"desc": "[AllyKillFail] Get 1 [Breath]"}]}, {"coindescs": [{"desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage"}, {"desc": "Each one + 2% loss [BoseProjektil] (Up to 14%)"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [Laceration]"}]}]}, {"level": 3, "name": "He falls", "abName": "Invest in liquid", "desc": "Focus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]<style=\"highlight\"></style>", "coinlist": [{"coindescs": [{"desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"}, {"desc": "The main goal of cooperation <style=\"highlight\">+ 10% injury [BoseProjektil] (Up to 70%)</style>"}, {"desc": "[AllyKill] Crisis <style=\"highlight\">Blood</style> [Breath] For you and for both partners"}, {"desc": "<style=\"highlight\">[AllyKill] +1, sample source of the report</style>"}, {"desc": "[AllyKillFail] to get <style=\"highlight\">Blood</style> [Breath]"}]}, {"coindescs": [{"desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">Each of the one + 5% loss [BoseProjektil] (Up to 35%)</style>"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [Laceration]<style=\"highlight\"></style>"}]}]}, {"level": 4, "name": "He falls", "abName": "Invest in liquid", "desc": "Focus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">- If this ring is proud. [BoseProjektil] Instead of (up to 7)</style>\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]", "coinlist": [{"coindescs": [{"desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"}, {"desc": "The main goal of cooperation <style=\"highlight\">Each person + 15% loss [BoseProjektil] (Up to 105%)</style>"}, {"desc": "[AllyKill] Record 3 [Breath] For you and for both partners<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">[AllyKill] For example, connection +1 1 and 2 are not transparent.</style>"}, {"desc": "[AllyKillFail] Benefits 3 [Breath]<style=\"highlight\"></style>"}]}, {"coindescs": [{"desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">+ All damage seriously 9%. [BoseProjektil] (Up to 63%)</style>"}, {"desc": "[CriticalOnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [Laceration]"}]}]}]}, {"id": 2010721, "levelList": [{"level": 1, "name": "He falls", "abName": "Invest in liquid", "desc": "[CantIdentify]\nFocus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] They all fell + 2% [BoseProjektil] (Up to 14%)\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]", "coinlist": [{"coindescs": [{"desc": "This posture only hurts the most important interests."}, {"desc": "If the rest is a friend, it can cause a loss of 10% for each. [BoseProjektil] (Up to 70%)"}, {"desc": "The main goal of cooperation is to increase the loss of 2%. [Breath] Self (up to 50%)"}, {"desc": "[AllyKill] Record 2 [Breath] I and 3 companions"}, {"desc": "[AllyKill] Another currency protocol + all 2% lost. [BoseProjektil] (Up to 14%)"}, {"desc": "[AllyKill] For example, connection +1 1 and 2 are not transparent."}, {"desc": "[AllyKillFail] Get 1 [Breath]"}]}, {"coindescs": [{"desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage"}, {"desc": "Each one + 2% loss [BoseProjektil] (Up to 14%)"}, {"desc": "[CriticalOnSucceedAttack] Application 3 [Laceration]"}]}]}, {"level": 3, "name": "He falls", "abName": "Invest in liquid", "desc": "[CantIdentify]\nFocus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Agreement <style=\"highlight\">Of all the damage + 3% of [BoseProjektil] (Up to 21%)</style>\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]", "coinlist": [{"coindescs": [{"desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"}, {"desc": "The main goal of cooperation <style=\"highlight\">+ 12% loss [BoseProjektil] (Up to 84%)</style>"}, {"desc": "The main goal of cooperation <style=\"highlight\">Each one + 2% loss [Breath] Self (up to 50%)</style>"}, {"desc": "[AllyKill] Crisis <style=\"highlight\">Blood</style> [Breath] I and 3 companions"}, {"desc": "[AllyKill] The next relationship <style=\"highlight\">Each of the one + 5% loss [BoseProjektil] (Up to 35%)</style>"}, {"desc": "<style=\"highlight\">[AllyKill] For example, the source of the article +1.</style>"}, {"desc": "[AllyKillFail] to get <style=\"highlight\">There is no way</style> [Breath]"}]}, {"coindescs": [{"desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">Each one + 3% loss [BoseProjektil] (Up to 21%)</style>"}, {"desc": "[CriticalOnSucceedAttack] Crisis <style=\"highlight\">4</style> [Laceration]"}]}]}, {"level": 4, "name": "He falls", "abName": "Invest in liquid", "desc": "[CantIdentify]\nFocus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">- If this ring is proud. [BoseProjektil] Instead of (up to 7)</style>\n[BeforeAttack] Agreement <style=\"highlight\">+ All damage is 4%. [BoseProjektil] (Up to 28%)</style>\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]", "coinlist": [{"coindescs": [{"desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"}, {"desc": "The main goal of cooperation <style=\"highlight\">Each person + 15% loss [BoseProjektil] (Up to 105%)</style>"}, {"desc": "The main goal of cooperation <style=\"highlight\">Each one + 2% loss [Breath] Self (up to 50%)</style>"}, {"desc": "<style=\"highlight\">+ 30% dangerous rates loss</style>"}, {"desc": "[AllyKill] Crisis <style=\"highlight\">4</style> [Breath] I and 3 companions"}, {"desc": "[AllyKill] The next relationship <style=\"highlight\">+ 7% of compensation injuries [BoseProjektil] (Very 49%)</style>"}, {"desc": "[AllyKill] For example, the source of the article +1.<style=\"highlight\"></style>"}, {"desc": "[AllyKillFail] to get <style=\"highlight\">Blood</style> [Breath]"}]}, {"coindescs": [{"desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">+ 4% of serious attacks on each [BoseProjektil] (Up to 28%)</style>"}, {"desc": "[CriticalOnSucceedAttack] Crisis <style=\"highlight\">My</style> [Laceration]"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 2010611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "B coner",
+          "abName": "Photography",
+          "desc": "[EndSkill] Random app (rational 6 +). [Sinking] In the goals",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Sinking]1 apply [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "B coner",
+          "abName": "Photography",
+          "desc": "[EndSkill] Random app (rational 6 +). [Sinking] In the goals",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Sinking], Anxiety 2 [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "B coner",
+          "abName": "Photography",
+          "desc": "[EndSkill] RAM (6 + (6 +))<style=\"highlight\">Due to x1.5</style>Were, and,,,,,,,,,,,,,, [Sinking] In the goals",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Sinking], Anxiety 2 [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2010621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "B coner",
+          "abName": "Photography",
+          "desc": "[CantIdentify]\nRandomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]Night 2 [Binding] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Sinking]1 apply [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "B coner",
+          "abName": "Photography",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Atk -wth +1 + 3+ (at least reason)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]Night 2 [Binding] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Sinking]1 apply [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "B coner",
+          "abName": "Photography",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Atk -wth +1 + 3+ (at least reason)\n[BeforeAttack] Extra +1 structure in 5+ (gum reserve)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]Night 2 [Binding] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Sinking], Anxiety 2 [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "He falls",
+          "abName": "Invest in liquid",
+          "desc": "Focus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This posture only hurts the most important interests."
+                }, {
+                  "desc": "The main goal of support is to prepare for the preparation of support of support, if we have full loss of + 8%. [BoseProjektil] (Up to 56%)"
+                }, {
+                  "desc": "[AllyKill] Record 2 [Breath] For you and for both partners"
+                }, {
+                  "desc": "[AllyKillFail] Get 1 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage"
+                }, {
+                  "desc": "Each one + 2% loss [BoseProjektil] (Up to 14%)"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "He falls",
+          "abName": "Invest in liquid",
+          "desc": "Focus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"
+                }, {
+                  "desc": "The main goal of cooperation <style=\"highlight\">+ 10% injury [BoseProjektil] (Up to 70%)</style>"
+                }, {
+                  "desc": "[AllyKill] Crisis <style=\"highlight\">Blood</style> [Breath] For you and for both partners"
+                }, {
+                  "desc": "<style=\"highlight\">[AllyKill] +1, sample source of the report</style>"
+                }, {
+                  "desc": "[AllyKillFail] to get <style=\"highlight\">Blood</style> [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">Each of the one + 5% loss [BoseProjektil] (Up to 35%)</style>"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "He falls",
+          "abName": "Invest in liquid",
+          "desc": "Focus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">- If this ring is proud. [BoseProjektil] Instead of (up to 7)</style>\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"
+                }, {
+                  "desc": "The main goal of cooperation <style=\"highlight\">Each person + 15% loss [BoseProjektil] (Up to 105%)</style>"
+                }, {
+                  "desc": "[AllyKill] Record 3 [Breath] For you and for both partners<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">[AllyKill] For example, connection +1 1 and 2 are not transparent.</style>"
+                }, {
+                  "desc": "[AllyKillFail] Benefits 3 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">+ All damage seriously 9%. [BoseProjektil] (Up to 63%)</style>"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "He falls",
+          "abName": "Invest in liquid",
+          "desc": "[CantIdentify]\nFocus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] They all fell + 2% [BoseProjektil] (Up to 14%)\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This posture only hurts the most important interests."
+                }, {
+                  "desc": "If the rest is a friend, it can cause a loss of 10% for each. [BoseProjektil] (Up to 70%)"
+                }, {
+                  "desc": "The main goal of cooperation is to increase the loss of 2%. [Breath] Self (up to 50%)"
+                }, {
+                  "desc": "[AllyKill] Record 2 [Breath] I and 3 companions"
+                }, {
+                  "desc": "[AllyKill] Another currency protocol + all 2% lost. [BoseProjektil] (Up to 14%)"
+                }, {
+                  "desc": "[AllyKill] For example, connection +1 1 and 2 are not transparent."
+                }, {
+                  "desc": "[AllyKillFail] Get 1 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage"
+                }, {
+                  "desc": "Each one + 2% loss [BoseProjektil] (Up to 14%)"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "He falls",
+          "abName": "Invest in liquid",
+          "desc": "[CantIdentify]\nFocus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Agreement <style=\"highlight\">Of all the damage + 3% of [BoseProjektil] (Up to 21%)</style>\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"
+                }, {
+                  "desc": "The main goal of cooperation <style=\"highlight\">+ 12% loss [BoseProjektil] (Up to 84%)</style>"
+                }, {
+                  "desc": "The main goal of cooperation <style=\"highlight\">Each one + 2% loss [Breath] Self (up to 50%)</style>"
+                }, {
+                  "desc": "[AllyKill] Crisis <style=\"highlight\">Blood</style> [Breath] I and 3 companions"
+                }, {
+                  "desc": "[AllyKill] The next relationship <style=\"highlight\">Each of the one + 5% loss [BoseProjektil] (Up to 35%)</style>"
+                }, {
+                  "desc": "<style=\"highlight\">[AllyKill] For example, the source of the article +1.</style>"
+                }, {
+                  "desc": "[AllyKillFail] to get <style=\"highlight\">There is no way</style> [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">Each one + 3% loss [BoseProjektil] (Up to 21%)</style>"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Crisis <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "He falls",
+          "abName": "Invest in liquid",
+          "desc": "[CantIdentify]\nFocus on at least on HP alliance\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">- If this ring is proud. [BoseProjektil] Instead of (up to 7)</style>\n[BeforeAttack] Agreement <style=\"highlight\">+ All damage is 4%. [BoseProjektil] (Up to 28%)</style>\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This posture only hurts the most important interests.<style=\"highlight\"></style>"
+                }, {
+                  "desc": "The main goal of cooperation <style=\"highlight\">Each person + 15% loss [BoseProjektil] (Up to 105%)</style>"
+                }, {
+                  "desc": "The main goal of cooperation <style=\"highlight\">Each one + 2% loss [Breath] Self (up to 50%)</style>"
+                }, {
+                  "desc": "<style=\"highlight\">+ 30% dangerous rates loss</style>"
+                }, {
+                  "desc": "[AllyKill] Crisis <style=\"highlight\">4</style> [Breath] I and 3 companions"
+                }, {
+                  "desc": "[AllyKill] The next relationship <style=\"highlight\">+ 7% of compensation injuries [BoseProjektil] (Very 49%)</style>"
+                }, {
+                  "desc": "[AllyKill] For example, the source of the article +1.<style=\"highlight\"></style>"
+                }, {
+                  "desc": "[AllyKillFail] to get <style=\"highlight\">Blood</style> [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "This connection only trades on the lower board.\nIf the first contact by a friend is not killed, random damage to damage<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">+ 4% of serious attacks on each [BoseProjektil] (Up to 28%)</style>"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Crisis <style=\"highlight\">My</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

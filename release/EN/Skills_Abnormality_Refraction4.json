@@ -1,1 +1,557 @@
-{"dataList": [{"id": 860501, "levelList": [{"level": 1, "name": "Skip this place", "desc": "[WhenUse] Target 4+ [Sinking], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}]}]}, {"id": 860502, "levelList": [{"level": 1, "name": "Numbers", "desc": "[WhenUse] Goal 3+ [Sinking] Account, Power Dispute +1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}]}]}, {"id": 860503, "levelList": [{"level": 1, "name": "Who will be?", "desc": "Priority [UninvitedGuest]\nIf your goal is. [UninvitedGuest], More application +1 [Sinking] Dimensions with the use of a bowl and this method", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}, {"desc": "[OnSucceedAttack] If your goal is. [UninvitedGuest], Anxiety 2 [Paralysis] Valley"}]}]}]}, {"id": 860504, "levelList": [{"level": 1, "name": "Interpars, right?", "desc": "Priority [UninvitedGuest]\nIf your goal is. [UninvitedGuest], More application +1 [Sinking] Dimensions with the use of a bowl and this method", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Sinking]"}, {"desc": "[OnSucceedAttackHead] App +2 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Sinking]"}, {"desc": "[OnSucceedAttack] If your goal is. [UninvitedGuest], Anxiety 2 [Paralysis] Valley"}, {"desc": "[OnSucceedAttackHead] App +2 [Sinking] Account"}]}]}]}, {"id": 860505, "levelList": [{"level": 1, "name": "Soda, monkeys", "desc": "Priority [UninvitedGuest]\nAtk weight is equal to the number of enemies [UninvitedGuest]\n[WhenUse] It improves the power of the enemy to the extent [UninvitedGuest]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Sinking]"}, {"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Because [SinkingSurge]"}]}]}]}, {"id": 860506, "levelList": [{"level": 1, "name": "My Lord", "desc": "[DefeatDuel] This technique has found a picture stopped.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}]}]}, {"id": 860507, "levelList": [{"level": 1, "name": "My Lord", "desc": "[DefeatDuel] This technique has found a picture stopped.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}]}]}, {"id": 860601, "levelList": [{"level": 1, "name": "He was efficient ...?", "desc": "", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 860701, "levelList": [{"level": 1, "name": "Migration", "desc": "", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 860801, "levelList": [{"level": 1, "name": "Howard Road", "desc": "[WhenUse] Benefits +1 [Charge] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown] Valley"}]}]}]}, {"id": 860802, "levelList": [{"level": 1, "name": "Come to Ram", "desc": "[WhenUse] Benefits +1 [Charge] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [AttackDown] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"}]}]}]}, {"id": 860803, "levelList": [{"level": 1, "name": "Carry", "desc": "[WhenUse] Benefits +2 [Charge] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"}]}]}]}, {"id": 860804, "levelList": [{"level": 1, "name": "Electricity", "desc": "[WhenUse] Benefits +2 [Charge] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"}]}]}]}, {"id": 860805, "levelList": [{"level": 1, "name": "She screamed", "desc": "[WhenUse] ATK +1 Weight on 4 [Charge] Measure yourself (up to 5)\n[WhenUse] Compete for 5 people [Charge] Measure yourself (up to 4)\n[WhenUse] Get 1 [VioletDamageUp] 6 every time [Charge] Measure yourself (3)\n[EndBattle] All [Charge] Hope for yourself [ConnectedPlug]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [DefenseDown] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [AttackDown] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"}]}]}]}, {"id": 860806, "levelList": [{"level": 1, "name": "She screamed", "desc": "[CantDuel]\n[WhenUse] Get 10 [Protection]\n[WhenUse] ATK +1 Weight on 4 [Charge] Measure yourself (up to 5)\n[WhenUse] Compete for 5 people [Charge] Measure yourself (up to 4)\n[WhenUse] Get 1 [VioletDamageUp] 6 every time [Charge] Measure yourself (3)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 860807, "levelList": [{"level": 1, "name": "Denial", "desc": "Line [AntiSheepGround]\nEveryone's fight + + [ConnectedPlug]\n[StartBattle] Benefits 2 (3-3- [ConnectedPlug]Were, and,,,,,,,,,,,,,, [Protection]\n[WhenUse] Benefits +1 [Charge] Account\n[DefeatDuel] If your goal is. [AntiSheepGround]1, 1 [ConnectedPlug]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown] Valley"}]}]}]}, {"id": 862801, "levelList": [{"level": 1, "name": "Planet", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"}]}]}]}, {"id": 862901, "levelList": [{"level": 1, "name": "This includes classes", "desc": "The target is 6+ [Sinking], Call ++ 1\n[WinDuel] Application +3 [Sinking] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}]}]}, {"id": 862902, "levelList": [{"level": 1, "name": "Occupy", "desc": "6 coins +1 power [Sinking] In the form of the target (up to 2)\n[WinDuel] Application +3 [Sinking] Account\n[DefeatDuel] To reduce [Sinking] Phone 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}]}]}, {"id": 862903, "levelList": [{"level": 1, "name": "Numbers", "desc": "If your goal is. [Binding], Power Clash ++ 1\n[WinDuel] Application +4 [Sinking] Account\n[DefeatDuel] To reduce [Sinking] Port 2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}]}]}, {"id": 862904, "levelList": [{"level": 1, "name": "Bond", "desc": "Power for each metal currency [Sinking] In the form of the target (up to 2)\n[DefeatDuel] To reduce [Sinking] Numbers 2\n[DefeatDuel] Crisis [BandageOfTheBoundKing]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Binding] Valley\n[OnSucceedAttack] Crisis [Vibration] Is correct [Sinking] Matampon"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"}]}]}]}, {"id": 862905, "levelList": [{"level": 1, "name": "You need to drown it", "desc": "If your goal is. [Binding], Power Clash ++ 1\n[WinDuel] App +2 [Sinking] Account\n[DefeatDuel] To reduce [Sinking] Port 4", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Because [SinkingSurge]"}]}]}]}, {"id": 862906, "levelList": [{"level": 1, "name": "It's for the king", "desc": "[CantDuel]\n[StartBattle] Benefits 5 [Binding]1 [ComeForwardToTheKing]There is no way [Enhancement] The next line.\n[WhenUse] Use of 300 disks for purposes [BandageOfTheBoundKing]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If this instrument eliminates the target, ask [Vibration] Is correct [Sinking] Matampon"}, {"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"}]}]}]}, {"id": 860602, "levelList": [{"level": 1, "name": "Master picture", "desc": "", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 860501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Skip this place",
+          "desc": "[WhenUse] Target 4+ [Sinking], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Numbers",
+          "desc": "[WhenUse] Goal 3+ [Sinking] Account, Power Dispute +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Who will be?",
+          "desc": "Priority [UninvitedGuest]\nIf your goal is. [UninvitedGuest], More application +1 [Sinking] Dimensions with the use of a bowl and this method",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [UninvitedGuest], Anxiety 2 [Paralysis] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interpars, right?",
+          "desc": "Priority [UninvitedGuest]\nIf your goal is. [UninvitedGuest], More application +1 [Sinking] Dimensions with the use of a bowl and this method",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] App +2 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [UninvitedGuest], Anxiety 2 [Paralysis] Valley"
+                }, {
+                  "desc": "[OnSucceedAttackHead] App +2 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda, monkeys",
+          "desc": "Priority [UninvitedGuest]\nAtk weight is equal to the number of enemies [UninvitedGuest]\n[WhenUse] It improves the power of the enemy to the extent [UninvitedGuest]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Because [SinkingSurge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My Lord",
+          "desc": "[DefeatDuel] This technique has found a picture stopped.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My Lord",
+          "desc": "[DefeatDuel] This technique has found a picture stopped.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "He was efficient ...?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Howard Road",
+          "desc": "[WhenUse] Benefits +1 [Charge] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Come to Ram",
+          "desc": "[WhenUse] Benefits +1 [Charge] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [AttackDown] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Carry",
+          "desc": "[WhenUse] Benefits +2 [Charge] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electricity",
+          "desc": "[WhenUse] Benefits +2 [Charge] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "She screamed",
+          "desc": "[WhenUse] ATK +1 Weight on 4 [Charge] Measure yourself (up to 5)\n[WhenUse] Compete for 5 people [Charge] Measure yourself (up to 4)\n[WhenUse] Get 1 [VioletDamageUp] 6 every time [Charge] Measure yourself (3)\n[EndBattle] All [Charge] Hope for yourself [ConnectedPlug]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [DefenseDown] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [AttackDown] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "She screamed",
+          "desc": "[CantDuel]\n[WhenUse] Get 10 [Protection]\n[WhenUse] ATK +1 Weight on 4 [Charge] Measure yourself (up to 5)\n[WhenUse] Compete for 5 people [Charge] Measure yourself (up to 4)\n[WhenUse] Get 1 [VioletDamageUp] 6 every time [Charge] Measure yourself (3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Denial",
+          "desc": "Line [AntiSheepGround]\nEveryone's fight + + [ConnectedPlug]\n[StartBattle] Benefits 2 (3-3- [ConnectedPlug]Were, and,,,,,,,,,,,,,, [Protection]\n[WhenUse] Benefits +1 [Charge] Account\n[DefeatDuel] If your goal is. [AntiSheepGround]1, 1 [ConnectedPlug]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [DefenseDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Planet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This includes classes",
+          "desc": "The target is 6+ [Sinking], Call ++ 1\n[WinDuel] Application +3 [Sinking] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Occupy",
+          "desc": "6 coins +1 power [Sinking] In the form of the target (up to 2)\n[WinDuel] Application +3 [Sinking] Account\n[DefeatDuel] To reduce [Sinking] Phone 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Numbers",
+          "desc": "If your goal is. [Binding], Power Clash ++ 1\n[WinDuel] Application +4 [Sinking] Account\n[DefeatDuel] To reduce [Sinking] Port 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bond",
+          "desc": "Power for each metal currency [Sinking] In the form of the target (up to 2)\n[DefeatDuel] To reduce [Sinking] Numbers 2\n[DefeatDuel] Crisis [BandageOfTheBoundKing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Binding] Valley\n[OnSucceedAttack] Crisis [Vibration] Is correct [Sinking] Matampon"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You need to drown it",
+          "desc": "If your goal is. [Binding], Power Clash ++ 1\n[WinDuel] App +2 [Sinking] Account\n[DefeatDuel] To reduce [Sinking] Port 4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Because [SinkingSurge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 862906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It's for the king",
+          "desc": "[CantDuel]\n[StartBattle] Benefits 5 [Binding]1 [ComeForwardToTheKing]There is no way [Enhancement] The next line.\n[WhenUse] Use of 300 disks for purposes [BandageOfTheBoundKing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If this instrument eliminates the target, ask [Vibration] Is correct [Sinking] Matampon"
+                }, {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 860602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Master picture",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

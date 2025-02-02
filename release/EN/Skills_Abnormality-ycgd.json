@@ -1,1 +1,431 @@
-{"dataList": [{"id": 815101, "levelList": [{"level": 1, "name": "Eye", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Combustion] And +2 [Combustion] Account"}]}]}]}, {"id": 815102, "levelList": [{"level": 1, "name": "Donkey", "desc": "[WhenUse] If your goal is. [Combustion], The basic energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Combustion] And +2 [Combustion] Account"}]}]}]}, {"id": 815103, "levelList": [{"level": 1, "name": "Inhalation", "desc": "[WhenUse] The target is 5+ [Combustion], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Combustion] Account"}, {"desc": "[OnSucceedAttackHead] Application 1 [CrimsonTakeDamageUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 8 Application [Combustion]"}, {"desc": "[OnSucceedAttackHead] Application 1 [CrimsonTakeDamageUp] Valley"}]}]}]}, {"id": 815104, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] The target is 5+ [Combustion]Call strength + + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackDmgUp] Valley"}]}]}]}, {"id": 815201, "levelList": [{"level": 1, "name": "Jump", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking] And +2 [Sinking] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking] And +2 [Sinking] Account"}]}]}]}, {"id": 815202, "levelList": [{"level": 1, "name": "To remove", "desc": "[WhenUse] If your goal is. [Sinking], The basic energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking] And +3 [Sinking] Account"}]}]}]}, {"id": 815203, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] The target is 5+ [Sinking], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 8 Application [Sinking]"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [AzureTakeDamageUp] Valley"}]}]}]}, {"id": 815204, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] 2 Anxiety [Sinking]", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 815301, "levelList": [{"level": 1, "name": "Comment", "desc": "[WhenUse] Get 2 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}]}]}]}, {"id": 815302, "levelList": [{"level": 1, "name": "Paralysis", "desc": "[WhenUse] Get 2 [Breath]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}, {"desc": "[OnSucceedAttack] Get 1 [AttackDmgUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"}]}]}]}, {"id": 815303, "levelList": [{"level": 1, "name": "Family", "desc": "[WinDuel] Benefits +1 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Breath] And +1 [Breath] Account"}, {"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [SlashDamageUp] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [SlashResistDown] Valley"}]}]}]}, {"id": 815304, "levelList": [{"level": 1, "name": "Upward", "desc": "[WinDuel] Benefits +3 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath] And +1 [Breath] Account"}, {"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [SlashDamageUp] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [SlashResistDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"}, {"desc": "[OnSucceedAttackHead] Application +3 [Laceration] Account"}]}]}]}, {"id": 815305, "levelList": [{"level": 1, "name": "Checking their bone", "desc": "[StartBattle] Goodwood 50\n[WhenUse] If the armor does not end, the power of confusion is +5", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [SlashResistDown]"}]}, {"coindescs": [{"desc": "+ 100% loss due to severe attacks"}, {"desc": "[OnSucceedAttack] 10 applications [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Take part if the shield is not fully done [Grudge] Ayatty analysis and threatening value is a clear loss."}]}]}]}, {"id": 815306, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] Benefits 4 [Breath]", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 815307, "levelList": [{"level": 1, "name": "They give me meat", "desc": "Get x [Grudge] Next line (X = home technology technology damage)", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 815405, "levelList": [{"level": 1, "name": "Checking their bone", "desc": "[StartBattle] Get 200 shields\n[WhenUse] Benefits +3 [Breath] Account\n[WhenUse] If the iron is not finished, energy +10", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [SlashResistDown]"}]}, {"coindescs": [{"desc": "+ 100% loss due to severe attacks"}, {"desc": "[OnSucceedAttack] 5 apps [Paralysis] Valley"}, {"desc": "[OnSucceedAttack] 10 applications [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Take part if the shield is not fully done [Grudge] Ayatty analysis and threatening value is a clear loss."}]}]}]}, {"id": 815408, "levelList": [{"level": 1, "name": "I will dance on the sword", "desc": "[EnemyKill] Benefits 3 [AttackUp] Blood [DefenseUp] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 815409, "levelList": [{"level": 1, "name": "Checking their bone", "desc": "[CantChangeTarget]\nHP with minimum priority unit\n[EnemyKill] Double [Grudge] Price.\n[EnemyKill] Hectares have been replaced [Grudge] Price", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Some damage [Grudge] Price."}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 815101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eye",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Combustion] And +2 [Combustion] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Donkey",
+          "desc": "[WhenUse] If your goal is. [Combustion], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Combustion] And +2 [Combustion] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inhalation",
+          "desc": "[WhenUse] The target is 5+ [Combustion], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Combustion] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [CrimsonTakeDamageUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 Application [Combustion]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [CrimsonTakeDamageUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] The target is 5+ [Combustion]Call strength + + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackDmgUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jump",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking] And +2 [Sinking] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking] And +2 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To remove",
+          "desc": "[WhenUse] If your goal is. [Sinking], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking] And +3 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] The target is 5+ [Sinking], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 Application [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [AzureTakeDamageUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] 2 Anxiety [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Comment",
+          "desc": "[WhenUse] Get 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralysis",
+          "desc": "[WhenUse] Get 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackDmgUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Family",
+          "desc": "[WinDuel] Benefits +1 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Breath] And +1 [Breath] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [SlashDamageUp] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [SlashResistDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Upward",
+          "desc": "[WinDuel] Benefits +3 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath] And +1 [Breath] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [SlashDamageUp] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [SlashResistDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Paralysis] Valley"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application +3 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Checking their bone",
+          "desc": "[StartBattle] Goodwood 50\n[WhenUse] If the armor does not end, the power of confusion is +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [SlashResistDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "+ 100% loss due to severe attacks"
+                }, {
+                  "desc": "[OnSucceedAttack] 10 applications [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Take part if the shield is not fully done [Grudge] Ayatty analysis and threatening value is a clear loss."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] Benefits 4 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "They give me meat",
+          "desc": "Get x [Grudge] Next line (X = home technology technology damage)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Checking their bone",
+          "desc": "[StartBattle] Get 200 shields\n[WhenUse] Benefits +3 [Breath] Account\n[WhenUse] If the iron is not finished, energy +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [SlashResistDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "+ 100% loss due to severe attacks"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Paralysis] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 10 applications [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Take part if the shield is not fully done [Grudge] Ayatty analysis and threatening value is a clear loss."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I will dance on the sword",
+          "desc": "[EnemyKill] Benefits 3 [AttackUp] Blood [DefenseUp] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815409,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Checking their bone",
+          "desc": "[CantChangeTarget]\nHP with minimum priority unit\n[EnemyKill] Double [Grudge] Price.\n[EnemyKill] Hectares have been replaced [Grudge] Price",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Some damage [Grudge] Price."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

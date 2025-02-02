@@ -1,1 +1,1985 @@
-{"dataList": [{"id": 853901, "levelList": [{"level": 1, "name": "Glu", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}]}]}]}, {"id": 853902, "levelList": [{"level": 1, "name": "Drinkage", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +2 tons"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}]}]}]}, {"id": 853903, "levelList": [{"level": 1, "name": "To consider", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 tear task"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 friends transactions"}]}]}]}, {"id": 853904, "levelList": [{"level": 1, "name": "Twitter", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 tear application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Friends transactions"}, {"desc": "[OnSucceedAttackHead] 2 friends transactions"}]}]}]}, {"id": 853905, "levelList": [{"level": 1, "name": "I'm screaming", "desc": "Clash Power +2, every time I read the old umbrella\nThe umbrella of each of the old processing of harm + 25%\nAt the end of the way, the validity of the old umbrellas have also ended.\nAt the end of the street <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Umbrella</color></link></u> The same number <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Umbrella</color></link></u> Buy in the first step", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 was used to quench"}]}]}]}, {"id": 853906, "levelList": [{"level": 1, "name": "Wait", "desc": "[StartBattle] All enemies lose 20sps", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 853907, "levelList": [{"level": 1, "name": "Naval", "desc": "[StartBattle] to get <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Tingling</color></link></u>", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 853908, "levelList": [{"level": 1, "name": "Transportation", "desc": "[StartBattle] to get <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Tingling</color></link></u>", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 853909, "levelList": [{"level": 1, "name": "She screamed", "desc": "Clash Power +2, every time I read the old umbrella\nEach old processing of the nuclear + 25%", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}]}]}]}, {"id": 854001, "levelList": [{"level": 1, "name": "Displeasure", "desc": "[EndSkill] All enemies and numbers of the app +3 are +3 tons.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 854101, "levelList": [{"level": 1, "name": "Electrical weight", "desc": "[StartBattle] Benefits 2\n[DefeatDuel] 2 selfSsps\nDamage Benefits + 10% <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralysis</color></link></u>", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 854102, "levelList": [{"level": 1, "name": "Electricity", "desc": "[StartBattle] Benefits 2\n[DefeatDuel] 2 selfSsps\nDamage Benefits + 10% <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralysis</color></link></u>", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 854103, "levelList": [{"level": 1, "name": "Free", "desc": "[StartBattle] Benefits 2\n[DefeatDuel] 2 selfSsps\nDamage Benefits + 10% <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralysis</color></link></u>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Complete use in the next round"}, {"desc": "[OnSucceedAttackHead] Alin 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 854104, "levelList": [{"level": 1, "name": "Reducing electricity", "desc": "[WhenUse] 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u>, + Every branch + 20% loss <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u> 5 or more\n[WhenUse] Everyone's fight + + <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u>\n[WhenUse] Use your intensity", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 The use of next rotation is very beautiful"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The next row is 5-crawn"}]}]}]}, {"id": 854105, "levelList": [{"level": 1, "name": "Wall", "desc": "If this technique is in the coconut, every 50 Horse power is power. <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u>Intersection\nIf your fracture is, you will get 25 horses. <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">instead of.</color></link></u>\nEvery independent body is self-sufficient for all HP disks.", "coinlist": [{}]}]}, {"id": 854106, "levelList": [{"level": 1, "name": "Royal", "desc": "The smallest HP\n[WhenUse] 1 send yourself\n[DefeatDuel] 1 automatic government damage", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 854107, "levelList": [{"level": 1, "name": "Tail", "desc": "The smallest HP\n[WhenUse] 1 send yourself\n[DefeatDuel] 2 selfSsps", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 854201, "levelList": [{"level": 1, "name": "Do you want to drink?", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App 5 hands and +2 taltram"}]}]}]}, {"id": 854202, "levelList": [{"level": 1, "name": "Let's share cups!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Alin 2"}, {"desc": "[OnSucceedAttack] 5% HP Processing"}]}]}]}, {"id": 854203, "levelList": [{"level": 1, "name": "I have everything!", "desc": "Give me preferred <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Twitter</color></link></u>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 balconies"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Many interests of the tent"}, {"desc": "[OnSucceedAttack] Eat all that moves your intentions"}]}]}]}, {"id": 854204, "levelList": [{"level": 1, "name": "I have this!", "desc": "From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Shakti with the Union +++ \n[WhenUse] From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, Therapy + 150% loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, 0 damage.\nJehovah's angel settled in the next poem."}, {"desc": "[OnSucceedAttack] Remove everything <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Intersection"}]}]}]}, {"id": 854205, "levelList": [{"level": 1, "name": "Do you like this kind of beer?", "desc": "[WhenUse] The next package of line 3", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 854206, "levelList": [{"level": 1, "name": "Always", "desc": "[StartBattle] The next Vello -Viewer line.\n[DefeatDuel] Turn wine should arrive up to 70% HP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 balconies"}, {"desc": "[OnSucceedAttack] Dero Mir Trigger"}]}]}]}, {"id": 854301, "levelList": [{"level": 1, "name": "sweet wine", "desc": "When they killed friends, all five arguments were raised in the vomiting line for all identities.", "coinlist": [{}]}]}, {"id": 854401, "levelList": [{"level": 1, "name": "Cake", "desc": "[WhenUse] Suitable for Changed Towing", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Using an intelligent radioactive meter 2 and +2 anacular mode"}]}]}]}, {"id": 854402, "levelList": [{"level": 1, "name": "Curse", "desc": "[WhenUse] Poison <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Cake</color></link></u> Matampon", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Tears and Use + the next line of the torpasky meters 5"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Using an intelligent radioactive meter 2 and +2 anacular mode"}]}]}]}, {"id": 854403, "levelList": [{"level": 1, "name": "So no crying", "desc": "[EndBattle] Remove all groups with each\n[WhenUse] If you have 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">In the left theater</color></link></u>-1 1 paise power", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The next row is 5-crawn"}, {"desc": "[OnSucceedAttack] Apply 5 payments below"}]}]}]}, {"id": 854404, "levelList": [{"level": 1, "name": "Tatalama Tang", "desc": "[WhenUse] Remove everything <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Thai was cursed</color></link></u> The goal.\nAs long as people are cursed and crowded\n[StartBattle] All parts are stored by 3", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 854405, "levelList": [{"level": 1, "name": "Cursed", "desc": "[WhenUse] Poison <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Cake</color></link></u> Matampon", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 854501, "levelList": [{"level": 1, "name": "Ghost injury", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the target leaf is high, this five is suitable for bleeding."}, {"desc": "[OnSucceedAttack] Bleeding with 2 bleeding with 2 bleeding if your goal is flowing in blood"}, {"desc": "[OnSucceedAttack] + 4 from an Aam"}]}]}]}, {"id": 854502, "levelList": [{"level": 1, "name": "Intention", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 bleeding"}]}]}]}, {"id": 854503, "levelList": [{"level": 1, "name": "Scalp", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 bleeding"}, {"desc": "[OnSucceedAttack] If your goal is. <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u>Treatment 25 HP"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the target leaf is high, this five is suitable for bleeding."}, {"desc": "[OnSucceedAttack] If your goal is. <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u>Treatment 25 HP"}]}]}]}, {"id": 854504, "levelList": [{"level": 1, "name": "Bring in", "desc": "[StartBattle] The next typical grass screams.\n[DefeatDuel] A special alfalfa was born 50% HP.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Contract + each one is damaged 5% <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u> Matampon"}, {"desc": "[OnSucceedAttack] The cost is completely bleeding."}]}]}]}, {"id": 854505, "levelList": [{"level": 1, "name": "PE", "desc": "[StartBattle] All parts are safe.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1% HP <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u> Matampon"}, {"desc": "[OnSucceedAttack] 1 bring bleeding"}]}]}]}, {"id": 854701, "levelList": [{"level": 1, "name": "Do you want to drink?", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App 5 hands and +2 taltram"}]}]}]}, {"id": 854702, "levelList": [{"level": 1, "name": "Let's share cups!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Alin 2"}, {"desc": "[OnSucceedAttack] 5% HP Processing"}]}]}]}, {"id": 854703, "levelList": [{"level": 1, "name": "I have everything!", "desc": "Give me preferred <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Twitter</color></link></u>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 balconies"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Many interests of the tent"}, {"desc": "[OnSucceedAttack] Eat all that moves your intentions"}]}]}]}, {"id": 854704, "levelList": [{"level": 1, "name": "I have this!", "desc": "From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Shakti with the Union +++ \n[WhenUse] From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, Therapy + 150% loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, 0 damage.\nJehovah's angel settled in the next poem."}, {"desc": "[OnSucceedAttack] Remove everything <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Intersection"}]}]}]}, {"id": 854705, "levelList": [{"level": 1, "name": "Do you like this kind of beer?", "desc": "[WhenUse] The next package of line 3", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 854706, "levelList": [{"level": 1, "name": "Always", "desc": "[StartBattle] The next Vello -Viewer line.\n[DefeatDuel] Invite the boat wine up to 50% HP.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 balconies"}, {"desc": "[OnSucceedAttack] Dero Mir Trigger"}]}]}]}, {"id": 854801, "levelList": [{"level": 1, "name": "sweet wine", "desc": "When they killed friends, all five arguments were raised in the vomiting line for all identities.", "coinlist": [{}]}]}, {"id": 854901, "levelList": [{"level": 1, "name": "Size", "desc": "[CantDuel] Weight +1 Etike means that all jaws are still alive.\nLearn about your preferences <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">To take</color></link></u>Intersection", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 tear application"}, {"desc": "[OnSucceedAttack] 3 bleeding"}, {"desc": "[OnSucceedAttack] Atoms, body can treat 15 horse power"}]}]}]}, {"id": 854902, "levelList": [{"level": 1, "name": "Excavation", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 tear task"}, {"desc": "[OnSucceedAttack] +3 Fire application"}]}]}]}, {"id": 854903, "levelList": [{"level": 1, "name": "Carrot", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 tears"}, {"desc": "[OnSucceedAttack] 5 Bleeding"}]}]}]}, {"id": 854904, "levelList": [{"level": 1, "name": "Trunk", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] + 5% profit"}]}]}]}, {"id": 854905, "levelList": [{"level": 1, "name": "The floor also appears", "desc": "9100% more than 5 goals <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Storms</color></link></u>", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 854906, "levelList": [{"level": 1, "name": "The magic identification", "desc": "Filter injury to attack 0.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 855001, "levelList": [{"level": 1, "name": "Chopped", "desc": "[WhenUse] Digital +3 costs\n[DefeatDuel] Send the account two songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 Friends transactions"}]}]}]}, {"id": 855002, "levelList": [{"level": 1, "name": "Running adjustment", "desc": "[WhenUse] Digital +3 costs\n[DefeatDuel] Send the account two songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Three cracks in the application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Three cracks in the application"}]}]}]}, {"id": 855003, "levelList": [{"level": 1, "name": "Assistant", "desc": "[DefeatDuel] Send the account two songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 tears"}]}]}]}, {"id": 855004, "levelList": [{"level": 1, "name": "Room", "desc": "10 or more invoice bills, 10 times, meat pieces +5 and protocol + 100% loss\n100 lighting, HP and treatment + 80% of the loss is a 10th Marketing account.\nThis technique does not reduce HP devices from 0.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Provide a lot of computer +2"}, {"desc": "[OnSucceedAttack] Three cracks in the application"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Provide a lot of computer +2"}, {"desc": "[OnSucceedAttack] Three cracks in the application"}]}]}]}, {"id": 855005, "levelList": [{"level": 1, "name": "Made by revenge", "desc": "[WhenUse] Number of bills in profits +1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 tear application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 friends transactions"}]}]}]}, {"id": 855006, "levelList": [{"level": 1, "name": "Vomiting", "desc": "[WhenUse] If the target level, there are 10% or twice the protocols.\n[DefeatDuel] Send the account two songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The size of the application 5 dip"}]}]}]}, {"id": 855007, "levelList": [{"level": 1, "name": "Letters", "desc": "The number of measurements, like the ability to question.\nAfter the negative cycle's + 10% of each effect has been closed", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 Friends transactions"}]}]}]}, {"id": 855008, "levelList": [{"level": 1, "name": "Establishment of opportunities", "desc": "[WhenUse] If the target is the size, + 20% injury", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Three cracks in the application"}]}]}]}, {"id": 855009, "levelList": [{"level": 1, "name": "Aggressive", "desc": "[WhenUse] If you have dementia, 10% will be lost.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Three cracks in the application"}]}]}]}, {"id": 855101, "levelList": [{"level": 1, "name": "Problems", "desc": "[DefeatDuel] Send the account two songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 is applied to lock"}, {"desc": "[OnSucceedAttackHead] 3 paralyzed"}]}]}]}, {"id": 855102, "levelList": [{"level": 1, "name": "For fruit", "desc": "Complete Rice +1 of Computer Technology\n[WhenUse] +4 digital fees", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] There are three loans in the next round."}, {"desc": "[OnSucceedAttack] Apply the following rule for 3 draw"}]}]}]}, {"id": 855103, "levelList": [{"level": 1, "name": "Faster", "desc": "Each person's technical capacity + + <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Debt</color></link></u>\n[DefeatDuel] Send 3 songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Applications for 2 Time Lock"}, {"desc": "[OnSucceedAttack] Alin 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Were all + 20%. <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Debt</color></link></u>"}, {"desc": "[OnSucceedAttack] +4 digital fees"}]}]}]}, {"id": 855104, "levelList": [{"level": 1, "name": "Rebel", "desc": "[StartBattle] Number of bills in profits +1", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 855501, "levelList": [{"level": 1, "name": "6463", "desc": "+ 10% to 50 people injured <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Apply the following rule for 3 draw"}]}]}]}, {"id": 855502, "levelList": [{"level": 1, "name": "6753", "desc": "+ 10% to 50 people injured <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"}]}]}]}, {"id": 855503, "levelList": [{"level": 1, "name": "853", "desc": "5+ [Breath], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Increases 50% in the damage"}, {"desc": "[OnSucceedAttack] All + 1% have been entered. <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u> (Up to 50)"}]}]}]}, {"id": 855504, "levelList": [{"level": 1, "name": "5384", "desc": "[WhenUse] All parts get 3 [Breath] And +3 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Increase an enrollment to increase equality [Breath]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment + 20% Damage 3 [Breath] (Up to 100)"}, {"desc": "[OnSucceedAttack] Benefits 4 [Breath] In all parts"}]}]}]}, {"id": 855505, "levelList": [{"level": 1, "name": "6475384", "desc": "7+ [Breath], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5+ [Breath]50% increase in damage"}, {"desc": "[OnSucceedAttack] All parts will come 8 [Breath] And +4 [Breath] Account"}]}]}]}, {"id": 855506, "levelList": [{"level": 1, "name": "974566", "desc": "10+ [Breath], Skill power + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] All + 1% have been entered. <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u> (200% or more)"}]}]}]}, {"id": 855601, "levelList": [{"level": 1, "name": "An infinite garden", "desc": "[CantDuel]\n[WhenUse] Put the forks in coronary arteries and remove all results.\nIf the nucleus is less than 40% HP, rose with pink power.", "coinlist": [{}]}]}, {"id": 855602, "levelList": [{"level": 1, "name": "To prevent", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 grams and 2 grams burning and transactions"}, {"desc": "[OnSucceedAttack] The next line is applied for paralysis"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 grams and 2 grams burning and transactions"}, {"desc": "[OnSucceedAttack] The next line is applied for paralysis"}]}]}]}, {"id": 855603, "levelList": [{"level": 1, "name": "Prison", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Alin 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Bleeding and 3 Startups"}, {"desc": "[OnSucceedAttack] For treatment of roses, use at least HP ratio."}]}]}]}, {"id": 855604, "levelList": [{"level": 1, "name": "An unlimited flower", "desc": "There is no priority in the crown", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 can be found in the next line of paralysis and 1 draw 1"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Breaking"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Healing nuclear 30 Horse Power"}]}]}]}, {"id": 855605, "levelList": [{"level": 1, "name": "Part of the wall", "desc": "Every pink +2 server power\nIf you don't read too much roses, it is easier to break the trust 2.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Healing nuclear 30 Horse Power"}]}]}]}, {"id": 855606, "levelList": [{"level": 1, "name": "Infinite", "desc": "[StartBattle] The crowds after each of the after-power supply was applied\nWhen he was attacked, the person was attacked by attacking him, which was attacked.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 855607, "levelList": [{"level": 1, "name": "Here with you", "desc": "[StartBattle] Accused registered in all cycle 1 of 1\nWhen he was attacked, the person was attacked by attacking him, which was attacked.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 856401, "levelList": [{"level": 1, "name": "The fury", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] No. 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] No. 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] No. 2"}]}]}]}, {"id": 856402, "levelList": [{"level": 1, "name": "Just", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Bake Number +2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Bake Number +2"}]}]}]}, {"id": 856501, "levelList": [{"level": 1, "name": "Desire is coming", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}, {"desc": "[OnSucceedAttack] Prague has lost less user due to 50% loss."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}, {"desc": "[OnSucceedAttack] Prague has lost less user due to 50% loss."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}, {"desc": "[OnSucceedAttack] Prague has lost less user due to 50% loss."}]}]}]}, {"id": 856502, "levelList": [{"level": 1, "name": "best wishes", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 digital readiall application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +2 digital readiall application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +2 digital readiall application"}]}]}]}, {"id": 856601, "levelList": [{"level": 1, "name": "Stomach", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 8 burning shower"}]}]}]}, {"id": 856602, "levelList": [{"level": 1, "name": "Stubborn", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 tram account"}, {"desc": "[OnSucceedAttackHead] Dero Mir Trigger"}]}]}]}, {"id": 856603, "levelList": [{"level": 1, "name": "Lazy", "desc": "When the attack is saved and concerns", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 856701, "levelList": [{"level": 1, "name": "Is bad", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 tears"}]}]}]}, {"id": 856702, "levelList": [{"level": 1, "name": "Spirit", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +4 feet"}]}]}]}, {"id": 856703, "levelList": [{"level": 1, "name": "Is dangerous", "desc": "[WhenUse] Target should stop HP + 50%", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 25% of the treatment of damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 25% of the treatment of damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 25% of the treatment of damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 25% of the treatment of damage"}]}]}]}, {"id": 856801, "levelList": [{"level": 1, "name": "Effects", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 6 sinks"}]}]}]}, {"id": 856802, "levelList": [{"level": 1, "name": "Dark", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}]}]}]}, {"id": 856803, "levelList": [{"level": 1, "name": "Chest", "desc": "If you attack during safety, you are a computer +1 tonnes of +1 tonnes and attack.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 856901, "levelList": [{"level": 1, "name": "Josi is arrogant", "desc": "[WhenUse] Send a request to all friends in 3 poi", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 856902, "levelList": [{"level": 1, "name": "Straight", "desc": "[WhenUse] The number of balance of all employees is +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}]}]}]}, {"id": 856903, "levelList": [{"level": 1, "name": "Arrogant", "desc": "Level 5, Power Call +3", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 857001, "levelList": [{"level": 1, "name": "Jealousy", "desc": "[WhenUse] Digital +3 costs\n[DefeatDuel] Send 3 songs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}]}]}, {"id": 857002, "levelList": [{"level": 1, "name": "Jealousy", "desc": "[WhenUse] 10 price +4 electrical currency", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 856001, "levelList": [{"level": 1, "name": "Philosophy", "desc": "If the dimens are balanced, + 10% loss", "coinlist": [{}]}]}, {"id": 856101, "levelList": [{"level": 1, "name": "Philosophy", "desc": "If this size is balanced, maximum HP + 20%", "coinlist": [{}]}]}, {"id": 856201, "levelList": [{"level": 1, "name": "Philosophy", "desc": "If this size remains, there will be speed.", "coinlist": [{}]}]}, {"id": 856301, "levelList": [{"level": 1, "name": "Philosophy", "desc": "If this size is broken, Manggi +1", "coinlist": [{}]}]}, {"id": 854406, "levelList": [{"level": 1, "name": "So no crying", "desc": "[EndBattle] Remove all groups with each\n[WhenUse] If you have 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">In the left theater</color></link></u>-1 1 paise power", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 tears in the second round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The next row is 5-crawn"}, {"desc": "[OnSucceedAttack] Apply 5 payments below"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 853901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Glu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drinkage",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +2 tons"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To consider",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 tear task"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Twitter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 tear application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Friends transactions"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm screaming",
+          "desc": "Clash Power +2, every time I read the old umbrella\nThe umbrella of each of the old processing of harm + 25%\nAt the end of the way, the validity of the old umbrellas have also ended.\nAt the end of the street <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Umbrella</color></link></u> The same number <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Umbrella</color></link></u> Buy in the first step",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 was used to quench"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wait",
+          "desc": "[StartBattle] All enemies lose 20sps",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Naval",
+          "desc": "[StartBattle] to get <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Tingling</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Transportation",
+          "desc": "[StartBattle] to get <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Tingling</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 853909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "She screamed",
+          "desc": "Clash Power +2, every time I read the old umbrella\nEach old processing of the nuclear + 25%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Displeasure",
+          "desc": "[EndSkill] All enemies and numbers of the app +3 are +3 tons.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electrical weight",
+          "desc": "[StartBattle] Benefits 2\n[DefeatDuel] 2 selfSsps\nDamage Benefits + 10% <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralysis</color></link></u>",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electricity",
+          "desc": "[StartBattle] Benefits 2\n[DefeatDuel] 2 selfSsps\nDamage Benefits + 10% <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralysis</color></link></u>",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Free",
+          "desc": "[StartBattle] Benefits 2\n[DefeatDuel] 2 selfSsps\nDamage Benefits + 10% <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralysis</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Complete use in the next round"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Alin 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reducing electricity",
+          "desc": "[WhenUse] 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u>, + Every branch + 20% loss <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u> 5 or more\n[WhenUse] Everyone's fight + + <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u>\n[WhenUse] Use your intensity",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 The use of next rotation is very beautiful"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next row is 5-crawn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wall",
+          "desc": "If this technique is in the coconut, every 50 Horse power is power. <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">For faith</color></link></u>Intersection\nIf your fracture is, you will get 25 horses. <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">instead of.</color></link></u>\nEvery independent body is self-sufficient for all HP disks.",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 854106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Royal",
+          "desc": "The smallest HP\n[WhenUse] 1 send yourself\n[DefeatDuel] 1 automatic government damage",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tail",
+          "desc": "The smallest HP\n[WhenUse] 1 send yourself\n[DefeatDuel] 2 selfSsps",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do you want to drink?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App 5 hands and +2 taltram"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's share cups!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }, {
+                  "desc": "[OnSucceedAttack] 5% HP Processing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I have everything!",
+          "desc": "Give me preferred <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Twitter</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 balconies"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Many interests of the tent"
+                }, {
+                  "desc": "[OnSucceedAttack] Eat all that moves your intentions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I have this!",
+          "desc": "From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Shakti with the Union +++ \n[WhenUse] From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, Therapy + 150% loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, 0 damage.\nJehovah's angel settled in the next poem."
+                }, {
+                  "desc": "[OnSucceedAttack] Remove everything <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Intersection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do you like this kind of beer?",
+          "desc": "[WhenUse] The next package of line 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Always",
+          "desc": "[StartBattle] The next Vello -Viewer line.\n[DefeatDuel] Turn wine should arrive up to 70% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 balconies"
+                }, {
+                  "desc": "[OnSucceedAttack] Dero Mir Trigger"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "sweet wine",
+          "desc": "When they killed friends, all five arguments were raised in the vomiting line for all identities.",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 854401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cake",
+          "desc": "[WhenUse] Suitable for Changed Towing",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Using an intelligent radioactive meter 2 and +2 anacular mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Curse",
+          "desc": "[WhenUse] Poison <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Cake</color></link></u> Matampon",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tears and Use + the next line of the torpasky meters 5"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Using an intelligent radioactive meter 2 and +2 anacular mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So no crying",
+          "desc": "[EndBattle] Remove all groups with each\n[WhenUse] If you have 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">In the left theater</color></link></u>-1 1 paise power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next row is 5-crawn"
+                }, {
+                  "desc": "[OnSucceedAttack] Apply 5 payments below"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tatalama Tang",
+          "desc": "[WhenUse] Remove everything <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Thai was cursed</color></link></u> The goal.\nAs long as people are cursed and crowded\n[StartBattle] All parts are stored by 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursed",
+          "desc": "[WhenUse] Poison <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Cake</color></link></u> Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ghost injury",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target leaf is high, this five is suitable for bleeding."
+                }, {
+                  "desc": "[OnSucceedAttack] Bleeding with 2 bleeding with 2 bleeding if your goal is flowing in blood"
+                }, {
+                  "desc": "[OnSucceedAttack] + 4 from an Aam"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Intention",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scalp",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u>Treatment 25 HP"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target leaf is high, this five is suitable for bleeding."
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u>Treatment 25 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bring in",
+          "desc": "[StartBattle] The next typical grass screams.\n[DefeatDuel] A special alfalfa was born 50% HP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Contract + each one is damaged 5% <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u> Matampon"
+                }, {
+                  "desc": "[OnSucceedAttack] The cost is completely bleeding."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "PE",
+          "desc": "[StartBattle] All parts are safe.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1% HP <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u> Matampon"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 bring bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do you want to drink?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App 5 hands and +2 taltram"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's share cups!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }, {
+                  "desc": "[OnSucceedAttack] 5% HP Processing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I have everything!",
+          "desc": "Give me preferred <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Twitter</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 balconies"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Many interests of the tent"
+                }, {
+                  "desc": "[OnSucceedAttack] Eat all that moves your intentions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I have this!",
+          "desc": "From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Shakti with the Union +++ \n[WhenUse] From <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, Therapy + 150% loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>, 0 damage.\nJehovah's angel settled in the next poem."
+                }, {
+                  "desc": "[OnSucceedAttack] Remove everything <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">-Fatzacke</color></link></u>Intersection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do you like this kind of beer?",
+          "desc": "[WhenUse] The next package of line 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Always",
+          "desc": "[StartBattle] The next Vello -Viewer line.\n[DefeatDuel] Invite the boat wine up to 50% HP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 balconies"
+                }, {
+                  "desc": "[OnSucceedAttack] Dero Mir Trigger"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "sweet wine",
+          "desc": "When they killed friends, all five arguments were raised in the vomiting line for all identities.",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 854901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Size",
+          "desc": "[CantDuel] Weight +1 Etike means that all jaws are still alive.\nLearn about your preferences <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">To take</color></link></u>Intersection",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 tear application"
+                }, {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] Atoms, body can treat 15 horse power"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Excavation",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 tear task"
+                }, {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Carrot",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 tears"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 Bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trunk",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] + 5% profit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The floor also appears",
+          "desc": "9100% more than 5 goals <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Storms</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 854906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The magic identification",
+          "desc": "Filter injury to attack 0.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chopped",
+          "desc": "[WhenUse] Digital +3 costs\n[DefeatDuel] Send the account two songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Running adjustment",
+          "desc": "[WhenUse] Digital +3 costs\n[DefeatDuel] Send the account two songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Three cracks in the application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Three cracks in the application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assistant",
+          "desc": "[DefeatDuel] Send the account two songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 tears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Room",
+          "desc": "10 or more invoice bills, 10 times, meat pieces +5 and protocol + 100% loss\n100 lighting, HP and treatment + 80% of the loss is a 10th Marketing account.\nThis technique does not reduce HP devices from 0.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provide a lot of computer +2"
+                }, {
+                  "desc": "[OnSucceedAttack] Three cracks in the application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provide a lot of computer +2"
+                }, {
+                  "desc": "[OnSucceedAttack] Three cracks in the application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Made by revenge",
+          "desc": "[WhenUse] Number of bills in profits +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 tear application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vomiting",
+          "desc": "[WhenUse] If the target level, there are 10% or twice the protocols.\n[DefeatDuel] Send the account two songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The size of the application 5 dip"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Letters",
+          "desc": "The number of measurements, like the ability to question.\nAfter the negative cycle's + 10% of each effect has been closed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Establishment of opportunities",
+          "desc": "[WhenUse] If the target is the size, + 20% injury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Three cracks in the application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aggressive",
+          "desc": "[WhenUse] If you have dementia, 10% will be lost.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Three cracks in the application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Problems",
+          "desc": "[DefeatDuel] Send the account two songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 is applied to lock"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 3 paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "For fruit",
+          "desc": "Complete Rice +1 of Computer Technology\n[WhenUse] +4 digital fees",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] There are three loans in the next round."
+                }, {
+                  "desc": "[OnSucceedAttack] Apply the following rule for 3 draw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Faster",
+          "desc": "Each person's technical capacity + + <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Debt</color></link></u>\n[DefeatDuel] Send 3 songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Applications for 2 Time Lock"
+                }, {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Were all + 20%. <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Debt</color></link></u>"
+                }, {
+                  "desc": "[OnSucceedAttack] +4 digital fees"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rebel",
+          "desc": "[StartBattle] Number of bills in profits +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6463",
+          "desc": "+ 10% to 50 people injured <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply the following rule for 3 draw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6753",
+          "desc": "+ 10% to 50 people injured <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "853",
+          "desc": "5+ [Breath], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increases 50% in the damage"
+                }, {
+                  "desc": "[OnSucceedAttack] All + 1% have been entered. <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u> (Up to 50)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5384",
+          "desc": "[WhenUse] All parts get 3 [Breath] And +3 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increase an enrollment to increase equality [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment + 20% Damage 3 [Breath] (Up to 100)"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 4 [Breath] In all parts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6475384",
+          "desc": "7+ [Breath], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5+ [Breath]50% increase in damage"
+                }, {
+                  "desc": "[OnSucceedAttack] All parts will come 8 [Breath] And +4 [Breath] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "974566",
+          "desc": "10+ [Breath], Skill power + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] All + 1% have been entered. <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Deva</color></link></u> (200% or more)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "An infinite garden",
+          "desc": "[CantDuel]\n[WhenUse] Put the forks in coronary arteries and remove all results.\nIf the nucleus is less than 40% HP, rose with pink power.",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 855602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To prevent",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 grams and 2 grams burning and transactions"
+                }, {
+                  "desc": "[OnSucceedAttack] The next line is applied for paralysis"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 grams and 2 grams burning and transactions"
+                }, {
+                  "desc": "[OnSucceedAttack] The next line is applied for paralysis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prison",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Bleeding and 3 Startups"
+                }, {
+                  "desc": "[OnSucceedAttack] For treatment of roses, use at least HP ratio."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "An unlimited flower",
+          "desc": "There is no priority in the crown",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 can be found in the next line of paralysis and 1 draw 1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Breaking"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Healing nuclear 30 Horse Power"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Part of the wall",
+          "desc": "Every pink +2 server power\nIf you don't read too much roses, it is easier to break the trust 2.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Healing nuclear 30 Horse Power"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Infinite",
+          "desc": "[StartBattle] The crowds after each of the after-power supply was applied\nWhen he was attacked, the person was attacked by attacking him, which was attacked.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 855607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Here with you",
+          "desc": "[StartBattle] Accused registered in all cycle 1 of 1\nWhen he was attacked, the person was attacked by attacking him, which was attacked.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The fury",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] No. 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] No. 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] No. 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Just",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Bake Number +2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Bake Number +2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desire is coming",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }, {
+                  "desc": "[OnSucceedAttack] Prague has lost less user due to 50% loss."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }, {
+                  "desc": "[OnSucceedAttack] Prague has lost less user due to 50% loss."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }, {
+                  "desc": "[OnSucceedAttack] Prague has lost less user due to 50% loss."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "best wishes",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 digital readiall application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 digital readiall application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 digital readiall application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stomach",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 burning shower"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stubborn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 tram account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Dero Mir Trigger"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lazy",
+          "desc": "When the attack is saved and concerns",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is bad",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 tears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +4 feet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is dangerous",
+          "desc": "[WhenUse] Target should stop HP + 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 25% of the treatment of damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 25% of the treatment of damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 25% of the treatment of damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 25% of the treatment of damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effects",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dark",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chest",
+          "desc": "If you attack during safety, you are a computer +1 tonnes of +1 tonnes and attack.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Josi is arrogant",
+          "desc": "[WhenUse] Send a request to all friends in 3 poi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Straight",
+          "desc": "[WhenUse] The number of balance of all employees is +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arrogant",
+          "desc": "Level 5, Power Call +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 857001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jealousy",
+          "desc": "[WhenUse] Digital +3 costs\n[DefeatDuel] Send 3 songs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 857002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jealousy",
+          "desc": "[WhenUse] 10 price +4 electrical currency",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 856001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Philosophy",
+          "desc": "If the dimens are balanced, + 10% loss",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 856101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Philosophy",
+          "desc": "If this size is balanced, maximum HP + 20%",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 856201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Philosophy",
+          "desc": "If this size remains, there will be speed.",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 856301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Philosophy",
+          "desc": "If this size is broken, Manggi +1",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 854406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So no crying",
+          "desc": "[EndBattle] Remove all groups with each\n[WhenUse] If you have 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">In the left theater</color></link></u>-1 1 paise power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 tears in the second round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next row is 5-crawn"
+                }, {
+                  "desc": "[OnSucceedAttack] Apply 5 payments below"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

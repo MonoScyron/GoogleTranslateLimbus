@@ -1,1 +1,56 @@
-{"dataList": [{"id": "EGO_GIFT", "content": "For example, to arrive"}, {"id": "OnStageStart", "content": "At the entrance of the theater"}, {"id": "IncludeSkillAttribute", "content": "And and [ATTRIBUTES] Buddy"}, {"id": "NotIncludeSkillAttribute", "content": "Except [ATTRIBUTES] Buddy"}, {"id": "NextBattle", "content": "Take part in the next battle"}, {"id": "LowestMp", "content": "The least S."}, {"id": "FAILURE", "content": "The state of unconscious"}, {"id": "SUCCESS", "content": "Check"}, {"id": "ADD", "content": "Add to"}, {"id": "SUB", "content": "Fool"}, {"id": "85560101CRIMSON", "content": "Generously"}, {"id": "85560101SCARLET", "content": "Carmage"}, {"id": "85560101AMBER", "content": "Nine"}, {"id": "85560101SHAMROCK", "content": "Marsmo rock"}, {"id": "85560101AZURE", "content": "Azolan"}, {"id": "85560101INDIGO", "content": "Indygo?"}, {"id": "85560101VIOLET", "content": "Pure"}]}
+{
+  "dataList": [
+    {
+      "id": "EGO_GIFT",
+      "content": "For example, to arrive"
+    }, {
+      "id": "OnStageStart",
+      "content": "At the entrance of the theater"
+    }, {
+      "id": "IncludeSkillAttribute",
+      "content": "And and [ATTRIBUTES] Buddy"
+    }, {
+      "id": "NotIncludeSkillAttribute",
+      "content": "Except [ATTRIBUTES] Buddy"
+    }, {
+      "id": "NextBattle",
+      "content": "Take part in the next battle"
+    }, {
+      "id": "LowestMp",
+      "content": "The least S."
+    }, {
+      "id": "FAILURE",
+      "content": "The state of unconscious"
+    }, {
+      "id": "SUCCESS",
+      "content": "Check"
+    }, {
+      "id": "ADD",
+      "content": "Add to"
+    }, {
+      "id": "SUB",
+      "content": "Fool"
+    }, {
+      "id": "85560101CRIMSON",
+      "content": "Generously"
+    }, {
+      "id": "85560101SCARLET",
+      "content": "Carmage"
+    }, {
+      "id": "85560101AMBER",
+      "content": "Nine"
+    }, {
+      "id": "85560101SHAMROCK",
+      "content": "Marsmo rock"
+    }, {
+      "id": "85560101AZURE",
+      "content": "Azolan"
+    }, {
+      "id": "85560101INDIGO",
+      "content": "Indygo?"
+    }, {
+      "id": "85560101VIOLET",
+      "content": "Pure"
+    }
+  ]
+}

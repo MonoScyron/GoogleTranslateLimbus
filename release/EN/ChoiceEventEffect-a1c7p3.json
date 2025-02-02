@@ -1,1 +1,23 @@
-{"dataList": [{"id": "LoseRatioHpOnly", "content": "<color=#ebcaa2>{conditions}{targets}</color> I need it <color=#e30000>{amount}Percentage</color> <color=#ebcaa2>Epidemic!</color>"}, {"id": "Choice_901070401", "content": "to get <color=#f8c200>Source like 2 whara</color>\nto get <color=#f8c200>I'm proud of 2 resources</color>"}, {"id": "Choice_901070402", "content": "to get <color=#f8c200>2 Desire</color>\nto get <color=#f8c200>Photo writer</color>"}, {"id": "Choice_901070403", "content": "to get <color=#f8c200>2 is the source of sadness</color>\nto get <color=#f8c200>2 jealousy</color>"}, {"id": "Choice_901070404", "content": "All sinners came <color=#e30000>+4</color> When the battle begins"}, {"id": "Choice_901070405", "content": "All sinners came <color=#e30000>4 facility and number +4 feet</color> When the battle begins"}]}
+{
+  "dataList": [
+    {
+      "id": "LoseRatioHpOnly",
+      "content": "<color=#ebcaa2>{conditions}{targets}</color> I need it <color=#e30000>{amount}Percentage</color> <color=#ebcaa2>Epidemic!</color>"
+    }, {
+      "id": "Choice_901070401",
+      "content": "to get <color=#f8c200>Source like 2 whara</color>\nto get <color=#f8c200>I'm proud of 2 resources</color>"
+    }, {
+      "id": "Choice_901070402",
+      "content": "to get <color=#f8c200>2 Desire</color>\nto get <color=#f8c200>Photo writer</color>"
+    }, {
+      "id": "Choice_901070403",
+      "content": "to get <color=#f8c200>2 is the source of sadness</color>\nto get <color=#f8c200>2 jealousy</color>"
+    }, {
+      "id": "Choice_901070404",
+      "content": "All sinners came <color=#e30000>+4</color> When the battle begins"
+    }, {
+      "id": "Choice_901070405",
+      "content": "All sinners came <color=#e30000>4 facility and number +4 feet</color> When the battle begins"
+    }
+  ]
+}

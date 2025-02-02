@@ -1,1 +1,122 @@
-{"dataList": [{"id": 2027, "name": "Black book", "desc": "First: Get the source of random counting.\n\nFor example, if the meeting is four or more deeds.", "simpleDesc": [{"abilityID": 2027, "simpleDesc": "Get a resource"}, {"abilityID": 20271, "simpleDesc": "At least source"}]}, {"id": 2028, "name": "Popular War", "desc": "Initial Rotation: A mile for all friends.\n\nUnlike the Corolocomo Sword, there is a hypocrisy in your knowledge.", "simpleDesc": [{"abilityID": 2028, "simpleDesc": "Do not beat with shocks"}, {"abilityID": 20281, "simpleDesc": "Awakening Be awake"}]}, {"id": 2029, "name": "break down", "desc": "In this meeting: At the time of applying [Laceration] Is an extra attack for the first time [Laceration] Number.\n\nKorocco Ident Enemy 4 When 4 [Laceration] Cut and + + + + [Laceration] Instead to count.", "simpleDesc": [{"abilityID": 2029, "simpleDesc": "2 Add [Laceration] Account"}, {"abilityID": 20291, "simpleDesc": "Additional Applications 4 4 [Laceration] Cut and + + + + [Laceration] Account"}]}, {"id": 2030, "name": "Broken sword", "desc": "If the enemy's friend is seriously killed, celebrate it.[Breath] Puglos / 3) He was proudly.\n\nIf the enemy is under a serious impact, it will reach the sword ([Breath] PIN / 2) arrogant.", "simpleDesc": [{"abilityID": 2030, "simpleDesc": "Additional Agreement ([Breath] Puglos / 3) He was proudly."}, {"abilityID": 20301, "simpleDesc": "Additional Agreement ([Breath] Photo / 2) He was proudly disappeared."}]}, {"id": 2031, "name": "Red", "desc": "If the goal is less than 1.5, Shinde +0.3 Redsantork.", "simpleDesc": [{"abilityID": 2031, "simpleDesc": "Hair loss +0.3"}]}, {"id": 2032, "name": "High-page", "desc": "Start: If the Coreocomo family is more than three identity, it will remain active.\n\nStarting the walking: diagonal, hair loss + 35% loss.\n\nInitially: If the Chlocoko tribe is first detected first, add 4. [Laceration] Cut and + + + + [Laceration] Number.", "simpleDesc": [{"abilityID": 2032, "simpleDesc": "Get energy of 2 + 35% and harm hair loss"}, {"abilityID": 20321, "simpleDesc": "Additional Applications 4 4 [Laceration] Cut and + + + + [Laceration] Account"}]}, {"id": 2033, "name": "Vvodisippi", "desc": "The section begins: If the password for a knife is three or more password, it runs.\n\nStarting the walking: diagonal, hair loss + 35% loss.\n\nStarting around: If the sword is a serious effect on the identity of the sword, I am proud of the extra loss. [Breath] The upper strength.", "simpleDesc": [{"abilityID": 2033, "simpleDesc": "Get energy of 2 + 35% and harm hair loss"}, {"abilityID": 20331, "simpleDesc": "Do not harm other damage to drugs [Breath] Flexible"}]}, {"id": 2034, "name": "Problems with the bamboo cap", "desc": "The section begins: If the password for a knife is three or more password, it runs.\n\nAll friends + hair loss is 50% more.\n\nThe place with all the federal governments [Breath] 100% obvious force.", "simpleDesc": [{"abilityID": 2034, "simpleDesc": "50% of the treatment + hair loss"}, {"abilityID": 20341, "simpleDesc": "100% of difficult speed"}]}, {"id": 2035, "name": "Old bub product", "desc": "The section begins: If the password for a knife is three or more password, it runs.\n\nAll friends + hair loss is 50% more.\n\nClass Code Decision: Technology 1 Force + 1 Development Technology 1 Connection Winner +3.\n\n[Blade Lineage Mentor Meursault Only] War-12;", "simpleDesc": [{"abilityID": 2035, "simpleDesc": "50% of the treatment + hair loss"}, {"abilityID": 20351, "simpleDesc": "1 Electric Money Technology"}, {"abilityID": 20352, "simpleDesc": "The finals of the final bone flow was 50% of 50%."}]}]}
+{
+  "dataList": [
+    {
+      "id": 2027,
+      "name": "Black book",
+      "desc": "First: Get the source of random counting.\n\nFor example, if the meeting is four or more deeds.",
+      "simpleDesc": [
+        {
+          "abilityID": 2027,
+          "simpleDesc": "Get a resource"
+        }, {
+          "abilityID": 20271,
+          "simpleDesc": "At least source"
+        }
+      ]
+    }, {
+      "id": 2028,
+      "name": "Popular War",
+      "desc": "Initial Rotation: A mile for all friends.\n\nUnlike the Corolocomo Sword, there is a hypocrisy in your knowledge.",
+      "simpleDesc": [
+        {
+          "abilityID": 2028,
+          "simpleDesc": "Do not beat with shocks"
+        }, {
+          "abilityID": 20281,
+          "simpleDesc": "Awakening Be awake"
+        }
+      ]
+    }, {
+      "id": 2029,
+      "name": "break down",
+      "desc": "In this meeting: At the time of applying [Laceration] Is an extra attack for the first time [Laceration] Number.\n\nKorocco Ident Enemy 4 When 4 [Laceration] Cut and + + + + [Laceration] Instead to count.",
+      "simpleDesc": [
+        {
+          "abilityID": 2029,
+          "simpleDesc": "2 Add [Laceration] Account"
+        }, {
+          "abilityID": 20291,
+          "simpleDesc": "Additional Applications 4 4 [Laceration] Cut and + + + + [Laceration] Account"
+        }
+      ]
+    }, {
+      "id": 2030,
+      "name": "Broken sword",
+      "desc": "If the enemy's friend is seriously killed, celebrate it.[Breath] Puglos / 3) He was proudly.\n\nIf the enemy is under a serious impact, it will reach the sword ([Breath] PIN / 2) arrogant.",
+      "simpleDesc": [
+        {
+          "abilityID": 2030,
+          "simpleDesc": "Additional Agreement ([Breath] Puglos / 3) He was proudly."
+        }, {
+          "abilityID": 20301,
+          "simpleDesc": "Additional Agreement ([Breath] Photo / 2) He was proudly disappeared."
+        }
+      ]
+    }, {
+      "id": 2031,
+      "name": "Red",
+      "desc": "If the goal is less than 1.5, Shinde +0.3 Redsantork.",
+      "simpleDesc": [
+        {
+          "abilityID": 2031,
+          "simpleDesc": "Hair loss +0.3"
+        }
+      ]
+    }, {
+      "id": 2032,
+      "name": "High-page",
+      "desc": "Start: If the Coreocomo family is more than three identity, it will remain active.\n\nStarting the walking: diagonal, hair loss + 35% loss.\n\nInitially: If the Chlocoko tribe is first detected first, add 4. [Laceration] Cut and + + + + [Laceration] Number.",
+      "simpleDesc": [
+        {
+          "abilityID": 2032,
+          "simpleDesc": "Get energy of 2 + 35% and harm hair loss"
+        }, {
+          "abilityID": 20321,
+          "simpleDesc": "Additional Applications 4 4 [Laceration] Cut and + + + + [Laceration] Account"
+        }
+      ]
+    }, {
+      "id": 2033,
+      "name": "Vvodisippi",
+      "desc": "The section begins: If the password for a knife is three or more password, it runs.\n\nStarting the walking: diagonal, hair loss + 35% loss.\n\nStarting around: If the sword is a serious effect on the identity of the sword, I am proud of the extra loss. [Breath] The upper strength.",
+      "simpleDesc": [
+        {
+          "abilityID": 2033,
+          "simpleDesc": "Get energy of 2 + 35% and harm hair loss"
+        }, {
+          "abilityID": 20331,
+          "simpleDesc": "Do not harm other damage to drugs [Breath] Flexible"
+        }
+      ]
+    }, {
+      "id": 2034,
+      "name": "Problems with the bamboo cap",
+      "desc": "The section begins: If the password for a knife is three or more password, it runs.\n\nAll friends + hair loss is 50% more.\n\nThe place with all the federal governments [Breath] 100% obvious force.",
+      "simpleDesc": [
+        {
+          "abilityID": 2034,
+          "simpleDesc": "50% of the treatment + hair loss"
+        }, {
+          "abilityID": 20341,
+          "simpleDesc": "100% of difficult speed"
+        }
+      ]
+    }, {
+      "id": 2035,
+      "name": "Old bub product",
+      "desc": "The section begins: If the password for a knife is three or more password, it runs.\n\nAll friends + hair loss is 50% more.\n\nClass Code Decision: Technology 1 Force + 1 Development Technology 1 Connection Winner +3.\n\n[Blade Lineage Mentor Meursault Only] War-12;",
+      "simpleDesc": [
+        {
+          "abilityID": 2035,
+          "simpleDesc": "50% of the treatment + hair loss"
+        }, {
+          "abilityID": 20351,
+          "simpleDesc": "1 Electric Money Technology"
+        }, {
+          "abilityID": 20352,
+          "simpleDesc": "The finals of the final bone flow was 50% of 50%."
+        }
+      ]
+    }
+  ]
+}

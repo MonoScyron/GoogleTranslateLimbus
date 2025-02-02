@@ -1,1 +1,20 @@
-{"dataList": [{"id": "event_judgement_above", "content": "<color=#f8c200>Dominance</color>"}, {"id": "event_judgement_below", "content": "<color=#e30000>First</color>"}, {"id": "event_select_personality_to_proceed_judgement", "content": "Choose the following definition:"}, {"id": "event_expected_success_rate_format", "content": "Quality of Warehouse: {0}"}, {"id": "all_attribute", "content": "All relationships"}]}
+{
+  "dataList": [
+    {
+      "id": "event_judgement_above",
+      "content": "<color=#f8c200>Dominance</color>"
+    }, {
+      "id": "event_judgement_below",
+      "content": "<color=#e30000>First</color>"
+    }, {
+      "id": "event_select_personality_to_proceed_judgement",
+      "content": "Choose the following definition:"
+    }, {
+      "id": "event_expected_success_rate_format",
+      "content": "Quality of Warehouse: {0}"
+    }, {
+      "id": "all_attribute",
+      "content": "All relationships"
+    }
+  ]
+}

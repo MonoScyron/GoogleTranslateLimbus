@@ -1,1 +1,11 @@
-{"dataList": [{"id": "AaCePaBa", "name": "Flexible", "desc": "Actually 0 l.25 SP.", "summary": "There are 3 foods in small food products in Florida", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "AaCePaBa",
+      "name": "Flexible",
+      "desc": "Actually 0 l.25 SP.",
+      "summary": "There are 3 foods in small food products in Florida",
+      "undefined": "-"
+    }
+  ]
+}

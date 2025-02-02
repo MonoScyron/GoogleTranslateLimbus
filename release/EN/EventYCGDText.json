@@ -1,1 +1,53 @@
-{"dataList": [{"id": "ycgd_stagebutton_not_clear", "content": "5.5-12 Cleaning"}, {"id": "ycgd_stagebutton_normal", "content": "Steps"}, {"id": "ycgd_stagebutton_end_event", "content": "The program has been closed"}, {"id": "ycgd_storybutton_before_start", "content": "<size=75%>1 View History</size>"}, {"id": "ycgd_storybutton_normal", "content": "For theater."}, {"id": "ycgd_rewardShopButton", "content": "Stock market"}, {"id": "ycgd_scrap_guide_title", "content": "A guide to call an event"}, {"id": "ycgd_scrap_guide_desc", "content": "Nair, you can get <color=#1998fe>[Resentful Scabbard]</color> Events step, the main history of the mirror is determined.\n\n<color=#1998fe>[Resentful Scabbard]</color> 20 entry <color=#008d0d>[Bloodied Scabbard]</color>Intersection"}, {"id": "ycgd_rewardpage_desc", "content": "You can make money during the party <color=#1998fe>[Bloodied Scabbard]</color> Caused by cleaning and dancer. <color=#1998fe>[Bloodied Scabbard]</color> First, clean the main character in the dark or clean mirror.\n\nNair, you can get <color=#7fc6ff>[Resentful Scabbard]</color> Clean the mirror, the main story or event of the event.\nAnd and <color=#7fc6ff>[Resentful Scabbard]</color> Automatic exchange for 20 <color=#1998fe>[Bloodied Scabbard]</color> After the purchase.\n\nCalculation <color=#1998fe>[Reward Exchange]</color> You can buy windows and other awards <color=#1998fe>[Bloodied Scabbard]</color> I have collected."}, {"id": "ycgd_reward_popup_desc", "content": "Win <color=#1998fe>[Bloodied Scabbard]</color> According to the following method:\nStage program, Dengnes cleaners, mirror cleansing,\nThe first main story is stage and detergent.\n\nCalculation <color=#1998fe>[Reward Exchange]</color> You can buy windows and other prices\nUser <color=#1998fe>[Bloodied Scabbard]</color> I have collected."}, {"id": "ycgd_reward_popup_num_of_owned_items", "content": "Class"}, {"id": "ycgd_bonusUI_Title", "content": "to get"}, {"id": "ycgd_bonusUI_Title_contain_false", "content": "Not everything"}, {"id": "ycgd_bonusUI_Desc", "content": "During the plan period, the team is next recognition as a program.\nCollect money <color=#1998fe>[Bloodied Scabbard]</color> Profit\nYou can get the maximum value <color=#1998fe>120%</color> The number of programs received has increased."}, {"id": "ycgd_bonus_popup_title", "content": "The Gift Logo"}, {"id": "ycgd_bonus_preview", "content": "The Gift Logo"}]}
+{
+  "dataList": [
+    {
+      "id": "ycgd_stagebutton_not_clear",
+      "content": "5.5-12 Cleaning"
+    }, {
+      "id": "ycgd_stagebutton_normal",
+      "content": "Steps"
+    }, {
+      "id": "ycgd_stagebutton_end_event",
+      "content": "The program has been closed"
+    }, {
+      "id": "ycgd_storybutton_before_start",
+      "content": "<size=75%>1 View History</size>"
+    }, {
+      "id": "ycgd_storybutton_normal",
+      "content": "For theater."
+    }, {
+      "id": "ycgd_rewardShopButton",
+      "content": "Stock market"
+    }, {
+      "id": "ycgd_scrap_guide_title",
+      "content": "A guide to call an event"
+    }, {
+      "id": "ycgd_scrap_guide_desc",
+      "content": "Nair, you can get <color=#1998fe>[Resentful Scabbard]</color> Events step, the main history of the mirror is determined.\n\n<color=#1998fe>[Resentful Scabbard]</color> 20 entry <color=#008d0d>[Bloodied Scabbard]</color>Intersection"
+    }, {
+      "id": "ycgd_rewardpage_desc",
+      "content": "You can make money during the party <color=#1998fe>[Bloodied Scabbard]</color> Caused by cleaning and dancer. <color=#1998fe>[Bloodied Scabbard]</color> First, clean the main character in the dark or clean mirror.\n\nNair, you can get <color=#7fc6ff>[Resentful Scabbard]</color> Clean the mirror, the main story or event of the event.\nAnd and <color=#7fc6ff>[Resentful Scabbard]</color> Automatic exchange for 20 <color=#1998fe>[Bloodied Scabbard]</color> After the purchase.\n\nCalculation <color=#1998fe>[Reward Exchange]</color> You can buy windows and other awards <color=#1998fe>[Bloodied Scabbard]</color> I have collected."
+    }, {
+      "id": "ycgd_reward_popup_desc",
+      "content": "Win <color=#1998fe>[Bloodied Scabbard]</color> According to the following method:\nStage program, Dengnes cleaners, mirror cleansing,\nThe first main story is stage and detergent.\n\nCalculation <color=#1998fe>[Reward Exchange]</color> You can buy windows and other prices\nUser <color=#1998fe>[Bloodied Scabbard]</color> I have collected."
+    }, {
+      "id": "ycgd_reward_popup_num_of_owned_items",
+      "content": "Class"
+    }, {
+      "id": "ycgd_bonusUI_Title",
+      "content": "to get"
+    }, {
+      "id": "ycgd_bonusUI_Title_contain_false",
+      "content": "Not everything"
+    }, {
+      "id": "ycgd_bonusUI_Desc",
+      "content": "During the plan period, the team is next recognition as a program.\nCollect money <color=#1998fe>[Bloodied Scabbard]</color> Profit\nYou can get the maximum value <color=#1998fe>120%</color> The number of programs received has increased."
+    }, {
+      "id": "ycgd_bonus_popup_title",
+      "content": "The Gift Logo"
+    }, {
+      "id": "ycgd_bonus_preview",
+      "content": "The Gift Logo"
+    }
+  ]
+}

@@ -1,1 +1,671 @@
-{"dataList": [{"id": 815901, "levelList": [{"level": 1, "name": "Late", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Vibration] And +2 [Vibration] Account"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [Binding] Valley"}]}]}]}, {"id": 815902, "levelList": [{"level": 1, "name": "Rock music collection", "desc": "[WhenUse] The target is 5+ [Vibration], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Vibration] Account"}, {"desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 8 Application [Vibration]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"}]}]}]}, {"id": 815903, "levelList": [{"level": 1, "name": "Group", "desc": "[WhenUse] If the speed of this device is faster than the target, speed difference speed +1 (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Binding] Valley"}, {"desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"}, {"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"}]}]}]}, {"id": 815904, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] Benefits 3 [Protection]", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 816001, "levelList": [{"level": 1, "name": "Epidemic", "desc": "When this attack is evaluated [TakeHpHealIncrease] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}]}]}, {"id": 816002, "levelList": [{"level": 1, "name": "Eat", "desc": "[WhenUse] If your goal is. [Burst], The basic energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."}]}]}]}, {"id": 816003, "levelList": [{"level": 1, "name": "Dive", "desc": "[WhenUse] The target is 5+ [Burst], Anxiety 2 [DefenseDown]\nI'll get +1 on everyone's basis [TakeHpHealIncrease] Self-prints (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Burst]"}, {"desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Burst]"}, {"desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"}]}]}]}, {"id": 816004, "levelList": [{"level": 1, "name": "Hommer", "desc": "From HP New Clea and 50% of 50% element of 50%.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst] And +2 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst] And +2 [Burst] Account"}]}]}]}, {"id": 816401, "levelList": [{"level": 1, "name": "80 sections", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}]}]}, {"id": 816402, "levelList": [{"level": 1, "name": "Mental balance", "desc": "[WinDuel] Get 1 [Enhancement] 1 [AttackDmgUp] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[OnSucceedAttack] Crisis [Laceration] Is correct [Burst] Matampon"}]}]}]}, {"id": 816403, "levelList": [{"level": 1, "name": "For rumors", "desc": "The target is 5+ [Burst], Power Clash ++ 1\nThe target is 5+ [Laceration], Power Clash ++ 1\n[WinDuel] Application +3 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Next call +1 power"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] The next connection is a power +2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"}, {"desc": "[OnSucceedAttack] 8 Application [Laceration]"}]}]}]}, {"id": 816404, "levelList": [{"level": 1, "name": "Time to worry", "desc": "[CantChangeTarget]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration] Points and 3 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration] Blood [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration] Blood [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Enhancement] Valley"}]}]}]}, {"id": 816405, "levelList": [{"level": 1, "name": "You don't have to hurt now!", "desc": "[CantChangeTarget]\n[WinDuel] Application 3 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Next call +1 power"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] The next connection is a power +2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 8 Application [Laceration]"}]}]}]}, {"id": 816406, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] Get 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 816407, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] Get 1 [Enhancement] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 816501, "levelList": [{"level": 1, "name": "I'll take you out", "desc": "10% Damage due to attack", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp]"}, {"desc": "[OnSucceedAttackHead] Get 1 [Agility] Valley"}]}]}]}, {"id": 816502, "levelList": [{"level": 1, "name": "Low blood!", "desc": "If the speed of this device is faster than +2 +2 conflict", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration] And +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] If the speed of this device is faster than the target of 3 or 3, then re-use this call (once)."}]}]}]}, {"id": 816503, "levelList": [{"level": 1, "name": "This is my home!", "desc": "HP for the purposes of the preferred purposes.\n[WhenUse] If the target less than 70% HP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Agility] Valley"}, {"desc": "[OnSucceedAttack] Application 1 [Vulnerable]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 20+ [Laceration]Growth in business + 100% injury"}, {"desc": "[EnemyKill] Go with this technique (maximum time)"}]}]}]}, {"id": 816504, "levelList": [{"level": 1, "name": "I'll come to you!", "desc": "I love hethcliffe\n[WhenUse] If the goal is slow, the basic force is 33.\n[WhenUse] Crisis [AaCfPbBe]There is no way [Vulnerable]Three, three [Paralysis]And 5 [Binding] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"}]}]}]}, {"id": 816505, "levelList": [{"level": 1, "name": "Benefits ...", "desc": "[CantDuel]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Get 2 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Get 2 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Get 2 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"}, {"desc": "[OnSucceedAttack] The target is 5+ [Laceration]50% of damage"}]}]}]}, {"id": 816506, "levelList": [{"level": 1, "name": "You are a little bit ...", "desc": "Line [AaCfPbBe]\nIf the speed of this device is faster than 3 ~ 3 goals, use this method (up to twice).", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Part of the basic treatment and 50% loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Part of the basic treatment and 50% loss"}]}]}]}, {"id": 816507, "levelList": [{"level": 1, "name": "Water", "desc": "If the rest of the way is in the rest of the HP Shield, 4 [Protection] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 816508, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] Application 1 [Binding] Next line (twice", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 816509, "levelList": [{"level": 1, "name": "This is my place!", "desc": "If the device is faster than the target capacity, minute-1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"}, {"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]70% of loss"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Late",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Vibration] And +2 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rock music collection",
+          "desc": "[WhenUse] The target is 5+ [Vibration], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Vibration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Paralysis] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 Application [Vibration]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Group",
+          "desc": "[WhenUse] If the speed of this device is faster than the target, speed difference speed +1 (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Binding] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [AttackDown] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 815904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] Benefits 3 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Epidemic",
+          "desc": "When this attack is evaluated [TakeHpHealIncrease] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eat",
+          "desc": "[WhenUse] If your goal is. [Burst], The basic energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] He was part of his heart and two HP 3 kg."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dive",
+          "desc": "[WhenUse] The target is 5+ [Burst], Anxiety 2 [DefenseDown]\nI'll get +1 on everyone's basis [TakeHpHealIncrease] Self-prints (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Burst]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Burst]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Needs 5 km to atoms and sections"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "From HP New Clea and 50% of 50% element of 50%.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst] And +2 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst] And +2 [Burst] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "80 sections",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mental balance",
+          "desc": "[WinDuel] Get 1 [Enhancement] 1 [AttackDmgUp] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Crisis [Laceration] Is correct [Burst] Matampon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "For rumors",
+          "desc": "The target is 5+ [Burst], Power Clash ++ 1\nThe target is 5+ [Laceration], Power Clash ++ 1\n[WinDuel] Application +3 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next call +1 power"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] The next connection is a power +2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Paralysis] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] 8 Application [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to worry",
+          "desc": "[CantChangeTarget]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] Points and 3 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] Blood [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] Blood [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Enhancement] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You don't have to hurt now!",
+          "desc": "[CantChangeTarget]\n[WinDuel] Application 3 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next call +1 power"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] The next connection is a power +2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 8 Application [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] Get 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] Get 1 [Enhancement] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll take you out",
+          "desc": "10% Damage due to attack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Get 1 [Agility] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Low blood!",
+          "desc": "If the speed of this device is faster than +2 +2 conflict",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration] And +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] If the speed of this device is faster than the target of 3 or 3, then re-use this call (once)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This is my home!",
+          "desc": "HP for the purposes of the preferred purposes.\n[WhenUse] If the target less than 70% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Agility] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 20+ [Laceration]Growth in business + 100% injury"
+                }, {
+                  "desc": "[EnemyKill] Go with this technique (maximum time)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll come to you!",
+          "desc": "I love hethcliffe\n[WhenUse] If the goal is slow, the basic force is 33.\n[WhenUse] Crisis [AaCfPbBe]There is no way [Vulnerable]Three, three [Paralysis]And 5 [Binding] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Benefits ...",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Get 2 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Get 2 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Get 2 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]50% of damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You are a little bit ...",
+          "desc": "Line [AaCfPbBe]\nIf the speed of this device is faster than 3 ~ 3 goals, use this method (up to twice).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Part of the basic treatment and 50% loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Part of the basic treatment and 50% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If the rest of the way is in the rest of the HP Shield, 4 [Protection] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] Application 1 [Binding] Next line (twice",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 816509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This is my place!",
+          "desc": "If the device is faster than the target capacity, minute-1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration], Therapy + 30% loss"
+                }, {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]70% of loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"dataList": [{"id": "CLEAR_STAGE", "content": "See any steps {0} Time"}, {"id": "KILL_ENEMY_ANY", "content": "Defeat {0} The enemy"}, {"id": "KILL_ENEMY_ABNORMALITY", "content": "Denial {0} Disorder"}, {"id": "SOMEONE_PARTICIPATED_IN_BATTLE", "content": "Yes {1} In the battle {0} Time"}, {"id": "MIRROR_DUNGEON_TRY", "content": "The introduction of the dark glass {0} Time"}, {"id": "MIRROR_DUNGEON_CLEAR", "content": "Wipe the mirror {0} Time"}, {"id": "BATTLEPASS_LEVELUP", "content": "come on {0}"}, {"id": "USE_EGO_20402", "content": "Book {0} Time"}, {"id": "USE_ANNOUNCER_2", "content": "Get Greyrger as described {0} Time"}, {"id": "LOGIN_ONCE", "content": "{0} Log in to 3 years"}, {"id": "LOGIN_MULTIPLE", "content": "{0} Mineral every day"}, {"id": "EXPDUNGEON_CLEAR", "content": "Bright {0} Time"}, {"id": "THREADDENGEON_CLEAR", "content": "Great front {0} Time"}, {"id": "PURCHASE_ENKEPHALIN_MODULE", "content": "I've been together {0} Wrapped up"}]}
+{
+  "dataList": [
+    {
+      "id": "CLEAR_STAGE",
+      "content": "See any steps {0} Time"
+    }, {
+      "id": "KILL_ENEMY_ANY",
+      "content": "Defeat {0} The enemy"
+    }, {
+      "id": "KILL_ENEMY_ABNORMALITY",
+      "content": "Denial {0} Disorder"
+    }, {
+      "id": "SOMEONE_PARTICIPATED_IN_BATTLE",
+      "content": "Yes {1} In the battle {0} Time"
+    }, {
+      "id": "MIRROR_DUNGEON_TRY",
+      "content": "The introduction of the dark glass {0} Time"
+    }, {
+      "id": "MIRROR_DUNGEON_CLEAR",
+      "content": "Wipe the mirror {0} Time"
+    }, {
+      "id": "BATTLEPASS_LEVELUP",
+      "content": "come on {0}"
+    }, {
+      "id": "USE_EGO_20402",
+      "content": "Book {0} Time"
+    }, {
+      "id": "USE_ANNOUNCER_2",
+      "content": "Get Greyrger as described {0} Time"
+    }, {
+      "id": "LOGIN_ONCE",
+      "content": "{0} Log in to 3 years"
+    }, {
+      "id": "LOGIN_MULTIPLE",
+      "content": "{0} Mineral every day"
+    }, {
+      "id": "EXPDUNGEON_CLEAR",
+      "content": "Bright {0} Time"
+    }, {
+      "id": "THREADDENGEON_CLEAR",
+      "content": "Great front {0} Time"
+    }, {
+      "id": "PURCHASE_ENKEPHALIN_MODULE",
+      "content": "I've been together {0} Wrapped up"
+    }
+  ]
+}

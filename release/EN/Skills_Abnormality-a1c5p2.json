@@ -1,1 +1,201 @@
-{"dataList": [{"id": 809901, "levelList": [{"level": 1, "name": "Fighting", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Douly Horticult D 3.3"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Douly Horticult D 3.3"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 paralyzed"}]}]}]}, {"id": 809902, "levelList": [{"level": 1, "name": "Fighting", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Boring loss 100"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Boring loss 100"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 809903, "levelList": [{"level": 1, "name": "Salary", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Target 5 s"}]}]}]}, {"id": 809904, "levelList": [{"level": 1, "name": "Occupy", "desc": "[StartBattle] 1 Power 1 power when attacks all things\n[StartBattle] Two enemies in the power sector will be supplied to minimum transactions.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 809905, "levelList": [{"level": 1, "name": "Do this one forgetful act", "desc": "[StartBattle] 2 Check the difficult brother.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 809906, "levelList": [{"level": 1, "name": "Take part in the classes!", "desc": "If the goal is smaller than 0 FL, Profession Coins +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] You treat 10SPS"}, {"desc": "[OnSucceedAttack] Two left and two attacks are used in the next round."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] I lost 20SPS from this topic"}]}]}]}, {"id": 809907, "levelList": [{"level": 1, "name": "I've been together", "desc": "[StartBattle] So please contact Friends Red 2", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 809908, "levelList": [{"level": 1, "name": "To separate", "desc": "[StartBattle] You can check two big brothers.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 809909, "levelList": [{"level": 1, "name": "My viny oooooooo!", "desc": "If the main goal is smaller than 0, the final power +5 is", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Increases the reproduction limit"}, {"desc": "[OnSucceedAttack] The next line is applied for paralysis"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 809901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fighting",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Douly Horticult D 3.3"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Douly Horticult D 3.3"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fighting",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Boring loss 100"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Boring loss 100"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Salary",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target 5 s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Occupy",
+          "desc": "[StartBattle] 1 Power 1 power when attacks all things\n[StartBattle] Two enemies in the power sector will be supplied to minimum transactions.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do this one forgetful act",
+          "desc": "[StartBattle] 2 Check the difficult brother.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Take part in the classes!",
+          "desc": "If the goal is smaller than 0 FL, Profession Coins +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] You treat 10SPS"
+                }, {
+                  "desc": "[OnSucceedAttack] Two left and two attacks are used in the next round."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] I lost 20SPS from this topic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I've been together",
+          "desc": "[StartBattle] So please contact Friends Red 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To separate",
+          "desc": "[StartBattle] You can check two big brothers.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 809909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My viny oooooooo!",
+          "desc": "If the main goal is smaller than 0, the final power +5 is",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increases the reproduction limit"
+                }, {
+                  "desc": "[OnSucceedAttack] The next line is applied for paralysis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

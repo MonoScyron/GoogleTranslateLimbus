@@ -1,1 +1,393 @@
-{"dataList": [{"id": 838101, "levelList": [{"level": 1, "name": "He went ...", "desc": "Preference disappears for the ally.\nGets +1 power to every 3 [Laceration] For purpose (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]\n-Jay your goal is your partner, use 3 to change this effect. [AttackUp] In the next round"}]}]}]}, {"id": 838102, "levelList": [{"level": 1, "name": "Beauty ...", "desc": "Preference disappears for the ally.\nGets +1 power to every 3 [Laceration] For purpose (up to 3)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account\n-Jay your goal is your partner, use 3 to change this effect. [DefenseUp] In the next round"}]}]}]}, {"id": 838103, "levelList": [{"level": 1, "name": "Select the audience ...", "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 4)\n[WhenUse] Less than 15 [BloodDinner]Jean 15 [Laceration] Then start and set [Laceration] The tiplight component of equipment using 1 (10% HP). [Laceration] Screens, measurements and measurements\n[EndSkill] Consumption 15 [BloodDinner]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [AttackUp] 1 [DefenseUp] 6 every time [Laceration] Target (3)"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[WinDuelAttack] App +5 [Laceration] Account"}, {"desc": "[OnSucceedAttack] Benefits 3 [BloomingThorns]"}]}]}]}, {"id": 838104, "levelList": [{"level": 1, "name": "I'm interested", "desc": "[CantIdentify]\nThe enemy preference and preference.\n[WhenUse] In 2016, the entire Power Party Party [holy blood pressure (up to 10) (up to 10) (up to 10)\n[WhenUse] In the 25 years [BloodDinner]25 [Laceration], Run instantly and then 1 [Laceration] Bill (HP is less than 10%, this device is just a part of the device received [Laceration] Screens, measurements and measurements\n[EndSkill] Consumption 25 [BloodDinner]\n[EndBattle] Remove everything [FestivalFever]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [AttackUp] And and [DefenseUp] Based on the next round [FestivalFever] (Blood) [FestivalFever], From 3)"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Application +3 [Laceration] Account\n-Fres you have an affiliate forces, change this result in 5 [BloomingThorns]"}]}]}]}, {"id": 838105, "levelList": [{"level": 1, "name": "Repeat the proposal ever", "desc": "[WhenUse] In 2016, the entire Power Party Party [holy blood pressure (up to 10) (up to 10) (up to 10)\n[WhenUse] Under 50 years of age [BloodDinner]25 [Laceration], + They [Laceration] Dimensions, rapid moves and reduce [Laceration] Use 2 (10% HP 10%) to measure some parts of the unit's influence. [Laceration] Screens, measurements and measurements\n[WhenUse] Half [BloodDinner]\n[EndBattle] Remove everything [IncompleteParade]\n[EndBattle] Get 10 [FestivalFever]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 25% of the treatment of damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 25% of the treatment of damage"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] 50% of injury"}, {"desc": "[OnSucceedAttack] 5 apps [Laceration] And 5 [Burst]"}, {"desc": "[EndCoin] Get 1 [BloomingThorns] Every 10 [BloodDinner] The app of technology (up to 10)"}]}]}]}, {"id": 838106, "levelList": [{"level": 1, "name": "This ...", "desc": "[DuelCounter]\n[WhenUse] 5+ [FestivalFever], Energy Clash 3\n[StartBattle] Benefits 5 [BloomingThorns]\n[DefeatDuel] 5 luck [BloomingThorns]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 838107, "levelList": [{"level": 1, "name": "There is no end", "desc": "[WhenUse] Half [BloodDinner]\n[WinDuel] Treatment + ()[BloodDinner] Technology (up to 150%) (up to 150%)\n[DefeatDuel] Employment -50% less damage, this technical loss does not contaminate the target.\n[EndSkill] I lost the same spa song [BloodDinner] Uses technology", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Application 6 [Laceration]"}, {"desc": "[OnSucceedAttack] App +6 [Laceration] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[WinDuelAttack] Application 6 [Burst]"}, {"desc": "[WinDuelAttack] App +6 [Burst] Account"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[EndCoin] Get 1 [BloomingThorns] Every 10 [BloodDinner] The app of technology (up to 10)"}]}]}]}, {"id": 838901, "levelList": [{"level": 1, "name": "Dragon sauce", "desc": "[WhenUse] Get 2 [Agility] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Agility] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vulnerable] Valley"}]}]}]}, {"id": 838902, "levelList": [{"level": 1, "name": "Winter", "desc": "[WhenUse] Get 2 [Agility] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [Agility] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vulnerable] Valley"}]}]}]}, {"id": 838903, "levelList": [{"level": 1, "name": "Trustee", "desc": "[WhenUse] Benefits 3 [Agility] Valley", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [SlashTakeDamageUp]"}]}]}]}, {"id": 838904, "levelList": [{"level": 1, "name": "Bacterial bacteria", "desc": "If the user's speed is more than 5+", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 100 bonus damage process"}]}]}]}, {"id": 838905, "levelList": [{"level": 1, "name": "Red ruler", "desc": "[WhenUse] Get 2 [Agility] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 50 reasons to win"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 50 reasons to win"}]}]}]}, {"id": 838906, "levelList": [{"level": 1, "name": "Bleak Ara", "desc": "[WhenUse] Get 2 [Agility] Valley", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [MentalCrack]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [MentalCrack]"}]}]}]}, {"id": 838907, "levelList": [{"level": 1, "name": "The surface of the water", "desc": "[CanDuelGuard]\n[WhenUse] Benefits 3 [Protection]\n[WinDuel] This technical wars hurt HP as the final power", "coinlist": [{"coindescs": [{"desc": "[SuperCoin]"}]}]}]}, {"id": 838908, "levelList": [{"level": 1, "name": "Electronic cable activities quickly", "desc": "[StartBattle] Get 10 [Enhancement] And and [Agility] Valley", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 838909, "levelList": [{"level": 1, "name": "Heavy", "desc": "[WhenUse] Benefits 5 [PenetrateDamageUp]", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "He went ...",
+          "desc": "Preference disappears for the ally.\nGets +1 power to every 3 [Laceration] For purpose (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]\n-Jay your goal is your partner, use 3 to change this effect. [AttackUp] In the next round"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Beauty ...",
+          "desc": "Preference disappears for the ally.\nGets +1 power to every 3 [Laceration] For purpose (up to 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account\n-Jay your goal is your partner, use 3 to change this effect. [DefenseUp] In the next round"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Select the audience ...",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 4)\n[WhenUse] Less than 15 [BloodDinner]Jean 15 [Laceration] Then start and set [Laceration] The tiplight component of equipment using 1 (10% HP). [Laceration] Screens, measurements and measurements\n[EndSkill] Consumption 15 [BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [AttackUp] 1 [DefenseUp] 6 every time [Laceration] Target (3)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[WinDuelAttack] App +5 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 3 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm interested",
+          "desc": "[CantIdentify]\nThe enemy preference and preference.\n[WhenUse] In 2016, the entire Power Party Party [holy blood pressure (up to 10) (up to 10) (up to 10)\n[WhenUse] In the 25 years [BloodDinner]25 [Laceration], Run instantly and then 1 [Laceration] Bill (HP is less than 10%, this device is just a part of the device received [Laceration] Screens, measurements and measurements\n[EndSkill] Consumption 25 [BloodDinner]\n[EndBattle] Remove everything [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [AttackUp] And and [DefenseUp] Based on the next round [FestivalFever] (Blood) [FestivalFever], From 3)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account\n-Fres you have an affiliate forces, change this result in 5 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repeat the proposal ever",
+          "desc": "[WhenUse] In 2016, the entire Power Party Party [holy blood pressure (up to 10) (up to 10) (up to 10)\n[WhenUse] Under 50 years of age [BloodDinner]25 [Laceration], + They [Laceration] Dimensions, rapid moves and reduce [Laceration] Use 2 (10% HP 10%) to measure some parts of the unit's influence. [Laceration] Screens, measurements and measurements\n[WhenUse] Half [BloodDinner]\n[EndBattle] Remove everything [IncompleteParade]\n[EndBattle] Get 10 [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 25% of the treatment of damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 25% of the treatment of damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] 50% of injury"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 apps [Laceration] And 5 [Burst]"
+                }, {
+                  "desc": "[EndCoin] Get 1 [BloomingThorns] Every 10 [BloodDinner] The app of technology (up to 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This ...",
+          "desc": "[DuelCounter]\n[WhenUse] 5+ [FestivalFever], Energy Clash 3\n[StartBattle] Benefits 5 [BloomingThorns]\n[DefeatDuel] 5 luck [BloomingThorns]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "There is no end",
+          "desc": "[WhenUse] Half [BloodDinner]\n[WinDuel] Treatment + ()[BloodDinner] Technology (up to 150%) (up to 150%)\n[DefeatDuel] Employment -50% less damage, this technical loss does not contaminate the target.\n[EndSkill] I lost the same spa song [BloodDinner] Uses technology",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 6 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] App +6 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[WinDuelAttack] Application 6 [Burst]"
+                }, {
+                  "desc": "[WinDuelAttack] App +6 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[EndCoin] Get 1 [BloomingThorns] Every 10 [BloodDinner] The app of technology (up to 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dragon sauce",
+          "desc": "[WhenUse] Get 2 [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Agility] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vulnerable] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Winter",
+          "desc": "[WhenUse] Get 2 [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [Agility] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vulnerable] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trustee",
+          "desc": "[WhenUse] Benefits 3 [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bacterial bacteria",
+          "desc": "If the user's speed is more than 5+",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 100 bonus damage process"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Red ruler",
+          "desc": "[WhenUse] Get 2 [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 50 reasons to win"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 50 reasons to win"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bleak Ara",
+          "desc": "[WhenUse] Get 2 [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [MentalCrack]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The surface of the water",
+          "desc": "[CanDuelGuard]\n[WhenUse] Benefits 3 [Protection]\n[WinDuel] This technical wars hurt HP as the final power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electronic cable activities quickly",
+          "desc": "[StartBattle] Get 10 [Enhancement] And and [Agility] Valley",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 838909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heavy",
+          "desc": "[WhenUse] Benefits 5 [PenetrateDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

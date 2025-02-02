@@ -1,1 +1,23 @@
-{"dataList": [{"id": "daily_login_event_title", "content": "Hourly"}, {"id": "daily_login_event_description", "content": "If you enter the game in a day, you can get a login bonus every day (D-06: ~ D + 1 05:59).\nThe new award has gone the next day, so go to time."}, {"id": "daily_login_event_weekly_format", "content": "Home {0}"}, {"id": "daily_login_halloween_title", "content": "Each one to Halloween"}, {"id": "daily_login_halloween_desc", "content": "Delete Ticket items on December 7"}, {"id": "daily_login_seventh_anniversary_desc", "content": "Enter during the plan period\nGet the ornamental card"}]}
+{
+  "dataList": [
+    {
+      "id": "daily_login_event_title",
+      "content": "Hourly"
+    }, {
+      "id": "daily_login_event_description",
+      "content": "If you enter the game in a day, you can get a login bonus every day (D-06: ~ D + 1 05:59).\nThe new award has gone the next day, so go to time."
+    }, {
+      "id": "daily_login_event_weekly_format",
+      "content": "Home {0}"
+    }, {
+      "id": "daily_login_halloween_title",
+      "content": "Each one to Halloween"
+    }, {
+      "id": "daily_login_halloween_desc",
+      "content": "Delete Ticket items on December 7"
+    }, {
+      "id": "daily_login_seventh_anniversary_desc",
+      "content": "Enter during the plan period\nGet the ornamental card"
+    }
+  ]
+}

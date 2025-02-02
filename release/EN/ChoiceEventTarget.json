@@ -1,1 +1,44 @@
-{"dataList": [{"id": "Ally", "content": "Introduction"}, {"id": "RandomAlly", "content": "Randomly"}, {"id": "EveryAlly", "content": "All partners"}, {"id": "EveryEnemy", "content": "All enemies"}, {"id": "ChosenPersonality", "content": "Recognition"}, {"id": "HighestHpAlly", "content": "A very convenient item"}, {"id": "LowestHpAlly", "content": "A low convenient item"}, {"id": "HighestMpAlly", "content": "The best SP device"}, {"id": "LowestMpAlly", "content": "At least"}, {"id": "NotFullHpAlly", "content": "HP is not satisfied"}, {"id": "NotAffectedAlly", "content": "Partners do not affect the previous effect."}, {"id": "LowestHpRatioAlly", "content": "Federal HP multiple is the lowest"}, {"id": "Every", "content": "All"}]}
+{
+  "dataList": [
+    {
+      "id": "Ally",
+      "content": "Introduction"
+    }, {
+      "id": "RandomAlly",
+      "content": "Randomly"
+    }, {
+      "id": "EveryAlly",
+      "content": "All partners"
+    }, {
+      "id": "EveryEnemy",
+      "content": "All enemies"
+    }, {
+      "id": "ChosenPersonality",
+      "content": "Recognition"
+    }, {
+      "id": "HighestHpAlly",
+      "content": "A very convenient item"
+    }, {
+      "id": "LowestHpAlly",
+      "content": "A low convenient item"
+    }, {
+      "id": "HighestMpAlly",
+      "content": "The best SP device"
+    }, {
+      "id": "LowestMpAlly",
+      "content": "At least"
+    }, {
+      "id": "NotFullHpAlly",
+      "content": "HP is not satisfied"
+    }, {
+      "id": "NotAffectedAlly",
+      "content": "Partners do not affect the previous effect."
+    }, {
+      "id": "LowestHpRatioAlly",
+      "content": "Federal HP multiple is the lowest"
+    }, {
+      "id": "Every",
+      "content": "All"
+    }
+  ]
+}

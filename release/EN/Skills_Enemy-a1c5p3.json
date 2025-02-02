@@ -1,1 +1,273 @@
-{"dataList": [{"id": 9009801, "levelList": [{"level": 1, "name": "Lorch", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 4 bleeding"}]}]}]}, {"id": 9009802, "levelList": [{"level": 1, "name": "Game Injuries", "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 9009803, "levelList": [{"level": 1, "name": "City protection!", "desc": "[WhenUse] 5 a situation", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}]}]}, {"id": 9009804, "levelList": [{"level": 1, "name": "Bayonet", "desc": "[WhenUse] 5 Phozna account and +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The next step has two connections and 2 damage."}]}]}]}, {"id": 9009805, "levelList": [{"level": 1, "name": "Water", "desc": "If you attack this device, there is no violation of the level 1 after this attack.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9009901, "levelList": [{"level": 1, "name": "Train", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] +2 digital readiall application"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] +1 bleeding mode"}]}]}]}, {"id": 9009902, "levelList": [{"level": 1, "name": "Grave chime", "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}]}]}, {"id": 9009903, "levelList": [{"level": 1, "name": "City protection!", "desc": "[WhenUse] 5 a situation", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}]}]}, {"id": 9009904, "levelList": [{"level": 1, "name": "Bayonet", "desc": "[WhenUse] 5 Phozna account and +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Apply two packages and two accuracy in the next round."}]}]}]}, {"id": 9009905, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] Level 1 violates the rules below (up to 3).", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 9009801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lorch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 4 bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Game Injuries",
+          "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "City protection!",
+          "desc": "[WhenUse] 5 a situation",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bayonet",
+          "desc": "[WhenUse] 5 Phozna account and +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next step has two connections and 2 damage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If you attack this device, there is no violation of the level 1 after this attack.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Train",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] +2 digital readiall application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grave chime",
+          "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "City protection!",
+          "desc": "[WhenUse] 5 a situation",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bayonet",
+          "desc": "[WhenUse] 5 Phozna account and +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply two packages and two accuracy in the next round."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] Level 1 violates the rules below (up to 3).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

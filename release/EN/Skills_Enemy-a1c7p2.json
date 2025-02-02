@@ -1,1 +1,1061 @@
-{"dataList": [{"id": 9015801, "levelList": [{"level": 1, "name": "Strict", "desc": "[WhenUse] If this is the device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Laceration]"}]}]}]}, {"id": 9015802, "levelList": [{"level": 1, "name": "Arrogant", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood]If you use this eligible minute effect [Burst], Anxiety 2 [Laceration] High", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]1, 1 [HardenedBlood]"}]}]}]}, {"id": 9015803, "levelList": [{"level": 1, "name": "New Owze, but Massachusetts Technology Research Institute", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttack] Application 1 [Vulnerable]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]Processing 20% ​​damaged and increased."}]}]}]}, {"id": 9015804, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] If your goal is. [Laceration]1, 1 [HardenedBlood]", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9015901, "levelList": [{"level": 1, "name": "Strict", "desc": "[WhenUse] If this is the device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}]}]}, {"id": 9015902, "levelList": [{"level": 1, "name": "Arrogant", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}, {"desc": "[OnSucceedAttack] If your goal is. [Laceration]1, 1 [HardenedBlood]"}]}]}]}, {"id": 9015903, "levelList": [{"level": 1, "name": "New Owze, but Massachusetts Technology Research Institute", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttack] Application 1 [Vulnerable]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]Processing 20% ​​damaged and increased."}]}]}]}, {"id": 9015904, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] If your goal is. [Laceration]1, 1 [HardenedBlood]", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9016901, "levelList": [{"level": 1, "name": "Charts", "desc": "[DefeatDuel] Get 10 [Laceration] And +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}, {"desc": "[OnSucceedAttack] Get 10 [Laceration] 1 [BloodyHand]"}]}]}]}, {"id": 9016902, "levelList": [{"level": 1, "name": "Reference", "desc": "[WhenUse] If the goal is 8+ [Laceration], Therapy + 20% loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}, {"desc": "[OnSucceedAttack] Receives 20 [Laceration] There is no way [BloodyHand]"}]}]}]}, {"id": 9016903, "levelList": [{"level": 1, "name": "Effects", "desc": "[WhenUse] The target is 6+ [Laceration], The basic energy + +\n[WhenUse] Time is used [Laceration] Apply using this method [Burst] Is correct [HardenedBlood] Up\n[EndSkill] Remove everything [HardenedBlood] And and [BloodyHand]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}, {"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 20%)"}]}]}]}, {"id": 9016904, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] Basic strength of all + [HardenedBlood] There", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]"}]}]}]}, {"id": 9017001, "levelList": [{"level": 1, "name": "Charts", "desc": "[DefeatDuel] Get 10 [Laceration] And +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] Get 10 [Laceration] 1 [BloodyHand]"}]}]}]}, {"id": 9017002, "levelList": [{"level": 1, "name": "Reference", "desc": "[WhenUse] Target 4+ [Laceration]10% of the treatment of treatment increased", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] Receives 20 [Laceration] There is no way [BloodyHand]"}]}]}]}, {"id": 9017003, "levelList": [{"level": 1, "name": "Effects", "desc": "[WhenUse] The target is 6+ [Laceration], The basic energy + +\n[WhenUse] Time is used [Laceration] Apply using this method [Burst] Is correct [HardenedBlood] Up\n[EndSkill] Remove everything [HardenedBlood] And and [BloodyHand]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}, {"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 20%)"}]}]}]}, {"id": 9017004, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] Basic strength of all + [HardenedBlood] There", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]"}]}]}]}, {"id": 9017101, "levelList": [{"level": 1, "name": "Answer the search.", "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}]}]}, {"id": 9017102, "levelList": [{"level": 1, "name": "Don't hurt me!", "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}, {"desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"}]}]}]}, {"id": 9017103, "levelList": [{"level": 1, "name": "Reduces the courage", "desc": "[WhenUse] Usually used as 50 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] The target is 5+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"}]}]}]}, {"id": 9017104, "levelList": [{"level": 1, "name": "There is no end", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] Everyone's fight + + [HardenedBlood] There\n[DefeatDuel] There is no way [BloodyHand]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Remove everything [BloodyHand] Application +3 [Laceration]"}, {"desc": "[OnSucceedAttack] Remove everything [HardenedBlood] Growing up large [BloodDinner] (Consumes [HardenedBlood] X3) and 5 [Laceration]"}, {"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 30%)"}]}]}]}, {"id": 9017105, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] 1+ [BloodyHand], The basic energy + +\n[WhenUse] Three + [HardenedBlood], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}]}]}, {"id": 9017201, "levelList": [{"level": 1, "name": "Answer the search.", "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Laceration] Account"}]}]}]}, {"id": 9017202, "levelList": [{"level": 1, "name": "Don't hurt me!", "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}, {"desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"}]}]}]}, {"id": 9017203, "levelList": [{"level": 1, "name": "Reduces the courage", "desc": "[WhenUse] Usually used as 50 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] The target is 5+ [Laceration], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration]"}]}, {"coindescs": [{"desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"}]}]}]}, {"id": 9017204, "levelList": [{"level": 1, "name": "There is no end", "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] Everyone's fight + + [HardenedBlood] There\n[DefeatDuel] There is no way [BloodyHand]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Remove everything [BloodyHand] Application +3 [Laceration]"}, {"desc": "[OnSucceedAttack] Remove everything [HardenedBlood] Growing up large [BloodDinner] (Consumes [HardenedBlood] X3) and 5 [Laceration]"}, {"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 30%)"}]}]}]}, {"id": 9017205, "levelList": [{"level": 1, "name": "Hommer", "desc": "[WhenUse] 1+ [BloodyHand], The basic energy + +\n[WhenUse] Three + [HardenedBlood], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"}]}]}]}, {"id": 9017301, "levelList": [{"level": 1, "name": "Strict blood, teacher", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +2 [Laceration] Account"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"}]}]}]}, {"id": 9017302, "levelList": [{"level": 1, "name": "HARD BOOP -KARE", "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration]Start early and put yourself [Laceration] Phone 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] Get 1 [BloomingThorns]"}]}]}]}, {"id": 9017303, "levelList": [{"level": 1, "name": "Find the power of heavy fruit", "desc": "[WhenUse] Interest 15 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] X 2.5% HP (up to 20%)"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [BloomingThorns]"}]}]}]}, {"id": 9017304, "levelList": [{"level": 1, "name": "Migration", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Get 2 [FestivalFever]\n[OnDefeatEvade] There is no way [FestivalFever]", "coinlist": [{}]}]}, {"id": 9017401, "levelList": [{"level": 1, "name": "Reference", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"}]}]}]}, {"id": 9017402, "levelList": [{"level": 1, "name": "A strong wild world", "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration]Start early and put yourself [Laceration] Phone 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] Get 1 [BloomingThorns]"}]}]}]}, {"id": 9017403, "levelList": [{"level": 1, "name": "Find the power of heavy fruit", "desc": "[WhenUse] Interest 15 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] X 2.5% HP (up to 20%)"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [BloomingThorns]"}]}]}]}, {"id": 9017404, "levelList": [{"level": 1, "name": "Migration", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Get 2 [FestivalFever]\n[OnDefeatEvade] There is no way [FestivalFever]", "coinlist": [{}]}]}, {"id": 9017501, "levelList": [{"level": 1, "name": "Welcome to the Miracle Festival!", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"}, {"desc": "[OnSucceedAttackHead] Application 3 [Burst]"}]}]}]}, {"id": 9017502, "levelList": [{"level": 1, "name": "Participate in the rubbing of good procession!", "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [HardenedBlood] 6 every time [Laceration] In the form of the target (up to 2)"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[WinDuelAttack] 4 app 4 [Laceration] And +3 [Laceration] Account"}, {"desc": "[OnSucceedAttack] That ~ Plan [BloomingThorns]"}]}]}]}, {"id": 9017503, "levelList": [{"level": 1, "name": "Happy smile flight!", "desc": "[WhenUse] 5+ [FestivalFever], Call ++ 1\n[WhenUse] The target is 6+ [Laceration], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}]}, {}, {"coindescs": [{"desc": "[WinDuelAttack] Get 2 [FestivalFever]"}]}]}]}, {"id": 9017504, "levelList": [{"level": 1, "name": "Continuous Happiness, No Mann Land!", "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"}, {"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] x 4)% HP (up to 40%)"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Benefits 5 [BloomingThorns]"}]}]}]}, {"id": 9017505, "levelList": [{"level": 1, "name": "Migration", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Benefits 3 [FestivalFever]\n[OnDefeatEvade] 3 Happiness [FestivalFever]", "coinlist": [{}]}]}, {"id": 9017601, "levelList": [{"level": 1, "name": "Welcome to the Miracle Festival!", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +3 [Laceration] Account"}, {"desc": "[OnSucceedAttackHead] Application 3 [Burst]"}]}]}]}, {"id": 9017602, "levelList": [{"level": 1, "name": "We will answer your stage, dance!", "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 1 [HardenedBlood] 6 every time [Laceration] In the form of the target (up to 2)"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[WinDuelAttack] 5 apps [Laceration] And +2 [Laceration] Account"}, {"desc": "[OnSucceedAttack] That ~ Plan [BloomingThorns]"}]}]}]}, {"id": 9017603, "levelList": [{"level": 1, "name": "I lost in the song!", "desc": "[WhenUse] 5+ [FestivalFever], Call ++ 1\n[WhenUse] The target is 6+ [Laceration], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Laceration] Account"}]}, {}, {"coindescs": [{"desc": "[WinDuelAttack] Get 2 [FestivalFever]"}]}]}]}, {"id": 9017604, "levelList": [{"level": 1, "name": "Continuous Happiness, No Mann Land!", "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"}, {"desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] x 4)% HP (up to 40%)"}]}, {"coindescs": [{"desc": "[SuperCoin]"}, {"desc": "[OnSucceedAttack] Benefits 5 [BloomingThorns]"}]}]}]}, {"id": 9017605, "levelList": [{"level": 1, "name": "Migration", "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Benefits 3 [FestivalFever]\n[OnDefeatEvade] 3 Happiness [FestivalFever]", "coinlist": [{}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 9015801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strict",
+          "desc": "[WhenUse] If this is the device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arrogant",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood]If you use this eligible minute effect [Burst], Anxiety 2 [Laceration] High",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]1, 1 [HardenedBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "New Owze, but Massachusetts Technology Research Institute",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]Processing 20% ​​damaged and increased."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] If your goal is. [Laceration]1, 1 [HardenedBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strict",
+          "desc": "[WhenUse] If this is the device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arrogant",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]1, 1 [HardenedBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "New Owze, but Massachusetts Technology Research Institute",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [Vulnerable]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]Processing 20% ​​damaged and increased."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9015904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] If your goal is. [Laceration]1, 1 [HardenedBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9016901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charts",
+          "desc": "[DefeatDuel] Get 10 [Laceration] And +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 10 [Laceration] 1 [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9016902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reference",
+          "desc": "[WhenUse] If the goal is 8+ [Laceration], Therapy + 20% loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Receives 20 [Laceration] There is no way [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9016903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effects",
+          "desc": "[WhenUse] The target is 6+ [Laceration], The basic energy + +\n[WhenUse] Time is used [Laceration] Apply using this method [Burst] Is correct [HardenedBlood] Up\n[EndSkill] Remove everything [HardenedBlood] And and [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9016904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] Basic strength of all + [HardenedBlood] There",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charts",
+          "desc": "[DefeatDuel] Get 10 [Laceration] And +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 10 [Laceration] 1 [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reference",
+          "desc": "[WhenUse] Target 4+ [Laceration]10% of the treatment of treatment increased",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Receives 20 [Laceration] There is no way [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effects",
+          "desc": "[WhenUse] The target is 6+ [Laceration], The basic energy + +\n[WhenUse] Time is used [Laceration] Apply using this method [Burst] Is correct [HardenedBlood] Up\n[EndSkill] Remove everything [HardenedBlood] And and [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] Basic strength of all + [HardenedBlood] There",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Answer the search.",
+          "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't hurt me!",
+          "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reduces the courage",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "There is no end",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] Everyone's fight + + [HardenedBlood] There\n[DefeatDuel] There is no way [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Remove everything [BloodyHand] Application +3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Remove everything [HardenedBlood] Growing up large [BloodDinner] (Consumes [HardenedBlood] X3) and 5 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] 1+ [BloodyHand], The basic energy + +\n[WhenUse] Three + [HardenedBlood], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Answer the search.",
+          "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't hurt me!",
+          "desc": "[WhenUse] Benefits 5 [Laceration] And +1 [Laceration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reduces the courage",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "There is no end",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] Everyone's fight + + [HardenedBlood] There\n[DefeatDuel] There is no way [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Remove everything [BloodyHand] Application +3 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Remove everything [HardenedBlood] Growing up large [BloodDinner] (Consumes [HardenedBlood] X3) and 5 [Laceration]"
+                }, {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([Laceration] HP% HP (up to 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "[WhenUse] 1+ [BloodyHand], The basic energy + +\n[WhenUse] Three + [HardenedBlood], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strict blood, teacher",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "HARD BOOP -KARE",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration]Start early and put yourself [Laceration] Phone 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 1 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Find the power of heavy fruit",
+          "desc": "[WhenUse] Interest 15 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] X 2.5% HP (up to 20%)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Get 2 [FestivalFever]\n[OnDefeatEvade] There is no way [FestivalFever]",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 9017401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reference",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A strong wild world",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration]Start early and put yourself [Laceration] Phone 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 1 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Find the power of heavy fruit",
+          "desc": "[WhenUse] Interest 15 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] X 2.5% HP (up to 20%)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Get 2 [FestivalFever]\n[OnDefeatEvade] There is no way [FestivalFever]",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 9017501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Welcome to the Miracle Festival!",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Laceration] And +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Participate in the rubbing of good procession!",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [HardenedBlood] 6 every time [Laceration] In the form of the target (up to 2)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[WinDuelAttack] 4 app 4 [Laceration] And +3 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] That ~ Plan [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Happy smile flight!",
+          "desc": "[WhenUse] 5+ [FestivalFever], Call ++ 1\n[WhenUse] The target is 6+ [Laceration], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Get 2 [FestivalFever]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Continuous Happiness, No Mann Land!",
+          "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"
+                }, {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] x 4)% HP (up to 40%)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 5 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Benefits 3 [FestivalFever]\n[OnDefeatEvade] 3 Happiness [FestivalFever]",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 9017601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Welcome to the Miracle Festival!",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Laceration] And +3 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "We will answer your stage, dance!",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 [HardenedBlood] 6 every time [Laceration] In the form of the target (up to 2)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[WinDuelAttack] 5 apps [Laceration] And +2 [Laceration] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] That ~ Plan [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I lost in the song!",
+          "desc": "[WhenUse] 5+ [FestivalFever], Call ++ 1\n[WhenUse] The target is 6+ [Laceration], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Get 2 [FestivalFever]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Continuous Happiness, No Mann Land!",
+          "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis [Laceration] And and [Burst] Is correct [HardenedBlood] There"
+                }, {
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] x 4)% HP (up to 40%)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 5 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9017605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[WhenUse] 5+ [FestivalFever], Last energy + +\n[StartBattle] Benefits 3 [FestivalFever]\n[OnDefeatEvade] 3 Happiness [FestivalFever]",
+          "coinlist": [{}]
+        }
+      ]
+    }
+  ]
+}

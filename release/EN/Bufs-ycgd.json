@@ -1,1 +1,23 @@
-{"dataList": [{"id": "Grudge", "name": "The fury", "desc": "If the bitter taste of this device is: take the same damage to the same damage.", "summary": "", "undefined": "-"}, {"id": "AaCePbBg", "name": "The fury", "desc": "Start: Low security against level 2 and 3", "summary": "", "undefined": "-"}, {"id": "AaCePbBh", "name": "The fury", "desc": "Start: Get 1 level and 5 security level security", "summary": "", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "Grudge",
+      "name": "The fury",
+      "desc": "If the bitter taste of this device is: take the same damage to the same damage.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBg",
+      "name": "The fury",
+      "desc": "Start: Low security against level 2 and 3",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePbBh",
+      "name": "The fury",
+      "desc": "Start: Get 1 level and 5 security level security",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

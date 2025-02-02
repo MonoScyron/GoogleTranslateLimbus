@@ -1,1 +1,947 @@
-{"dataList": [{"id": 1060601, "levelList": [{"level": 1, "name": "Power wheels", "desc": "[WhenUse] Provide a lot of computer +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}]}, {"level": 2, "name": "Power wheels", "desc": "[WhenUse] Digital +3 costs", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}]}, {"level": 4, "name": "Power wheels", "desc": "[WhenUse] +4 digital fees", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Number of bills in profits +1"}]}]}]}, {"id": 1060602, "levelList": [{"level": 1, "name": "Pure support", "desc": "[WhenUse] Provide a lot of computer +2\nThe power of conflict during rescue", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Get more than 10 bills <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"}]}]}, {"level": 2, "name": "Pure support", "desc": "[WhenUse] Digital +3 costs\nThe power of conflict during rescue", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Digital +3 costs"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get more than 10 bills <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"}]}]}, {"level": 4, "name": "Pure support", "desc": "[WhenUse] Digital +3 costs\nThe power of conflict during rescue", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Digital +3 costs"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Get 1 in the number of 5+ bills <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> For each report on the next poem in the next poem (up to 4)"}]}]}]}, {"id": 1060603, "levelList": [{"level": 3, "name": "Destruction", "desc": "[WhenUse] More than 10 accounts combine all computers and bills for computers. <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (Communication) with two friends with at least HP", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 Friends transactions"}, {"desc": "[OnSucceedAttack] Get 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"}]}]}, {"level": 4, "name": "Destruction", "desc": "[WhenUse] More than 10 accounts combine all computers and bills for computers. <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (Communication) with two friends with at least HP", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 tears"}, {"desc": "[OnSucceedAttack] Get 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"}]}]}]}, {"id": 1060604, "levelList": [{"level": 1, "name": "Water", "desc": "[WhenUse] Get 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (3) Number 3)", "coinlist": [{}]}, {"level": 4, "name": "Water", "desc": "[WhenUse] to get <style=\"highlight\">Blood</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (3) Number 3)", "coinlist": [{}]}]}, {"id": 1060701, "levelList": [{"level": 1, "name": "Route", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttackHead] +1 bleeding mode"}]}]}, {"level": 2, "name": "Route", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttackHead] +1 bleeding mode"}]}]}, {"level": 4, "name": "Route", "desc": "2+, the last power +1", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttackHead] +1 bleeding mode"}]}]}]}, {"id": 1060702, "levelList": [{"level": 1, "name": "First", "desc": "[WhenUse] I am very worried about the next line of the first line", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the device is faster than the target, the application has many data from speed syndrome (2)."}]}]}, {"level": 2, "name": "First", "desc": "[WhenUse] The next line takes two things twice", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the device is faster than the target, hard speed is the same (up to 3)"}]}]}, {"level": 4, "name": "First", "desc": "6 or more speed, call +1 power\n[WhenUse] The next line takes two things twice", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the device is faster than the target, the same difference (more than 4) is as follows."}]}]}]}, {"id": 1060703, "levelList": [{"level": 3, "name": "Strength", "desc": "8+ Quick Electrical Currency +1\nSometimes HP HP Loss (1% HP Loss).", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Decrease"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Bleeding establishment"}]}]}, {"level": 4, "name": "Strength", "desc": "6 or more speed, call +1 power\nHP HP HP HP (+ 0.5% Damage 1% HP)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Decrease"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 1060704, "levelList": [{"level": 1, "name": "Pace", "desc": "[OnSucceedEvade] Fire Exchange 1 (every 3 times 3 times) (3 times by mail)", "coinlist": [{}]}, {"level": 4, "name": "Pace", "desc": "If you have been bleeding for your purpose, you can get a +2 cash option.\n[OnSucceedEvade] Fire Exchange 1 (every 3 times 3 times) (3 times by mail)", "coinlist": [{}]}]}, {"id": 1060801, "levelList": [{"level": 1, "name": "Business", "desc": "[WhenUse] Drop skill in the highest rankings in this technique in this technique", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Application +1 [Sinking] Account"}]}]}, {"level": 2, "name": "Business", "desc": "[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] Three + [KnowledgeExplored], Power Clash ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Application +1 [Sinking] Account"}, {"desc": "[OnSucceedAttack] Three + [KnowledgeExplored]Ray -ce"}]}]}, {"level": 4, "name": "Business", "desc": "[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] Fighting for the Authority ([KnowledgeExplored] 1)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Application +1 [Sinking] Account"}, {"desc": "[OnSucceedAttack] Relationship to maintenance ([KnowledgeExplored] --11)"}]}]}]}, {"id": 1060802, "levelList": [{"level": 1, "name": "Performance", "desc": "[WhenUse] Two of these premises have been randomly thrown", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Application 3 [Sinking]"}]}]}, {"level": 2, "name": "Performance", "desc": "[WhenUse] Two of these premises have been randomly thrown\n[WhenUse] Three + [KnowledgeExplored], Call ++ 1", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Sinking]"}]}]}, {"level": 4, "name": "Performance", "desc": "[WhenUse] Two of these premises have been randomly thrown\n[WhenUse] Page + ([KnowledgeExplored] 1)", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Sinking]"}]}]}]}, {"id": 1060803, "levelList": [{"level": 3, "name": "Topical", "desc": "[WhenUse] 2+ [KnowledgeExplored]Get equal power in the coins [KnowledgeExplored]\n[WhenUse] Deals + 1.5% loss [Sinking] For purpose (up to 15%)", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}, {"desc": "[EndSkill] If the goal is to increase, remove or work it, 10"}]}]}, {"level": 4, "name": "Topical", "desc": "[WhenUse] 2+ [KnowledgeExplored]Get equal power in the coins [KnowledgeExplored]\n[WhenUse] Deal + 3% loss [Sinking] Goal (up to 30%)", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +4 [Sinking] Account"}, {"desc": "[EndSkill] If the goal is to increase, remove or work it, 10"}]}]}]}, {"id": 1060804, "levelList": [{"level": 1, "name": "Pipe", "desc": "[WhenUse] Two of these premises have been randomly thrown", "coinlist": [{}]}, {"level": 4, "name": "Pipe", "desc": "[WhenUse] Two of these premises have been randomly thrown", "coinlist": [{}]}]}, {"id": 1060901, "levelList": [{"level": 1, "name": "Anti-", "desc": "[WhenUse] Benefits +2 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Benefits +2 [Vibration] Account"}]}]}, {"level": 2, "name": "Anti-", "desc": "[WhenUse] Benefits +2 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Vibration] Account"}]}]}, {"level": 4, "name": "Anti-", "desc": "[WhenUse] Benefits +2 [Vibration] Account\n<style=\"highlight\">6+ [Vibration] Account, basic water 11</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Vibration] Account"}]}]}]}, {"id": 1060902, "levelList": [{"level": 1, "name": "Reading the reading technology", "desc": "[WhenUse] Benefits +3 [Vibration] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +3 [Vibration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If the goal is 9+ [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}]}, {"level": 2, "name": "Reading the reading technology", "desc": "<style=\"highlight\">[WhenUse] If the goal is 8+ [Vibration], Power Clash ++ 1</style>\n[WhenUse] Benefits +3 [Vibration] Account\n<style=\"highlight\">6+ [Vibration] Account, basic water 11</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +3 [Vibration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [Vibration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">Time</style>Were, and,,,,,,,,,,,,,, [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}]}, {"level": 4, "name": "Reading the reading technology", "desc": "[WhenUse] If your goal is. <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,, [Vibration], Power Clash ++ 1\n[WhenUse] Benefits +3 [Vibration] Account\nCalculation <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Vibration] Account, basic water 11", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +3 [Vibration] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 3 [Vibration]<style=\"highlight\"></style>"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,, [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}]}]}, {"id": 1060903, "levelList": [{"level": 3, "name": "You are criminals!", "desc": "[WhenUse] The target is 6+ [Vibration], Power Clash ++ 1\n[WhenUse] Consumption 10 [Vibration] I think it's a taxal +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] When this person continues [Vibration] Tiger is during the use [FusionVibration] Calculation [VibrationEcho]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1\n-The means not consumed [Vibration] Technical measures of the above side effects, activity and activity [VibrationExplosion] There"}]}]}, {"level": 4, "name": "You are criminals!", "desc": "[WhenUse] Everyone's fight + + <style=\"highlight\">I.</style> [Vibration] Matampon <style=\"highlight\">(the best)</style>\n[WhenUse] Calculation <style=\"highlight\"> Less than 15 [Vibration] Account</style>Use 10 [Vibration] Electric Money Account +2\n<style=\"highlight\">[WhenUse] Consumption 15 [Vibration] I'll take thorns coins +3</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] When this person continues [Vibration] Tiger is during the use [FusionVibration] Calculation [VibrationEcho]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"}]}, {"coindescs": [{"desc": "<style=\"highlight\">[OnSucceedAttack] If this technique price is more than 10 [Vibration] Believe in technology, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1</style>"}]}, {"coindescs": [{"desc": "<style=\"highlight\">[OnSucceedAttack] If this technique price is more than 10 [Vibration] Believe in technology, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1\n- When this device is less than 15, [Vibration] Number, trigger [VibrationExplosion] After activating the above influence</style>"}]}]}]}, {"id": 1060904, "levelList": [{"level": 1, "name": "Are we waiting?", "desc": "[WhenUse] 2 get (receive[Vibration] The measure of the same target (up to 7)", "coinlist": [{}]}, {"level": 4, "name": "Are we waiting?", "desc": "[WhenUse] 2 get (receive[Vibration] The target of measurements as an HP shield) <style=\"highlight\">13</style>Were, and,,,,,,,,,,,,,,", "coinlist": [{}]}]}, {"id": 1061001, "levelList": [{"level": 1, "name": "Roaming", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}]}, {"coindescs": [{"desc": ""}]}]}, {"level": 2, "name": "Roaming", "desc": "The target is 6+ [Burst], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}]}]}, {"level": 4, "name": "Roaming", "desc": "The target is 6+ [Burst], Call ++ 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}, {"desc": "[OnSucceedAttackHead] Application 1 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application 1 [Burst]"}, {"desc": "[OnSucceedAttackHead] Application 1 [Burst]"}]}]}]}, {"id": 1061002, "levelList": [{"level": 1, "name": "Bone loss", "desc": "", "coinlist": [{"coindescs": [{"desc": ""}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Burst]"}]}]}, {"level": 2, "name": "Bone loss", "desc": "[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\n[WinDuel] Application +1 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Burst]"}, {"desc": "[OnSucceedAttack] Application 1 [TakeHpHealReduce] Valley"}]}]}, {"level": 4, "name": "Bone loss", "desc": "The target is 6+ [Burst], Call ++ 1\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\nలక్ష్యం <lodfien> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< లేద్ien్యం <lodfien>లేదా> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<:\n[WinDuel] Application +1 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] Application +1 [Burst] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Burst]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [TakeHpHealReduce] Valley"}]}]}]}, {"id": 1061003, "levelList": [{"level": 3, "name": "The pleasure of the victim is over", "desc": "[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\n[WinDuel] Application +1 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Application 1 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"}]}, {}]}, {"level": 4, "name": "The pleasure of the victim is over", "desc": "The target is 6+ [Burst], Call ++ 1\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\nలక్ష్యం <lodfien> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< లేద్ien్యం <lodfien>లేదా> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<:\n[WinDuel] App +2 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Application 1 [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The target is 15+ [Burst]Or less than 30% HP, use this currency (for one time skills)"}]}]}]}, {"id": 1061004, "levelList": [{"level": 1, "name": "Emergency", "desc": "", "coinlist": [{"coindescs": [{"desc": ""}]}]}, {"level": 4, "name": "Emergency", "desc": "[StartBattle] There is no way [Laceration] Bag (3 times in each round).", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 1060601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Power wheels",
+          "desc": "[WhenUse] Provide a lot of computer +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Power wheels",
+          "desc": "[WhenUse] Digital +3 costs",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Power wheels",
+          "desc": "[WhenUse] +4 digital fees",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Number of bills in profits +1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pure support",
+          "desc": "[WhenUse] Provide a lot of computer +2\nThe power of conflict during rescue",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Get more than 10 bills <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Pure support",
+          "desc": "[WhenUse] Digital +3 costs\nThe power of conflict during rescue",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Digital +3 costs"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get more than 10 bills <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Pure support",
+          "desc": "[WhenUse] Digital +3 costs\nThe power of conflict during rescue",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Digital +3 costs"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 1 in the number of 5+ bills <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> For each report on the next poem in the next poem (up to 4)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Destruction",
+          "desc": "[WhenUse] More than 10 accounts combine all computers and bills for computers. <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (Communication) with two friends with at least HP",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Friends transactions"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Destruction",
+          "desc": "[WhenUse] More than 10 accounts combine all computers and bills for computers. <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (Communication) with two friends with at least HP",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 tears"
+                }, {
+                  "desc": "[OnSucceedAttack] Get 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "[WhenUse] Get 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (3) Number 3)",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Water",
+          "desc": "[WhenUse] to get <style=\"highlight\">Blood</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Obstacles</color></link></u> (3) Number 3)",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1060701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Route",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttackHead] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Route",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttackHead] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Route",
+          "desc": "2+, the last power +1",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttackHead] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "First",
+          "desc": "[WhenUse] I am very worried about the next line of the first line",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the device is faster than the target, the application has many data from speed syndrome (2)."
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "First",
+          "desc": "[WhenUse] The next line takes two things twice",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the device is faster than the target, hard speed is the same (up to 3)"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "First",
+          "desc": "6 or more speed, call +1 power\n[WhenUse] The next line takes two things twice",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the device is faster than the target, the same difference (more than 4) is as follows."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Strength",
+          "desc": "8+ Quick Electrical Currency +1\nSometimes HP HP Loss (1% HP Loss).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Decrease"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Strength",
+          "desc": "6 or more speed, call +1 power\nHP HP HP HP (+ 0.5% Damage 1% HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Decrease"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pace",
+          "desc": "[OnSucceedEvade] Fire Exchange 1 (every 3 times 3 times) (3 times by mail)",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Pace",
+          "desc": "If you have been bleeding for your purpose, you can get a +2 cash option.\n[OnSucceedEvade] Fire Exchange 1 (every 3 times 3 times) (3 times by mail)",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1060801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Business",
+          "desc": "[WhenUse] Drop skill in the highest rankings in this technique in this technique",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application +1 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Business",
+          "desc": "[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] Three + [KnowledgeExplored], Power Clash ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application +1 [Sinking] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Three + [KnowledgeExplored]Ray -ce"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Business",
+          "desc": "[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] Fighting for the Authority ([KnowledgeExplored] 1)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application +1 [Sinking] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Relationship to maintenance ([KnowledgeExplored] --11)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Performance",
+          "desc": "[WhenUse] Two of these premises have been randomly thrown",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Performance",
+          "desc": "[WhenUse] Two of these premises have been randomly thrown\n[WhenUse] Three + [KnowledgeExplored], Call ++ 1",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Performance",
+          "desc": "[WhenUse] Two of these premises have been randomly thrown\n[WhenUse] Page + ([KnowledgeExplored] 1)",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Topical",
+          "desc": "[WhenUse] 2+ [KnowledgeExplored]Get equal power in the coins [KnowledgeExplored]\n[WhenUse] Deals + 1.5% loss [Sinking] For purpose (up to 15%)",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }, {
+                  "desc": "[EndSkill] If the goal is to increase, remove or work it, 10"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Topical",
+          "desc": "[WhenUse] 2+ [KnowledgeExplored]Get equal power in the coins [KnowledgeExplored]\n[WhenUse] Deal + 3% loss [Sinking] Goal (up to 30%)",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +4 [Sinking] Account"
+                }, {
+                  "desc": "[EndSkill] If the goal is to increase, remove or work it, 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pipe",
+          "desc": "[WhenUse] Two of these premises have been randomly thrown",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Pipe",
+          "desc": "[WhenUse] Two of these premises have been randomly thrown",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1060901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anti-",
+          "desc": "[WhenUse] Benefits +2 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Benefits +2 [Vibration] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Anti-",
+          "desc": "[WhenUse] Benefits +2 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Vibration] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Anti-",
+          "desc": "[WhenUse] Benefits +2 [Vibration] Account\n<style=\"highlight\">6+ [Vibration] Account, basic water 11</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Vibration] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reading the reading technology",
+          "desc": "[WhenUse] Benefits +3 [Vibration] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +3 [Vibration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is 9+ [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Reading the reading technology",
+          "desc": "<style=\"highlight\">[WhenUse] If the goal is 8+ [Vibration], Power Clash ++ 1</style>\n[WhenUse] Benefits +3 [Vibration] Account\n<style=\"highlight\">6+ [Vibration] Account, basic water 11</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +3 [Vibration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [Vibration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">Time</style>Were, and,,,,,,,,,,,,,, [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Reading the reading technology",
+          "desc": "[WhenUse] If your goal is. <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,, [Vibration], Power Clash ++ 1\n[WhenUse] Benefits +3 [Vibration] Account\nCalculation <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Vibration] Account, basic water 11",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +3 [Vibration] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 3 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,, [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "You are criminals!",
+          "desc": "[WhenUse] The target is 6+ [Vibration], Power Clash ++ 1\n[WhenUse] Consumption 10 [Vibration] I think it's a taxal +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] When this person continues [Vibration] Tiger is during the use [FusionVibration] Calculation [VibrationEcho]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1\n-The means not consumed [Vibration] Technical measures of the above side effects, activity and activity [VibrationExplosion] There"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "You are criminals!",
+          "desc": "[WhenUse] Everyone's fight + + <style=\"highlight\">I.</style> [Vibration] Matampon <style=\"highlight\">(the best)</style>\n[WhenUse] Calculation <style=\"highlight\"> Less than 15 [Vibration] Account</style>Use 10 [Vibration] Electric Money Account +2\n<style=\"highlight\">[WhenUse] Consumption 15 [Vibration] I'll take thorns coins +3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] When this person continues [Vibration] Tiger is during the use [FusionVibration] Calculation [VibrationEcho]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this technique price is more than 10 [Vibration] Believe in technology, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1</style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this technique price is more than 10 [Vibration] Believe in technology, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1\n- When this device is less than 15, [Vibration] Number, trigger [VibrationExplosion] After activating the above influence</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1060904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Are we waiting?",
+          "desc": "[WhenUse] 2 get (receive[Vibration] The measure of the same target (up to 7)",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Are we waiting?",
+          "desc": "[WhenUse] 2 get (receive[Vibration] The target of measurements as an HP shield) <style=\"highlight\">13</style>Were, and,,,,,,,,,,,,,,",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1061001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roaming",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Roaming",
+          "desc": "The target is 6+ [Burst], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Roaming",
+          "desc": "The target is 6+ [Burst], Call ++ 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application 1 [Burst]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1061002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bone loss",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Burst]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Bone loss",
+          "desc": "[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\n[WinDuel] Application +1 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Burst]"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 1 [TakeHpHealReduce] Valley"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Bone loss",
+          "desc": "The target is 6+ [Burst], Call ++ 1\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\nలక్ష్యం <lodfien> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< లేద్ien్యం <lodfien>లేదా> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<:\n[WinDuel] Application +1 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application +1 [Burst] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Burst]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [TakeHpHealReduce] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1061003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "The pleasure of the victim is over",
+          "desc": "[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\n[WinDuel] Application +1 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"
+                }
+              ]
+            }, {}
+          ]
+        }, {
+          "level": 4,
+          "name": "The pleasure of the victim is over",
+          "desc": "The target is 6+ [Burst], Call ++ 1\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Or [Burst] Unlike the power to achieve the metal coins +1\nలక్ష్యం <lodfien> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< లేద్ien్యం <lodfien>లేదా> లేదా <<<<<<<<<<<<<<<<<<<<<<<<<<:\n[WinDuel] App +2 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Application 1 [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Burst]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The target is 15+ [Burst]Or less than 30% HP, use this currency (for one time skills)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1061004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Emergency",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Emergency",
+          "desc": "[StartBattle] There is no way [Laceration] Bag (3 times in each round).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

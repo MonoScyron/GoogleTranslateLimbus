@@ -1,1 +1,511 @@
-{"dataList": [{"id": 2100411, "levelList": [{"level": 1, "name": "Candela", "abName": "Appropriate", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 3 Friends transactions"}, {"desc": "[OnSucceedAttack] The minimum percentage is 10% that is maximum percentage."}]}]}, {"level": 3, "name": "Candela", "abName": "Appropriate", "desc": "[BeforeAttack] Up to 50%, ATK-BCX +1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 3 Friends transactions"}, {"desc": "[OnSucceedAttack] Hi HP2% offered to two friends."}]}]}, {"level": 4, "name": "Candela", "abName": "Appropriate", "desc": "[BeforeAttack] Up to 50%, ATK +2 Tip", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 Friends transactions"}, {"desc": "[OnSucceedAttack] Up to 15% of low companions HP."}]}]}]}, {"id": 2100421, "levelList": [{"level": 1, "name": "Candela", "abName": "Appropriate", "desc": "[CantIdentify] \nThe most expensive is targeting XP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] +2 tear application"}, {"desc": "[OnSucceedAttack] 30% of injuries"}]}]}, {"level": 3, "name": "Candela", "abName": "Appropriate", "desc": "[CantIdentify]\nThe most expensive is targeting XP\n[BeforeAttack] Up to 50%, ATK-BCX +1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] +3 tear task"}, {"desc": "[OnSucceedAttack] Level 3 Security"}, {"desc": "[OnSucceedAttack] 50% of injury"}]}]}, {"level": 4, "name": "Candela", "abName": "Appropriate", "desc": "[CantIdentify]\nThe most expensive is targeting XP\n[BeforeAttack] Up to 50%, ATK +2 Tip", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 tear task"}, {"desc": "[OnSucceedAttack] 5 Less than 5 security levels"}, {"desc": "[OnSucceedAttack] 50% of injury"}]}]}]}, {"id": 2100511, "levelList": [{"level": 1, "name": "9:2", "abName": "Skin prophets", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning four."}, {"desc": "[OnSucceedAttack] 4"}]}]}, {"level": 3, "name": "9:2", "abName": "Skin prophets", "desc": "[BeforeAttack] 4+ (desire curse), ATK +1 weight", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning four."}, {"desc": "[OnSucceedAttack] 4"}]}]}, {"level": 4, "name": "9:2", "abName": "Skin prophets", "desc": "[BeforeAttack] 4+ (desire curse), ATK +1 weight\n[BeforeAttack] At least 4+ (high percent), extra ATK +1 increase", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning four."}, {"desc": "[OnSucceedAttack] 4"}, {"desc": "[OnSucceedAttackTail] If the divine is held in the universe, the universe has less than the source and the ability to survive."}]}]}]}, {"id": 2100521, "levelList": [{"level": 1, "name": "9:2", "abName": "Skin prophets", "desc": "[CantIdentify]\nRandomly", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning."}, {"desc": "[OnSucceedAttack] 4"}]}]}, {"level": 3, "name": "9:2", "abName": "Skin prophets", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 4+ (desire curse), ATK +1 weight", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning."}, {"desc": "[OnSucceedAttack] 4"}, {"desc": "[OnSucceedAttackTail] If the goal is more than 10 irritation, bring a great desire of the next poem."}]}]}, {"level": 4, "name": "9:2", "abName": "Skin prophets", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 4+ (desire curse), ATK +1 weight\n[BeforeAttack] 4+ (highest percent), additional ATK +1 weight", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning."}, {"desc": "[OnSucceedAttack] 4"}, {"desc": "[OnSucceedAttackTail] If the goal burns more than 10, the next round would improve two great desires."}]}]}]}, {"id": 2100611, "levelList": [{"level": 1, "name": "Sponge", "abName": "Episode Blue Answers I want", "desc": "[BeforeAttack] Most of the limits is more than 4 +.", "coinlist": [{"coindescs": [{"desc": "[EndSkill] This is 10% of the HP device, the second is used for HP and 2 is used up to 2 with low current cooperation. [ShieldManagerCryingToad] High"}, {"desc": "-4+ echoes., Submit the application for more friends"}, {"desc": "- If a strike-with is already there [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it"}, {"desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '."}]}]}, {"level": 3, "name": "Sponge", "abName": "Episode Blue Answers I want", "desc": "<style=\"highlight\">[BeforeAttack] Benefits (most argument-2) ATK (up to 2)</style>", "coinlist": [{"coindescs": [{"desc": "[EndSkill] Crisis <style=\"highlight\">14%</style> This device is the largest HP like the shield <style=\"highlight\">(1 + (the above reason-2)))</style> At least HP current and induced method application 2 2 2 2 [ShieldManagerCryingToad] High\n<style=\"highlight\">(More than more friends [ShieldManagerCryingToad]: P)</style>"}, {"desc": "- If a strike-with is already there [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"}, {"desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"}]}]}, {"level": 4, "name": "Sponge", "abName": "Episode Blue Answers I want", "desc": "[BeforeAttack] Benefits (most argument-2) ATK (up to 2)<style=\"highlight\"></style>", "coinlist": [{"coindescs": [{"desc": "[EndSkill] Crisis <style=\"highlight\">20%</style> The highest HP device is its own shield I (1 + (most parameter-2) Assistant Company, at least at least HP and 2 apps 2. [ShieldManagerCryingToad] High\n(More than more friends [ShieldManagerCryingToad]: P)"}, {"desc": "- If a strike-with is already there [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"}, {"desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"}]}]}]}, {"id": 2100621, "levelList": [{"level": 1, "name": "Sponge", "abName": "Episode Blue Answers I want", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Is currently the largest limit in 3 +, A injection +1\n[BeforeAttack] Benefits +5 [Aggro] Grill to get the next rash technique", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}, {"desc": "[EndSkill] Profit [ShieldManagerCryingToad](Up to 25%)"}, {"desc": "After the end of this device, [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it"}, {"desc": "-4+ Dark Advice. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '."}]}]}, {"level": 3, "name": "Sponge", "abName": "Episode Blue Answers I want", "desc": "[CantIdentify]\nRandomly\n<style=\"highlight\">[BeforeAttack] Benefits (most argument-2) ATK (up to 2)</style>\n[BeforeAttack] to get <style=\"highlight\">+10 [Aggro]</style> Grill to get the next rash technique", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]<style=\"highlight\"></style>"}, {"desc": "[EndSkill] \"'\" (' '<style=\"highlight\">18</style> Were, and,,,,,,,,,,,,,, <style=\"highlight\">Blood</style>(The largest reason) the percentage of this device is its shield and the largest HP in the form of 2. [ShieldManagerCryingToad]the best <style=\"highlight\">30%</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "After the end of this device, [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"}, {"desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"}]}]}, {"level": 4, "name": "Sponge", "abName": "Episode Blue Answers I want", "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most argument-2) ATK (up to 2)\n[BeforeAttack] Benefits +10 [Aggro] Grill to get the next rash technique<style=\"highlight\"></style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking] And and <style=\"highlight\">+ P. [Sinking] Account</style>"}, {"desc": "[EndSkill] \"'\" (' '<style=\"highlight\">20</style> Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>(The largest reason) the percentage of this device is its shield and the largest HP in the form of 2. [ShieldManagerCryingToad]the best <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "After the end of this device, [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"}, {"desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">- ++</style>"}]}]}]}, {"id": 2100711, "levelList": [{"level": 1, "name": "Six", "abName": "Quickly", "desc": "[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Curse]\nStep 1 app [Curse] 3 negative results [Curse] Or [NailPersonality] (the best)"}, {"desc": "[OnSucceedAttack] 2 Anxiety [NailPersonality]"}]}]}, {"level": 3, "name": "Six", "abName": "Quickly", "desc": "<style=\"highlight\">[BeforeAttack] ATK WAGA +1, 4+</style>\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]<style=\"highlight\"></style>"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Curse]\nStep 1 app [Curse] 3 negative results [Curse] Or [NailPersonality] (the best)<style=\"highlight\"></style>"}, {"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [NailPersonality]"}, {"desc": "<style=\"highlight\">[OnSucceedAttackHead] 2 Anxiety [Binding] Next line (once once)</style>"}]}]}, {"level": 4, "name": "Six", "abName": "Quickly", "desc": "<style=\"highlight\">[BeforeAttack] Three points +1 of jealousy ATK -Wawael +1 (up to 2)</style>\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]<style=\"highlight\"></style>"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Curse]\nStep 1 app [Curse] All <style=\"highlight\">There is no way</style> Side effects on target [Curse] Or [NailPersonality] (the best)"}, {"desc": "[OnSucceedAttack] Application 3 [NailPersonality]<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">[OnSucceedAttack] 4+ [Curse]1 apply [ParryingResultDown] (After the Wiser)</style>"}, {"desc": "[OnSucceedAttackHead] 2 Anxiety [Binding] Next line (once once)<style=\"highlight\"></style>"}]}]}]}, {"id": 2100721, "levelList": [{"level": 1, "name": "Six", "abName": "Quickly", "desc": "[CantIdentify]\nRandomly\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] 2 Anxiety [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Curse]"}, {"desc": "[OnSucceedAttack] 2 Anxiety [NailPersonality]"}]}]}, {"level": 3, "name": "Six", "abName": "Quickly", "desc": "[CantIdentify]\nRandomly\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2<style=\"highlight\"></style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] Crisis <style=\"highlight\">Blood</style> [Laceration]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Curse]<style=\"highlight\"></style>"}, {"desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [NailPersonality]"}, {"desc": "<style=\"highlight\">[OnSucceedAttackTail] 2 Anxiety [Binding] Next line (once once)</style>"}]}]}, {"level": 4, "name": "Six", "abName": "Quickly", "desc": "[CantIdentify]\nRandomly\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2<style=\"highlight\"></style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] Application 3 [Laceration]<style=\"highlight\"></style>"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Curse]<style=\"highlight\"></style>"}, {"desc": "[OnSucceedAttack] Application 3 [NailPersonality]<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">[OnSucceedAttack] This father is a technology of 4+ to 4+. [ParryingResultDown] (After the Wiser)</style>"}, {"desc": "[OnSucceedAttackTail] 2 Anxiety [Binding] Next line (once once)<style=\"highlight\"></style>"}, {"desc": "<style=\"highlight\">[OnSucceedAttackTail] 2 Anxiety [DefenseDown] Next line (once once)</style>"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Candela",
+          "abName": "Appropriate",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 3 Friends transactions"
+                }, {
+                  "desc": "[OnSucceedAttack] The minimum percentage is 10% that is maximum percentage."
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Candela",
+          "abName": "Appropriate",
+          "desc": "[BeforeAttack] Up to 50%, ATK-BCX +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 3 Friends transactions"
+                }, {
+                  "desc": "[OnSucceedAttack] Hi HP2% offered to two friends."
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Candela",
+          "abName": "Appropriate",
+          "desc": "[BeforeAttack] Up to 50%, ATK +2 Tip",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 Friends transactions"
+                }, {
+                  "desc": "[OnSucceedAttack] Up to 15% of low companions HP."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Candela",
+          "abName": "Appropriate",
+          "desc": "[CantIdentify] \nThe most expensive is targeting XP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] +2 tear application"
+                }, {
+                  "desc": "[OnSucceedAttack] 30% of injuries"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Candela",
+          "abName": "Appropriate",
+          "desc": "[CantIdentify]\nThe most expensive is targeting XP\n[BeforeAttack] Up to 50%, ATK-BCX +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] +3 tear task"
+                }, {
+                  "desc": "[OnSucceedAttack] Level 3 Security"
+                }, {
+                  "desc": "[OnSucceedAttack] 50% of injury"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Candela",
+          "abName": "Appropriate",
+          "desc": "[CantIdentify]\nThe most expensive is targeting XP\n[BeforeAttack] Up to 50%, ATK +2 Tip",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 tear task"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 Less than 5 security levels"
+                }, {
+                  "desc": "[OnSucceedAttack] 50% of injury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin prophets",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning four."
+                }, {
+                  "desc": "[OnSucceedAttack] 4"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin prophets",
+          "desc": "[BeforeAttack] 4+ (desire curse), ATK +1 weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning four."
+                }, {
+                  "desc": "[OnSucceedAttack] 4"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin prophets",
+          "desc": "[BeforeAttack] 4+ (desire curse), ATK +1 weight\n[BeforeAttack] At least 4+ (high percent), extra ATK +1 increase",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning four."
+                }, {
+                  "desc": "[OnSucceedAttack] 4"
+                }, {
+                  "desc": "[OnSucceedAttackTail] If the divine is held in the universe, the universe has less than the source and the ability to survive."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin prophets",
+          "desc": "[CantIdentify]\nRandomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning."
+                }, {
+                  "desc": "[OnSucceedAttack] 4"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin prophets",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 4+ (desire curse), ATK +1 weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning."
+                }, {
+                  "desc": "[OnSucceedAttack] 4"
+                }, {
+                  "desc": "[OnSucceedAttackTail] If the goal is more than 10 irritation, bring a great desire of the next poem."
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin prophets",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] 4+ (desire curse), ATK +1 weight\n[BeforeAttack] 4+ (highest percent), additional ATK +1 weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the goal is not burned, it is suitable for burning."
+                }, {
+                  "desc": "[OnSucceedAttack] 4"
+                }, {
+                  "desc": "[OnSucceedAttackTail] If the goal burns more than 10, the next round would improve two great desires."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sponge",
+          "abName": "Episode Blue Answers I want",
+          "desc": "[BeforeAttack] Most of the limits is more than 4 +.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] This is 10% of the HP device, the second is used for HP and 2 is used up to 2 with low current cooperation. [ShieldManagerCryingToad] High"
+                }, {
+                  "desc": "-4+ echoes., Submit the application for more friends"
+                }, {
+                  "desc": "- If a strike-with is already there [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it"
+                }, {
+                  "desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '."
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Sponge",
+          "abName": "Episode Blue Answers I want",
+          "desc": "<style=\"highlight\">[BeforeAttack] Benefits (most argument-2) ATK (up to 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Crisis <style=\"highlight\">14%</style> This device is the largest HP like the shield <style=\"highlight\">(1 + (the above reason-2)))</style> At least HP current and induced method application 2 2 2 2 [ShieldManagerCryingToad] High\n<style=\"highlight\">(More than more friends [ShieldManagerCryingToad]: P)</style>"
+                }, {
+                  "desc": "- If a strike-with is already there [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"
+                }, {
+                  "desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Sponge",
+          "abName": "Episode Blue Answers I want",
+          "desc": "[BeforeAttack] Benefits (most argument-2) ATK (up to 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Crisis <style=\"highlight\">20%</style> The highest HP device is its own shield I (1 + (most parameter-2) Assistant Company, at least at least HP and 2 apps 2. [ShieldManagerCryingToad] High\n(More than more friends [ShieldManagerCryingToad]: P)"
+                }, {
+                  "desc": "- If a strike-with is already there [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"
+                }, {
+                  "desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sponge",
+          "abName": "Episode Blue Answers I want",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Is currently the largest limit in 3 +, A injection +1\n[BeforeAttack] Benefits +5 [Aggro] Grill to get the next rash technique",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }, {
+                  "desc": "[EndSkill] Profit [ShieldManagerCryingToad](Up to 25%)"
+                }, {
+                  "desc": "After the end of this device, [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it"
+                }, {
+                  "desc": "-4+ Dark Advice. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '."
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Sponge",
+          "abName": "Episode Blue Answers I want",
+          "desc": "[CantIdentify]\nRandomly\n<style=\"highlight\">[BeforeAttack] Benefits (most argument-2) ATK (up to 2)</style>\n[BeforeAttack] to get <style=\"highlight\">+10 [Aggro]</style> Grill to get the next rash technique",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]<style=\"highlight\"></style>"
+                }, {
+                  "desc": "[EndSkill] \"'\" (' '<style=\"highlight\">18</style> Were, and,,,,,,,,,,,,,, <style=\"highlight\">Blood</style>(The largest reason) the percentage of this device is its shield and the largest HP in the form of 2. [ShieldManagerCryingToad]the best <style=\"highlight\">30%</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "After the end of this device, [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"
+                }, {
+                  "desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Sponge",
+          "abName": "Episode Blue Answers I want",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most argument-2) ATK (up to 2)\n[BeforeAttack] Benefits +10 [Aggro] Grill to get the next rash technique<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking] And and <style=\"highlight\">+ P. [Sinking] Account</style>"
+                }, {
+                  "desc": "[EndSkill] \"'\" (' '<style=\"highlight\">20</style> Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>(The largest reason) the percentage of this device is its shield and the largest HP in the form of 2. [ShieldManagerCryingToad]the best <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "After the end of this device, [ShieldManagerCryingToad]Exchange of currencies [ShieldManagerCryingToad] 2 is worth it<style=\"highlight\"></style>"
+                }, {
+                  "desc": "-4+ for this reason. [ShieldManagerCryingToad]And \"Change [ShieldManagerCryingToad] Change 3 '.<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">- ++</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Six",
+          "abName": "Quickly",
+          "desc": "[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Curse]\nStep 1 app [Curse] 3 negative results [Curse] Or [NailPersonality] (the best)"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Six",
+          "abName": "Quickly",
+          "desc": "<style=\"highlight\">[BeforeAttack] ATK WAGA +1, 4+</style>\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Curse]\nStep 1 app [Curse] 3 negative results [Curse] Or [NailPersonality] (the best)<style=\"highlight\"></style>"
+                }, {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [NailPersonality]"
+                }, {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 2 Anxiety [Binding] Next line (once once)</style>"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Six",
+          "abName": "Quickly",
+          "desc": "<style=\"highlight\">[BeforeAttack] Three points +1 of jealousy ATK -Wawael +1 (up to 2)</style>\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Curse]\nStep 1 app [Curse] All <style=\"highlight\">There is no way</style> Side effects on target [Curse] Or [NailPersonality] (the best)"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [NailPersonality]<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 4+ [Curse]1 apply [ParryingResultDown] (After the Wiser)</style>"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Binding] Next line (once once)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 2100721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Six",
+          "abName": "Quickly",
+          "desc": "[CantIdentify]\nRandomly\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] 2 Anxiety [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Curse]"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 3,
+          "name": "Six",
+          "abName": "Quickly",
+          "desc": "[CantIdentify]\nRandomly\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Crisis <style=\"highlight\">Blood</style> [Laceration]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Curse]<style=\"highlight\"></style>"
+                }, {
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Blood</style> [NailPersonality]"
+                }, {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 2 Anxiety [Binding] Next line (once once)</style>"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Six",
+          "abName": "Quickly",
+          "desc": "[CantIdentify]\nRandomly\n[EndSkill] If your goal is. [Curse]Repeat it twice and reduce 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Application 3 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Curse]<style=\"highlight\"></style>"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [NailPersonality]<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] This father is a technology of 4+ to 4+. [ParryingResultDown] (After the Wiser)</style>"
+                }, {
+                  "desc": "[OnSucceedAttackTail] 2 Anxiety [Binding] Next line (once once)<style=\"highlight\"></style>"
+                }, {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 2 Anxiety [DefenseDown] Next line (once once)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

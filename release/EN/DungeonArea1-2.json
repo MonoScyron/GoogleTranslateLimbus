@@ -1,1 +1,101 @@
-{"dataList": [{"id": "dungeon_1_2_0101", "content": "Save"}, {"id": "dungeon_1_2_0102", "content": "White"}, {"id": "dungeon_1_2_0103", "content": "Carry 1"}, {"id": "dungeon_1_2_0104", "content": "Stone capsules 2"}, {"id": "dungeon_1_2_0105", "content": "Carry 3"}, {"id": "dungeon_1_2_0106", "content": "Carry 4"}, {"id": "dungeon_1_2_0107", "content": "Crash"}, {"id": "dungeon_1_2_0108", "content": "Glory"}, {"id": "dungeon_1_2_0109", "content": "Asylum"}, {"id": "dungeon_1_2_0110", "content": "Underground in factory doors"}, {"id": "dungeon_1_2_0201", "content": "Method"}, {"id": "dungeon_1_2_0202", "content": "Product line 1"}, {"id": "dungeon_1_2_0203", "content": "Product line 2"}, {"id": "dungeon_1_2_0204", "content": "Product Row 3"}, {"id": "dungeon_1_2_0205", "content": "Tail"}, {"id": "dungeon_1_2_0206", "content": "Tail"}, {"id": "dungeon_1_2_0207", "content": "Line"}, {"id": "dungeon_1_2_0208", "content": "Take a"}, {"id": "dungeon_1_2_0209", "content": "Point of maintenance"}, {"id": "dungeon_1_2_0210", "content": "Backup Generator"}, {"id": "dungeon_1_2_0211", "content": "Security test"}, {"id": "dungeon_1_2_0212", "content": "After this"}, {"id": "dungeon_1_2_0213", "content": "Limited"}, {"id": "dungeon_1_2_0214", "content": "Lost"}, {"id": "dungeon_1_2_0215", "content": "Quality management"}, {"id": "dungeon_1_2_0301", "content": "Snow"}, {"id": "dungeon_1_2_0302", "content": "Frozen water"}, {"id": "dungeon_1_2_0303", "content": "The village has been destroyed"}, {"id": "dungeon_1_2_0304", "content": "Snap"}, {"id": "dungeon_1_2_0305", "content": "Buffalo"}, {"id": "dungeon_1_2_0306", "content": "Exchange"}, {"id": "dungeon_1_2_0307", "content": "The snow fence is on the neighborhood"}]}
+{
+  "dataList": [
+    {
+      "id": "dungeon_1_2_0101",
+      "content": "Save"
+    }, {
+      "id": "dungeon_1_2_0102",
+      "content": "White"
+    }, {
+      "id": "dungeon_1_2_0103",
+      "content": "Carry 1"
+    }, {
+      "id": "dungeon_1_2_0104",
+      "content": "Stone capsules 2"
+    }, {
+      "id": "dungeon_1_2_0105",
+      "content": "Carry 3"
+    }, {
+      "id": "dungeon_1_2_0106",
+      "content": "Carry 4"
+    }, {
+      "id": "dungeon_1_2_0107",
+      "content": "Crash"
+    }, {
+      "id": "dungeon_1_2_0108",
+      "content": "Glory"
+    }, {
+      "id": "dungeon_1_2_0109",
+      "content": "Asylum"
+    }, {
+      "id": "dungeon_1_2_0110",
+      "content": "Underground in factory doors"
+    }, {
+      "id": "dungeon_1_2_0201",
+      "content": "Method"
+    }, {
+      "id": "dungeon_1_2_0202",
+      "content": "Product line 1"
+    }, {
+      "id": "dungeon_1_2_0203",
+      "content": "Product line 2"
+    }, {
+      "id": "dungeon_1_2_0204",
+      "content": "Product Row 3"
+    }, {
+      "id": "dungeon_1_2_0205",
+      "content": "Tail"
+    }, {
+      "id": "dungeon_1_2_0206",
+      "content": "Tail"
+    }, {
+      "id": "dungeon_1_2_0207",
+      "content": "Line"
+    }, {
+      "id": "dungeon_1_2_0208",
+      "content": "Take a"
+    }, {
+      "id": "dungeon_1_2_0209",
+      "content": "Point of maintenance"
+    }, {
+      "id": "dungeon_1_2_0210",
+      "content": "Backup Generator"
+    }, {
+      "id": "dungeon_1_2_0211",
+      "content": "Security test"
+    }, {
+      "id": "dungeon_1_2_0212",
+      "content": "After this"
+    }, {
+      "id": "dungeon_1_2_0213",
+      "content": "Limited"
+    }, {
+      "id": "dungeon_1_2_0214",
+      "content": "Lost"
+    }, {
+      "id": "dungeon_1_2_0215",
+      "content": "Quality management"
+    }, {
+      "id": "dungeon_1_2_0301",
+      "content": "Snow"
+    }, {
+      "id": "dungeon_1_2_0302",
+      "content": "Frozen water"
+    }, {
+      "id": "dungeon_1_2_0303",
+      "content": "The village has been destroyed"
+    }, {
+      "id": "dungeon_1_2_0304",
+      "content": "Snap"
+    }, {
+      "id": "dungeon_1_2_0305",
+      "content": "Buffalo"
+    }, {
+      "id": "dungeon_1_2_0306",
+      "content": "Exchange"
+    }, {
+      "id": "dungeon_1_2_0307",
+      "content": "The snow fence is on the neighborhood"
+    }
+  ]
+}

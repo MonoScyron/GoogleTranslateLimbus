@@ -4,13 +4,29 @@ import shutil
 
 from const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH, NUM_RETRY
 
-if __name__ == '__main__':
-    utils.translate_prefix('.', ['trans'], prefix='testing.json', retry=NUM_RETRY)
+# todo: need to fix ego, id, and enemy skills
 
-    utils.translate(STORY_PATH, ['content', 'teller', 'title', 'place'], retry=NUM_RETRY)  # story
+if __name__ == '__main__':
+    # ! temp
+    utils.translate_prefix(STORY_PATH, ['content', 'teller', 'title', 'place'], retry=NUM_RETRY, prefix='S')  # story
+
+    # ! local
+    utils.translate_prefix(STORY_PATH,
+                           ['content', 'teller', 'title', 'place'],
+                           retry=NUM_RETRY,
+                           prefix='^[0-9]|^P')  # story
+
+    # ! scripting
+    utils.translate_prefix(STORY_PATH,
+                           ['content', 'teller', 'title', 'place'],
+                           retry=NUM_RETRY,
+                           prefix='^[^0-9PS]')  # story
     utils.translate(ANNOUNCER_PATH, ['dlg'], retry=NUM_RETRY)  # announcers
     utils.translate(ID_PATH, ['dlg'], retry=NUM_RETRY)  # id dialogue
     utils.translate(EGO_PATH, ['dlg'], retry=NUM_RETRY)  # ego dialogue
+
+    # ! finished
+    utils.translate_prefix('.', ['trans'], prefix='testing', retry=NUM_RETRY)
 
     utils.translate_prefix(BASE_PATH, ['teller', 'dialog'], prefix='AbDlg_', retry=NUM_RETRY)
 
@@ -150,6 +166,8 @@ if __name__ == '__main__':
     utils.translate_prefix(BASE_PATH, values=['content'], prefix='ShopItemCount', retry=NUM_RETRY)
     utils.translate_prefix(BASE_PATH, values=['content'], prefix='ShotcutKey', retry=NUM_RETRY)
 
+    # ! pm-bots
+
     utils.translate_prefix(BASE_PATH,
                            values=['levelList', 'abName', 'name', 'desc', 'coinlist', 'coindescs', 'desc'],
                            prefix='Skills', retry=NUM_RETRY)
@@ -165,6 +183,7 @@ if __name__ == '__main__':
 
     # skipping StoryText.json (test file)
 
+    # ! FINISHED
     utils.translate_prefix(BASE_PATH, values=['content', 'title', 'desc'], prefix='StoryTheater', retry=NUM_RETRY)
     utils.translate_prefix(BASE_PATH, values=['content'], prefix='StoryUIText', retry=NUM_RETRY)
 
@@ -188,4 +207,5 @@ if __name__ == '__main__':
 
     utils.translate_prefix(BASE_PATH, values=['content'], prefix='Walpu', retry=NUM_RETRY)
 
-    shutil.copy('LimbusLocalize_BIE.dll', os.path.join(BUILD_PATH, 'LimbusLocalize_BIE.dll'))
+    if 'LimbusLocalize_BIE.dll' in os.listdir(BUILD_PATH):
+        shutil.copy('LimbusLocalize_BIE.dll', os.path.join(BUILD_PATH, 'LimbusLocalize_BIE.dll'))
