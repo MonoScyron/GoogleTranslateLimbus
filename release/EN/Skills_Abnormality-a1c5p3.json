@@ -1,1 +1,1741 @@
-{"dataList": [{"id": 810001, "levelList": [{"level": 1, "name": "Everything is delivered", "desc": "For the desired enemies", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Most candles"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Most candles"}]}]}]}, {"id": 810002, "levelList": [{"level": 1, "name": "Great ...", "desc": "For the desired enemies", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 completely angry in the next hope list"}, {"desc": "[OnSucceedAttack] If your goal is. [Combustion], The app 4 characters"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 completely angry in the next hope list"}, {"desc": "[OnSucceedAttack] If your goal is. [Combustion], The app 4 characters"}]}]}]}, {"id": 810003, "levelList": [{"level": 1, "name": "9:2", "desc": "Everything in the next round of battle.\nAfter reaching the goal [AaCePcBa]The target is up to 5%.\n[DefeatDuel] 10 is suitable for burning.\n[EndBattle] HP is the largest of all candles.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Maximum Tri Tritama HP 10% less."}, {"desc": "[OnSucceedAttack] Burns combination number 5 and +2 use"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Maximum Tri Tritama HP 10% less."}, {"desc": "[OnSucceedAttack] Burns combination number 5 and +2 use"}]}]}]}, {"id": 810004, "levelList": [{"level": 1, "name": "6:5", "desc": "[CantDuel][CantChangeTarget]\nLoss of damage.\nRandom app for the enemy [AaCePcBa]Intersection\n[EndBattle] All candles maximum HP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Maximum HP device diminishes 10%."}, {"desc": "[OnSucceedAttack] Here's 10 swelling"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Maximum HP device diminishes 10%."}, {"desc": "[OnSucceedAttack] Here's 10 swelling"}]}]}]}, {"id": 810005, "levelList": [{"level": 1, "name": "All things will be found", "desc": "[CantDuel]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Bad 1 wave"}]}]}]}, {"id": 810006, "levelList": [{"level": 1, "name": "Everything is burning", "desc": "[CantDuel]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Combustion]Apply 3 times."}]}]}]}, {"id": 810701, "levelList": [{"level": 1, "name": "Fire", "desc": "Line [AaCePcBa]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 6 Burn Transactions and +2"}]}]}]}, {"id": 810702, "levelList": [{"level": 1, "name": "So it burns", "desc": "[StartBattle] Get 20 shields\nWhen the slope breaks, light changes in the next round.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Application +1 Blunts and Burn Account"}]}]}]}, {"id": 810101, "levelList": [{"level": 1, "name": "Is harmful", "desc": "[StartBattle] 1 Use green mucus", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 applications"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 applications"}]}]}]}, {"id": 810102, "levelList": [{"level": 1, "name": "Rusty", "desc": "[StartBattle] 1 Use green mucus", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Apply lower level security [Poison] Matampon"}, {"desc": "[OnSucceedAttack] 1 larva"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Apply lower level security [Poison] Matampon"}, {"desc": "[OnSucceedAttack] 1 larva"}]}]}]}, {"id": 810103, "levelList": [{"level": 1, "name": "Myth", "desc": "[StartBattle] 1 Use green mucus", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Poison]1 applies for paralysis"}, {"desc": "[OnSucceedAttack] 2 larva application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] If your goal is. [Poison]1 applies for paralysis"}, {"desc": "[OnSucceedAttack] 2 larva application"}]}]}]}, {"id": 810104, "levelList": [{"level": 1, "name": "Liquid dive", "desc": "[StartBattle] Entrance 2 Green Meetters\n[WhenUse] 3 Burning Larway", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Applies to 4 GIF"}, {"desc": "[OnSucceedAttackHead] The next line is applied for paralysis"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Applies to 4 GIF"}, {"desc": "[OnSucceedAttackHead] The next line is applied for paralysis"}]}]}]}, {"id": 810105, "levelList": [{"level": 1, "name": "Relief", "desc": "[StartBattle] Atx weight [AaCePcBh]\n[StartBattle] Get 10 [AaCePcBh]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 10 Jeff"}, {"desc": "[OnSucceedAttack] 7 Account"}, {"desc": "[OnSucceedAttack] 3 Burning Larway"}, {"desc": "[OnSucceedAttackHead] The following application is stored less than 1 and 3"}]}]}]}, {"id": 810106, "levelList": [{"level": 1, "name": "Manual", "desc": "[CantDuel][CantChangeTarget]\nFirst round\nGreen Telka has been lost in the attack", "coinlist": [{"coindescs": [{"desc": "[TargetKill] Benefits 3 [AaCePcBh]Intersection"}]}]}]}, {"id": 810107, "levelList": [{"level": 1, "name": "If Jif Giff Giff", "desc": "[OnSucceedEvade] It is suitable for 5 functions", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 810201, "levelList": [{"level": 1, "name": "Tt Main Tape", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}]}]}]}, {"id": 810202, "levelList": [{"level": 1, "name": "Angel", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}]}]}]}, {"id": 810203, "levelList": [{"level": 1, "name": "Hit", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Sinking]"}, {"desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 app 4 [Sinking]"}, {"desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"}]}]}]}, {"id": 810204, "levelList": [{"level": 1, "name": "break down", "desc": "[DefeatDuel] The fluid part of the device lost 34% of the maximum value.\n[DefeatDuel] 1 person", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}, {"desc": "[OnSucceedAttackHead] 4 sinks"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +3 ton-settings"}, {"desc": "[OnSucceedAttackHead] 4 sinks"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}, {"desc": "[OnSucceedAttackHead] 4 sinks"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Ped"}]}]}]}, {"id": 810205, "levelList": [{"level": 1, "name": "Silico", "desc": "[CantDuel][StartBattle] Weather", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 sync and +2 tonnes of measurement application"}, {"desc": "[OnSucceedAttackHead] Success is lost"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sync and +2 tonnes of measurement application"}]}]}]}, {"id": 810206, "levelList": [{"level": 1, "name": "The ball", "desc": "[CantDuel][CantChangeTarget] The goal is to eliminate danger\n[EndSkill] 34% of the old age was lost.\n[EndBattle] Crazy blind 1.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The item will be eliminated."}]}]}]}, {"id": 810207, "levelList": [{"level": 1, "name": "Blow", "desc": "[EndBattle] Create a flop", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}, {"desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}, {"desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"}]}]}]}, {"id": 810208, "levelList": [{"level": 1, "name": "Barking", "desc": "[StartBattle] All the blind movements\n[StartBattle] What you choose and finish the destruction", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 sinks"}]}]}]}, {"id": 811001, "levelList": [{"level": 1, "name": "Lorch", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 4 bleeding"}]}]}]}, {"id": 811002, "levelList": [{"level": 1, "name": "Game Injuries", "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 811003, "levelList": [{"level": 1, "name": "City protection!", "desc": "[WhenUse] 5 a situation", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}]}]}, {"id": 811004, "levelList": [{"level": 1, "name": "Religious window", "desc": "[WhenUse] 5 Phozna account and +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Composition"}, {"desc": "[OnSucceedAttack] Alin 2"}]}]}]}, {"id": 811005, "levelList": [{"level": 1, "name": "Water", "desc": "If you attack this device, there is no violation of the level 1 after this attack.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 811101, "levelList": [{"level": 1, "name": "Train", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] +2 digital readiall application"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] +1 bleeding mode"}]}]}]}, {"id": 811102, "levelList": [{"level": 1, "name": "Grave chime", "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}]}]}, {"id": 811103, "levelList": [{"level": 1, "name": "City protection!", "desc": "[WhenUse] 5 a situation", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits Account +1"}, {"desc": "[OnSucceedAttack] Operation 4S"}]}]}]}, {"id": 811104, "levelList": [{"level": 1, "name": "Registration", "desc": "[WhenUse] 5 Phozna account and +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Late"}, {"desc": "[OnSucceedAttack] Alin 2"}]}]}]}, {"id": 811105, "levelList": [{"level": 1, "name": "Migration", "desc": "[OnSucceedEvade] Level 1 violates the rules below (up to 3).", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 810301, "levelList": [{"level": 1, "name": "Start hunting", "desc": "[StartBattle] Next red 4 call your friend\n[WhenUse] Apply next Hunt label", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 810302, "levelList": [{"level": 1, "name": "Indicator", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 810303, "levelList": [{"level": 1, "name": "Go to fork fish", "desc": "", "coinlist": [{}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] Under the third floor violation"}, {"desc": "[OnSucceedAttack] Alin 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 bleeding"}]}]}]}, {"id": 810304, "levelList": [{"level": 1, "name": "Inhalation", "desc": "[StartBattle] 10 Piese I +10 peace.\nClick the key to use the account without using this method.\nEverything is over [PlusCoinValueUp] This is the number of other coins:", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810305, "levelList": [{"level": 1, "name": "Hommer", "desc": "Click the key to use the account without using this method.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 digital readiall application"}]}]}]}, {"id": 810306, "levelList": [{"level": 1, "name": "Wet", "desc": "+ 30% dangerous rates loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[CriticalOnSucceedAttack] Increase the first position of the 50% of the working location."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 5 Bleeding"}]}]}]}, {"id": 810307, "levelList": [{"level": 1, "name": "Caught", "desc": "This technology does not seriously use the calculated account.\nEach person signs + 5% loss [Laceration] Matampon\n[WhenUse] If the device is not flat, it is divided into rotation.", "coinlist": [{"coindescs": [{"desc": "+ 50% loss due to severe attacks"}, {"desc": "[OnSucceedAttack] Find"}]}]}]}, {"id": 810308, "levelList": [{"level": 1, "name": "Inhalation", "desc": "[StartBattle] 3 Get poi and +5 parts.\nTo do so, get the last strength and intensity of pregnancy.\nFor this reason, number 1 has lost their place after the attack.", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810309, "levelList": [{"level": 1, "name": "Living.", "desc": "+ 30% dangerous rates loss", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."}]}]}]}, {"id": 810310, "levelList": [{"level": 1, "name": "He must be", "desc": "[TurnStartBattle] After using this procedure, if you have more than 0 obstacles on the device, you can activate the security device.\n[StartBattle] Get 10% HP.", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810311, "levelList": [{"level": 1, "name": "Halpun is centered", "desc": "The final power is like a +1 starbucks that is attacking the goal.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Composition"}, {"desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."}]}]}]}, {"id": 810312, "levelList": [{"level": 1, "name": "You have to hunt ...", "desc": "Click the key to use the account without using this method.\nKeep + 5% for any loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "+ 50% loss due to severe attacks"}, {"desc": "[OnSucceedAttack] Find"}]}]}]}, {"id": 810401, "levelList": [{"level": 1, "name": "garlic", "desc": "[WhenUse] Benefits Account +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}]}]}, {"id": 810402, "levelList": [{"level": 1, "name": "Crash", "desc": "[WhenUse] 5 a situation", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Next round is sensitive"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Suitable for security level in the next round"}, {"desc": "[OnSucceedAttackHead] Reuse this connection again (up to 3)"}]}]}]}, {"id": 810403, "levelList": [{"level": 1, "name": "I will follow it ...", "desc": "[TurnStartBattle] If you have more than 0 obstacles from the angle of the waiting list, attack this help.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}]}]}, {"id": 810404, "levelList": [{"level": 1, "name": "Assault", "desc": "Very seriously, 50% injury\nDeal + 5% loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 Fire application"}, {"desc": "[CriticalOnSucceedAttack] Increase the first position of the 50% of the working location."}]}]}]}, {"id": 810405, "levelList": [{"level": 1, "name": "the best", "desc": "[WhenUse] Benefits Account +6", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +1 bleeding mode"}]}]}]}, {"id": 810406, "levelList": [{"level": 1, "name": "Paint", "desc": "If you attack the same wait target, final force +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Late"}, {"desc": "[OnSucceedAttack] 5 security transactions in the next round"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next round is sensitive"}, {"desc": "[OnSucceedAttackTail] Reuse this connection again (up to 3)"}]}]}]}, {"id": 810407, "levelList": [{"level": 1, "name": "Will find ...", "desc": "Sometimes the damage is severely affected\nDeal + 5% loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +3 Fire application"}, {"desc": "[CriticalOnSucceedAttack] Increase the first position of the 50% of the working location."}]}]}]}, {"id": 810501, "levelList": [{"level": 1, "name": "Have my request", "desc": "[WhenUse] At least see yourself with other companions and 10SPS", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810502, "levelList": [{"level": 1, "name": "Me!", "desc": "[StartBattle] After setting this device, ask for an earthquake that rotate the next round to help the standard price assistance.", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810503, "levelList": [{"level": 1, "name": "Finally follow them!", "desc": "[StartBattle] If this device is set, you can cancel the ed starbock ed starblock and intimidation.\n[WhenUse] 1 Next yacht Picker Base Apply", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810504, "levelList": [{"level": 1, "name": "Hunting", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 810505, "levelList": [{"level": 1, "name": "Sound fork", "desc": "The main objective +1 side effects on the final strength +1 (up to 5)\nKeep + 5% for any loss [Laceration] Matampon", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Blood flow"}]}]}]}, {"id": 810506, "levelList": [{"level": 1, "name": "off one's nuts!", "desc": "[WhenUse] 5 Processing SP\n[OnSucceedEvade] Target 5 s", "coinlist": [{"coindescs": [{}]}]}]}, {"id": 810507, "levelList": [{"level": 1, "name": "Hey! Hey", "desc": "[WhenUse] Apply the next fishing mark 1\n[WinDuel] She gets four things", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 station stations 4 for other friends.\nIf you have no other friends, buy two accounts."}]}]}]}, {"id": 810508, "levelList": [{"level": 1, "name": "There is no fear!", "desc": "[WhenUse] 10sp is a deeper.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Burning measure +1"}, {"desc": "[OnSucceedAttack] 1 paralyst record in the second federal phase"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Burning measure +1"}, {"desc": "[OnSucceedAttack] 1 paralyst record in the second federal phase"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Burning measure +1"}, {"desc": "[OnSucceedAttack] 1 paralyst record in the second federal phase"}]}]}]}, {"id": 810509, "levelList": [{"level": 1, "name": "Dead", "desc": "[WhenUse] Stick the accident to at least UP from accident\n[DefeatDuel] 1 total 20 minimum SP, Friends Rebellion 20", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 perfect"}]}]}]}, {"id": 810601, "levelList": [{"level": 1, "name": "I die!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 bleeding"}, {"desc": "[OnSucceedAttack] +3 Fire application"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 bleeding"}, {"desc": "[OnSucceedAttack] +3 Fire application"}]}]}]}, {"id": 810602, "levelList": [{"level": 1, "name": "Ironic", "desc": "At least HP targete unit", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 6th floor less than breach"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +3 Fire application"}]}]}]}, {"id": 810603, "levelList": [{"level": 1, "name": "Mental", "desc": "Avoid (2 times) after rendering\n[OnDefeatEvade] 2 The Spirit lost", "coinlist": [{}]}]}, {"id": 810604, "levelList": [{"level": 1, "name": "Copy", "desc": "[DefeatDuel] 2 Contact your defense eligibility.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}, {"desc": "[OnSucceedAttack] 1 application 1 paralyzed"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}, {"desc": "[OnSucceedAttack] Next Line App 1 Image"}]}]}]}, {"id": 810605, "levelList": [{"level": 1, "name": "Decrease", "desc": "At least HP goal\n[StartBattle] Five Pipede -Go Default +2 Power and ATK +1 weight.\n[WhenUse] 3 Spirit lost", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Great noise is worrying"}, {"desc": "[OnSucceedAttack] Increases the reproduction limit"}, {"desc": "[OnSucceedAttackHead] Target is 10 Spa"}]}]}]}, {"id": 810606, "levelList": [{"level": 1, "name": "Translation", "desc": "", "coinlist": [{}, {}]}]}, {"id": 810607, "levelList": [{"level": 1, "name": "Welding", "desc": "[WhenUse] Apply the next fishing mark 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}, {"desc": "[OnSucceedAttack] 3 Blood and flow multiple bleeding +4"}]}]}]}, {"id": 810608, "levelList": [{"level": 1, "name": "Weakness", "desc": "[WhenUse] Apply the next fishing mark 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}, {"desc": "[OnSucceedAttack] Make 3 violations below"}]}]}]}, {"id": 810609, "levelList": [{"level": 1, "name": "To separate", "desc": "1 bleeding + 5% goal loss\nIf there is no hunting board for this purpose, Mungeratch +1\n[DefeatDuel] 5 damages SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttack] 3Sp transactions randomly damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttack] 3Sp transactions randomly damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttack] 3Sp transactions randomly damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttack] 3Sp transactions randomly damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}, {"desc": "[OnSucceedAttack] 3Sp transactions randomly damage"}, {"desc": "[OnSucceedAttack] 10 Sam Stars Starbucks Use Final Connection"}]}]}]}, {"id": 810610, "levelList": [{"level": 1, "name": "The wind", "desc": "[WhenUse] Apply the next fishing mark 1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] There are 2 damage"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +3 Fire application"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}, {"desc": "[OnSucceedAttack] 5 Bleeding"}]}]}]}, {"id": 810611, "levelList": [{"level": 1, "name": "He smiled", "desc": "[WhenUse] 5 You can't remember yourself\n[WinDuel] 6 to save 6\n[DefeatDuel] 5 damages SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 is flexible for light sounds"}, {"desc": "[OnSucceedAttack] I'm xa"}]}]}]}, {"id": 810612, "levelList": [{"level": 1, "name": "Combination of dried cracks", "desc": "[StartBattle] You get up to 10%.\nWhen he was saved there were 5 SPS strikes\nIf it falls, we will use this method", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 1 Establishment of Bleeding"}]}]}]}, {"id": 810007, "levelList": [{"level": 1, "name": "The prophecies, not despair", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 5 apps [Combustion] There is no way [Combustion] Result"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Everything is delivered",
+          "desc": "For the desired enemies",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Most candles"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Most candles"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great ...",
+          "desc": "For the desired enemies",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 completely angry in the next hope list"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Combustion], The app 4 characters"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 completely angry in the next hope list"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [Combustion], The app 4 characters"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "desc": "Everything in the next round of battle.\nAfter reaching the goal [AaCePcBa]The target is up to 5%.\n[DefeatDuel] 10 is suitable for burning.\n[EndBattle] HP is the largest of all candles.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maximum Tri Tritama HP 10% less."
+                }, {
+                  "desc": "[OnSucceedAttack] Burns combination number 5 and +2 use"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maximum Tri Tritama HP 10% less."
+                }, {
+                  "desc": "[OnSucceedAttack] Burns combination number 5 and +2 use"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6:5",
+          "desc": "[CantDuel][CantChangeTarget]\nLoss of damage.\nRandom app for the enemy [AaCePcBa]Intersection\n[EndBattle] All candles maximum HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maximum HP device diminishes 10%."
+                }, {
+                  "desc": "[OnSucceedAttack] Here's 10 swelling"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maximum HP device diminishes 10%."
+                }, {
+                  "desc": "[OnSucceedAttack] Here's 10 swelling"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "All things will be found",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Bad 1 wave"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Everything is burning",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Combustion]Apply 3 times."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fire",
+          "desc": "Line [AaCePcBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6 Burn Transactions and +2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So it burns",
+          "desc": "[StartBattle] Get 20 shields\nWhen the slope breaks, light changes in the next round.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Application +1 Blunts and Burn Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is harmful",
+          "desc": "[StartBattle] 1 Use green mucus",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 applications"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 applications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rusty",
+          "desc": "[StartBattle] 1 Use green mucus",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply lower level security [Poison] Matampon"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 larva"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply lower level security [Poison] Matampon"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Myth",
+          "desc": "[StartBattle] 1 Use green mucus",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Poison]1 applies for paralysis"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 larva application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If your goal is. [Poison]1 applies for paralysis"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 larva application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Liquid dive",
+          "desc": "[StartBattle] Entrance 2 Green Meetters\n[WhenUse] 3 Burning Larway",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Applies to 4 GIF"
+                }, {
+                  "desc": "[OnSucceedAttackHead] The next line is applied for paralysis"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Applies to 4 GIF"
+                }, {
+                  "desc": "[OnSucceedAttackHead] The next line is applied for paralysis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Relief",
+          "desc": "[StartBattle] Atx weight [AaCePcBh]\n[StartBattle] Get 10 [AaCePcBh]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 10 Jeff"
+                }, {
+                  "desc": "[OnSucceedAttack] 7 Account"
+                }, {
+                  "desc": "[OnSucceedAttack] 3 Burning Larway"
+                }, {
+                  "desc": "[OnSucceedAttackHead] The following application is stored less than 1 and 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Manual",
+          "desc": "[CantDuel][CantChangeTarget]\nFirst round\nGreen Telka has been lost in the attack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[TargetKill] Benefits 3 [AaCePcBh]Intersection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "If Jif Giff Giff",
+          "desc": "[OnSucceedEvade] It is suitable for 5 functions",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tt Main Tape",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Angel",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hit",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 app 4 [Sinking]"
+                }, {
+                  "desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "break down",
+          "desc": "[DefeatDuel] The fluid part of the device lost 34% of the maximum value.\n[DefeatDuel] 1 person",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 4 sinks"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 ton-settings"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 4 sinks"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 4 sinks"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ped"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Silico",
+          "desc": "[CantDuel][StartBattle] Weather",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sync and +2 tonnes of measurement application"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Success is lost"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sync and +2 tonnes of measurement application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The ball",
+          "desc": "[CantDuel][CantChangeTarget] The goal is to eliminate danger\n[EndSkill] 34% of the old age was lost.\n[EndBattle] Crazy blind 1.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The item will be eliminated."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blow",
+          "desc": "[EndBattle] Create a flop",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }, {
+                  "desc": "[OnSucceedAttack] Using Target +2 Measurement [AaCePcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Barking",
+          "desc": "[StartBattle] All the blind movements\n[StartBattle] What you choose and finish the destruction",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lorch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 4 bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Game Injuries",
+          "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "City protection!",
+          "desc": "[WhenUse] 5 a situation",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Religious window",
+          "desc": "[WhenUse] 5 Phozna account and +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Composition"
+                }, {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "If you attack this device, there is no violation of the level 1 after this attack.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Train",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] +2 digital readiall application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grave chime",
+          "desc": "[WinDuel] 5 Processing SP.\nKeep + 5% for any loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "City protection!",
+          "desc": "[WhenUse] 5 a situation",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Account +1"
+                }, {
+                  "desc": "[OnSucceedAttack] Operation 4S"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Registration",
+          "desc": "[WhenUse] 5 Phozna account and +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Late"
+                }, {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 811105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Migration",
+          "desc": "[OnSucceedEvade] Level 1 violates the rules below (up to 3).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Start hunting",
+          "desc": "[StartBattle] Next red 4 call your friend\n[WhenUse] Apply next Hunt label",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Indicator",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Go to fork fish",
+          "desc": "",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Under the third floor violation"
+                }, {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inhalation",
+          "desc": "[StartBattle] 10 Piese I +10 peace.\nClick the key to use the account without using this method.\nEverything is over [PlusCoinValueUp] This is the number of other coins:",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hommer",
+          "desc": "Click the key to use the account without using this method.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 digital readiall application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wet",
+          "desc": "+ 30% dangerous rates loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Increase the first position of the 50% of the working location."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 Bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Caught",
+          "desc": "This technology does not seriously use the calculated account.\nEach person signs + 5% loss [Laceration] Matampon\n[WhenUse] If the device is not flat, it is divided into rotation.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+ 50% loss due to severe attacks"
+                }, {
+                  "desc": "[OnSucceedAttack] Find"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inhalation",
+          "desc": "[StartBattle] 3 Get poi and +5 parts.\nTo do so, get the last strength and intensity of pregnancy.\nFor this reason, number 1 has lost their place after the attack.",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Living.",
+          "desc": "+ 30% dangerous rates loss",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "He must be",
+          "desc": "[TurnStartBattle] After using this procedure, if you have more than 0 obstacles on the device, you can activate the security device.\n[StartBattle] Get 10% HP.",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Halpun is centered",
+          "desc": "The final power is like a +1 starbucks that is attacking the goal.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Composition"
+                }, {
+                  "desc": "[OnSucceedAttack] Refers to 50% of the basic treatment and damage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810312,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You have to hunt ...",
+          "desc": "Click the key to use the account without using this method.\nKeep + 5% for any loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+ 50% loss due to severe attacks"
+                }, {
+                  "desc": "[OnSucceedAttack] Find"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "garlic",
+          "desc": "[WhenUse] Benefits Account +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crash",
+          "desc": "[WhenUse] 5 a situation",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next round is sensitive"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Suitable for security level in the next round"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Reuse this connection again (up to 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I will follow it ...",
+          "desc": "[TurnStartBattle] If you have more than 0 obstacles from the angle of the waiting list, attack this help.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assault",
+          "desc": "Very seriously, 50% injury\nDeal + 5% loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Increase the first position of the 50% of the working location."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "the best",
+          "desc": "[WhenUse] Benefits Account +6",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1 bleeding mode"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paint",
+          "desc": "If you attack the same wait target, final force +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Late"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 security transactions in the next round"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next round is sensitive"
+                }, {
+                  "desc": "[OnSucceedAttackTail] Reuse this connection again (up to 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Will find ...",
+          "desc": "Sometimes the damage is severely affected\nDeal + 5% loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Increase the first position of the 50% of the working location."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Have my request",
+          "desc": "[WhenUse] At least see yourself with other companions and 10SPS",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Me!",
+          "desc": "[StartBattle] After setting this device, ask for an earthquake that rotate the next round to help the standard price assistance.",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Finally follow them!",
+          "desc": "[StartBattle] If this device is set, you can cancel the ed starbock ed starblock and intimidation.\n[WhenUse] 1 Next yacht Picker Base Apply",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hunting",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sound fork",
+          "desc": "The main objective +1 side effects on the final strength +1 (up to 5)\nKeep + 5% for any loss [Laceration] Matampon",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Blood flow"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "off one's nuts!",
+          "desc": "[WhenUse] 5 Processing SP\n[OnSucceedEvade] Target 5 s",
+          "coinlist": [
+            {
+              "coindescs": [{}]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hey! Hey",
+          "desc": "[WhenUse] Apply the next fishing mark 1\n[WinDuel] She gets four things",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 station stations 4 for other friends.\nIf you have no other friends, buy two accounts."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "There is no fear!",
+          "desc": "[WhenUse] 10sp is a deeper.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Burning measure +1"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 paralyst record in the second federal phase"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Burning measure +1"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 paralyst record in the second federal phase"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Burning measure +1"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 paralyst record in the second federal phase"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dead",
+          "desc": "[WhenUse] Stick the accident to at least UP from accident\n[DefeatDuel] 1 total 20 minimum SP, Friends Rebellion 20",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 perfect"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I die!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ironic",
+          "desc": "At least HP targete unit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 6th floor less than breach"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mental",
+          "desc": "Avoid (2 times) after rendering\n[OnDefeatEvade] 2 The Spirit lost",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 810604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Copy",
+          "desc": "[DefeatDuel] 2 Contact your defense eligibility.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 application 1 paralyzed"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }, {
+                  "desc": "[OnSucceedAttack] Next Line App 1 Image"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Decrease",
+          "desc": "At least HP goal\n[StartBattle] Five Pipede -Go Default +2 Power and ATK +1 weight.\n[WhenUse] 3 Spirit lost",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Great noise is worrying"
+                }, {
+                  "desc": "[OnSucceedAttack] Increases the reproduction limit"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Target is 10 Spa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Translation",
+          "desc": "",
+          "coinlist": [{}, {}]
+        }
+      ]
+    }, {
+      "id": 810607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Welding",
+          "desc": "[WhenUse] Apply the next fishing mark 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }, {
+                  "desc": "[OnSucceedAttack] 3 Blood and flow multiple bleeding +4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weakness",
+          "desc": "[WhenUse] Apply the next fishing mark 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }, {
+                  "desc": "[OnSucceedAttack] Make 3 violations below"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To separate",
+          "desc": "1 bleeding + 5% goal loss\nIf there is no hunting board for this purpose, Mungeratch +1\n[DefeatDuel] 5 damages SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] 3Sp transactions randomly damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] 3Sp transactions randomly damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] 3Sp transactions randomly damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] 3Sp transactions randomly damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }, {
+                  "desc": "[OnSucceedAttack] 3Sp transactions randomly damage"
+                }, {
+                  "desc": "[OnSucceedAttack] 10 Sam Stars Starbucks Use Final Connection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The wind",
+          "desc": "[WhenUse] Apply the next fishing mark 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] There are 2 damage"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }, {
+                  "desc": "[OnSucceedAttack] 5 Bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "He smiled",
+          "desc": "[WhenUse] 5 You can't remember yourself\n[WinDuel] 6 to save 6\n[DefeatDuel] 5 damages SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 is flexible for light sounds"
+                }, {
+                  "desc": "[OnSucceedAttack] I'm xa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Combination of dried cracks",
+          "desc": "[StartBattle] You get up to 10%.\nWhen he was saved there were 5 SPS strikes\nIf it falls, we will use this method",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Establishment of Bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 810007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The prophecies, not despair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 5 apps [Combustion] There is no way [Combustion] Result"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

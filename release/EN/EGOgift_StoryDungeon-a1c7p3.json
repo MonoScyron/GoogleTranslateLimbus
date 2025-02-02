@@ -1,1 +1,169 @@
-{"dataList": [{"id": 2047, "name": "Broke", "desc": "After the conversation I received the following results:\n• Don test level up to 50.\n• Thread 4 Don cookot, thread and motive\nJiv", "simpleDesc": [{"abilityID": 2047, "simpleDesc": "Don Quiz Levels have been over 50"}, {"abilityID": 204701, "simpleDesc": "Don Quiko Type or 4 Hour Level 4"}]}, {"id": 2048, "name": "Mech Railwayll's Pass D Love", "desc": "Target Strike 10+ (Berry) [Laceration]\"Blocking Blood\" and [Burst]:: get [Breath] Bowl and account (3 times)", "simpleDesc": [{"abilityID": 2048, "simpleDesc": "Target Strike 10+ (Berry) [Laceration]\"Blocking Blood\" and [Burst]:: get [Breath] Opportunity and appointment"}]}, {"id": 2049, "name": "Standard Ed La Berchland", "desc": "The first meeting begins: all units receive 4 [Laceration] Difficulty and fees.", "simpleDesc": [{"abilityID": 2049, "simpleDesc": "The first meeting begins: all units receive 4 [Laceration] Difficulty and fees."}]}, {"id": 2050, "name": "Symbolic success", "desc": "The Wash Technology: 1 and 1 SP Hill 8SP.\nAfter the attack: if the enemy is 10+ (Pistol) [Laceration]\"Blocking Blood\" and [Burst]The army killed the enemy as the army lost. [AttackUp] The next line.", "simpleDesc": [{"abilityID": 2050, "simpleDesc": "\"Kill\" spam has at least one contribution with 8 SP."}, {"abilityID": 205001, "simpleDesc": "After the attack: if the enemy is 10+ (Pistol) [Laceration]\"Blocking Blood\" and [Burst]The army killed the enemy as the army lost. [AttackUp] The next line."}]}, {"id": 2051, "name": "Sutasam -batley whip", "desc": "If you use the current HP attack method, it will be 10. [Laceration]Three, three [AttackUp]Blood [DefenseUp]Jiv", "simpleDesc": [{"abilityID": 2051, "simpleDesc": "If you use the current HP attack method, it will be 10. [Laceration]Three, three [AttackUp]Blood [DefenseUp]Intersection"}]}, {"id": 2052, "name": "Gentlemen", "desc": "Bottle Long: Friends is suitable for the enemy's conflict 5. [Laceration] And +3 [Laceration] Trust this enemy when the fight begins.", "simpleDesc": [{"abilityID": 2052, "simpleDesc": "Bottle Long: Friends is suitable for the enemy's conflict 5. [Laceration] And +3 [Laceration] Trust this enemy when the fight begins."}]}, {"id": 2053, "name": "Cube", "desc": "When cooperation has died, all the roots 1, ALLI 1, 2, 3 and 1 skills are used for any source.\nAfter the attack: If you kill the enemy, you will get a resource and once for your skills.", "simpleDesc": [{"abilityID": 2053, "simpleDesc": "When cooperation has died, all the roots 1, ALLI 1, 2, 3 and 1 skills are used for any source."}, {"abilityID": 205301, "simpleDesc": "After the attack: If you kill the enemy, you will get a resource and once for your skills."}]}, {"id": 2054, "name": "Migration", "desc": "The first meeting begins: ID identification certificate 5P and 1 lost. [Enhancement] Currently three rounds.\nIf a unique identity is a blood vessel, you will lose 10SPS and get 2. [Enhancement] In the form of 3 rolls, other apps +1 [Laceration] This is my opinion that this is a bowl, technology and customer effect.", "simpleDesc": [{"abilityID": 2054, "simpleDesc": "The first meeting begins: ID identification certificate 5P and 1 lost. [Enhancement] Currently three rounds."}, {"abilityID": 205401, "simpleDesc": "If a unique identity is a blood vessel, you will lose 10SPS and get 2. [Enhancement] In the form of 3 rolls, other apps +1 [Laceration] This is my opinion that this is a bowl, technology and customer effect."}]}, {"id": 2055, "name": "Little dream", "desc": "Fighting in the honor war: Treat 5 spins.\nAfter receiving this procedure, this is spiritual welcome: App +1 [Laceration] +1 [Burst] Account (4 times)", "simpleDesc": [{"abilityID": 2055, "simpleDesc": "In the success of conflict with pride technology: they fight the above technology after 5sp and success.+ 1 [Laceration] +1 [Burst] Account"}]}, {"id": 2056, "name": "Empty dream", "desc": "Car strike [Laceration] Or \"Special Blood\": 2-5 km.\nCelebration [BloodDinner]: Mont +1 electricity", "simpleDesc": [{"abilityID": 2056, "simpleDesc": "Applies to HP goal during the strike [Laceration] Or \"Special Blood\"."}, {"abilityID": 205601, "simpleDesc": "Celebration [BloodDinner]: Mont +1 electricity"}]}, {"id": 2057, "name": "Dreams resume", "desc": "All Don Quanjit -kex gets final Power +2\nWhen a friend died, he recovered the remaining 15 SPS and finally 1. [Enhancement] Next line (max) [Enhancement]: P)", "simpleDesc": [{"abilityID": 2057, "simpleDesc": "Kickot +2 helps without force"}, {"abilityID": 205701, "simpleDesc": "When a friend died, he recovered the remaining 15 SPS and finally 1. [Enhancement] Valley"}]}, {"id": 2058, "name": "Iron gray hard", "desc": "When the enemy affects mint technology [Laceration] Break the sky. [DefenseDown] At the end of the next round.\nIf the goal has been all this [Laceration] Or \"Special Blood\", 3, 3 [Laceration] Instead of the harbor.", "simpleDesc": [{"abilityID": 2058, "simpleDesc": "1 application [Laceration] Break the sky. [DefenseDown] At the end of the next round"}, {"abilityID": 205801, "simpleDesc": "App 3 3 [Laceration] Flexible"}]}, {"id": 2059, "name": "TB", "desc": "Different [Burst] Current Port Speed ​​for all engineers.\n\nService during activity of ideal restance disk 3 [Burst] Call and + dish. [Burst] Fighting with battle and start trusting every enemy.", "simpleDesc": [{"abilityID": 2059, "simpleDesc": "Crisis [Burst] Accele"}, {"abilityID": 205901, "simpleDesc": "App 3 3 [Burst] Call and + dish. [Burst] Account"}]}, {"id": 2060, "name": "Alcohol", "desc": "When the meeting starts, all enemies have maximum loss and maximum value.", "simpleDesc": [{"abilityID": 2060, "simpleDesc": "Sometimes up to 20%."}]}]}
+{
+  "dataList": [
+    {
+      "id": 2047,
+      "name": "Broke",
+      "desc": "After the conversation I received the following results:\n• Don test level up to 50.\n• Thread 4 Don cookot, thread and motive\nJiv",
+      "simpleDesc": [
+        {
+          "abilityID": 2047,
+          "simpleDesc": "Don Quiz Levels have been over 50"
+        }, {
+          "abilityID": 204701,
+          "simpleDesc": "Don Quiko Type or 4 Hour Level 4"
+        }
+      ]
+    }, {
+      "id": 2048,
+      "name": "Mech Railwayll's Pass D Love",
+      "desc": "Target Strike 10+ (Berry) [Laceration]\"Blocking Blood\" and [Burst]:: get [Breath] Bowl and account (3 times)",
+      "simpleDesc": [
+        {
+          "abilityID": 2048,
+          "simpleDesc": "Target Strike 10+ (Berry) [Laceration]\"Blocking Blood\" and [Burst]:: get [Breath] Opportunity and appointment"
+        }
+      ]
+    }, {
+      "id": 2049,
+      "name": "Standard Ed La Berchland",
+      "desc": "The first meeting begins: all units receive 4 [Laceration] Difficulty and fees.",
+      "simpleDesc": [
+        {
+          "abilityID": 2049,
+          "simpleDesc": "The first meeting begins: all units receive 4 [Laceration] Difficulty and fees."
+        }
+      ]
+    }, {
+      "id": 2050,
+      "name": "Symbolic success",
+      "desc": "The Wash Technology: 1 and 1 SP Hill 8SP.\nAfter the attack: if the enemy is 10+ (Pistol) [Laceration]\"Blocking Blood\" and [Burst]The army killed the enemy as the army lost. [AttackUp] The next line.",
+      "simpleDesc": [
+        {
+          "abilityID": 2050,
+          "simpleDesc": "\"Kill\" spam has at least one contribution with 8 SP."
+        }, {
+          "abilityID": 205001,
+          "simpleDesc": "After the attack: if the enemy is 10+ (Pistol) [Laceration]\"Blocking Blood\" and [Burst]The army killed the enemy as the army lost. [AttackUp] The next line."
+        }
+      ]
+    }, {
+      "id": 2051,
+      "name": "Sutasam -batley whip",
+      "desc": "If you use the current HP attack method, it will be 10. [Laceration]Three, three [AttackUp]Blood [DefenseUp]Jiv",
+      "simpleDesc": [
+        {
+          "abilityID": 2051,
+          "simpleDesc": "If you use the current HP attack method, it will be 10. [Laceration]Three, three [AttackUp]Blood [DefenseUp]Intersection"
+        }
+      ]
+    }, {
+      "id": 2052,
+      "name": "Gentlemen",
+      "desc": "Bottle Long: Friends is suitable for the enemy's conflict 5. [Laceration] And +3 [Laceration] Trust this enemy when the fight begins.",
+      "simpleDesc": [
+        {
+          "abilityID": 2052,
+          "simpleDesc": "Bottle Long: Friends is suitable for the enemy's conflict 5. [Laceration] And +3 [Laceration] Trust this enemy when the fight begins."
+        }
+      ]
+    }, {
+      "id": 2053,
+      "name": "Cube",
+      "desc": "When cooperation has died, all the roots 1, ALLI 1, 2, 3 and 1 skills are used for any source.\nAfter the attack: If you kill the enemy, you will get a resource and once for your skills.",
+      "simpleDesc": [
+        {
+          "abilityID": 2053,
+          "simpleDesc": "When cooperation has died, all the roots 1, ALLI 1, 2, 3 and 1 skills are used for any source."
+        }, {
+          "abilityID": 205301,
+          "simpleDesc": "After the attack: If you kill the enemy, you will get a resource and once for your skills."
+        }
+      ]
+    }, {
+      "id": 2054,
+      "name": "Migration",
+      "desc": "The first meeting begins: ID identification certificate 5P and 1 lost. [Enhancement] Currently three rounds.\nIf a unique identity is a blood vessel, you will lose 10SPS and get 2. [Enhancement] In the form of 3 rolls, other apps +1 [Laceration] This is my opinion that this is a bowl, technology and customer effect.",
+      "simpleDesc": [
+        {
+          "abilityID": 2054,
+          "simpleDesc": "The first meeting begins: ID identification certificate 5P and 1 lost. [Enhancement] Currently three rounds."
+        }, {
+          "abilityID": 205401,
+          "simpleDesc": "If a unique identity is a blood vessel, you will lose 10SPS and get 2. [Enhancement] In the form of 3 rolls, other apps +1 [Laceration] This is my opinion that this is a bowl, technology and customer effect."
+        }
+      ]
+    }, {
+      "id": 2055,
+      "name": "Little dream",
+      "desc": "Fighting in the honor war: Treat 5 spins.\nAfter receiving this procedure, this is spiritual welcome: App +1 [Laceration] +1 [Burst] Account (4 times)",
+      "simpleDesc": [
+        {
+          "abilityID": 2055,
+          "simpleDesc": "In the success of conflict with pride technology: they fight the above technology after 5sp and success.+ 1 [Laceration] +1 [Burst] Account"
+        }
+      ]
+    }, {
+      "id": 2056,
+      "name": "Empty dream",
+      "desc": "Car strike [Laceration] Or \"Special Blood\": 2-5 km.\nCelebration [BloodDinner]: Mont +1 electricity",
+      "simpleDesc": [
+        {
+          "abilityID": 2056,
+          "simpleDesc": "Applies to HP goal during the strike [Laceration] Or \"Special Blood\"."
+        }, {
+          "abilityID": 205601,
+          "simpleDesc": "Celebration [BloodDinner]: Mont +1 electricity"
+        }
+      ]
+    }, {
+      "id": 2057,
+      "name": "Dreams resume",
+      "desc": "All Don Quanjit -kex gets final Power +2\nWhen a friend died, he recovered the remaining 15 SPS and finally 1. [Enhancement] Next line (max) [Enhancement]: P)",
+      "simpleDesc": [
+        {
+          "abilityID": 2057,
+          "simpleDesc": "Kickot +2 helps without force"
+        }, {
+          "abilityID": 205701,
+          "simpleDesc": "When a friend died, he recovered the remaining 15 SPS and finally 1. [Enhancement] Valley"
+        }
+      ]
+    }, {
+      "id": 2058,
+      "name": "Iron gray hard",
+      "desc": "When the enemy affects mint technology [Laceration] Break the sky. [DefenseDown] At the end of the next round.\nIf the goal has been all this [Laceration] Or \"Special Blood\", 3, 3 [Laceration] Instead of the harbor.",
+      "simpleDesc": [
+        {
+          "abilityID": 2058,
+          "simpleDesc": "1 application [Laceration] Break the sky. [DefenseDown] At the end of the next round"
+        }, {
+          "abilityID": 205801,
+          "simpleDesc": "App 3 3 [Laceration] Flexible"
+        }
+      ]
+    }, {
+      "id": 2059,
+      "name": "TB",
+      "desc": "Different [Burst] Current Port Speed ​​for all engineers.\n\nService during activity of ideal restance disk 3 [Burst] Call and + dish. [Burst] Fighting with battle and start trusting every enemy.",
+      "simpleDesc": [
+        {
+          "abilityID": 2059,
+          "simpleDesc": "Crisis [Burst] Accele"
+        }, {
+          "abilityID": 205901,
+          "simpleDesc": "App 3 3 [Burst] Call and + dish. [Burst] Account"
+        }
+      ]
+    }, {
+      "id": 2060,
+      "name": "Alcohol",
+      "desc": "When the meeting starts, all enemies have maximum loss and maximum value.",
+      "simpleDesc": [
+        {
+          "abilityID": 2060,
+          "simpleDesc": "Sometimes up to 20%."
+        }
+      ]
+    }
+  ]
+}

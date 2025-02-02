@@ -1,1 +1,135 @@
-{"dataList": [{"id": 806301, "levelList": [{"level": 1, "name": "Brutally explode", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 2 friends transactions"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 friends transactions"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 friends transactions"}]}]}]}, {"id": 806302, "levelList": [{"level": 1, "name": "Strong!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +4 feet"}]}]}]}, {"id": 806303, "levelList": [{"level": 1, "name": "Climbing", "desc": "[CantIdentify]", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +5 tears of tears"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +5 tears of tears"}]}]}]}, {"id": 806304, "levelList": [{"level": 1, "name": "Shell attack!", "desc": "[CantIdentify] \n+ 20% target damage by computer", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 tears"}, {"desc": "[OnSucceedAttack] +5 tears of tears"}]}]}]}, {"id": 806305, "levelList": [{"level": 1, "name": "Stomach", "desc": "[CantIdentify] Having a loss to + 20% from 5 digits\n[EndSkill] Finally, call three crabs (5) (up to 5) (up to 5) (5 curbs) (up to 5).", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 tears"}]}]}]}, {"id": 806306, "levelList": [{"level": 1, "name": "Shield", "desc": "[StartBattle] The attacker disables seven damage to the attacker and wats, and attack begins during the attack.", "coinlist": [{}]}]}, {"id": 806307, "levelList": [{"level": 1, "name": "Shield", "desc": "[StartBattle] The attacker disables seven damage to the attacker and wats, and attack begins during the attack.", "coinlist": [{}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 806301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brutally explode",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 friends transactions"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 friends transactions"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 friends transactions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 806302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strong!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +4 feet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 806303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Climbing",
+          "desc": "[CantIdentify]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +5 tears of tears"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +5 tears of tears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 806304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shell attack!",
+          "desc": "[CantIdentify] \n+ 20% target damage by computer",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 tears"
+                }, {
+                  "desc": "[OnSucceedAttack] +5 tears of tears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 806305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stomach",
+          "desc": "[CantIdentify] Having a loss to + 20% from 5 digits\n[EndSkill] Finally, call three crabs (5) (up to 5) (up to 5) (5 curbs) (up to 5).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 tears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 806306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shield",
+          "desc": "[StartBattle] The attacker disables seven damage to the attacker and wats, and attack begins during the attack.",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 806307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shield",
+          "desc": "[StartBattle] The attacker disables seven damage to the attacker and wats, and attack begins during the attack.",
+          "coinlist": [{}]
+        }
+      ]
+    }
+  ]
+}

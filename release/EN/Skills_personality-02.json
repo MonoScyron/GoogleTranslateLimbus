@@ -1,1 +1,865 @@
-{"dataList": [{"id": 1020501, "levelList": [{"level": 1, "name": "Guard", "desc": "[DefeatDuel] Benefit Level 2", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] The next round two series found"}]}]}, {"level": 2, "name": "Guard", "desc": "[DefeatDuel] Benefit Level 3", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] The next round two series found"}]}]}, {"level": 4, "name": "Guard", "desc": "[WhenUse] In the next waiting list, blocking technology + aggos + squoked\n[DefeatDuel] Benefit Level 3", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] The next round two series found"}]}]}]}, {"id": 1020502, "levelList": [{"level": 1, "name": "Consumer protection", "desc": "[WhenUse] Used the safety of the colleagues of at least HP NUS2 (3 times per item 3 times)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Next 1 level security"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Next 1 level security"}]}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Next 1 level security"}]}]}, {"level": 2, "name": "Consumer protection", "desc": "[WhenUse] Protection with Level 3 HP (3 times per item 3 times)\nLevel 5, the ability to fight at the top level +1 +1", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Next 1 level security"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next 1 level security"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next 1 level security"}]}]}, {"level": 4, "name": "Consumer protection", "desc": "[WhenUse] The lowest ratio of the alliance (3 times)\nOpposition of 5+ Power in Safety +2 +2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Next 1 level security"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next 1 level security"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next 1 level security"}]}]}]}, {"id": 1020503, "levelList": [{"level": 3, "name": "Laws and orders", "desc": "Power due to +1 on security level 5\n[WinDuel] Treatment 2 x", "coinlist": [{}, {"coindescs": [{"desc": "Registered supported, defense level, the lowest HP indicator in the next line"}]}]}, {"level": 4, "name": "Laws and orders", "desc": "Power due to +1 on security level 5\n[WinDuel] 4 x treatment", "coinlist": [{}, {"coindescs": [{"desc": "Registered supported, defense level, the lowest HP indicator in the next line"}, {"desc": "The Gully Association Association solutions wants to protect JV level."}]}]}]}, {"id": 1020504, "levelList": [{"level": 1, "name": "Water", "desc": "", "coinlist": [{}]}, {"level": 4, "name": "Water", "desc": "[WhenUse] Get +3 Get +3 to prevent this procedure", "coinlist": [{}]}]}, {"id": 1020701, "levelList": [{"level": 1, "name": "Please pull the flat jacket", "desc": "[WhenUse] Benefits Measure +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Measure +3"}, {"desc": "[OnSucceedAttack] +2 tram account"}]}]}, {"level": 2, "name": "Please pull the flat jacket", "desc": "[WhenUse] Benefits Measure +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Measure +3"}, {"desc": "[OnSucceedAttack] +3 tram account"}]}]}, {"level": 4, "name": "Please pull the flat jacket", "desc": "[WhenUse] Benefits Measure +3\n[DefeatDuel] Benefits Measure +3", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits Measure +3"}, {"desc": "[OnSucceedAttack] +3 tram account"}]}]}]}, {"id": 1020702, "levelList": [{"level": 1, "name": "Trustee", "desc": "[WhenUse] Benefits +4 number", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] In the stages of illegal behavior in the next stage of 1"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 4 balcony"}]}]}, {"level": 2, "name": "Trustee", "desc": "[StartBattle] Police officer for this technique the publication of +1 +1 ATK structure structure\n[WhenUse] Benefits +4 number", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Newsq +1 Termor News"}, {"desc": "[OnSucceedAttackHead] In the stages of illegal behavior in the next stage of 1"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 balconies"}, {"desc": "[OnSucceedAttackHead] Add 1 in the next red app"}]}]}, {"level": 4, "name": "Trustee", "desc": "[StartBattle] Police officer for this technique the publication of +1 +1 ATK structure structure\n[WhenUse] Benefits +4 number", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] Newsq +1 Termor News"}, {"desc": "[OnSucceedAttack] In the stages of illegal behavior in the next stage of 1"}]}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] It is suitable for 5 balconies"}, {"desc": "[OnSucceedAttack] Add 1 in the next red app"}]}]}]}, {"id": 1020703, "levelList": [{"level": 3, "name": "Free violence", "desc": "[StartBattle] 5 TRAM TRRAM COMPOST, you +1 ATK (Max. +2)\n[DefeatDuel] I lost 20 spins\nNegative effects on each floor 3% (15% increases)\n[EnemyKill] Profits +2 tram", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Drummer crash,\nThen give preference at the end of 20% unless the votes are lost (up to 13)"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Drummer crash,\nThen give preference at the end of 20% unless the votes are lost (up to 13)"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Drummer crash,\nThen give preference at the end of 20% unless the votes are lost (up to 13)\n3 has been reduced"}]}]}, {"level": 4, "name": "Free violence", "desc": "[StartBattle] 5 TRAM TRRAM COMPOST, you +1 ATK (Max. +2)\n[DefeatDuel] I lost 20 spins\n6% (up to 30%) increases the negative effects of all types\n[EnemyKill] Profits +2 tram", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Drummer crash,\nThen support 30% of the final deficit."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Drummer crash,\nThen support 30% of the final deficit."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Drummer crash,\nThen support 30% of the final deficit.\n3 has been reduced"}]}]}]}, {"id": 1020704, "levelList": [{"level": 1, "name": "Collect", "desc": "[WhenUse] Benefits Measure +3", "coinlist": [{}]}, {"level": 4, "name": "Collect", "desc": "[WhenUse] Benefits +6 career", "coinlist": [{}]}]}, {"id": 1020801, "levelList": [{"level": 1, "name": "Moon", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{}, {}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] Application 1 [RedApricotBlossom]"}]}]}, {"level": 2, "name": "Moon", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Get 1 [Breath]"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] Application 1 [RedApricotBlossom]"}]}]}, {"level": 4, "name": "Moon", "desc": "<style=\"highlight\">5+ [Breath], Call ++ 1</style>\n[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] Get 1 [Breath]"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] Application 1 [RedApricotBlossom]"}]}]}]}, {"id": 1020802, "levelList": [{"level": 1, "name": "Equalcher", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +1 [Breath] Account"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] 2 Anxiety [RedApricotBlossom]"}]}]}, {"level": 2, "name": "Equalcher", "desc": "[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}, {"desc": "+ 30% dangerous rates loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next Line App 1 Image"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [RedApricotBlossom]<style=\"highlight\"></style>"}]}]}, {"level": 4, "name": "Equalcher", "desc": "<style=\"highlight\">7+ [Breath], Call ++ 1\n</style>[WhenUse] Benefits +2 [Breath] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}, {"desc": "+ 30% dangerous rates loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Next Line App 1 Image"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [RedApricotBlossom]<style=\"highlight\"></style>"}]}]}]}, {"id": 1020803, "levelList": [{"level": 3, "name": "Red currant", "desc": "All entry + 3% [RedApricotBlossom] Matampon\n[WinDuel] Half [Breath] Trust yourself if you get it [Breath] This is the same [Breath] The number of use.", "coinlist": [{"coindescs": [{"desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"}]}]}, {"level": 4, "name": "Red currant", "desc": "Everybody was wounded + 3 times [RedApricotBlossom] Matampon\n<style=\"highlight\">7 Connection +1 [Breath] (Max 3) (maximum)</style>\n[WinDuel] Half [Breath] Trust yourself if you get it [Breath] This is the same [Breath] The number of use.\n<style=\"highlight\">It does not use technology [RedApricotBlossom] Criticism</style>", "coinlist": [{"coindescs": [{"desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"}, {"desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom]1 apply [SlashTakeDamageUp]"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"}, {"desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom]1 apply [SlashTakeDamageUp]"}]}]}]}, {"id": 1020804, "levelList": [{"level": 1, "name": "Denial", "desc": "[WhenUse] Every 4 [Breath] Thus, the ultimate win of the power +1 (up to 3)", "coinlist": [{}]}, {"level": 4, "name": "Denial", "desc": "[WhenUse] Every 4 [Breath] So get last power +1 (up to 5).", "coinlist": [{}]}]}, {"id": 1020901, "levelList": [{"level": 1, "name": "Assault", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] 2 Anxiety [Sinking]"}]}]}, {"level": 2, "name": "Assault", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}]}, {"level": 4, "name": "Assault", "desc": "[WhenUse] The target is 6+ [Sinking], Call ++ 1", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"}]}]}]}, {"id": 1020902, "levelList": [{"level": 1, "name": "Cross", "desc": "", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttackHead] App +2 [Sinking] Account"}]}]}, {"level": 2, "name": "Cross", "desc": "[WhenUse] The target is 5+ [Sinking], Power Clash ++ 1", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Sinking] Account"}]}]}, {"level": 4, "name": "Cross", "desc": "[WhenUse] The target is 5+ [Sinking], Power Clash ++ 1\n[WhenUse] Goal 3+ [Sinking] Account, basic water 11", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}]}]}, {"id": 1020903, "levelList": [{"level": 3, "name": "Rats received 4: Hardle", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}, {}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [EchoOfMansion] Valley"}, {"desc": "[OnSucceedAttack] If your goal is. [EchoOfMansion], The app +3 [Sinking] Account"}]}]}, {"level": 4, "name": "Rats received 4: Hardle", "desc": "[WhenUse] The target is 5+ [Sinking] No.. Energy Call 2.2.2.2", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +3 [Sinking] Account"}]}, {}, {}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 Anxiety [EchoOfMansion] Valley"}, {"desc": "[OnSucceedAttack] If your goal is. [EchoOfMansion], The app +3 [Sinking] Account"}]}]}]}, {"id": 1020904, "levelList": [{"level": 1, "name": "Phishing plan", "desc": "[WhenUse] If the goal is 10+ [Sinking]Power C333", "coinlist": [{}]}, {"level": 4, "name": "Phishing plan", "desc": "[WhenUse] If the goal is 10+ [Sinking]Mantra +17", "coinlist": [{}]}]}, {"id": 1021001, "levelList": [{"level": 1, "name": "40-3 Activity", "desc": "[WhenUse] Consumption 5 [Charge] Power of coins to achieve Bh ice", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Charge] Account"}]}]}, {"level": 2, "name": "40-3 Activity", "desc": "[WhenUse] Consumption 5 [Charge] Power of coins to achieve Bh ice<style=\"highlight\"></style>", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Jin + +<style=\"highlight\">Blood</style> [Charge] Account"}]}]}, {"level": 4, "name": "40-3 Activity", "desc": "[WhenUse] Consumption 5 [Charge] Measure the ability to make money <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits +3 [Charge] Account<style=\"highlight\"></style>"}]}]}]}, {"id": 1021002, "levelList": [{"level": 1, "name": "Reference", "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Power of coins to achieve Bh ice", "coinlist": [{}, {}, {"coindescs": [{"desc": "Everything is used as 3+ arguments. [Charge] I trusts me ([Charge]% Loss of each person [Charge] This technical measure (up to 60%)"}]}]}, {"level": 2, "name": "Reference", "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Power of coins to achieve Bh ice<style=\"highlight\"></style>", "coinlist": [{}, {}, {"coindescs": [{"desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">Were, and,,,,,,,,,,,,,,[Charge] + Pl)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">120%</style>Were, and,,,,,,,,,,,,,,"}]}]}, {"level": 4, "name": "Reference", "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Measure the ability to make money <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>", "coinlist": [{}, {}, {"coindescs": [{"desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">Were, and,,,,,,,,,,,,,,[Charge] + 4)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">180%</style>Were, and,,,,,,,,,,,,,,"}]}]}]}, {"id": 1021003, "levelList": [{"level": 3, "name": "Lie down with 40-3", "desc": "2+ [Charge]Call strength + + +", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Gisk + (pads)[Charge] + 4) [Charge] Account (up to 7)"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Gisk + (pads)[Charge] + 4) [Charge] Account (up to 7)"}]}, {}, {"coindescs": [{"desc": "Three + [Charge], + 4% of injuries grow to all [Charge] (Up to 20)"}]}]}, {"level": 4, "name": "Lie down with 40-3", "desc": "<style=\"highlight\">Each person's currency force +1 [Charge] (the best)</style>", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Charge] Maximum <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,,"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Charge] Maximum <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,,"}]}, {}, {"coindescs": [{"desc": "Three + [Charge], Business <style=\"highlight\">+ 8%</style> Every wounds are high [Charge] the best <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"}, {"desc": "<style=\"highlight\">[OnSucceedAttack] Leave the difference in jealousy in the next round\n2 + -O [Charge]1 is currently in favor of jealousy</style>"}]}]}]}, {"id": 1021004, "levelList": [{"level": 1, "name": "Trustee", "desc": "[WhenUse] Benefits +2 [Charge] Numbers (2 times per joint)", "coinlist": [{}]}, {"level": 4, "name": "Trustee", "desc": "[WhenUse] Jin + +<style=\"highlight\">4</style> [Charge] Numbers (2 times per joint)", "coinlist": [{}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 1020501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[DefeatDuel] Benefit Level 2",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] The next round two series found"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Guard",
+          "desc": "[DefeatDuel] Benefit Level 3",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next round two series found"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Guard",
+          "desc": "[WhenUse] In the next waiting list, blocking technology + aggos + squoked\n[DefeatDuel] Benefit Level 3",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next round two series found"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Consumer protection",
+          "desc": "[WhenUse] Used the safety of the colleagues of at least HP NUS2 (3 times per item 3 times)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next 1 level security"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next 1 level security"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next 1 level security"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Consumer protection",
+          "desc": "[WhenUse] Protection with Level 3 HP (3 times per item 3 times)\nLevel 5, the ability to fight at the top level +1 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next 1 level security"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next 1 level security"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next 1 level security"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Consumer protection",
+          "desc": "[WhenUse] The lowest ratio of the alliance (3 times)\nOpposition of 5+ Power in Safety +2 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next 1 level security"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next 1 level security"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next 1 level security"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Laws and orders",
+          "desc": "Power due to +1 on security level 5\n[WinDuel] Treatment 2 x",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "Registered supported, defense level, the lowest HP indicator in the next line"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Laws and orders",
+          "desc": "Power due to +1 on security level 5\n[WinDuel] 4 x treatment",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "Registered supported, defense level, the lowest HP indicator in the next line"
+                }, {
+                  "desc": "The Gully Association Association solutions wants to protect JV level."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Water",
+          "desc": "",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Water",
+          "desc": "[WhenUse] Get +3 Get +3 to prevent this procedure",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1020701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please pull the flat jacket",
+          "desc": "[WhenUse] Benefits Measure +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Measure +3"
+                }, {
+                  "desc": "[OnSucceedAttack] +2 tram account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Please pull the flat jacket",
+          "desc": "[WhenUse] Benefits Measure +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Measure +3"
+                }, {
+                  "desc": "[OnSucceedAttack] +3 tram account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Please pull the flat jacket",
+          "desc": "[WhenUse] Benefits Measure +3\n[DefeatDuel] Benefits Measure +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits Measure +3"
+                }, {
+                  "desc": "[OnSucceedAttack] +3 tram account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trustee",
+          "desc": "[WhenUse] Benefits +4 number",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] In the stages of illegal behavior in the next stage of 1"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 balcony"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Trustee",
+          "desc": "[StartBattle] Police officer for this technique the publication of +1 +1 ATK structure structure\n[WhenUse] Benefits +4 number",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Newsq +1 Termor News"
+                }, {
+                  "desc": "[OnSucceedAttackHead] In the stages of illegal behavior in the next stage of 1"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 balconies"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Add 1 in the next red app"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Trustee",
+          "desc": "[StartBattle] Police officer for this technique the publication of +1 +1 ATK structure structure\n[WhenUse] Benefits +4 number",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Newsq +1 Termor News"
+                }, {
+                  "desc": "[OnSucceedAttack] In the stages of illegal behavior in the next stage of 1"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] It is suitable for 5 balconies"
+                }, {
+                  "desc": "[OnSucceedAttack] Add 1 in the next red app"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Free violence",
+          "desc": "[StartBattle] 5 TRAM TRRAM COMPOST, you +1 ATK (Max. +2)\n[DefeatDuel] I lost 20 spins\nNegative effects on each floor 3% (15% increases)\n[EnemyKill] Profits +2 tram",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Drummer crash,\nThen give preference at the end of 20% unless the votes are lost (up to 13)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Drummer crash,\nThen give preference at the end of 20% unless the votes are lost (up to 13)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Drummer crash,\nThen give preference at the end of 20% unless the votes are lost (up to 13)\n3 has been reduced"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Free violence",
+          "desc": "[StartBattle] 5 TRAM TRRAM COMPOST, you +1 ATK (Max. +2)\n[DefeatDuel] I lost 20 spins\n6% (up to 30%) increases the negative effects of all types\n[EnemyKill] Profits +2 tram",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Drummer crash,\nThen support 30% of the final deficit."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Drummer crash,\nThen support 30% of the final deficit."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Drummer crash,\nThen support 30% of the final deficit.\n3 has been reduced"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collect",
+          "desc": "[WhenUse] Benefits Measure +3",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Collect",
+          "desc": "[WhenUse] Benefits +6 career",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1020801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Moon",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Application 1 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Moon",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Get 1 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Application 1 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Moon",
+          "desc": "<style=\"highlight\">5+ [Breath], Call ++ 1</style>\n[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Get 1 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Application 1 [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Equalcher",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +1 [Breath] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Equalcher",
+          "desc": "[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }, {
+                  "desc": "+ 30% dangerous rates loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next Line App 1 Image"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [RedApricotBlossom]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Equalcher",
+          "desc": "<style=\"highlight\">7+ [Breath], Call ++ 1\n</style>[WhenUse] Benefits +2 [Breath] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }, {
+                  "desc": "+ 30% dangerous rates loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next Line App 1 Image"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [RedApricotBlossom]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Red currant",
+          "desc": "All entry + 3% [RedApricotBlossom] Matampon\n[WinDuel] Half [Breath] Trust yourself if you get it [Breath] This is the same [Breath] The number of use.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Red currant",
+          "desc": "Everybody was wounded + 3 times [RedApricotBlossom] Matampon\n<style=\"highlight\">7 Connection +1 [Breath] (Max 3) (maximum)</style>\n[WinDuel] Half [Breath] Trust yourself if you get it [Breath] This is the same [Breath] The number of use.\n<style=\"highlight\">It does not use technology [RedApricotBlossom] Criticism</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom]1 apply [SlashTakeDamageUp]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom]1 apply [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Denial",
+          "desc": "[WhenUse] Every 4 [Breath] Thus, the ultimate win of the power +1 (up to 3)",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Denial",
+          "desc": "[WhenUse] Every 4 [Breath] So get last power +1 (up to 5).",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1020901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assault",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Assault",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Assault",
+          "desc": "[WhenUse] The target is 6+ [Sinking], Call ++ 1",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cross",
+          "desc": "",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] App +2 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Cross",
+          "desc": "[WhenUse] The target is 5+ [Sinking], Power Clash ++ 1",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Cross",
+          "desc": "[WhenUse] The target is 5+ [Sinking], Power Clash ++ 1\n[WhenUse] Goal 3+ [Sinking] Account, basic water 11",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Rats received 4: Hardle",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }, {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [EchoOfMansion] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [EchoOfMansion], The app +3 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Rats received 4: Hardle",
+          "desc": "[WhenUse] The target is 5+ [Sinking] No.. Energy Call 2.2.2.2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +3 [Sinking] Account"
+                }
+              ]
+            }, {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 Anxiety [EchoOfMansion] Valley"
+                }, {
+                  "desc": "[OnSucceedAttack] If your goal is. [EchoOfMansion], The app +3 [Sinking] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1020904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phishing plan",
+          "desc": "[WhenUse] If the goal is 10+ [Sinking]Power C333",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Phishing plan",
+          "desc": "[WhenUse] If the goal is 10+ [Sinking]Mantra +17",
+          "coinlist": [{}]
+        }
+      ]
+    }, {
+      "id": 1021001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "40-3 Activity",
+          "desc": "[WhenUse] Consumption 5 [Charge] Power of coins to achieve Bh ice",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Charge] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "40-3 Activity",
+          "desc": "[WhenUse] Consumption 5 [Charge] Power of coins to achieve Bh ice<style=\"highlight\"></style>",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jin + +<style=\"highlight\">Blood</style> [Charge] Account"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "40-3 Activity",
+          "desc": "[WhenUse] Consumption 5 [Charge] Measure the ability to make money <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +3 [Charge] Account<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1021002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reference",
+          "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Power of coins to achieve Bh ice",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "Everything is used as 3+ arguments. [Charge] I trusts me ([Charge]% Loss of each person [Charge] This technical measure (up to 60%)"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 2,
+          "name": "Reference",
+          "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Power of coins to achieve Bh ice<style=\"highlight\"></style>",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">Were, and,,,,,,,,,,,,,,[Charge] + Pl)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">120%</style>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Reference",
+          "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Measure the ability to make money <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>",
+          "coinlist": [
+            {}, {}, {
+              "coindescs": [
+                {
+                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">Were, and,,,,,,,,,,,,,,[Charge] + 4)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">180%</style>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1021003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lie down with 40-3",
+          "desc": "2+ [Charge]Call strength + + +",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] + 4) [Charge] Account (up to 7)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] + 4) [Charge] Account (up to 7)"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "Three + [Charge], + 4% of injuries grow to all [Charge] (Up to 20)"
+                }
+              ]
+            }
+          ]
+        }, {
+          "level": 4,
+          "name": "Lie down with 40-3",
+          "desc": "<style=\"highlight\">Each person's currency force +1 [Charge] (the best)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Charge] Maximum <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Charge] Maximum <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }, {}, {
+              "coindescs": [
+                {
+                  "desc": "Three + [Charge], Business <style=\"highlight\">+ 8%</style> Every wounds are high [Charge] the best <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"
+                }, {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Leave the difference in jealousy in the next round\n2 + -O [Charge]1 is currently in favor of jealousy</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 1021004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trustee",
+          "desc": "[WhenUse] Benefits +2 [Charge] Numbers (2 times per joint)",
+          "coinlist": [{}]
+        }, {
+          "level": 4,
+          "name": "Trustee",
+          "desc": "[WhenUse] Jin + +<style=\"highlight\">4</style> [Charge] Numbers (2 times per joint)",
+          "coinlist": [{}]
+        }
+      ]
+    }
+  ]
+}

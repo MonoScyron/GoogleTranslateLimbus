@@ -1,1 +1,897 @@
-{"dataList": [{"id": 9008801, "levelList": [{"level": 1, "name": "Brain", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] At 2 o'clock loss"}]}, {"coindescs": [{"desc": "[OnSucceedAttackTail] At 2 o'clock loss"}]}]}]}, {"id": 9008802, "levelList": [{"level": 1, "name": "Idol", "desc": "[WinDuel] Target damage 10sp;", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Next Line App 1 Image"}]}]}]}, {"id": 9008803, "levelList": [{"level": 1, "name": "Fear", "desc": "If the goal is less than 20%, this attack will be treated 20% X after the attack.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackTail] Transaction 3s"}, {"desc": "[OnSucceedAttack] 30% of injuries"}]}, {"coindescs": [{"desc": "[OnSucceedAttackTail] Transaction 3s"}, {"desc": "[OnSucceedAttack] 30% of injuries"}]}]}]}, {"id": 9008804, "levelList": [{"level": 1, "name": "Paralysis", "desc": "If the target is less than 15, call + 50% loss.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The next line 2 is paralyzed"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The next line 2 is paralyzed"}]}]}]}, {"id": 9008901, "levelList": [{"level": 1, "name": "-... - ..-", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}]}]}]}, {"id": 9008902, "levelList": [{"level": 1, "name": "-- ... -.-", "desc": "[WinDuel] 1 Great noise is worrying", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3 sinks"}, {"desc": "[OnSucceedAttackHead] Application +3 ton-settings"}]}]}]}, {"id": 9008903, "levelList": [{"level": 1, "name": "...- .", "desc": "Final capacity +1 (old units), readers of each reader", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 40%"}, {"desc": "[OnSucceedAttack] The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 40%"}]}]}]}, {"id": 9009001, "levelList": [{"level": 1, "name": "..-. .", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +2 tons"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +2 tons"}]}]}]}, {"id": 9009002, "levelList": [{"level": 1, "name": "..-. . --", "desc": "[WinDuel] 1 Great noise is worrying", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +2 tons"}, {"desc": "[OnSucceedAttackHead] Used for 2 pelvis"}]}]}]}, {"id": 9009003, "levelList": [{"level": 1, "name": ".-.. -", "desc": "[WinDuel] Sometimes each adrenalin supplement is full life (this tool is not measured)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 40%"}, {"desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 40%"}]}]}]}, {"id": 9009101, "levelList": [{"level": 1, "name": "-... .…", "desc": "If your goal is. <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Drinkage</link></u></color>HP Hill effect is also used for the second function platform SP.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 30% of injuries"}, {"desc": "[OnSucceedAttackHead] 1 sync"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 30% of injuries"}, {"desc": "[OnSucceedAttackHead] 1 sync"}]}]}]}, {"id": 9009102, "levelList": [{"level": 1, "name": ".--- .", "desc": "If your goal is. <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Drinkage</link></u></color>HP Hill effect is also used for the second function platform SP.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 50% of injury"}, {"desc": "[OnSucceedAttack] 2 is flexible for light sounds"}]}]}]}, {"id": 9009103, "levelList": [{"level": 1, "name": "-. .…", "desc": "[WhenUse] If your goal is. <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">The plane</link></u></color>, All the relationships of the second balcony", "coinlist": [{"coindescs": [{"desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Stomach"}]}]}]}, {"id": 9009201, "levelList": [{"level": 1, "name": "-- . -.-", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 3g contract"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 3g contract"}]}]}]}, {"id": 9009202, "levelList": [{"level": 1, "name": "-... .-", "desc": "[WhenUse] 1 App 1 is the other employee of the next line.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +4 tram account"}]}]}]}, {"id": 9009203, "levelList": [{"level": 1, "name": "-.-. ..-", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Dero Mir Trigger"}, {"desc": "[OnSucceedAttack] Use 2 to reduce termin measure"}, {"desc": "[OnSucceedAttack] 1 Great noise is worrying"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] I have 10 tears and I get +4 numbers"}]}]}]}, {"id": 9009204, "levelList": [{"level": 1, "name": ".--. .", "desc": "[StartBattle] Get the same security for each colleague of two owners (this instrument is incorrect)\nIf the device is stopped, if you have attacked, the shower before 1.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9009301, "levelList": [{"level": 1, "name": "..-. .", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Apply two security levels below"}]}]}]}, {"id": 9009302, "levelList": [{"level": 1, "name": ".-.. .", "desc": "[WhenUse] The following couples use other preferences.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Twice"}, {"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}]}]}]}, {"id": 9009303, "levelList": [{"level": 1, "name": ".-.. .-", "desc": "[WhenUse] All cooperation using loss for next accident", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Apply two security levels below"}, {"desc": "[OnSucceedAttack] 1 Great noise is worrying"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Apply two security levels below"}]}]}]}, {"id": 9009401, "levelList": [{"level": 1, "name": "--. . ...-", "desc": "If your goal is. <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">The plane</link></u></color>, Damage 1 SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] +2 digital readiall application"}, {"desc": "[OnSucceedAttackHead] 3 bleeding"}]}]}]}, {"id": 9009402, "levelList": [{"level": 1, "name": "...- …", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 1 Great noise is worrying"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] +3 Fire application"}, {"desc": "[OnSucceedAttack] 3 bleeding"}]}]}]}, {"id": 9009403, "levelList": [{"level": 1, "name": ".--. .... -", "desc": "[WinDuel] 1 Great noise is worrying", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 4 blood in the next line"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Complete use in the next round"}]}]}]}, {"id": 9009404, "levelList": [{"level": 1, "name": "-.- -", "desc": "If this device's attack is saved, 1 paralyzed-up\n[EndBattle] If you have a shaller on this device, you will get three look in the next line.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9009501, "levelList": [{"level": 1, "name": ".--. -", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Alin 2"}, {"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 9009502, "levelList": [{"level": 1, "name": ".-.. - ..-", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The next line is applied for paralysis"}, {"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Reduce the damage the following"}, {"desc": "[OnSucceedAttack] 2 Bleeding establishment"}]}]}]}, {"id": 9009503, "levelList": [{"level": 1, "name": "-- .... -", "desc": "[WhenUse] Secured by readers of each competitor.", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Security 2"}, {"desc": "[OnSucceedAttackHead] 1 Great noise is worrying"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] 2 be red"}, {"desc": "[OnSucceedAttackHead] 4 blood in the next line"}]}]}]}, {"id": 9009504, "levelList": [{"level": 1, "name": "-.- ..", "desc": "[WhenUse] Security 2\nIf this device's attack is saved, 1 paralyzed-up\n[EndBattle] HP processing from the rest of the SHAL X2 HP.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9009601, "levelList": [{"level": 1, "name": "In the sun", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttackHead] The next line is applied for paralysis"}]}]}]}, {"id": 9009602, "levelList": [{"level": 1, "name": "Remember!", "desc": "[DefeatDuel] Damage is 1 next way", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Alin 2"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Increase more harm to the same number of medium-rural friends killed in this movement."}]}]}]}, {"id": 9009603, "levelList": [{"level": 1, "name": "The earth's warehouse", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] In the next round make an electrical attack below."}]}, {"coindescs": [{"desc": "[OnSucceedAttack] The next line 2 is paralyzed"}]}]}]}, {"id": 9009604, "levelList": [{"level": 1, "name": "Write", "desc": "[EndBattle] If the device is banned, you will get electricity from the next line.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9009605, "levelList": [{"level": 1, "name": "Exchange of currencies", "desc": "[DefeatDuel] Damage is 1 next way", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] The next line 2 is paralyzed"}, {"desc": "[OnSucceedAttackTail] Improvements in the versions of important value 8"}]}]}]}, {"id": 9009606, "levelList": [{"level": 1, "name": "Is worth it", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Increases the reproduction limit"}, {"desc": "[OnSucceedAttack] Treatment 20 HP Solutions"}, {"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}, {"id": 9009701, "levelList": [{"level": 1, "name": "In the sun", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] The next line is applied for paralysis"}]}]}]}, {"id": 9009702, "levelList": [{"level": 1, "name": "Write your sins!", "desc": "[DefeatDuel] Damage is 1 next way", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Reduce the damage the following"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Increase more harm to the same number of medium-rural friends killed in this movement."}]}]}]}, {"id": 9009703, "levelList": [{"level": 1, "name": "Scalp", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Add 1 in the next red app"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Add 1 in the next red app"}]}]}]}, {"id": 9009704, "levelList": [{"level": 1, "name": "Write", "desc": "After completing the armor, the device has been attacked with electrical attacks.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9009705, "levelList": [{"level": 1, "name": "Exchange of currencies", "desc": "[DefeatDuel] Damage is 1 next way", "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] The next line 2 is paralyzed"}, {"desc": "[OnSucceedAttackTail] Improvements in the versions of important value 8"}]}]}]}, {"id": 9009706, "levelList": [{"level": 1, "name": "Is worth it", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Increases the reproduction limit"}, {"desc": "[OnSucceedAttack] Treatment 20 HP Solutions"}, {"desc": "[OnSucceedAttack] 3 Next row paralyzed"}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 9008801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brain",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] At 2 o'clock loss"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] At 2 o'clock loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9008802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Idol",
+          "desc": "[WinDuel] Target damage 10sp;",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Next Line App 1 Image"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9008803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fear",
+          "desc": "If the goal is less than 20%, this attack will be treated 20% X after the attack.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Transaction 3s"
+                }, {
+                  "desc": "[OnSucceedAttack] 30% of injuries"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Transaction 3s"
+                }, {
+                  "desc": "[OnSucceedAttack] 30% of injuries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9008804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralysis",
+          "desc": "If the target is less than 15, call + 50% loss.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line 2 is paralyzed"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line 2 is paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9008901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9008902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- ... -.-",
+          "desc": "[WinDuel] 1 Great noise is worrying",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3 sinks"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Application +3 ton-settings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9008903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- .",
+          "desc": "Final capacity +1 (old units), readers of each reader",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 40%"
+                }, {
+                  "desc": "[OnSucceedAttack] The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +2 tons"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +2 tons"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. . --",
+          "desc": "[WinDuel] 1 Great noise is worrying",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +2 tons"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Used for 2 pelvis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. -",
+          "desc": "[WinDuel] Sometimes each adrenalin supplement is full life (this tool is not measured)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 40%"
+                }, {
+                  "desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .…",
+          "desc": "If your goal is. <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Drinkage</link></u></color>HP Hill effect is also used for the second function platform SP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 30% of injuries"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 1 sync"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 30% of injuries"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 1 sync"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--- .",
+          "desc": "If your goal is. <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Drinkage</link></u></color>HP Hill effect is also used for the second function platform SP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 50% of injury"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 is flexible for light sounds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-. .…",
+          "desc": "[WhenUse] If your goal is. <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">The plane</link></u></color>, All the relationships of the second balcony",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Stomach"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- . -.-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3g contract"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 3g contract"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .-",
+          "desc": "[WhenUse] 1 App 1 is the other employee of the next line.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +4 tram account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.-. ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Dero Mir Trigger"
+                }, {
+                  "desc": "[OnSucceedAttack] Use 2 to reduce termin measure"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 Great noise is worrying"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] I have 10 tears and I get +4 numbers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .",
+          "desc": "[StartBattle] Get the same security for each colleague of two owners (this instrument is incorrect)\nIf the device is stopped, if you have attacked, the shower before 1.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply two security levels below"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .",
+          "desc": "[WhenUse] The following couples use other preferences.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Twice"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .-",
+          "desc": "[WhenUse] All cooperation using loss for next accident",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply two security levels below"
+                }, {
+                  "desc": "[OnSucceedAttack] 1 Great noise is worrying"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Apply two security levels below"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "--. . ...-",
+          "desc": "If your goal is. <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">The plane</link></u></color>, Damage 1 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +2 digital readiall application"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 3 bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- …",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 1 Great noise is worrying"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +3 Fire application"
+                }, {
+                  "desc": "[OnSucceedAttack] 3 bleeding"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .... -",
+          "desc": "[WinDuel] 1 Great noise is worrying",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 4 blood in the next line"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Complete use in the next round"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- -",
+          "desc": "If this device's attack is saved, 1 paralyzed-up\n[EndBattle] If you have a shaller on this device, you will get three look in the next line.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. -",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line is applied for paralysis"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reduce the damage the following"
+                }, {
+                  "desc": "[OnSucceedAttack] 2 Bleeding establishment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- .... -",
+          "desc": "[WhenUse] Secured by readers of each competitor.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Security 2"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 1 Great noise is worrying"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 2 be red"
+                }, {
+                  "desc": "[OnSucceedAttackHead] 4 blood in the next line"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- ..",
+          "desc": "[WhenUse] Security 2\nIf this device's attack is saved, 1 paralyzed-up\n[EndBattle] HP processing from the rest of the SHAL X2 HP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "In the sun",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] The next line is applied for paralysis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Remember!",
+          "desc": "[DefeatDuel] Damage is 1 next way",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Alin 2"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increase more harm to the same number of medium-rural friends killed in this movement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The earth's warehouse",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] In the next round make an electrical attack below."
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line 2 is paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Write",
+          "desc": "[EndBattle] If the device is banned, you will get electricity from the next line.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exchange of currencies",
+          "desc": "[DefeatDuel] Damage is 1 next way",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line 2 is paralyzed"
+                }, {
+                  "desc": "[OnSucceedAttackTail] Improvements in the versions of important value 8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is worth it",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increases the reproduction limit"
+                }, {
+                  "desc": "[OnSucceedAttack] Treatment 20 HP Solutions"
+                }, {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "In the sun",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line is applied for paralysis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Write your sins!",
+          "desc": "[DefeatDuel] Damage is 1 next way",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reduce the damage the following"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increase more harm to the same number of medium-rural friends killed in this movement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scalp",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Add 1 in the next red app"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Add 1 in the next red app"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Write",
+          "desc": "After completing the armor, the device has been attacked with electrical attacks.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exchange of currencies",
+          "desc": "[DefeatDuel] Damage is 1 next way",
+          "coinlist": [
+            {}, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] The next line 2 is paralyzed"
+                }, {
+                  "desc": "[OnSucceedAttackTail] Improvements in the versions of important value 8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9009706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is worth it",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Increases the reproduction limit"
+                }, {
+                  "desc": "[OnSucceedAttack] Treatment 20 HP Solutions"
+                }, {
+                  "desc": "[OnSucceedAttack] 3 Next row paralyzed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

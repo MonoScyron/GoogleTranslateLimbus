@@ -1,1 +1,17 @@
-{"dataList": [{"id": "limbus_1st_anniversary_attendance_desc", "content": "Take a ticket daily to remove the incident.\n7 Tests collected and receive a special award."}, {"id": "limbus_1st_anniversary_attendance_last_reward_desc", "content": "If you declare, you get a 50 or wired box."}, {"id": "limbus_1st_anniversary_welcome_title", "content": "Hard 1 company."}, {"id": "limbus_1st_anniversary_welcome_desc", "content": "Login and select the program and select [3 ★ Grants Debation Tater]!"}]}
+{
+  "dataList": [
+    {
+      "id": "limbus_1st_anniversary_attendance_desc",
+      "content": "Take a ticket daily to remove the incident.\n7 Tests collected and receive a special award."
+    }, {
+      "id": "limbus_1st_anniversary_attendance_last_reward_desc",
+      "content": "If you declare, you get a 50 or wired box."
+    }, {
+      "id": "limbus_1st_anniversary_welcome_title",
+      "content": "Hard 1 company."
+    }, {
+      "id": "limbus_1st_anniversary_welcome_desc",
+      "content": "Login and select the program and select [3 ★ Grants Debation Tater]!"
+    }
+  ]
+}

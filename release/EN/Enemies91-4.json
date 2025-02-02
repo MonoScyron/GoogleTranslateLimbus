@@ -1,1 +1,77 @@
-{"dataList": [{"id": 90077, "name": "Waste", "desc": "Is not in favor of"}, {"id": 90078, "name": "Lost", "desc": "Is not in favor of"}, {"id": 90079, "name": "Hard is useless", "desc": "Is not in favor of"}, {"id": 90080, "name": "Classic Crab", "desc": "Is not in favor of"}, {"id": 90081, "name": "Sangeine Collapse Craft", "desc": "Is not in favor of"}, {"id": 8063, "name": "Crab Hose", "desc": "Nuclear"}, {"id": 806301, "name": "Head", "desc": "Part time work"}, {"id": 806302, "name": "Coincidentally", "desc": "Part time work"}, {"id": 8070, "name": "Waste", "desc": "Nuclear"}, {"id": 807001, "name": "Body", "desc": "Part time work"}, {"id": 8071, "name": "Lost", "desc": "Nuclear"}, {"id": 807101, "name": "Body", "desc": "Part time work"}, {"id": 8072, "name": "Hard is useless", "desc": "Nuclear"}, {"id": 807201, "name": "Body", "desc": "Part time work"}, {"id": 8073, "name": "Classic Crab", "desc": "Nuclear"}, {"id": 807301, "name": "Body", "desc": "Part time work"}, {"id": 8074, "name": "Sangeine Collapse Craft", "desc": "Nuclear"}, {"id": 807401, "name": "Body", "desc": "Part time work"}]}
+{
+  "dataList": [
+    {
+      "id": 90077,
+      "name": "Waste",
+      "desc": "Is not in favor of"
+    }, {
+      "id": 90078,
+      "name": "Lost",
+      "desc": "Is not in favor of"
+    }, {
+      "id": 90079,
+      "name": "Hard is useless",
+      "desc": "Is not in favor of"
+    }, {
+      "id": 90080,
+      "name": "Classic Crab",
+      "desc": "Is not in favor of"
+    }, {
+      "id": 90081,
+      "name": "Sangeine Collapse Craft",
+      "desc": "Is not in favor of"
+    }, {
+      "id": 8063,
+      "name": "Crab Hose",
+      "desc": "Nuclear"
+    }, {
+      "id": 806301,
+      "name": "Head",
+      "desc": "Part time work"
+    }, {
+      "id": 806302,
+      "name": "Coincidentally",
+      "desc": "Part time work"
+    }, {
+      "id": 8070,
+      "name": "Waste",
+      "desc": "Nuclear"
+    }, {
+      "id": 807001,
+      "name": "Body",
+      "desc": "Part time work"
+    }, {
+      "id": 8071,
+      "name": "Lost",
+      "desc": "Nuclear"
+    }, {
+      "id": 807101,
+      "name": "Body",
+      "desc": "Part time work"
+    }, {
+      "id": 8072,
+      "name": "Hard is useless",
+      "desc": "Nuclear"
+    }, {
+      "id": 807201,
+      "name": "Body",
+      "desc": "Part time work"
+    }, {
+      "id": 8073,
+      "name": "Classic Crab",
+      "desc": "Nuclear"
+    }, {
+      "id": 807301,
+      "name": "Body",
+      "desc": "Part time work"
+    }, {
+      "id": 8074,
+      "name": "Sangeine Collapse Craft",
+      "desc": "Nuclear"
+    }, {
+      "id": 807401,
+      "name": "Body",
+      "desc": "Part time work"
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"dataList": [{"id": "miracle_stagebutton_not_clear_cp4", "content": "Clear to prevent it {0} First!"}, {"id": "miracle_stagebutton_normal", "content": "Oi, look!"}, {"id": "miracle_stagebutton_end_event", "content": "I'm late!"}, {"id": "miracle_storybutton_before_start", "content": "Clean the hole 5.5-1"}, {"id": "miracle_storybutton_normal", "content": "Improving adventures!"}, {"id": "miracle_exchange_scrap", "content": "Establishment of Rewards Rewards"}, {"id": "miracle_scrap_guide_title", "content": "Heavy"}, {"id": "miracle_scrap_guide_desc", "content": "Nair, you can get <color=#008d0d>[Huge Trinkets Sack]</color> The main stage or dark history of the event of the event.\n\n<color=#008d0d>[Huge Trinkets Sack]</color> 20 entry <color=#008d0d>[Trinkets Sack]</color>Intersection"}, {"id": "miracle_rewardpage_desc", "content": "The history of a clear stage of activity, history or income behavior <color=#008d0d>[Trinkets Sack]</color>Intersection\n\nYou can use other awards <color=#008d0d>[Gift Exchange]</color> Characters <color=#008d0d>[Trinkets Sack]</color> you have"}, {"id": "miracle_scrap_counter_label", "content": "Collection"}]}
+{
+  "dataList": [
+    {
+      "id": "miracle_stagebutton_not_clear_cp4",
+      "content": "Clear to prevent it {0} First!"
+    }, {
+      "id": "miracle_stagebutton_normal",
+      "content": "Oi, look!"
+    }, {
+      "id": "miracle_stagebutton_end_event",
+      "content": "I'm late!"
+    }, {
+      "id": "miracle_storybutton_before_start",
+      "content": "Clean the hole 5.5-1"
+    }, {
+      "id": "miracle_storybutton_normal",
+      "content": "Improving adventures!"
+    }, {
+      "id": "miracle_exchange_scrap",
+      "content": "Establishment of Rewards Rewards"
+    }, {
+      "id": "miracle_scrap_guide_title",
+      "content": "Heavy"
+    }, {
+      "id": "miracle_scrap_guide_desc",
+      "content": "Nair, you can get <color=#008d0d>[Huge Trinkets Sack]</color> The main stage or dark history of the event of the event.\n\n<color=#008d0d>[Huge Trinkets Sack]</color> 20 entry <color=#008d0d>[Trinkets Sack]</color>Intersection"
+    }, {
+      "id": "miracle_rewardpage_desc",
+      "content": "The history of a clear stage of activity, history or income behavior <color=#008d0d>[Trinkets Sack]</color>Intersection\n\nYou can use other awards <color=#008d0d>[Gift Exchange]</color> Characters <color=#008d0d>[Trinkets Sack]</color> you have"
+    }, {
+      "id": "miracle_scrap_counter_label",
+      "content": "Collection"
+    }
+  ]
+}

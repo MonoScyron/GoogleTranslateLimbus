@@ -1,1 +1,106 @@
-{"dataList": [{"id": "FusionVibration", "name": "Popularity", "desc": "Finally, express the vibration and shrimp of vibration.\nWe have not changed the problem with size and values.\n-You shake the ability to take a revenge.\nFor exchange: Exchange according to the difficult rules.", "summary": ""}, {"id": "VibrationNesting", "name": "The gift of the stall", "desc": "-Chatt is the same\nRespect connects a result of a great shade.", "summary": "", "undefined": "-"}, {"id": "VibrationDistribution", "name": "Episodes of the title", "desc": "-Thertment:))) / (# -) / (# -) / (# -) / (# -) / (# -) / (# -) / (# -)) / (# -)) / (# -)) / (# -)) /)))))))))))))))))))))))\n- with {1} When such a hobbying technique has been stuck {0}\n-Conally: Reduce every number once\n- (It is affected by or reduce shower / measuring options based on natural impacts.", "summary": "", "undefined": "-"}, {"id": "TcorpSpecialInvestigator", "name": "T-spokezer is very important", "desc": "If the device has fatal damage, it will not be reduced in HP1, immediately fixing maximum HP and repair energy immediately.\nWhen the effect of meat pieces begins in the next round, there are two electric attacks at the beginning of Roller 5 in the device.", "summary": "", "undefined": "-"}, {"id": "VibrationChain", "name": "Hodla -sin", "desc": "-S 1 is a chance for every 10 possibilities (up to 3)\n- with {1} Change: Increasing the pollen range during leaving technology. {0}Intersection\n-Conally: Reduce every number once\n- (It is affected by or reduce shower / measuring options based on natural impacts.", "summary": "Every 10 stimulus has lost energy opportunities.\nCorridor {0}", "undefined": "-"}, {"id": "TimeRentalTwo", "name": "Tea.", "desc": "The end of the round\n-It {1} There is a sensitive turn in the fire department and conflict.\n-T not take with a number {0} Instead, tying the next round.\n-Clantan 1 sound and number 1\n-Arely is greater than the viewers, then the loan time effect is completed and the device is set.", "summary": "", "undefined": "-"}, {"id": "TimeAccumulation", "name": "Late", "desc": "If this effect is important, the union is not perish and this relationship is fixed.\nFinally: Reduce the price with 1\nIf the Turnover and is only stored, the equipment collapse (storage loss)\nIf this effect is active, it cannot be achieved or updated.", "summary": "", "undefined": "-"}, {"id": "ParryingResultDown", "name": "Pleased", "desc": "The strength of the fight disappears from the struggle.", "summary": "", "undefined": "-"}, {"id": "ParryingResultUp", "name": "Clash", "desc": "This is the right to struggle in battle.", "summary": "This is the right to struggle in battle.", "undefined": "-"}, {"id": "LimitedTime", "name": "Being stolen", "desc": "He started: more than 200 values ​​({0}-200) / 50 false and protection.\nStart: Less than 200, height (200- {0}Than illegal behavior and safety levels / 50 lower behavior.", "summary": "", "undefined": "-"}, {"id": "OwnTime", "name": "Never share", "desc": "-Cot: Get (receive){0}-40) 10 levels and basic levels.\n-4SCach Brand: less than 40-40 ----- {0}The next 10-superficial breach and security level.", "summary": "", "undefined": "-"}, {"id": "EquitableDistribution", "name": "Together, spending time", "desc": "When the time share, the brain spends on the board immediately.", "summary": "", "undefined": "-"}, {"id": "UnfairDistribution", "name": "Constant", "desc": "When the time share, the brain is no longer consumed by the plate.\nStart: I have lost all the parts of the area due to the number of weather prices.", "summary": "", "undefined": "-"}, {"id": "TimeAcceleration", "name": "Quickly", "desc": "-L 5 years\n-Test station unit technology.\nField 1 is hidden.", "summary": "", "undefined": "-"}, {"id": "Yurodivy_LowMorale", "name": "Bad", "desc": "-The less fraud\nGet 1 Frame.", "summary": "", "undefined": "-"}, {"id": "Yurodivy_Panic", "name": "Bad", "desc": "Twitter\nBecomes 2 sensitive.", "summary": "", "undefined": "-"}, {"id": "TimeKillerWatch", "name": "The right way", "desc": "If the speed of time increases, the goal is the plant of the weather.", "summary": "", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Popularity",
+      "desc": "Finally, express the vibration and shrimp of vibration.\nWe have not changed the problem with size and values.\n-You shake the ability to take a revenge.\nFor exchange: Exchange according to the difficult rules.",
+      "summary": ""
+    }, {
+      "id": "VibrationNesting",
+      "name": "The gift of the stall",
+      "desc": "-Chatt is the same\nRespect connects a result of a great shade.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "VibrationDistribution",
+      "name": "Episodes of the title",
+      "desc": "-Thertment:))) / (# -) / (# -) / (# -) / (# -) / (# -) / (# -) / (# -)) / (# -)) / (# -)) / (# -)) /)))))))))))))))))))))))\n- with {1} When such a hobbying technique has been stuck {0}\n-Conally: Reduce every number once\n- (It is affected by or reduce shower / measuring options based on natural impacts.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "TcorpSpecialInvestigator",
+      "name": "T-spokezer is very important",
+      "desc": "If the device has fatal damage, it will not be reduced in HP1, immediately fixing maximum HP and repair energy immediately.\nWhen the effect of meat pieces begins in the next round, there are two electric attacks at the beginning of Roller 5 in the device.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "VibrationChain",
+      "name": "Hodla -sin",
+      "desc": "-S 1 is a chance for every 10 possibilities (up to 3)\n- with {1} Change: Increasing the pollen range during leaving technology. {0}Intersection\n-Conally: Reduce every number once\n- (It is affected by or reduce shower / measuring options based on natural impacts.",
+      "summary": "Every 10 stimulus has lost energy opportunities.\nCorridor {0}",
+      "undefined": "-"
+    }, {
+      "id": "TimeRentalTwo",
+      "name": "Tea.",
+      "desc": "The end of the round\n-It {1} There is a sensitive turn in the fire department and conflict.\n-T not take with a number {0} Instead, tying the next round.\n-Clantan 1 sound and number 1\n-Arely is greater than the viewers, then the loan time effect is completed and the device is set.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "TimeAccumulation",
+      "name": "Late",
+      "desc": "If this effect is important, the union is not perish and this relationship is fixed.\nFinally: Reduce the price with 1\nIf the Turnover and is only stored, the equipment collapse (storage loss)\nIf this effect is active, it cannot be achieved or updated.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "ParryingResultDown",
+      "name": "Pleased",
+      "desc": "The strength of the fight disappears from the struggle.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "ParryingResultUp",
+      "name": "Clash",
+      "desc": "This is the right to struggle in battle.",
+      "summary": "This is the right to struggle in battle.",
+      "undefined": "-"
+    }, {
+      "id": "LimitedTime",
+      "name": "Being stolen",
+      "desc": "He started: more than 200 values ​​({0}-200) / 50 false and protection.\nStart: Less than 200, height (200- {0}Than illegal behavior and safety levels / 50 lower behavior.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "OwnTime",
+      "name": "Never share",
+      "desc": "-Cot: Get (receive){0}-40) 10 levels and basic levels.\n-4SCach Brand: less than 40-40 ----- {0}The next 10-superficial breach and security level.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "EquitableDistribution",
+      "name": "Together, spending time",
+      "desc": "When the time share, the brain spends on the board immediately.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "UnfairDistribution",
+      "name": "Constant",
+      "desc": "When the time share, the brain is no longer consumed by the plate.\nStart: I have lost all the parts of the area due to the number of weather prices.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "TimeAcceleration",
+      "name": "Quickly",
+      "desc": "-L 5 years\n-Test station unit technology.\nField 1 is hidden.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "Yurodivy_LowMorale",
+      "name": "Bad",
+      "desc": "-The less fraud\nGet 1 Frame.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "Yurodivy_Panic",
+      "name": "Bad",
+      "desc": "Twitter\nBecomes 2 sensitive.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "TimeKillerWatch",
+      "name": "The right way",
+      "desc": "If the speed of time increases, the goal is the plant of the weather.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

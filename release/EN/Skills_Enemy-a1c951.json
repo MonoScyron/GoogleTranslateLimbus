@@ -1,1 +1,317 @@
-{"dataList": [{"id": 9010101, "levelList": [{"level": 1, "name": "People!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 4 [Breath]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [Paralysis]"}]}]}]}, {"id": 9010102, "levelList": [{"level": 1, "name": "Take it", "desc": "[WinDuel] 5 Processing SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 4 [Breath]"}, {"desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"}, {"desc": "+ 40% loss"}]}]}]}, {"id": 9010103, "levelList": [{"level": 1, "name": "Oh, see us!", "desc": "", "coinlist": [{"coindescs": [{"desc": "+ 30% dangerous rates loss"}, {"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}]}, {"coindescs": [{"desc": "+ 30% dangerous rates loss"}, {"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}]}]}]}, {"id": 9010201, "levelList": [{"level": 1, "name": "Fresh meat", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [Breath] And +2 [Breath] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"}, {"desc": "[CriticalOnSucceedAttack] Benefits 3 [Binding] Valley"}]}]}]}, {"id": 9010202, "levelList": [{"level": 1, "name": "I'm looking for life!", "desc": "[WinDuel] 5 Processing SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [Breath] And +2 [Breath] Account"}, {"desc": "+ 40% loss"}]}]}]}, {"id": 9010203, "levelList": [{"level": 1, "name": "App-MG Application Number!", "desc": "[EndBattle] If you have a shield on this device, get 1 [Enhancement] The next line.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9010301, "levelList": [{"level": 1, "name": "Go to the Furniture button!", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +3 [Breath] Account"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [Paralysis]"}]}]}]}, {"id": 9010302, "levelList": [{"level": 1, "name": "Leader", "desc": "[WinDuel] 5 Processing SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}, {"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "+ 40% loss"}]}]}]}, {"id": 9010303, "levelList": [{"level": 1, "name": "Home", "desc": "[OnSucceedEvade] Benefits 5 [Breath] And +2 [Breath] Account.\n[OnDefeatEvade] 10 Breeding Threads", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}, {"id": 9010401, "levelList": [{"level": 1, "name": "I will give you one", "desc": "", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}, {"desc": "[CriticalOnSucceedAttack] 2 Anxiety [Binding] Valley"}]}]}]}, {"id": 9010402, "levelList": [{"level": 1, "name": "We beat gold!", "desc": "[WinDuel] 5 Processing SP", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Get 2 [Breath] And +3 [Breath] Account"}, {"desc": "+ 50% loss due to severe attacks"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Benefits 3 [Breath] And +1 [Breath] Account"}, {"desc": "+ 50% loss due to severe attacks"}]}]}]}, {"id": 9010403, "levelList": [{"level": 1, "name": "Local raw material!", "desc": "[WinDuel] Benefits 3 [Breath]", "coinlist": [{"coindescs": [{"desc": "[CriticalOnSucceedAttack] + Final contact is damaged in 20%."}, {"desc": "[OnSucceedAttack] Benefits 3 [Breath]"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] + Final contact is damaged in 20%."}, {"desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] Do not eat [Breath] Faith. [Breath]"}]}]}]}, {"id": 9010404, "levelList": [{"level": 1, "name": "App-MG Application Number!", "desc": "[EndBattle] If I get iron on device, 2 [Enhancement] The next line.", "coinlist": [{"coindescs": [{"desc": ""}]}]}]}]}
+{
+  "dataList": [
+    {
+      "id": 9010101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "People!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 4 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Take it",
+          "desc": "[WinDuel] 5 Processing SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 4 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"
+                }, {
+                  "desc": "+ 40% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oh, see us!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+ 30% dangerous rates loss"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "+ 30% dangerous rates loss"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fresh meat",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [Breath] And +2 [Breath] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Benefits 3 [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm looking for life!",
+          "desc": "[WinDuel] 5 Processing SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [Breath] And +2 [Breath] Account"
+                }, {
+                  "desc": "+ 40% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "App-MG Application Number!",
+          "desc": "[EndBattle] If you have a shield on this device, get 1 [Enhancement] The next line.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Go to the Furniture button!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +3 [Breath] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Benefits +1 [Breath] Account"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leader",
+          "desc": "[WinDuel] 5 Processing SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "+ 40% loss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Home",
+          "desc": "[OnSucceedEvade] Benefits 5 [Breath] And +2 [Breath] Account.\n[OnDefeatEvade] 10 Breeding Threads",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I will give you one",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] 2 Anxiety [Binding] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "We beat gold!",
+          "desc": "[WinDuel] 5 Processing SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Get 2 [Breath] And +3 [Breath] Account"
+                }, {
+                  "desc": "+ 50% loss due to severe attacks"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath] And +1 [Breath] Account"
+                }, {
+                  "desc": "+ 50% loss due to severe attacks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Local raw material!",
+          "desc": "[WinDuel] Benefits 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] + Final contact is damaged in 20%."
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 3 [Breath]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] + Final contact is damaged in 20%."
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits +2 [Breath] Account"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Do not eat [Breath] Faith. [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 9010404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "App-MG Application Number!",
+          "desc": "[EndBattle] If I get iron on device, 2 [Enhancement] The next line.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,41 @@
-{"dataList": [{"id": "filter_title_ego_type", "content": "Rare"}, {"id": "filter_title_ego_level", "content": "Guide"}, {"id": "number_of_targets", "content": "Goal"}, {"id": "SINGLE_TARGET", "content": "Uniform"}, {"id": "MULTIPLE_TARGET", "content": "Area"}, {"id": "filter_title_attribute", "content": "Close"}, {"id": "filter_awaken_state", "content": "Development level"}, {"id": "filter_normal", "content": "Tire 1/2"}, {"id": "filter_awaken", "content": "Tire 3"}, {"id": "filter_skill_keyword", "content": "Canot"}, {"id": "sorting_acqisition", "content": "To close"}, {"id": "filter_title_ego_gacksung", "content": "Complete wire-alliable"}]}
+{
+  "dataList": [
+    {
+      "id": "filter_title_ego_type",
+      "content": "Rare"
+    }, {
+      "id": "filter_title_ego_level",
+      "content": "Guide"
+    }, {
+      "id": "number_of_targets",
+      "content": "Goal"
+    }, {
+      "id": "SINGLE_TARGET",
+      "content": "Uniform"
+    }, {
+      "id": "MULTIPLE_TARGET",
+      "content": "Area"
+    }, {
+      "id": "filter_title_attribute",
+      "content": "Close"
+    }, {
+      "id": "filter_awaken_state",
+      "content": "Development level"
+    }, {
+      "id": "filter_normal",
+      "content": "Tire 1/2"
+    }, {
+      "id": "filter_awaken",
+      "content": "Tire 3"
+    }, {
+      "id": "filter_skill_keyword",
+      "content": "Canot"
+    }, {
+      "id": "sorting_acqisition",
+      "content": "To close"
+    }, {
+      "id": "filter_title_ego_gacksung",
+      "content": "Complete wire-alliable"
+    }
+  ]
+}

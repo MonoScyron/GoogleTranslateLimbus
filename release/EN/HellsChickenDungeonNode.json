@@ -1,1 +1,16 @@
-{"dataList": [{"id": 910301, "title": "Shabdi", "desc": "Fast and good bookmarks."}, {"id": 910701, "title": "Bampus", "desc": "In lightning of magnetic ships\nWe have a tragic night's way."}, {"id": 910901, "title": "Faculty Event"}]}
+{
+  "dataList": [
+    {
+      "id": 910301,
+      "title": "Shabdi",
+      "desc": "Fast and good bookmarks."
+    }, {
+      "id": 910701,
+      "title": "Bampus",
+      "desc": "In lightning of magnetic ships\nWe have a tragic night's way."
+    }, {
+      "id": 910901,
+      "title": "Faculty Event"
+    }
+  ]
+}

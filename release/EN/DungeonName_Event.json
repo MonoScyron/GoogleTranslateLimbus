@@ -1,1 +1,17 @@
-{"dataList": [{"id": 910301, "name": "C.3.5 Dark Event (General)"}, {"id": 910302, "name": "Plan of CH.5 Dark (Experience)"}, {"id": 910701, "name": "The darkness of ch5.5"}, {"id": 910901, "name": "Lc.."}]}
+{
+  "dataList": [
+    {
+      "id": 910301,
+      "name": "C.3.5 Dark Event (General)"
+    }, {
+      "id": 910302,
+      "name": "Plan of CH.5 Dark (Experience)"
+    }, {
+      "id": 910701,
+      "name": "The darkness of ch5.5"
+    }, {
+      "id": 910901,
+      "name": "Lc.."
+    }
+  ]
+}

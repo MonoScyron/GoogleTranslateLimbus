@@ -1,1 +1,115 @@
-{"dataList": [{"id": "AaCePcBa", "name": "Symptoms", "desc": "It mainly focused.", "summary": "", "undefined": "-"}, {"id": "AaCePcBb", "name": "Shark", "desc": "Start: I received 3 accounts and +2", "summary": "", "undefined": "-"}, {"id": "AaCePcBc", "name": "break down", "desc": "This device hangs into 3+.", "summary": "", "undefined": "-"}, {"id": "AaCePcBg", "name": "we are", "desc": "END ENDLY: Take the violin into the best HP equipment.\nStart rotation: Read like the same page as Larva.", "summary": "", "undefined": "-"}, {"id": "AaCePcBh", "name": "Green mucus", "desc": "When there is green mucus, this value decreases at the same time.", "summary": "", "undefined": "-"}, {"id": "AaCePcBi", "name": "The university breathing", "desc": "Change: 5 flats lost 5.\nDamage + 50% loss and + 50% increase", "summary": "Damage + 50% loss and + 50% increase", "undefined": "-"}, {"id": "AaCePcBj", "name": "The victim", "desc": "All goals of top staff\nPicott Crade + 50% to become nausea", "summary": "Picott Crade + 50% to become nausea", "undefined": "-"}, {"id": "AaCePcBk", "name": "Composition", "desc": "If so, you will focus on the record,", "summary": "In some cases, it is a target phase", "undefined": "-"}, {"id": "AaCePcBl", "name": "Registration", "desc": "In case of having an object", "summary": "In some cases, it is a target phase", "undefined": "-"}, {"id": "AaCePcBn", "name": "Edema", "desc": "10% of current HP is lost at the time of using technology.\nIn this hit, Ahab has been recorded at least eight SP and two apartments Ahab records.", "summary": "I lost HP using technology.", "undefined": "-"}, {"id": "AaCePcBo", "name": "Criticism", "desc": "Initial Turnover: Hailling 3SPS3S.\nAvoid failing when using errors.\nSlowly: 0.", "summary": "SP treats all values.", "undefined": "-"}, {"id": "AaCePcBp", "name": "Self", "desc": "Start: 1 security for each 6 value.\nEach reduction on call during the storm was eliminated.\nSlowly: 0.", "summary": "Safe by value.", "undefined": "-"}, {"id": "AaCePcBq", "name": "Pilot", "desc": "Finally: If it is protected, order the price.\nIf you do not use armor or mixed unity, the value will be over.\nThe power of development, slowly.", "summary": "On the basis of securing the end of the damage or value turnover device.", "undefined": "-"}, {"id": "AaCePcBe", "iconID": "AaCePbBb", "name": "Holy", "desc": "Damage of SP +2", "summary": "", "undefined": "-"}, {"id": "AaCePcBf", "name": "Holy", "iconID": "AaCePbBb", "desc": "At the end of the turn, get two relationships.\nEach connection is the tail of the device.", "summary": "", "undefined": "-"}, {"id": "AaCePcBr", "name": "Obstruction", "desc": "Reduce the value of the damage.\nThis is not the end at the end of the way.\nTransformation: If this value is between AHS1, it is next round.", "summary": "", "undefined": "-"}, {"id": "AaCePcBs", "name": "Help", "desc": "Pull the technology at the end of access to access.\nDue to this effect, the final weight of this device is unlimited.", "summary": "", "undefined": "-"}, {"id": "AaCePcBt", "name": "Assault", "desc": "Ahab Ahab's attack, the planned attack was attacked.\nThe technique of this process is the effect of the same level, the value of the currency and \"Request ...\".", "summary": "", "undefined": "-"}]}
+{
+  "dataList": [
+    {
+      "id": "AaCePcBa",
+      "name": "Symptoms",
+      "desc": "It mainly focused.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBb",
+      "name": "Shark",
+      "desc": "Start: I received 3 accounts and +2",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBc",
+      "name": "break down",
+      "desc": "This device hangs into 3+.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBg",
+      "name": "we are",
+      "desc": "END ENDLY: Take the violin into the best HP equipment.\nStart rotation: Read like the same page as Larva.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBh",
+      "name": "Green mucus",
+      "desc": "When there is green mucus, this value decreases at the same time.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBi",
+      "name": "The university breathing",
+      "desc": "Change: 5 flats lost 5.\nDamage + 50% loss and + 50% increase",
+      "summary": "Damage + 50% loss and + 50% increase",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBj",
+      "name": "The victim",
+      "desc": "All goals of top staff\nPicott Crade + 50% to become nausea",
+      "summary": "Picott Crade + 50% to become nausea",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBk",
+      "name": "Composition",
+      "desc": "If so, you will focus on the record,",
+      "summary": "In some cases, it is a target phase",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBl",
+      "name": "Registration",
+      "desc": "In case of having an object",
+      "summary": "In some cases, it is a target phase",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBn",
+      "name": "Edema",
+      "desc": "10% of current HP is lost at the time of using technology.\nIn this hit, Ahab has been recorded at least eight SP and two apartments Ahab records.",
+      "summary": "I lost HP using technology.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBo",
+      "name": "Criticism",
+      "desc": "Initial Turnover: Hailling 3SPS3S.\nAvoid failing when using errors.\nSlowly: 0.",
+      "summary": "SP treats all values.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBp",
+      "name": "Self",
+      "desc": "Start: 1 security for each 6 value.\nEach reduction on call during the storm was eliminated.\nSlowly: 0.",
+      "summary": "Safe by value.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBq",
+      "name": "Pilot",
+      "desc": "Finally: If it is protected, order the price.\nIf you do not use armor or mixed unity, the value will be over.\nThe power of development, slowly.",
+      "summary": "On the basis of securing the end of the damage or value turnover device.",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBe",
+      "iconID": "AaCePbBb",
+      "name": "Holy",
+      "desc": "Damage of SP +2",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBf",
+      "name": "Holy",
+      "iconID": "AaCePbBb",
+      "desc": "At the end of the turn, get two relationships.\nEach connection is the tail of the device.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBr",
+      "name": "Obstruction",
+      "desc": "Reduce the value of the damage.\nThis is not the end at the end of the way.\nTransformation: If this value is between AHS1, it is next round.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBs",
+      "name": "Help",
+      "desc": "Pull the technology at the end of access to access.\nDue to this effect, the final weight of this device is unlimited.",
+      "summary": "",
+      "undefined": "-"
+    }, {
+      "id": "AaCePcBt",
+      "name": "Assault",
+      "desc": "Ahab Ahab's attack, the planned attack was attacked.\nThe technique of this process is the effect of the same level, the value of the currency and \"Request ...\".",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

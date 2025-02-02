@@ -1,1 +1,29 @@
-{"dataList": [{"id": "danteAbility_UIPopup_Title", "content": "Select the capacity of the light"}, {"id": "danteAbility_UIPopup_Remain", "content": "Rest"}, {"id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance", "content": "Gold echoes"}, {"id": "tutorial_battle_danteAbility_title", "content": "With light power"}, {"id": "tutorial_battle_danteAbility_01_desc_01", "content": "Select the \"code\" light brake button in the upper right corner."}, {"id": "tutorial_battle_danteAbility_02_desc_01", "content": "Power."}, {"id": "tutorial_battle_danteAbility_03_desc_01", "content": "Click the Installation button to stimulate excellent light capacity.\nAs long as you can use the activity of the rest of the light.\nThe rest of the class comes back every day."}, {"id": "ui_activated", "content": "Turn off travel"}]}
+{
+  "dataList": [
+    {
+      "id": "danteAbility_UIPopup_Title",
+      "content": "Select the capacity of the light"
+    }, {
+      "id": "danteAbility_UIPopup_Remain",
+      "content": "Rest"
+    }, {
+      "id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance",
+      "content": "Gold echoes"
+    }, {
+      "id": "tutorial_battle_danteAbility_title",
+      "content": "With light power"
+    }, {
+      "id": "tutorial_battle_danteAbility_01_desc_01",
+      "content": "Select the \"code\" light brake button in the upper right corner."
+    }, {
+      "id": "tutorial_battle_danteAbility_02_desc_01",
+      "content": "Power."
+    }, {
+      "id": "tutorial_battle_danteAbility_03_desc_01",
+      "content": "Click the Installation button to stimulate excellent light capacity.\nAs long as you can use the activity of the rest of the light.\nThe rest of the class comes back every day."
+    }, {
+      "id": "ui_activated",
+      "content": "Turn off travel"
+    }
+  ]
+}

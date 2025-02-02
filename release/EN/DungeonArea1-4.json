@@ -1,1 +1,23 @@
-{"dataList": [{"id": "dungeon_1_4_0101", "content": "Nine laboratories in the laboratory."}, {"id": "dungeon_1_4_0102", "content": "X Corporation.Laboratory"}, {"id": "dungeon_1_4_0201", "content": "Nine laboratory garbage."}, {"id": "dungeon_1_4_0202", "content": "Nine laboratory trash in the competition"}, {"id": "dungeon_1_4_0301", "content": "Last nine laboratories in the league"}, {"id": "dungeon_1_4_0302", "content": "Not all courses"}]}
+{
+  "dataList": [
+    {
+      "id": "dungeon_1_4_0101",
+      "content": "Nine laboratories in the laboratory."
+    }, {
+      "id": "dungeon_1_4_0102",
+      "content": "X Corporation.Laboratory"
+    }, {
+      "id": "dungeon_1_4_0201",
+      "content": "Nine laboratory garbage."
+    }, {
+      "id": "dungeon_1_4_0202",
+      "content": "Nine laboratory trash in the competition"
+    }, {
+      "id": "dungeon_1_4_0301",
+      "content": "Last nine laboratories in the league"
+    }, {
+      "id": "dungeon_1_4_0302",
+      "content": "Not all courses"
+    }
+  ]
+}

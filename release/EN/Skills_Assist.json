@@ -1,1 +1,112 @@
-{"dataList": [{"id": 40000101, "levelList": [{"level": 1, "name": "The dark red beat", "desc": "[WhenUse] If more than five side effects of the target, opposition +1\n[WhenUse] 311 real power [Burst] In the form of the target (up to 2)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] Get 1 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] App +2 [Burst] Account"}, {"desc": "[OnSucceedAttackHead] Get 1 [AttackUp] Valley"}]}]}]}, {"id": 40000102, "levelList": [{"level": 1, "name": "Grace Phoenix", "desc": "[WhenUse] If you have more than 5 negative effects on your own objectives, +1\n[WhenUse] 6 coins +1 power [Burst] In the form of the target (up to 2)", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Burst] Account"}, {"desc": "[OnSucceedAttack] Application 3 [DefenseDown]"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] Application +1 [Burst] Account"}, {"desc": "[OnSucceedAttack] Benefits 3 [AttackUp] Valley"}]}, {"coindescs": [{"desc": "[OnSucceedAttack] to get [Breath] Is correct [Burst] For purpose (up to 5)"}, {"desc": "[OnSucceedAttackHead] to get [Breath] Same account [Burst] Measure the goals (up to 2)"}]}, {"coindescs": [{"desc": "[CriticalOnSucceedAttack] Business + 50% of damage"}, {"desc": "[CriticalEnemyTargetKillFail] App +2 [Burst] Account"}, {"desc": "[CriticalEnemyTargetKill] Benefits 3 [AttackUp] Valley"}]}]}]}, {"id": 40000103, "levelList": [{"level": 1, "name": "Rich red pen", "desc": "[StartBattle] Get +1 attac-zyleth for each four side effects for target (up to 2)\n[WhenUse] If you have more than 5 negative effects on the target, +5 basic power\n[WhenUse] If this is the full goal [Burst] And and [Burst] This number 15+, Connection Force +5\n[WinDuel] App +2 [Burst] Account", "coinlist": [{"coindescs": [{"desc": "[OnSucceedAttack] 7 bleeding"}, {"desc": "[CriticalOnSucceedAttack] Treatment + 200% loss"}, {"desc": "[CriticalOnSucceedAttack] +3 Fire application"}, {"desc": "[CriticalOnSucceedAttack] Get 2 [Breath] And +1 [Breath] Account"}]}]}]}, {"id": 40000104, "levelList": [{"level": 1, "name": "Is enough", "desc": "[OnSucceedEvade] Get 1 [Breath] The next line."}]}]}
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The dark red beat",
+          "desc": "[WhenUse] If more than five side effects of the target, opposition +1\n[WhenUse] 311 real power [Burst] In the form of the target (up to 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Get 1 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] App +2 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttackHead] Get 1 [AttackUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 40000102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grace Phoenix",
+          "desc": "[WhenUse] If you have more than 5 negative effects on your own objectives, +1\n[WhenUse] 6 coins +1 power [Burst] In the form of the target (up to 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Application 3 [DefenseDown]"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Application +1 [Burst] Account"
+                }, {
+                  "desc": "[OnSucceedAttack] Benefits 3 [AttackUp] Valley"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] to get [Breath] Is correct [Burst] For purpose (up to 5)"
+                }, {
+                  "desc": "[OnSucceedAttackHead] to get [Breath] Same account [Burst] Measure the goals (up to 2)"
+                }
+              ]
+            }, {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Business + 50% of damage"
+                }, {
+                  "desc": "[CriticalEnemyTargetKillFail] App +2 [Burst] Account"
+                }, {
+                  "desc": "[CriticalEnemyTargetKill] Benefits 3 [AttackUp] Valley"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 40000103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rich red pen",
+          "desc": "[StartBattle] Get +1 attac-zyleth for each four side effects for target (up to 2)\n[WhenUse] If you have more than 5 negative effects on the target, +5 basic power\n[WhenUse] If this is the full goal [Burst] And and [Burst] This number 15+, Connection Force +5\n[WinDuel] App +2 [Burst] Account",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 7 bleeding"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Treatment + 200% loss"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] +3 Fire application"
+                }, {
+                  "desc": "[CriticalOnSucceedAttack] Get 2 [Breath] And +1 [Breath] Account"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      "id": 40000104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is enough",
+          "desc": "[OnSucceedEvade] Get 1 [Breath] The next line."
+        }
+      ]
+    }
+  ]
+}

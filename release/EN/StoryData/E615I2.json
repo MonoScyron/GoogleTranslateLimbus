@@ -1,1 +1,46 @@
-{"dataList": [{"id": 0, "place": "Dark Fatima mirror", "model": "시간살인마변신", "content": "No, it doesn't matter!"}, {"id": 1, "model": "시간살인마변신", "content": "Oh, you need 5 hours."}, {"id": 2, "model": "시간살인마변신", "content": "If the current risk is facing, we will be immediately."}, {"id": 3, "model": "시간살인마변신", "content": "Do you want to copy the current danger?"}, {"id": 4, "model": "시간살인마변신", "content": "Show."}, {"id": 5, "model": "시간살인마변신", "content": "I don't want to spend more than an hour."}, {"id": 6, "model": "시간살인마변신", "content": "Silent \"last\"!"}, {"id": 7, "model": "시간살인마변신", "content": "Oh, what is it?"}, {"id": 8, "model": "단테", "content": "<I started to fight me."}, {"id": 9, "model": "탐정홍루", "content": "Hey, I understand."}]}
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dark Fatima mirror",
+      "model": "시간살인마변신",
+      "content": "No, it doesn't matter!"
+    }, {
+      "id": 1,
+      "model": "시간살인마변신",
+      "content": "Oh, you need 5 hours."
+    }, {
+      "id": 2,
+      "model": "시간살인마변신",
+      "content": "If the current risk is facing, we will be immediately."
+    }, {
+      "id": 3,
+      "model": "시간살인마변신",
+      "content": "Do you want to copy the current danger?"
+    }, {
+      "id": 4,
+      "model": "시간살인마변신",
+      "content": "Show."
+    }, {
+      "id": 5,
+      "model": "시간살인마변신",
+      "content": "I don't want to spend more than an hour."
+    }, {
+      "id": 6,
+      "model": "시간살인마변신",
+      "content": "Silent \"last\"!"
+    }, {
+      "id": 7,
+      "model": "시간살인마변신",
+      "content": "Oh, what is it?"
+    }, {
+      "id": 8,
+      "model": "단테",
+      "content": "<I started to fight me."
+    }, {
+      "id": 9,
+      "model": "탐정홍루",
+      "content": "Hey, I understand."
+    }
+  ]
+}

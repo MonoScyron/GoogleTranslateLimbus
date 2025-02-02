@@ -1,1 +1,55 @@
-{"dataList": [{"id": "MRcAfBa", "name": "To talk", "desc": "When there is a red case, there are 8 to 8 cells in the iron - bleeding and bleeding", "summary": "Direct page: Benefit (Eighth / 2) Bloods and Blood"}, {"id": "MRcAfBb", "name": "Gypsum", "desc": "Start: Attack is a dual measure of bleeding and bleeding by technology.\nIf there is a network in order, support + technology (rumor value / 2)", "summary": "Electricity Achievement + (Cost / 2)"}, {"id": "MRcAiBa", "name": "to get", "desc": "Up to 5\nChange after receiving the Amber {0} Rain Technology - Affea.\nWhen some parts of the wings break down, apply a clear return of the same value between the last two strangers.", "summary": ""}, {"id": "MRcAiBb", "name": "Amazing", "desc": "Up to 5\nAvoid ducts if you cross some skill.", "summary": ""}, {"id": "MRcAiBc", "name": "Fire", "desc": "Borba Start: Apply the same combustion in the top two (speed).\nIf the device is turned on, you will not take the chipber.\nFinally: Reduce the price with 1", "summary": ""}, {"id": "MRcAmBa", "name": "Hate", "desc": "For example, the source of related relations of the technology selected.\nIn turn: the next three rounds will be lost.", "summary": ""}, {"id": "MRcAmBb", "name": "Late", "desc": "Up to 3\nStagnant\nThe two values ​​of income, the effect of the damage and the maximum loss of the same HP, such as all spiral parts of single HP.\nIn turn: reduce the price with 1.\nIf this result is adapted with HP targets, the goal is not reared again.", "summary": ""}, {"id": "MRcAmBc", "name": "garlic", "desc": "Screen + 10%\nFinally: 7 viewers and 15 bleeding is changed with hatred.", "summary": ""}, {"id": "MRcAmBd", "name": "See all right", "desc": "Get 1 per step.\nLive side: All units with genital power (4 x) {0}Hope-Davidiment (4 KESH) {0}Speech.", "summary": ""}, {"id": "MRcAmBbDisplay", "name": "Late", "desc": "Up to 3\nStagnant\nThe two values ​​of income, the effect of the damage and the maximum loss of the same HP, such as all spiral parts of single HP.\nIn turn: reduce the price with 1.\nIf this result is adapted with HP targets, the goal is not reared again.", "summary": ""}]}
+{
+  "dataList": [
+    {
+      "id": "MRcAfBa",
+      "name": "To talk",
+      "desc": "When there is a red case, there are 8 to 8 cells in the iron - bleeding and bleeding",
+      "summary": "Direct page: Benefit (Eighth / 2) Bloods and Blood"
+    }, {
+      "id": "MRcAfBb",
+      "name": "Gypsum",
+      "desc": "Start: Attack is a dual measure of bleeding and bleeding by technology.\nIf there is a network in order, support + technology (rumor value / 2)",
+      "summary": "Electricity Achievement + (Cost / 2)"
+    }, {
+      "id": "MRcAiBa",
+      "name": "to get",
+      "desc": "Up to 5\nChange after receiving the Amber {0} Rain Technology - Affea.\nWhen some parts of the wings break down, apply a clear return of the same value between the last two strangers.",
+      "summary": ""
+    }, {
+      "id": "MRcAiBb",
+      "name": "Amazing",
+      "desc": "Up to 5\nAvoid ducts if you cross some skill.",
+      "summary": ""
+    }, {
+      "id": "MRcAiBc",
+      "name": "Fire",
+      "desc": "Borba Start: Apply the same combustion in the top two (speed).\nIf the device is turned on, you will not take the chipber.\nFinally: Reduce the price with 1",
+      "summary": ""
+    }, {
+      "id": "MRcAmBa",
+      "name": "Hate",
+      "desc": "For example, the source of related relations of the technology selected.\nIn turn: the next three rounds will be lost.",
+      "summary": ""
+    }, {
+      "id": "MRcAmBb",
+      "name": "Late",
+      "desc": "Up to 3\nStagnant\nThe two values ​​of income, the effect of the damage and the maximum loss of the same HP, such as all spiral parts of single HP.\nIn turn: reduce the price with 1.\nIf this result is adapted with HP targets, the goal is not reared again.",
+      "summary": ""
+    }, {
+      "id": "MRcAmBc",
+      "name": "garlic",
+      "desc": "Screen + 10%\nFinally: 7 viewers and 15 bleeding is changed with hatred.",
+      "summary": ""
+    }, {
+      "id": "MRcAmBd",
+      "name": "See all right",
+      "desc": "Get 1 per step.\nLive side: All units with genital power (4 x) {0}Hope-Davidiment (4 KESH) {0}Speech.",
+      "summary": ""
+    }, {
+      "id": "MRcAmBbDisplay",
+      "name": "Late",
+      "desc": "Up to 3\nStagnant\nThe two values ​​of income, the effect of the damage and the maximum loss of the same HP, such as all spiral parts of single HP.\nIn turn: reduce the price with 1.\nIf this result is adapted with HP targets, the goal is not reared again.",
+      "summary": ""
+    }
+  ]
+}

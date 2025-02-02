@@ -1,1 +1,83 @@
-{"dataList": [{"id": "hells_chicken_bonus_description", "content": "During the plan, a decision and a group was created <color=#f8c200>Increase [Bongy Plushies] Profit</color>Intersection"}, {"id": "hells_chicken_bonus_popup_title", "content": "Gift item"}, {"id": "hells_chicken_event_panel_stage", "content": "According to the step!"}, {"id": "hells_chicken_event_panel_story_title", "content": "."}, {"id": "hells_chicken_event_panel_story_desc", "content": "(History Download)"}, {"id": "hells_chicken_doll_name", "content": "Heavy"}, {"id": "hells_chicken_reward_exchange_counter", "content": "Calculator process"}, {"id": "hells_chicken_additional_effect_desc", "content": "Learn about programs.\nCollect money [Bongy Plushies] Profit"}, {"id": "hells_chicken_reward_event_main_phrase", "content": "Un-Wisesterpat N result <color=#205925>Often</color> <color=#ebcaa2>Success!</color>"}, {"id": "hells_chicken_reward_event_phrase_0", "content": "Jiv"}, {"id": "hells_chicken_reward_event_phrase_1", "content": "Does he have everything?"}, {"id": "hells_chicken_reward_event_phrase_2", "content": "Personal\nCock"}, {"id": "hells_chicken_reward_event_description", "content": "Cleaning chicken activity, main stories or dark hell stages <color=#990000>[Bongy Plushies]</color>Intersection\n\nYou can use other awards <color=#990000>[(Al -casum</color> Characters <color=#990000>[Bongy Plushies]</color> you have"}, {"id": "hells_chicken_main_event_banner_unlock_condition", "content": "Of course I opened 3-22"}, {"id": "check_rewards", "content": "Check the Award"}, {"id": "earned_doll_count", "content": "hang up"}, {"id": "hells_chicken_event_end_stage_text", "content": "\"I'm going to\"\nFor research and development"}, {"id": "hells_chicken_dungeon_select_recent", "content": "Employment"}, {"id": "hells_chicken_dungeon_ask_recent_personality", "content": "Do you decide about government behavior and comprehension?"}, {"id": "hells_chicken_dungeon_no_recent_personality", "content": "Storage settings are not available."}, {"id": "hells_chicken_dungeon_desc_recent_personality", "content": "List definition is stored in the menu, for example the definition menu and."}, {"id": "giving_up_hells_chicken_dungeon_title", "content": "Dark"}, {"id": "giving_up_hells_chicken_dungeon_content", "content": "You are currently in the study {0}Intersection\nWill you progress and enter the new dark?"}, {"id": "hells_chicken_dungeon_error_desc", "content": "Server errors have lost data.\nIf there is a feature, the input is returned by the Equalin device."}, {"id": "only_giving_up_hells_chicken_dungeon_content", "content": "{0} Post execution.\nDo you believe you want to lose?"}, {"id": "hells_chicken_dungeon_stage_button_locked", "content": "The first is more obviously III."}]}
+{
+  "dataList": [
+    {
+      "id": "hells_chicken_bonus_description",
+      "content": "During the plan, a decision and a group was created <color=#f8c200>Increase [Bongy Plushies] Profit</color>Intersection"
+    }, {
+      "id": "hells_chicken_bonus_popup_title",
+      "content": "Gift item"
+    }, {
+      "id": "hells_chicken_event_panel_stage",
+      "content": "According to the step!"
+    }, {
+      "id": "hells_chicken_event_panel_story_title",
+      "content": "."
+    }, {
+      "id": "hells_chicken_event_panel_story_desc",
+      "content": "(History Download)"
+    }, {
+      "id": "hells_chicken_doll_name",
+      "content": "Heavy"
+    }, {
+      "id": "hells_chicken_reward_exchange_counter",
+      "content": "Calculator process"
+    }, {
+      "id": "hells_chicken_additional_effect_desc",
+      "content": "Learn about programs.\nCollect money [Bongy Plushies] Profit"
+    }, {
+      "id": "hells_chicken_reward_event_main_phrase",
+      "content": "Un-Wisesterpat N result <color=#205925>Often</color> <color=#ebcaa2>Success!</color>"
+    }, {
+      "id": "hells_chicken_reward_event_phrase_0",
+      "content": "Jiv"
+    }, {
+      "id": "hells_chicken_reward_event_phrase_1",
+      "content": "Does he have everything?"
+    }, {
+      "id": "hells_chicken_reward_event_phrase_2",
+      "content": "Personal\nCock"
+    }, {
+      "id": "hells_chicken_reward_event_description",
+      "content": "Cleaning chicken activity, main stories or dark hell stages <color=#990000>[Bongy Plushies]</color>Intersection\n\nYou can use other awards <color=#990000>[(Al -casum</color> Characters <color=#990000>[Bongy Plushies]</color> you have"
+    }, {
+      "id": "hells_chicken_main_event_banner_unlock_condition",
+      "content": "Of course I opened 3-22"
+    }, {
+      "id": "check_rewards",
+      "content": "Check the Award"
+    }, {
+      "id": "earned_doll_count",
+      "content": "hang up"
+    }, {
+      "id": "hells_chicken_event_end_stage_text",
+      "content": "\"I'm going to\"\nFor research and development"
+    }, {
+      "id": "hells_chicken_dungeon_select_recent",
+      "content": "Employment"
+    }, {
+      "id": "hells_chicken_dungeon_ask_recent_personality",
+      "content": "Do you decide about government behavior and comprehension?"
+    }, {
+      "id": "hells_chicken_dungeon_no_recent_personality",
+      "content": "Storage settings are not available."
+    }, {
+      "id": "hells_chicken_dungeon_desc_recent_personality",
+      "content": "List definition is stored in the menu, for example the definition menu and."
+    }, {
+      "id": "giving_up_hells_chicken_dungeon_title",
+      "content": "Dark"
+    }, {
+      "id": "giving_up_hells_chicken_dungeon_content",
+      "content": "You are currently in the study {0}Intersection\nWill you progress and enter the new dark?"
+    }, {
+      "id": "hells_chicken_dungeon_error_desc",
+      "content": "Server errors have lost data.\nIf there is a feature, the input is returned by the Equalin device."
+    }, {
+      "id": "only_giving_up_hells_chicken_dungeon_content",
+      "content": "{0} Post execution.\nDo you believe you want to lose?"
+    }, {
+      "id": "hells_chicken_dungeon_stage_button_locked",
+      "content": "The first is more obviously III."
+    }
+  ]
+}
