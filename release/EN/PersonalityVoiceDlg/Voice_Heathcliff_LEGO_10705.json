@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10705_1", "desc": "Identity Acquisition", "dlg": "To go."}, {"id": "lobby_morning_10705_1", "desc": "Morning Greeting", "dlg": "If you don't go to the sun, how long can you say not ... oh, in the morning?"}, {"id": "lobby_noon_10705_1", "desc": "Afternoon Greeting", "dlg": "When I was sleeping, I knew that the trash was full."}, {"id": "lobby_night_10705_1", "desc": "Evening Greeting", "dlg": "Initially sleeping is too late ... Sometimes the weather is very cold until you sleep."}, {"id": "smalltalk_10705_1", "desc": "Chatter #1", "dlg": "Don't see this eye."}, {"id": "smalltalk_10705_2", "desc": "Chatter #2", "dlg": "... name?\n... Don't see it."}, {"id": "smalltalk_10705_3", "desc": "Chatter #3", "dlg": "Very dark corner of the background ... it can do more.\nNobody went and no one noticed."}, {"id": "smalltalk_10705_4", "desc": "Post-Uptie Chat 1", "dlg": "Not all the chickens.\n... if you hurt me, I hit you where you were."}, {"id": "smalltalk_10705_5", "desc": "Post-Uptie Chat 2", "dlg": "The umbrella is beautiful ...\nI don't want to take anyone."}, {"id": "neglect_10705_1", "desc": "Idle", "dlg": "we are"}, {"id": "gacksung_10705_1", "desc": "Uptying", "dlg": "Go and show that what you want is very good ... these skills are not free, till the skills are free, are good and chakakarkar."}, {"id": "formation_10705_1", "desc": "Deployment", "dlg": "... for an independent world."}, {"id": "battleentry_10705_1", "desc": "Stage Entry", "dlg": "I will destroy everyone."}, {"id": "battle_select_10705_1", "desc": "Viewed in Battle", "dlg": "... What?"}, {"id": "battle_endcommand_10705_1", "desc": "Commencing Attack", "dlg": "I am driving a pearl profession."}, {"id": "battle_enemy_break_10705_1", "desc": "Enemy Stagger", "dlg": "Ha, see them."}, {"id": "battle_break_10705_1", "desc": "Staggered", "dlg": "Over!"}, {"id": "battle_kill_10705_1", "desc": "Enemy Killed", "dlg": "Everything is confused."}, {"id": "battle_dead_10705_1", "desc": "Death", "dlg": "No ... I still have something ..."}, {"id": "choice_success_p_10705_2", "desc": "Check Passed", "dlg": "Is that easier?"}, {"id": "choice_fail_n_10705_1", "desc": "Check Failed", "dlg": "I don't have a goal."}, {"id": "battle_clear_10705_1", "desc": "Victory Cry", "dlg": "Below ..."}, {"id": "battle_clear_ex_10705_1", "desc": "Extra Conditions Fulfilled", "dlg": "Haha I tried a little bit."}, {"id": "battle_defeat_10705_1", "desc": "Defeat Wail", "dlg": "Teach ... it doesn't work now."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10705_1",
+      "desc": "Identity Acquisition",
+      "dlg": "To go."
+    }, {
+      "id": "lobby_morning_10705_1",
+      "desc": "Morning Greeting",
+      "dlg": "If you don't go to the sun, how long can you say not ... oh, in the morning?"
+    }, {
+      "id": "lobby_noon_10705_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "When I was sleeping, I knew that the trash was full."
+    }, {
+      "id": "lobby_night_10705_1",
+      "desc": "Evening Greeting",
+      "dlg": "Initially sleeping is too late ... Sometimes the weather is very cold until you sleep."
+    }, {
+      "id": "smalltalk_10705_1",
+      "desc": "Chatter #1",
+      "dlg": "Don't see this eye."
+    }, {
+      "id": "smalltalk_10705_2",
+      "desc": "Chatter #2",
+      "dlg": "... name?\n... Don't see it."
+    }, {
+      "id": "smalltalk_10705_3",
+      "desc": "Chatter #3",
+      "dlg": "Very dark corner of the background ... it can do more.\nNobody went and no one noticed."
+    }, {
+      "id": "smalltalk_10705_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Not all the chickens.\n... if you hurt me, I hit you where you were."
+    }, {
+      "id": "smalltalk_10705_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "The umbrella is beautiful ...\nI don't want to take anyone."
+    }, {
+      "id": "neglect_10705_1",
+      "desc": "Idle",
+      "dlg": "we are"
+    }, {
+      "id": "gacksung_10705_1",
+      "desc": "Uptying",
+      "dlg": "Go and show that what you want is very good ... these skills are not free, till the skills are free, are good and chakakarkar."
+    }, {
+      "id": "formation_10705_1",
+      "desc": "Deployment",
+      "dlg": "... for an independent world."
+    }, {
+      "id": "battleentry_10705_1",
+      "desc": "Stage Entry",
+      "dlg": "I will destroy everyone."
+    }, {
+      "id": "battle_select_10705_1",
+      "desc": "Viewed in Battle",
+      "dlg": "... What?"
+    }, {
+      "id": "battle_endcommand_10705_1",
+      "desc": "Commencing Attack",
+      "dlg": "I am driving a pearl profession."
+    }, {
+      "id": "battle_enemy_break_10705_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Ha, see them."
+    }, {
+      "id": "battle_break_10705_1",
+      "desc": "Staggered",
+      "dlg": "Over!"
+    }, {
+      "id": "battle_kill_10705_1",
+      "desc": "Enemy Killed",
+      "dlg": "Everything is confused."
+    }, {
+      "id": "battle_dead_10705_1",
+      "desc": "Death",
+      "dlg": "No ... I still have something ..."
+    }, {
+      "id": "choice_success_p_10705_2",
+      "desc": "Check Passed",
+      "dlg": "Is that easier?"
+    }, {
+      "id": "choice_fail_n_10705_1",
+      "desc": "Check Failed",
+      "dlg": "I don't have a goal."
+    }, {
+      "id": "battle_clear_10705_1",
+      "desc": "Victory Cry",
+      "dlg": "Below ..."
+    }, {
+      "id": "battle_clear_ex_10705_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Haha I tried a little bit."
+    }, {
+      "id": "battle_defeat_10705_1",
+      "desc": "Defeat Wail",
+      "dlg": "Teach ... it doesn't work now."
+    }
+  ]
+}

@@ -428,7 +428,7 @@
         {
           "level": 1,
           "name": "Checking their bone",
-          "desc": "[BeforeAttack] 10+ [Breath]Weights, 11\n[WhenUse] You cannot get this method, but the cause of the damage you cannot install your device.\n[WhenUse] Risk risk + 2% transacting (up to 50%).\n+ 20% serious loss\nHP Loss (Up to 25%) More than 1% and more than 1% of) 0.5%.",
+          "desc": "[BeforeAttack] 10+ [Breath] Weights, 11\n[WhenUse] You cannot get this method, but the cause of the damage you cannot install your device.\n[WhenUse] Risk risk + 2% transacting (up to 50%).\n+ 20% serious loss\nHP Loss (Up to 25%) More than 1% and more than 1% of) 0.5%.",
           "coinlist": [
             {}, {}, {}, {
               "coindescs": [
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "November Publications",
-          "desc": "\"'\" (' '[KnowledgeExplored] × 3% MAXPLON HP) If this technique is rejected\n[WhenUse] [Discard] 1 up into all chiefs of this device 1 up technology",
+          "desc": "[KnowledgeExplored] × 3% MAXPLON HP) If this technique is rejected\n[WhenUse] [Discard] 1 up into all chiefs of this device 1 up technology",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -636,7 +636,7 @@
         }, {
           "level": 2,
           "name": "November Publications",
-          "desc": "\"'\" (' '[KnowledgeExplored] By <style=\"highlight\">4%</style> HP)\n[WhenUse] [Discard] 1 technical unit for all palaces\n<style=\"highlight\">[WhenUse] 2+ [KnowledgeExplored], Power Clash ++ 1\n[WinDuel] Get 2 [KnowledgeTraining] (After the Wiser)</style>",
+          "desc": "[KnowledgeExplored] By <style=\"highlight\">4%</style> HP)\n[WhenUse] [Discard] 1 technical unit for all palaces\n<style=\"highlight\">[WhenUse] 2+ [KnowledgeExplored], Power Clash ++ 1\n[WinDuel] Get 2 [KnowledgeTraining] (After the Wiser)</style>",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -649,7 +649,7 @@
         }, {
           "level": 4,
           "name": "November Publications",
-          "desc": "\"'\" (' '[KnowledgeExplored] By <style=\"highlight\">5%</style> HP)\n[WhenUse] [Discard] 1 technical unit for all palaces\n<style=\"highlight\">[WhenUse] \"'\" (' '[KnowledgeExplored] -1) Research (up to 2)</style>\n[WinDuel] Get 2 [KnowledgeTraining] (After the Wiser)",
+          "desc": "[KnowledgeExplored] By <style=\"highlight\">5%</style> HP)\n[WhenUse] [Discard] 1 technical unit for all palaces\n<style=\"highlight\">[WhenUse] [KnowledgeExplored] -1) Research (up to 2)</style>\n[WinDuel] Get 2 [KnowledgeTraining] (After the Wiser)",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -698,7 +698,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Crisis [Sinking] Is correct <style=\"highlight\">…….[KnowledgeExplored] Question 2)</style>"
+                  "desc": "[OnSucceedAttack] Crisis [Sinking] Is correct <style=\"highlight\">……. [KnowledgeExplored] Question 2)</style>"
                 }
               ]
             }
@@ -711,7 +711,7 @@
         {
           "level": 3,
           "name": "Oil lubricant",
-          "desc": "Everybody was wounded + 3 times [KnowledgeExplored] Self (up to 18%)\n[WhenUse] The target is 6+ [Sinking], Call ++ 1\n[BeforeAttack] Remove everything [KnowledgeTraining] Arrange half of values ​​and additional value [KnowledgeExplored] (\n[EndSkill] 4+ [KnowledgeExplored]Refueling Price 1 (If the technique is lost by the enemy, it will be determined at 3 o'clock in the evening)",
+          "desc": "Everybody was wounded + 3 times [KnowledgeExplored] Self (up to 18%)\n[WhenUse] The target is 6+ [Sinking], Call ++ 1\n[BeforeAttack] Remove everything [KnowledgeTraining] Arrange half of values ​​and additional value [KnowledgeExplored] (\n[EndSkill] 4+ [KnowledgeExplored] Refueling Price 1 (If the technique is lost by the enemy, it will be determined at 3 o'clock in the evening)",
           "coinlist": [
             {}, {}, {
               "coindescs": [
@@ -724,7 +724,7 @@
         }, {
           "level": 4,
           "name": "Oil lubricant",
-          "desc": "Agreement <style=\"highlight\">+ 5%</style> Every wounds are high [KnowledgeExplored] the best <style=\"highlight\">45% of</style>…….\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)</style>\n[BeforeAttack] Remove everything [KnowledgeTraining] You and generation <style=\"highlight\">The same value</style> apart from [KnowledgeExplored]\n[EndSkill] 4+ [KnowledgeExplored]Refueling Price 1 (If the technique is lost by the enemy, it will be determined at 3 o'clock in the evening)",
+          "desc": "Agreement <style=\"highlight\">+ 5%</style> Every wounds are high [KnowledgeExplored] the best <style=\"highlight\">45% of</style>…….\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)</style>\n[BeforeAttack] Remove everything [KnowledgeTraining] You and generation <style=\"highlight\">The same value</style> apart from [KnowledgeExplored]\n[EndSkill] 4+ [KnowledgeExplored] Refueling Price 1 (If the technique is lost by the enemy, it will be determined at 3 o'clock in the evening)",
           "coinlist": [
             {}, {}, {
               "coindescs": [
@@ -900,7 +900,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">If this device is not used [Burst]5% of damage to everyone [Burst] Application bowl and account</style>"
+                  "desc": "<style=\"highlight\">If this device is not used [Burst] 5% of damage to everyone [Burst] Application bowl and account</style>"
                 }, {
                   "desc": "[OnSucceedAttack] 4 app 4 [Burst]<style=\"highlight\"></style>"
                 }, {
@@ -917,7 +917,7 @@
         {
           "level": 3,
           "name": "Connection",
-          "desc": "If the device's speed is 2 or more sharp, the call force is +1.\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Call, do not use this method [Burst] Hit\n[WinDuel] Benefits 5 [Breath]\n- And if you have a goal [ConcentratedAttackMeursault]Include 5 people [Breath]",
+          "desc": "If the device's speed is 2 or more sharp, the call force is +1.\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Call, do not use this method [Burst] Hit\n[WinDuel] Benefits 5 [Breath]\n- And if you have a goal [ConcentratedAttackMeursault] Include 5 people [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -944,7 +944,7 @@
         }, {
           "level": 4,
           "name": "Connection",
-          "desc": "<style=\"highlight\">If the device's speed is the target, energy suppliers (differences, maximum differences; maximum third differences;</style>\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Call, do not use this method [Burst] Hit\n[WinDuel] Benefits 5 [Breath]\n- And if you have a goal [ConcentratedAttackMeursault]Include 5 people [Breath]",
+          "desc": "<style=\"highlight\">If the device's speed is the target, energy suppliers (differences, maximum differences; maximum third differences;</style>\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Call, do not use this method [Burst] Hit\n[WinDuel] Benefits 5 [Breath]\n- And if you have a goal [ConcentratedAttackMeursault] Include 5 people [Breath]",
           "coinlist": [
             {
               "coindescs": [

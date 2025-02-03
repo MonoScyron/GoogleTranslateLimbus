@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11210_1", "desc": "Identity Acquisition", "dlg": "I can forgive my father's interest, but because of my forgiveness, he will not take such a disease."}, {"id": "lobby_morning_11210_1", "desc": "Morning Greeting", "dlg": "La Manchand tries to open the door ... most families today go to meet me and I have good today. \""}, {"id": "lobby_noon_11210_1", "desc": "Afternoon Greeting", "dlg": "Time to think about a small hemobor's clock.\nPeep this stone and I lose the foolishness of this faith."}, {"id": "lobby_night_11210_1", "desc": "Evening Greeting", "dlg": "Have you ever seen the good look of your brothers who have come to visit my brothers?\nBut I have only one and they only live."}, {"id": "smalltalk_11210_1", "desc": "Chatter #1", "dlg": "We have the same ground for our blood.\nBut in this area, family happiness are supplied forever ..."}, {"id": "smalltalk_11210_2", "desc": "Chatter #2", "dlg": "I learned when I consult with the people of gravity.\nThere is a problem and constant problem."}, {"id": "smalltalk_11210_3", "desc": "Chatter #3", "dlg": "You have to resist ... it's your own thing."}, {"id": "smalltalk_11210_4", "desc": "Post-Uptie Chat 1", "dlg": "I know.\nBut ... I can do it, but let me eat ... If you know, you can tell them ... I want to know."}, {"id": "smalltalk_11210_5", "desc": "Post-Uptie Chat 2", "dlg": "I want ... no."}, {"id": "neglect_11210_1", "desc": "Idle", "dlg": "What do you think about blood today?"}, {"id": "gacksung_11210_1", "desc": "Uptying", "dlg": "This can be prepared for shame, but ... for the desire of the thirst under the surface you can't be alone."}, {"id": "formation_11210_1", "desc": "Deployment", "dlg": "If this is your wish."}, {"id": "battleentry_11210_1", "desc": "Stage Entry", "dlg": "I'll be with me today."}, {"id": "battle_select_11210_1", "desc": "Viewed in Battle", "dlg": "Can you contact you later?"}, {"id": "battle_endcommand_11210_1", "desc": "Commencing Attack", "dlg": "Are you also sin?"}, {"id": "battle_enemy_break_11210_1", "desc": "Enemy Stagger", "dlg": "It is also allowed ..."}, {"id": "battle_break_11210_1", "desc": "Staggered", "dlg": "Pain ... to avoid ..."}, {"id": "battle_kill_11210_1", "desc": "Enemy Killed", "dlg": "... then take a break."}, {"id": "battle_dead_11210_1", "desc": "Death", "dlg": "HnH.conular ... free ... appetite ..."}, {"id": "choice_success_p_11210_2", "desc": "Check Passed", "dlg": "I'm here ... I'll travel again to ice ... again ..."}, {"id": "choice_fail_n_11210_1", "desc": "Check Failed", "dlg": "I need time."}, {"id": "battle_clear_11210_1", "desc": "Victory Cry", "dlg": "It's just wish for the desire."}, {"id": "battle_clear_ex_11210_1", "desc": "Extra Conditions Fulfilled", "dlg": "Burbick ... Burbrick ... without reduced my blood!"}, {"id": "battle_defeat_11210_1", "desc": "Defeat Wail", "dlg": "I'm not just violating my father ... I see ...\nThis failure is the attacker to me."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11210_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I can forgive my father's interest, but because of my forgiveness, he will not take such a disease."
+    }, {
+      "id": "lobby_morning_11210_1",
+      "desc": "Morning Greeting",
+      "dlg": "La Manchand tries to open the door ... most families today go to meet me and I have good today. \""
+    }, {
+      "id": "lobby_noon_11210_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Time to think about a small hemobor's clock.\nPeep this stone and I lose the foolishness of this faith."
+    }, {
+      "id": "lobby_night_11210_1",
+      "desc": "Evening Greeting",
+      "dlg": "Have you ever seen the good look of your brothers who have come to visit my brothers?\nBut I have only one and they only live."
+    }, {
+      "id": "smalltalk_11210_1",
+      "desc": "Chatter #1",
+      "dlg": "We have the same ground for our blood.\nBut in this area, family happiness are supplied forever ..."
+    }, {
+      "id": "smalltalk_11210_2",
+      "desc": "Chatter #2",
+      "dlg": "I learned when I consult with the people of gravity.\nThere is a problem and constant problem."
+    }, {
+      "id": "smalltalk_11210_3",
+      "desc": "Chatter #3",
+      "dlg": "You have to resist ... it's your own thing."
+    }, {
+      "id": "smalltalk_11210_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I know.\nBut ... I can do it, but let me eat ... If you know, you can tell them ... I want to know."
+    }, {
+      "id": "smalltalk_11210_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I want ... no."
+    }, {
+      "id": "neglect_11210_1",
+      "desc": "Idle",
+      "dlg": "What do you think about blood today?"
+    }, {
+      "id": "gacksung_11210_1",
+      "desc": "Uptying",
+      "dlg": "This can be prepared for shame, but ... for the desire of the thirst under the surface you can't be alone."
+    }, {
+      "id": "formation_11210_1",
+      "desc": "Deployment",
+      "dlg": "If this is your wish."
+    }, {
+      "id": "battleentry_11210_1",
+      "desc": "Stage Entry",
+      "dlg": "I'll be with me today."
+    }, {
+      "id": "battle_select_11210_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Can you contact you later?"
+    }, {
+      "id": "battle_endcommand_11210_1",
+      "desc": "Commencing Attack",
+      "dlg": "Are you also sin?"
+    }, {
+      "id": "battle_enemy_break_11210_1",
+      "desc": "Enemy Stagger",
+      "dlg": "It is also allowed ..."
+    }, {
+      "id": "battle_break_11210_1",
+      "desc": "Staggered",
+      "dlg": "Pain ... to avoid ..."
+    }, {
+      "id": "battle_kill_11210_1",
+      "desc": "Enemy Killed",
+      "dlg": "... then take a break."
+    }, {
+      "id": "battle_dead_11210_1",
+      "desc": "Death",
+      "dlg": "HnH.conular ... free ... appetite ..."
+    }, {
+      "id": "choice_success_p_11210_2",
+      "desc": "Check Passed",
+      "dlg": "I'm here ... I'll travel again to ice ... again ..."
+    }, {
+      "id": "choice_fail_n_11210_1",
+      "desc": "Check Failed",
+      "dlg": "I need time."
+    }, {
+      "id": "battle_clear_11210_1",
+      "desc": "Victory Cry",
+      "dlg": "It's just wish for the desire."
+    }, {
+      "id": "battle_clear_ex_11210_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Burbick ... Burbrick ... without reduced my blood!"
+    }, {
+      "id": "battle_defeat_11210_1",
+      "desc": "Defeat Wail",
+      "dlg": "I'm not just violating my father ... I see ...\nThis failure is the attacker to me."
+    }
+  ]
+}

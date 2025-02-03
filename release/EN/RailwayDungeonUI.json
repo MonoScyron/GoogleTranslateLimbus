@@ -50,16 +50,16 @@
       "content": "The award cannot be used."
     }, {
       "id": "use_enkephalin_module_to_acquire_rewards",
-      "content": "Deleting <color=#990000>{0} Nicketing device</color>\nOpen price?"
+      "content": "Deleting <color=#990000>{0} nicketing device</color>\nOpen price?"
     }, {
       "id": "able_to_acquire_rewards_without_using_enkephalin_module",
       "content": "After opening the door, you can get the value of this program at no additional cost function."
     }, {
       "id": "railway_dungeon_ask_for_re_enter",
-      "content": "Now <color=#990000>{0} Station {1}</color>Intersection\nDo you want to add your trip?"
+      "content": "Now <color=#990000>{0} station {1}</color>Intersection\nDo you want to add your trip?"
     }, {
       "id": "railway_dungeon_current_running",
-      "content": "{0}Numbers{1} To run"
+      "content": "{0} numbers {1} to run"
     }, {
       "id": "final_clear_accumulated_turn",
       "content": "Last"
@@ -71,7 +71,7 @@
       "content": "Retail sale {0}"
     }, {
       "id": "railway_dungeon_1_banner_reward_condition_2",
-      "content": "Retail sale {0} Less {1} She plays"
+      "content": "Retail sale {0} less {1} she plays"
     }, {
       "id": "railway_dungeon_1_banner_reward_condition_3",
       "content": "(Before completing {0}……."
@@ -80,7 +80,7 @@
       "content": "Amazing"
     }, {
       "id": "railway_dungeon_banner_reward_unable_over",
-      "content": "(The past cannot be used {0} General Round)"
+      "content": "(The past cannot be used {0} general Round)"
     }, {
       "id": "no_records_description",
       "content": "Travels is now empty."

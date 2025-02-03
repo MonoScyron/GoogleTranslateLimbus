@@ -1,1 +1,89 @@
-{"dataList": [{"id": "get_11101_1", "desc": "Identity Acquisition", "dlg": "Audi my name, remember this good director."}, {"id": "lobby_morning_11101_1", "desc": "Morning Greeting", "dlg": "Good morning, CEO!"}, {"id": "lobby_noon_11101_1", "desc": "Afternoon Greeting", "dlg": "As a great leader, it is not just a sad humiliation!"}, {"id": "lobby_night_11101_1", "desc": "Evening Greeting", "dlg": "I sleep you tomorrow."}, {"id": "smalltalk_11101_1", "desc": "Chatter #1", "dlg": "When I was busy, I called myself and ready to stop work."}, {"id": "smalltalk_11101_2", "desc": "Chatter #2", "dlg": "How much money is dedicated to get CEO?"}, {"id": "smalltalk_11101_3", "desc": "Chatter #3", "dlg": "This foolish stone is the work of early and beginners who are not in the correct color area."}, {"id": "neglect_11101_1", "desc": "Idle", "dlg": "Maintenance, especially for those who can't fight you!"}, {"id": "formation_11101_1", "desc": "Deployment", "dlg": "I'll do the work right now."}, {"id": "battleentry_11101_1", "desc": "Stage Entry", "dlg": "Audi is in battle."}, {"id": "battle_select_11101_1", "desc": "Viewed in Battle", "dlg": "CEO, what are you for me?"}, {"id": "battle_endcommand_11101_1", "desc": "Commencing Attack", "dlg": "How to ask"}, {"id": "battle_enemy_break_11101_1", "desc": "Enemy Stagger", "dlg": "Easy to apply the plan."}, {"id": "battle_break_11101_1", "desc": "Staggered", "dlg": "Oh!"}, {"id": "battle_kill_11101_1", "desc": "Enemy Killed", "dlg": "The correct strategy."}, {"id": "battle_allydead_11101_1", "desc": "Ally Death", "dlg": "Is very dangerous."}, {"id": "choice_success_p_11101_1", "desc": "Check Passed", "dlg": "This success can only cause the best plan."}, {"id": "choice_fail_n_11101_1", "desc": "Check Failed", "dlg": "I'm at fault ..."}, {"id": "battle_clear_11101_1", "desc": "Victory Cry", "dlg": "Like always, the great CEO!"}, {"id": "battle_clear_ex_11101_1", "desc": "Extra Conditions Fulfilled", "dlg": "This is 99% of your best bigger profit and 1% of my origin!"}, {"id": "battle_defeat_11101_1", "desc": "Defeat Wail", "dlg": "However, this is not our mistake, manager."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11101_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Audi my name, remember this good director."
+    }, {
+      "id": "lobby_morning_11101_1",
+      "desc": "Morning Greeting",
+      "dlg": "Good morning, CEO!"
+    }, {
+      "id": "lobby_noon_11101_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "As a great leader, it is not just a sad humiliation!"
+    }, {
+      "id": "lobby_night_11101_1",
+      "desc": "Evening Greeting",
+      "dlg": "I sleep you tomorrow."
+    }, {
+      "id": "smalltalk_11101_1",
+      "desc": "Chatter #1",
+      "dlg": "When I was busy, I called myself and ready to stop work."
+    }, {
+      "id": "smalltalk_11101_2",
+      "desc": "Chatter #2",
+      "dlg": "How much money is dedicated to get CEO?"
+    }, {
+      "id": "smalltalk_11101_3",
+      "desc": "Chatter #3",
+      "dlg": "This foolish stone is the work of early and beginners who are not in the correct color area."
+    }, {
+      "id": "neglect_11101_1",
+      "desc": "Idle",
+      "dlg": "Maintenance, especially for those who can't fight you!"
+    }, {
+      "id": "formation_11101_1",
+      "desc": "Deployment",
+      "dlg": "I'll do the work right now."
+    }, {
+      "id": "battleentry_11101_1",
+      "desc": "Stage Entry",
+      "dlg": "Audi is in battle."
+    }, {
+      "id": "battle_select_11101_1",
+      "desc": "Viewed in Battle",
+      "dlg": "CEO, what are you for me?"
+    }, {
+      "id": "battle_endcommand_11101_1",
+      "desc": "Commencing Attack",
+      "dlg": "How to ask"
+    }, {
+      "id": "battle_enemy_break_11101_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Easy to apply the plan."
+    }, {
+      "id": "battle_break_11101_1",
+      "desc": "Staggered",
+      "dlg": "Oh!"
+    }, {
+      "id": "battle_kill_11101_1",
+      "desc": "Enemy Killed",
+      "dlg": "The correct strategy."
+    }, {
+      "id": "battle_allydead_11101_1",
+      "desc": "Ally Death",
+      "dlg": "Is very dangerous."
+    }, {
+      "id": "choice_success_p_11101_1",
+      "desc": "Check Passed",
+      "dlg": "This success can only cause the best plan."
+    }, {
+      "id": "choice_fail_n_11101_1",
+      "desc": "Check Failed",
+      "dlg": "I'm at fault ..."
+    }, {
+      "id": "battle_clear_11101_1",
+      "desc": "Victory Cry",
+      "dlg": "Like always, the great CEO!"
+    }, {
+      "id": "battle_clear_ex_11101_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This is 99% of your best bigger profit and 1% of my origin!"
+    }, {
+      "id": "battle_defeat_11101_1",
+      "desc": "Defeat Wail",
+      "dlg": "However, this is not our mistake, manager."
+    }
+  ]
+}

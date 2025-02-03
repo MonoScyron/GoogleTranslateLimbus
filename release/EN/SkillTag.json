@@ -17,13 +17,13 @@
       "name": "[AoE]"
     }, {
       "id": "nxPostLine",
-      "name": "[{n} First]"
+      "name": "[{n} first]"
     }, {
       "id": "nxCenterLine",
-      "name": "[{n} Between]"
+      "name": "[{n} between]"
     }, {
       "id": "nxBackLine",
-      "name": "[{n} Distant]"
+      "name": "[{n} distant]"
     }, {
       "id": "CantIdentify",
       "name": "[Indiscriminate]"

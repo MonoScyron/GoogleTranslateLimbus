@@ -103,7 +103,7 @@
       "eventDesc": "",
       "behaveDesc": "Which color do you want to use?",
       "successDesc": [
-        "\"Hey, what it is beautiful.\"\n\n\"Too clear!\"\n\n\"You have a beautiful shadow {0} Intersection\n\n\"I made a big supplement in the garden.\"\n\n\"Color {0} Intersection\n\n\"Good ... will we play more?\"\n\n\"This garden is very beautiful. We have a guilty flower!"
+        "\"Hey, what it is beautiful.\"\n\n\"Too clear!\"\n\n\"You have a beautiful shadow {0} intersection\n\n\"I made a big supplement in the garden.\"\n\n\"Color {0} intersection\n\n\"Good ... will we play more?\"\n\n\"This garden is very beautiful. We have a guilty flower!"
       ],
       "failureDesc": [
         "\"Military, Pink Pink.\"\n\n\"We don't need black flowers like you.\"\n\n\"Despair ~\"\n\nIt is also calm.\n\nThey can't like them."

@@ -78,11 +78,11 @@
     },
     {
       "id": "mainui_shop_limit_purchase_permanent",
-      "content": "{0} To leave"
+      "content": "{0} to leave"
     },
     {
       "id": "mainui_shop_limit_purchase_periodic",
-      "content": "{0} List"
+      "content": "{0} list"
     },
     {
       "id": "mainui_shop_acquire_at_mailbox",
@@ -90,11 +90,11 @@
     },
     {
       "id": "mainui_shop_purchase_product_success",
-      "content": "Buy success\n{0}Intersection"
+      "content": "Buy success\n{0} intersection"
     },
     {
       "id": "mainui_shop_remain_days_minutes",
-      "content": "{0}By {1}H, continue"
+      "content": "{0} by {1} h, continue"
     },
     {
       "id": "shopui_use_enkephalin_box",
@@ -126,11 +126,11 @@
     },
     {
       "id": "shopui_charge_enkephalin_about",
-      "content": "Complete {0} And what is the fan?"
+      "content": "Complete {0} and what is the fan?"
     },
     {
       "id": "shopui_recover_enkephalin_after_time",
-      "content": "{1} Closely treated {0}Intersection"
+      "content": "{1} closely treated {0} intersection"
     },
     {
       "id": "shopui_ask_create_enkephalin_module",
@@ -150,15 +150,15 @@
     },
     {
       "id": "remain_days",
-      "content": "{0}By"
+      "content": "{0} by"
     },
     {
       "id": "remain_hours",
-      "content": "{0}P."
+      "content": "{0} p."
     },
     {
       "id": "remain_minutes",
-      "content": "{0}Without"
+      "content": "{0} without"
     },
     {
       "id": "enkephalin_charge_finished",
@@ -198,7 +198,7 @@
     },
     {
       "id": "remain_days_with_number",
-      "content": "{0}Recognition."
+      "content": "{0} recognition."
     },
     {
       "id": "enkephalin_module",
@@ -218,7 +218,7 @@
     },
     {
       "id": "remain_hours_with_number",
-      "content": "{0}H left"
+      "content": "{0} h left"
     },
     {
       "id": "enkephalin_module_count_max",
@@ -290,7 +290,7 @@
     },
     {
       "id": "membership_remain_side_desc",
-      "content": "{1} A day for you {0}Intersection"
+      "content": "{1} a day for you {0} intersection"
     },
     {
       "id": "returnpolicy_table_battlePassPackge",
@@ -302,7 +302,7 @@
     },
     {
       "id": "membership_remain_side_desc_oneDay",
-      "content": "{0} The validity ended today."
+      "content": "{0} the validity ended today."
     },
     {
       "id": "restore_purchase_btn",

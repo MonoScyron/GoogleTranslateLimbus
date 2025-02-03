@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_13_1", "dlg": "To become perfect, make sure there are all kinds of cut on the device here."}, {"id": "announcer_cheer_13_2", "dlg": "You can get this task before coming here."}, {"id": "announcer_specialcheer_13_1", "dlg": "By notifications!"}, {"id": "announcer_specialcheer_13_2", "dlg": "Today everyone is a little."}, {"id": "announcer_enemy_break_13_1", "dlg": "Then Dreams lost."}, {"id": "announcer_ally_break_13_1", "dlg": "No, you can't sleep yet."}, {"id": "announcer_killenemy_13_1", "dlg": "Do you find them in beautiful everlasting dreams?"}, {"id": "announcer_ally_dead_13_1", "dlg": "A plant covered a button covered."}, {"id": "announcer_enemy_adv_13_1", "dlg": "The enemy is a little time ... don't keep weakness in the eyes."}, {"id": "announcer_ally_adv_13_1", "dlg": "We won, I would like to say you can laugh at the fighting cookies!"}, {"id": "announcer_danger_13_1", "dlg": "Homes look like many trucks."}, {"id": "announcer_enemy_specialskill_13_1", "dlg": "Be prepared for the Athets, everyone's priority problem."}, {"id": "announcer_enemy_specialgimmick_13_1", "dlg": "The enemy is trying to try to get the most strange things ... but we are all?"}, {"id": "announcer_advatk_physical_13_1", "dlg": "Well, we will explain them correctly."}, {"id": "announcer_disadvatk_physical_13_1", "dlg": "Heaven, we need to clear the wrong room."}, {"id": "announcer_advatk_attr_13_1", "dlg": "Dear!"}, {"id": "announcer_disadvatk_attr_13_1", "dlg": "I don't remember what I said."}, {"id": "announcer_enemy_specialbuff_13_1", "dlg": "Oh, we are not seeing a cup?"}, {"id": "announcer_enemy_specialdebuff_13_1", "dlg": "HMSV is an odd dust ... Put everything in the bucket."}, {"id": "announcer_ally_specialbuff_13_1", "dlg": "Oh, we can use this effect well."}, {"id": "announcer_ally_specialdebuff_13_1", "dlg": "We have an elevation of the storm."}, {"id": "announcer_enemy_destroy_13_1", "dlg": "Dear!"}, {"id": "announcer_enemy_destroy_13_2", "dlg": "This is the broken part of the enemy."}, {"id": "announcer_round_takebigdmg_13_1", "dlg": "Severe hostels."}, {"id": "announcer_round_takebigdmg_13_2", "dlg": "Is very weak!"}, {"id": "announcer_round_givebigdmg_13_1", "dlg": "Everyone is a hungry guest."}, {"id": "announcer_round_givebigdmg_13_2", "dlg": "Some enemies were seriously injured."}, {"id": "announcer_multikillenemy_13_1", "dlg": "What is the fact that the presence of the whole house is a man?"}, {"id": "announcer_equip_13_1", "dlg": "You know everything."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_13_1",
+      "dlg": "To become perfect, make sure there are all kinds of cut on the device here."
+    }, {
+      "id": "announcer_cheer_13_2",
+      "dlg": "You can get this task before coming here."
+    }, {
+      "id": "announcer_specialcheer_13_1",
+      "dlg": "By notifications!"
+    }, {
+      "id": "announcer_specialcheer_13_2",
+      "dlg": "Today everyone is a little."
+    }, {
+      "id": "announcer_enemy_break_13_1",
+      "dlg": "Then Dreams lost."
+    }, {
+      "id": "announcer_ally_break_13_1",
+      "dlg": "No, you can't sleep yet."
+    }, {
+      "id": "announcer_killenemy_13_1",
+      "dlg": "Do you find them in beautiful everlasting dreams?"
+    }, {
+      "id": "announcer_ally_dead_13_1",
+      "dlg": "A plant covered a button covered."
+    }, {
+      "id": "announcer_enemy_adv_13_1",
+      "dlg": "The enemy is a little time ... don't keep weakness in the eyes."
+    }, {
+      "id": "announcer_ally_adv_13_1",
+      "dlg": "We won, I would like to say you can laugh at the fighting cookies!"
+    }, {
+      "id": "announcer_danger_13_1",
+      "dlg": "Homes look like many trucks."
+    }, {
+      "id": "announcer_enemy_specialskill_13_1",
+      "dlg": "Be prepared for the Athets, everyone's priority problem."
+    }, {
+      "id": "announcer_enemy_specialgimmick_13_1",
+      "dlg": "The enemy is trying to try to get the most strange things ... but we are all?"
+    }, {
+      "id": "announcer_advatk_physical_13_1",
+      "dlg": "Well, we will explain them correctly."
+    }, {
+      "id": "announcer_disadvatk_physical_13_1",
+      "dlg": "Heaven, we need to clear the wrong room."
+    }, {
+      "id": "announcer_advatk_attr_13_1",
+      "dlg": "Dear!"
+    }, {
+      "id": "announcer_disadvatk_attr_13_1",
+      "dlg": "I don't remember what I said."
+    }, {
+      "id": "announcer_enemy_specialbuff_13_1",
+      "dlg": "Oh, we are not seeing a cup?"
+    }, {
+      "id": "announcer_enemy_specialdebuff_13_1",
+      "dlg": "HMSV is an odd dust ... Put everything in the bucket."
+    }, {
+      "id": "announcer_ally_specialbuff_13_1",
+      "dlg": "Oh, we can use this effect well."
+    }, {
+      "id": "announcer_ally_specialdebuff_13_1",
+      "dlg": "We have an elevation of the storm."
+    }, {
+      "id": "announcer_enemy_destroy_13_1",
+      "dlg": "Dear!"
+    }, {
+      "id": "announcer_enemy_destroy_13_2",
+      "dlg": "This is the broken part of the enemy."
+    }, {
+      "id": "announcer_round_takebigdmg_13_1",
+      "dlg": "Severe hostels."
+    }, {
+      "id": "announcer_round_takebigdmg_13_2",
+      "dlg": "Is very weak!"
+    }, {
+      "id": "announcer_round_givebigdmg_13_1",
+      "dlg": "Everyone is a hungry guest."
+    }, {
+      "id": "announcer_round_givebigdmg_13_2",
+      "dlg": "Some enemies were seriously injured."
+    }, {
+      "id": "announcer_multikillenemy_13_1",
+      "dlg": "What is the fact that the presence of the whole house is a man?"
+    }, {
+      "id": "announcer_equip_13_1",
+      "dlg": "You know everything."
+    }
+  ]
+}

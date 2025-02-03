@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_17_1", "dlg": "- Yes!\n-Pap is tight\n- Do we follow contracts and libraries ...?"}, {"id": "announcer_cheer_17_2", "dlg": "-Buccha!\n-There not fire ...?"}, {"id": "announcer_specialcheer_17_1", "dlg": "Oh, they saw ...\nYou look very dangerous."}, {"id": "announcer_specialcheer_17_2", "dlg": "-What is a wounded ...haps I will leave?\n-Etime everything on?\n-Chant please ..."}, {"id": "announcer_enemy_break_17_1", "dlg": "- They prefer hell!\n- .. I think it's really alcohol, but it's a good opportunity."}, {"id": "announcer_ally_break_17_1", "dlg": "It's not very hot in your partner.\n-in this case.\nSecond, everyone."}, {"id": "announcer_killenemy_17_1", "dlg": "-Hey, is that true?\n-This bottle is not advised to move towards ..."}, {"id": "announcer_ally_dead_17_1", "dlg": "Millimeter ... I think it is inevitable."}, {"id": "announcer_enemy_adv_17_1", "dlg": "-What went to the shirt?\n--Coma, please ... what do we think when we do it?\n-We boy ..."}, {"id": "announcer_ally_adv_17_1", "dlg": "There is no hope, but ...\nThe battle began to happen."}, {"id": "announcer_danger_17_1", "dlg": "-O, Lima asked for a moment.\n-Winda Star Course ...?"}, {"id": "announcer_enemy_specialskill_17_1", "dlg": "-Oh, listen to the alarms.\nYou can look in a different way.\nIs it quite impressive?"}, {"id": "announcer_enemy_specialgimmick_17_1", "dlg": "Soak.\n\"Yes. They know the information between fighting and unwanted plans."}, {"id": "announcer_advatk_physical_17_1", "dlg": "-K, I want to see!\n-You touch touching directions, you touch."}, {"id": "announcer_disadvatk_physical_17_1", "dlg": "-Mm ... I think it's very impressive, but it is always 100% effective.\n- no-\n-Exis ... put in socks."}, {"id": "announcer_advatk_attr_17_1", "dlg": "-He, you do it.\n-why are you laughing?"}, {"id": "announcer_disadvatk_attr_17_1", "dlg": "Do you think it's a great picnic ...?\nYou cannot make eggs without eggs."}, {"id": "announcer_enemy_specialbuff_17_1", "dlg": "-I i see their power that you want to go to party?\nWeakness is our enemy."}, {"id": "announcer_enemy_specialdebuff_17_1", "dlg": "-He bent your head ... it's a chance for you.\n-Te I think there is no dead!"}, {"id": "announcer_ally_specialbuff_17_1", "dlg": "Equipment Tool indicates this situation is being easily being used.\n-I don't need this tool to tell me!"}, {"id": "announcer_ally_specialdebuff_17_1", "dlg": "Did you do it?\nDo you always work?"}, {"id": "announcer_enemy_destroy_17_1", "dlg": "The area has been completely damaged!\n-What did you hit"}, {"id": "announcer_enemy_destroy_17_2", "dlg": "- It is easy to breathing at work.\n- Yes."}, {"id": "announcer_round_takebigdmg_17_1", "dlg": "-I have heard fields or other materials ...\n-It temporarily obtaining an output ... okay?"}, {"id": "announcer_round_takebigdmg_17_2", "dlg": "-Exis is a famous beautiful trash ...\nI want to know that there are still equipment to restore all these mistakes.\n- And small ink, is not the power of living ...\n--Th, Shah ..."}, {"id": "announcer_round_givebigdmg_17_1", "dlg": "Now I see these women and masters, which is the \"decision of the brave\"!\nWhat do you do, sports critics ...?\nNo, but this is a good decision."}, {"id": "announcer_round_givebigdmg_17_2", "dlg": "-This better!\n\"It's more conflict. It's time to win.\""}, {"id": "announcer_multikillenemy_17_1", "dlg": "What is the net technology now?\n-You can use this method ... you can sign many agreements every day.\nBig alcohol has been cleaned ..."}, {"id": "announcer_equip_17_1", "dlg": "-Oh ... then describe the deal ...\n-When I think the recorder is already rolling.\n- Yes?\n-All belongs to the situation."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_17_1",
+      "dlg": "- Yes!\n-Pap is tight\n- Do we follow contracts and libraries ...?"
+    }, {
+      "id": "announcer_cheer_17_2",
+      "dlg": "-Buccha!\n-There not fire ...?"
+    }, {
+      "id": "announcer_specialcheer_17_1",
+      "dlg": "Oh, they saw ...\nYou look very dangerous."
+    }, {
+      "id": "announcer_specialcheer_17_2",
+      "dlg": "-What is a wounded ...haps I will leave?\n-Etime everything on?\n-Chant please ..."
+    }, {
+      "id": "announcer_enemy_break_17_1",
+      "dlg": "- They prefer hell!\n- .. I think it's really alcohol, but it's a good opportunity."
+    }, {
+      "id": "announcer_ally_break_17_1",
+      "dlg": "It's not very hot in your partner.\n-in this case.\nSecond, everyone."
+    }, {
+      "id": "announcer_killenemy_17_1",
+      "dlg": "-Hey, is that true?\n-This bottle is not advised to move towards ..."
+    }, {
+      "id": "announcer_ally_dead_17_1",
+      "dlg": "Millimeter ... I think it is inevitable."
+    }, {
+      "id": "announcer_enemy_adv_17_1",
+      "dlg": "-What went to the shirt?\n--Coma, please ... what do we think when we do it?\n-We boy ..."
+    }, {
+      "id": "announcer_ally_adv_17_1",
+      "dlg": "There is no hope, but ...\nThe battle began to happen."
+    }, {
+      "id": "announcer_danger_17_1",
+      "dlg": "-O, Lima asked for a moment.\n-Winda Star Course ...?"
+    }, {
+      "id": "announcer_enemy_specialskill_17_1",
+      "dlg": "-Oh, listen to the alarms.\nYou can look in a different way.\nIs it quite impressive?"
+    }, {
+      "id": "announcer_enemy_specialgimmick_17_1",
+      "dlg": "Soak.\n\"Yes. They know the information between fighting and unwanted plans."
+    }, {
+      "id": "announcer_advatk_physical_17_1",
+      "dlg": "-K, I want to see!\n-You touch touching directions, you touch."
+    }, {
+      "id": "announcer_disadvatk_physical_17_1",
+      "dlg": "-Mm ... I think it's very impressive, but it is always 100% effective.\n- no-\n-Exis ... put in socks."
+    }, {
+      "id": "announcer_advatk_attr_17_1",
+      "dlg": "-He, you do it.\n-why are you laughing?"
+    }, {
+      "id": "announcer_disadvatk_attr_17_1",
+      "dlg": "Do you think it's a great picnic ...?\nYou cannot make eggs without eggs."
+    }, {
+      "id": "announcer_enemy_specialbuff_17_1",
+      "dlg": "-I i see their power that you want to go to party?\nWeakness is our enemy."
+    }, {
+      "id": "announcer_enemy_specialdebuff_17_1",
+      "dlg": "-He bent your head ... it's a chance for you.\n-Te I think there is no dead!"
+    }, {
+      "id": "announcer_ally_specialbuff_17_1",
+      "dlg": "Equipment Tool indicates this situation is being easily being used.\n-I don't need this tool to tell me!"
+    }, {
+      "id": "announcer_ally_specialdebuff_17_1",
+      "dlg": "Did you do it?\nDo you always work?"
+    }, {
+      "id": "announcer_enemy_destroy_17_1",
+      "dlg": "The area has been completely damaged!\n-What did you hit"
+    }, {
+      "id": "announcer_enemy_destroy_17_2",
+      "dlg": "- It is easy to breathing at work.\n- Yes."
+    }, {
+      "id": "announcer_round_takebigdmg_17_1",
+      "dlg": "-I have heard fields or other materials ...\n-It temporarily obtaining an output ... okay?"
+    }, {
+      "id": "announcer_round_takebigdmg_17_2",
+      "dlg": "-Exis is a famous beautiful trash ...\nI want to know that there are still equipment to restore all these mistakes.\n- And small ink, is not the power of living ...\n--Th, Shah ..."
+    }, {
+      "id": "announcer_round_givebigdmg_17_1",
+      "dlg": "Now I see these women and masters, which is the \"decision of the brave\"!\nWhat do you do, sports critics ...?\nNo, but this is a good decision."
+    }, {
+      "id": "announcer_round_givebigdmg_17_2",
+      "dlg": "-This better!\n\"It's more conflict. It's time to win.\""
+    }, {
+      "id": "announcer_multikillenemy_17_1",
+      "dlg": "What is the net technology now?\n-You can use this method ... you can sign many agreements every day.\nBig alcohol has been cleaned ..."
+    }, {
+      "id": "announcer_equip_17_1",
+      "dlg": "-Oh ... then describe the deal ...\n-When I think the recorder is already rolling.\n- Yes?\n-All belongs to the situation."
+    }
+  ]
+}

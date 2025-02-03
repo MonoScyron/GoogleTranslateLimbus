@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10107_1", "desc": "Identity Acquisition", "dlg": "I can contact me II ranking."}, {"id": "lobby_morning_10107_1", "desc": "Morning Greeting", "dlg": "I am the God to limit the waves of the night."}, {"id": "lobby_noon_10107_1", "desc": "Afternoon Greeting", "dlg": "Very nice ... I deal with these retired wings."}, {"id": "lobby_night_10107_1", "desc": "Evening Greeting", "dlg": "Wear the night sky."}, {"id": "smalltalk_10107_1", "desc": "Chatter #1", "dlg": "We'll see you, you need to submit an application."}, {"id": "smalltalk_10107_2", "desc": "Chatter #2", "dlg": "During Christmas!"}, {"id": "smalltalk_10107_3", "desc": "Chatter #3", "dlg": "Mailor's life ... I want to put it in the cafe because I'm happy with this attempt.\nI dream of failure."}, {"id": "smalltalk_10107_4", "desc": "Post-Uptie Chat 1", "dlg": "Don't leave the rope!"}, {"id": "smalltalk_10107_5", "desc": "Post-Uptie Chat 2", "dlg": "The captain icemail did not allow you to die ... we should all kill and then return to our place!"}, {"id": "neglect_10107_1", "desc": "Idle", "dlg": "Well ... everything is quiet than attacking the boat."}, {"id": "gacksung_10107_1", "desc": "Uptying", "dlg": "For this reason, if I have a chance, it's better."}, {"id": "formation_10107_1", "desc": "Deployment", "dlg": "I want to leave the roopla"}, {"id": "battleentry_10107_1", "desc": "Stage Entry", "dlg": "You don't give guitar."}, {"id": "battle_select_10107_1", "desc": "Viewed in Battle", "dlg": "Is the captain dangerous?"}, {"id": "battle_endcommand_10107_1", "desc": "Commencing Attack", "dlg": "Please prove"}, {"id": "battle_enemy_break_10107_1", "desc": "Enemy Stagger", "dlg": "Wool"}, {"id": "battle_break_10107_1", "desc": "Staggered", "dlg": "Yes ..."}, {"id": "battle_kill_10107_1", "desc": "Enemy Killed", "dlg": "There is a child's oil to collect oil."}, {"id": "battle_dead_10107_1", "desc": "Death", "dlg": "Haha ... so ... voice ... end ..."}, {"id": "choice_success_p_10107_2", "desc": "Check Passed", "dlg": "This is a small scale test."}, {"id": "choice_fail_n_10107_1", "desc": "Check Failed", "dlg": "I probably put my foot in front of the boat ... I understand it."}, {"id": "battle_clear_10107_1", "desc": "Victory Cry", "dlg": "The end of the trip increased in the distance."}, {"id": "battle_clear_ex_10107_1", "desc": "Extra Conditions Fulfilled", "dlg": "We have built many ocean or whales to attack the courage."}, {"id": "battle_defeat_10107_1", "desc": "Defeat Wail", "dlg": "... Our ship is still a very good thing to get anchor and maintenance ... then we will be part of the lake."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10107_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I can contact me II ranking."
+    }, {
+      "id": "lobby_morning_10107_1",
+      "desc": "Morning Greeting",
+      "dlg": "I am the God to limit the waves of the night."
+    }, {
+      "id": "lobby_noon_10107_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Very nice ... I deal with these retired wings."
+    }, {
+      "id": "lobby_night_10107_1",
+      "desc": "Evening Greeting",
+      "dlg": "Wear the night sky."
+    }, {
+      "id": "smalltalk_10107_1",
+      "desc": "Chatter #1",
+      "dlg": "We'll see you, you need to submit an application."
+    }, {
+      "id": "smalltalk_10107_2",
+      "desc": "Chatter #2",
+      "dlg": "During Christmas!"
+    }, {
+      "id": "smalltalk_10107_3",
+      "desc": "Chatter #3",
+      "dlg": "Mailor's life ... I want to put it in the cafe because I'm happy with this attempt.\nI dream of failure."
+    }, {
+      "id": "smalltalk_10107_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Don't leave the rope!"
+    }, {
+      "id": "smalltalk_10107_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "The captain icemail did not allow you to die ... we should all kill and then return to our place!"
+    }, {
+      "id": "neglect_10107_1",
+      "desc": "Idle",
+      "dlg": "Well ... everything is quiet than attacking the boat."
+    }, {
+      "id": "gacksung_10107_1",
+      "desc": "Uptying",
+      "dlg": "For this reason, if I have a chance, it's better."
+    }, {
+      "id": "formation_10107_1",
+      "desc": "Deployment",
+      "dlg": "I want to leave the roopla"
+    }, {
+      "id": "battleentry_10107_1",
+      "desc": "Stage Entry",
+      "dlg": "You don't give guitar."
+    }, {
+      "id": "battle_select_10107_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Is the captain dangerous?"
+    }, {
+      "id": "battle_endcommand_10107_1",
+      "desc": "Commencing Attack",
+      "dlg": "Please prove"
+    }, {
+      "id": "battle_enemy_break_10107_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Wool"
+    }, {
+      "id": "battle_break_10107_1",
+      "desc": "Staggered",
+      "dlg": "Yes ..."
+    }, {
+      "id": "battle_kill_10107_1",
+      "desc": "Enemy Killed",
+      "dlg": "There is a child's oil to collect oil."
+    }, {
+      "id": "battle_dead_10107_1",
+      "desc": "Death",
+      "dlg": "Haha ... so ... voice ... end ..."
+    }, {
+      "id": "choice_success_p_10107_2",
+      "desc": "Check Passed",
+      "dlg": "This is a small scale test."
+    }, {
+      "id": "choice_fail_n_10107_1",
+      "desc": "Check Failed",
+      "dlg": "I probably put my foot in front of the boat ... I understand it."
+    }, {
+      "id": "battle_clear_10107_1",
+      "desc": "Victory Cry",
+      "dlg": "The end of the trip increased in the distance."
+    }, {
+      "id": "battle_clear_ex_10107_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "We have built many ocean or whales to attack the courage."
+    }, {
+      "id": "battle_defeat_10107_1",
+      "desc": "Defeat Wail",
+      "dlg": "... Our ship is still a very good thing to get anchor and maintenance ... then we will be part of the lake."
+    }
+  ]
+}

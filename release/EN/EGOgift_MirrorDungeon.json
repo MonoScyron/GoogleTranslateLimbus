@@ -167,7 +167,7 @@
     }, {
       "id": 9009,
       "name": "Fire",
-      "desc": "Play enemies with this desire or technology [Combustion] It is suitable for gate or \"special burn\", 3. [Combustion] Portalin.\n\nStart: If the enemy is over 20 years old [Combustion] A pair (electricity) [Combustion] Red Point) x2",
+      "desc": "Play enemies with this desire or technology [Combustion] It is suitable for gate or \"special burn\", 3. [Combustion] Portalin.\n\nStart: If the enemy is over 20 years old [Combustion] a pair (electricity) [Combustion] Red Point) x2",
       "simpleDesc": [
         {
           "abilityID": 9009,
@@ -180,7 +180,7 @@
     }, {
       "id": 19009,
       "name": "Fire down",
-      "desc": "Play enemies with this desire or technology [Combustion] Repeat or \"the Tamacking Day\", <style=\"upgradeHighlight\">4 app 4 [Combustion] Flexible</style>Intersection\n\nStart: If the enemy is over 20 years old [Combustion] A pair (electricity) [Combustion] Red Point) x2",
+      "desc": "Play enemies with this desire or technology [Combustion] Repeat or \"the Tamacking Day\", <style=\"upgradeHighlight\">4 app 4 [Combustion] Flexible</style>Intersection\n\nStart: If the enemy is over 20 years old [Combustion] a pair (electricity) [Combustion] Red Point) x2",
       "simpleDesc": [
         {
           "abilityID": 19009,
@@ -438,7 +438,7 @@
     }, {
       "id": 9019,
       "name": "Glu",
-      "desc": "2 When you touch a large hole or dark relationship [DefenseDown]Intersection",
+      "desc": "2 When you touch a large hole or dark relationship [DefenseDown] Intersection",
       "simpleDesc": [
         {
           "abilityID": 9019,
@@ -458,7 +458,7 @@
     }, {
       "id": 19020,
       "name": "White",
-      "desc": "Follow the beginning. <style=\"upgradeHighlight\">(10 + LV x5 extension) [Laceration] Flexible</style> And and <style=\"upgradeHighlight\">(10 + LV x5 extension)</style> [AttackDown](Each race is active once for some enemies.",
+      "desc": "Follow the beginning. <style=\"upgradeHighlight\">(10 + LV x5 extension) [Laceration] Flexible</style> And and <style=\"upgradeHighlight\">(10 + LV x5 extension)</style> [AttackDown] (Each race is active once for some enemies.",
       "simpleDesc": [
         {
           "abilityID": 19020,
@@ -534,7 +534,7 @@
     }, {
       "id": 9024,
       "name": "Melt",
-      "desc": "5 apps [AttackDown] And 5 [DefenseDown] The next bargain will be in front of the enemy [VibrationExplosion](Each message is 3 times)",
+      "desc": "5 apps [AttackDown] And 5 [DefenseDown] The next bargain will be in front of the enemy [VibrationExplosion] (Each message is 3 times)",
       "simpleDesc": [
         {
           "abilityID": 9024,
@@ -674,7 +674,7 @@
     }, {
       "id": 29031,
       "name": "Nikki divorce ++",
-      "desc": "Start Golf: Application <style=\"upgradeHighlight\">My [Vibration] A pair and 5 [Vibration] Calculation</style> (Or all parts of the disease)\n\nIf you are jealous of the enemy, apply it. <style=\"upgradeHighlight\">Blood [Vibration] Flexible</style> For the purpose of.",
+      "desc": "Start Golf: Application <style=\"upgradeHighlight\">My [Vibration] a pair and 5 [Vibration] Calculation</style> (Or all parts of the disease)\n\nIf you are jealous of the enemy, apply it. <style=\"upgradeHighlight\">Blood [Vibration] Flexible</style> For the purpose of.",
       "simpleDesc": [
         {
           "abilityID": 29031,
@@ -730,7 +730,7 @@
           "simpleDesc": "3 Injuries"
         }, {
           "abilityID": 90351,
-          "simpleDesc": "3 jealousy depression [ResultReduction]Intersection"
+          "simpleDesc": "3 jealousy depression [ResultReduction] Intersection"
         }
       ]
     }, {
@@ -743,7 +743,7 @@
           "simpleDesc": "4 I lost my jealous"
         }, {
           "abilityID": 190351,
-          "simpleDesc": "4 I lost my jealous [ResultReduction]Intersection"
+          "simpleDesc": "4 I lost my jealous [ResultReduction] Intersection"
         }
       ]
     }, {
@@ -756,7 +756,7 @@
           "simpleDesc": "5 jewelry deficit"
         }, {
           "abilityID": 290351,
-          "simpleDesc": "5 jealousy injuries [ResultReduction]Intersection"
+          "simpleDesc": "5 jealousy injuries [ResultReduction] Intersection"
         }
       ]
     }, {
@@ -832,7 +832,7 @@
     }, {
       "id": 9041,
       "name": "Bar",
-      "desc": "While applying for a partner [Sinking] A chance or \"sinking\", a cooperative level with the enemies with technical effects.\n\nTechnical assistant apps attack the combination of hobbies. [Sinking] Instead of interpretation of an enemy, source or enemy, you can get two \"criminal classes\" (up to 4).",
+      "desc": "While applying for a partner [Sinking] a chance or \"sinking\", a cooperative level with the enemies with technical effects.\n\nTechnical assistant apps attack the combination of hobbies. [Sinking] Instead of interpretation of an enemy, source or enemy, you can get two \"criminal classes\" (up to 4).",
       "simpleDesc": [
         {
           "abilityID": 9041,
@@ -871,7 +871,7 @@
     }, {
       "id": 9042,
       "name": "Smoke and stars",
-      "desc": "Nenis X 2 Deputy Director [Laceration] Likely to implement technology.\n\nSpin: Enemy [Laceration] Or the speed of 2 in the next poem \"flows only\".",
+      "desc": "Nenis x 2 Deputy Director [Laceration] Likely to implement technology.\n\nSpin: Enemy [Laceration] Or the speed of 2 in the next poem \"flows only\".",
       "simpleDesc": [
         {
           "abilityID": 9042,
@@ -884,7 +884,7 @@
     }, {
       "id": 19042,
       "name": "Smoking and star +",
-      "desc": "Nenis X 2 Deputy Director [Laceration] Likely to implement technology.\n\nSpin: Enemy [Laceration] Or to lose \"unique bleeding\" <style=\"upgradeHighlight\">Blood</style> The next speed fire.",
+      "desc": "Nenis x 2 Deputy Director [Laceration] Likely to implement technology.\n\nSpin: Enemy [Laceration] Or to lose \"unique bleeding\" <style=\"upgradeHighlight\">Blood</style> The next speed fire.",
       "simpleDesc": [
         {
           "abilityID": 19042,
@@ -979,46 +979,46 @@
     }, {
       "id": 9045,
       "name": "Fire",
-      "desc": "Interbaid I sent 1.5 / 15 [Combustion] Trust the enemy [Combustion] Lecture ([Combustion] Potatoes [Combustion] Measure (loss value is anger.[Combustion] Counts the level of security.",
+      "desc": "Interbaid I sent 1.5 / 15 [Combustion] Trust the enemy [Combustion] Lecture ([Combustion] Potatoes [Combustion] Measure (loss value is anger. [Combustion] Counts the level of security.",
       "simpleDesc": [
         {
           "abilityID": 9045,
           "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] Delete lost anger"
         }, {
           "abilityID": 90451,
-          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] State Number x 2) Lost Anger[Combustion] Show fire) / 2 next security"
+          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] State Number x 2) Lost Anger [Combustion] Show fire) / 2 next security"
         }
       ]
     }, {
       "id": 19045,
       "name": "Box + lots +",
-      "desc": "Interbaid I sent 1.5 / 15 [Combustion] Trust the enemy [Combustion] The process of transaction. <style=\"upgradeHighlight\">…….[Combustion] Potatoes [Combustion] X 1.5 measurements)</style> Compensation compensation.[Combustion] Joti) / vote level for the next line. <style=\"upgradeHighlight\">(Mostly 5)</style>",
+      "desc": "Interbaid I sent 1.5 / 15 [Combustion] Trust the enemy [Combustion] The process of transaction. <style=\"upgradeHighlight\">……. [Combustion] Potatoes [Combustion] x 1.5 measurements)</style> Compensation compensation. [Combustion] Joti) / vote level for the next line. <style=\"upgradeHighlight\">(Mostly 5)</style>",
       "simpleDesc": [
         {
           "abilityID": 19045,
-          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] Click X 1.5)"
+          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] Click x 1.5)"
         }, {
           "abilityID": 190451,
-          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] Click X 1.5 to lose anger.[Combustion] Show fire) / 2 next security"
+          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] Click x 1.5 to lose anger. [Combustion] Show fire) / 2 next security"
         }
       ]
     }, {
       "id": 29045,
       "name": "It is ++",
-      "desc": "Interbaid I sent 1.5 / 15 [Combustion] Trust the enemy [Combustion] The process of transaction. <style=\"upgradeHighlight\">…….[Combustion] Potatoes [Combustion] Short 2)</style> Compensation compensation.[Combustion] Joti) / vote level for the next line. <style=\"upgradeHighlight\">(the best)</style>",
+      "desc": "Interbaid I sent 1.5 / 15 [Combustion] Trust the enemy [Combustion] The process of transaction. <style=\"upgradeHighlight\">……. [Combustion] Potatoes [Combustion] Short 2)</style> Compensation compensation. [Combustion] Joti) / vote level for the next line. <style=\"upgradeHighlight\">(the best)</style>",
       "simpleDesc": [
         {
           "abilityID": 29045,
           "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] x 2) Damage to anger"
         }, {
           "abilityID": 290451,
-          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] State Number x 2) Lost Anger[Combustion] Show fire) / 2 next security"
+          "simpleDesc": "Agreement ([Combustion] Pat unit. [Combustion] State Number x 2) Lost Anger [Combustion] Show fire) / 2 next security"
         }
       ]
     }, {
       "id": 9046,
       "name": "Smoking",
-      "desc": "Start Writing: All Friends meet [Breath] Get 1 [ResultEnhancement]Intersection\n\n5+ Related [Breath] Request 2 [ResultEnhancement] instead of.",
+      "desc": "Start Writing: All Friends meet [Breath] Get 1 [ResultEnhancement] Intersection\n\n5+ Related [Breath] Request 2 [ResultEnhancement] instead of.",
       "simpleDesc": [
         {
           "abilityID": 9046,
@@ -1174,7 +1174,7 @@
     }, {
       "id": 29050,
       "name": "Red Allala ++",
-      "desc": "Start Golf: Application <style=\"upgradeHighlight\">4 [Laceration] Special EI20 [Laceration] Account</style> Provide all enemies (or all parts).\n\nEarly -Snocia: the enemy [Laceration] Cart <style=\"upgradeHighlight\">…….[Laceration] After filled with half / 2 inches)</style> For order \"the level of working\" and \"defense level\". [Laceration] Possible files)",
+      "desc": "Start Golf: Application <style=\"upgradeHighlight\">4 [Laceration] Special EI20 [Laceration] Account</style> Provide all enemies (or all parts).\n\nEarly -Snocia: the enemy [Laceration] Cart <style=\"upgradeHighlight\">……. [Laceration] After filled with half / 2 inches)</style> For order \"the level of working\" and \"defense level\". [Laceration] Possible files)",
       "simpleDesc": [
         {
           "abilityID": 29050,
@@ -1191,7 +1191,7 @@
       "simpleDesc": [
         {
           "abilityID": 9051,
-          "simpleDesc": "[Breath] The port gets X 1.5"
+          "simpleDesc": "[Breath] The port gets x 1.5"
         }, {
           "abilityID": 90511,
           "simpleDesc": "Get 2 [Breath] Call and + dish. [Breath] Account"
@@ -1204,7 +1204,7 @@
       "simpleDesc": [
         {
           "abilityID": 19051,
-          "simpleDesc": "[Breath] The port gets X 1.5"
+          "simpleDesc": "[Breath] The port gets x 1.5"
         }, {
           "abilityID": 190511,
           "simpleDesc": "Benefits 3 [Breath] Call and + dish. [Breath] Account"
@@ -1548,7 +1548,7 @@
     }, {
       "id": 9065,
       "name": "Artist",
-      "desc": "SP injuries can have a bad effect on the enemy wounds.\n\nwhen? [Sinking]As a result, reference to the enemy is the most influential relationship.",
+      "desc": "SP injuries can have a bad effect on the enemy wounds.\n\nwhen? [Sinking] As a result, reference to the enemy is the most influential relationship.",
       "simpleDesc": [
         {
           "abilityID": 9065,
@@ -1561,7 +1561,7 @@
     }, {
       "id": 19065,
       "name": "Technical Significance +",
-      "desc": "<style=\"upgradeHighlight\">Of 40% or enemy injuries.</style>\n\nwhen? [Sinking]As a result, reference to the enemy is the most influential relationship.",
+      "desc": "<style=\"upgradeHighlight\">Of 40% or enemy injuries.</style>\n\nwhen? [Sinking] As a result, reference to the enemy is the most influential relationship.",
       "simpleDesc": [
         {
           "abilityID": 19065,
@@ -1574,7 +1574,7 @@
     }, {
       "id": 29065,
       "name": "Art Art + +",
-      "desc": "<style=\"upgradeHighlight\">Wrap without wisdom.</style>\n\nwhen? [Sinking]As a result, reference to the enemy is the most influential relationship.",
+      "desc": "<style=\"upgradeHighlight\">Wrap without wisdom.</style>\n\nwhen? [Sinking] As a result, reference to the enemy is the most influential relationship.",
       "simpleDesc": [
         {
           "abilityID": 29065,
@@ -1649,7 +1649,7 @@
     }, {
       "id": 9069,
       "name": "Clearly.",
-      "desc": "Start: 5+ and friends ([Charge] Account + \"Special Fees\") 1 [AttackDmgUp]Intersection\n\nIf your companions have attacked technology, get 2 [AttackDmgUp] instead of.",
+      "desc": "Start: 5+ and friends ([Charge] Account + \"Special Fees\") 1 [AttackDmgUp] Intersection\n\nIf your companions have attacked technology, get 2 [AttackDmgUp] instead of.",
       "simpleDesc": [
         {
           "abilityID": 9069,
@@ -1662,7 +1662,7 @@
     }, {
       "id": 19069,
       "name": "Opposition +",
-      "desc": "Start Writing: All Friends meet <style=\"upgradeHighlight\">P + (p + (p + (p + (p +)[Charge] Digital + \"only\")</style> Get 1 [AttackDmgUp]Intersection\n\nIf your companions have attacked technology, get 2 [AttackDmgUp] instead of.",
+      "desc": "Start Writing: All Friends meet <style=\"upgradeHighlight\">P + [Charge] Digital + \"only\")</style> Get 1 [AttackDmgUp] Intersection\n\nIf your companions have attacked technology, get 2 [AttackDmgUp] instead of.",
       "simpleDesc": [
         {
           "abilityID": 19069,
@@ -1675,7 +1675,7 @@
     }, {
       "id": 29069,
       "name": "Garda for ponds",
-      "desc": "Start Writing: All Friends meet <style=\"upgradeHighlight\">…….[Charge] Geeping + \"Cost\") receives 2 2 [AttackDmgUp]</style>Intersection\n\nIf a cooperation is a proud efficiency of <style=\"upgradeHighlight\">Blood [AttackDmgUp] instead of.</style>",
+      "desc": "Start Writing: All Friends meet <style=\"upgradeHighlight\">……. [Charge] Geeping + \"Cost\") receives 2 2 [AttackDmgUp]</style>Intersection\n\nIf a cooperation is a proud efficiency of <style=\"upgradeHighlight\">Blood [AttackDmgUp] instead of.</style>",
       "simpleDesc": [
         {
           "abilityID": 29069,
@@ -2154,7 +2154,7 @@
     }, {
       "id": 9092,
       "name": "To mix",
-      "desc": "Exercise: When you attack more than five identities, the gift is active. [Vibration] No power or measure.\n\nFirst wave: 5 apps 5 [Vibration] And +5 [Vibration] Measure all enemies.\n\nRecord 5 [Vibration] Armpits and 2 [Vulnerable] It is affected by the antichrist packing and extra infections. [VibrationExplosion]Jiv [VibrationExplosion]…….\n\n3 times [VibrationExplosion] According to the goal, the next step is to contaminate the target and the new element 66% and the current HP goal).",
+      "desc": "Exercise: When you attack more than five identities, the gift is active. [Vibration] No power or measure.\n\nFirst wave: 5 apps 5 [Vibration] And +5 [Vibration] Measure all enemies.\n\nRecord 5 [Vibration] Armpits and 2 [Vulnerable] It is affected by the antichrist packing and extra infections. [VibrationExplosion] Jiv [VibrationExplosion]…….\n\n3 times [VibrationExplosion] According to the goal, the next step is to contaminate the target and the new element 66% and the current HP goal).",
       "simpleDesc": [
         {
           "abilityID": 9092,
@@ -2240,14 +2240,14 @@
     }, {
       "id": 9096,
       "name": "Litca Black",
-      "desc": "Exercise: When you attack more than five identities, the gift is active. [Sinking] The instrument plant, counting or \"special sinking\" (this is not technology.\n\nIf you have technology, the enemy technology is appropriate for 5. [Sinking] Portalin.\n\nStart changing: restore all enemies (or all parts of the disability) [Sinking] This is the same[Sinking] The last round measurement by preparations) / 2",
+      "desc": "Exercise: When you attack more than five identities, the gift is active. [Sinking] The instrument plant, counting or \"special sinking\" (this is not technology.\n\nIf you have technology, the enemy technology is appropriate for 5. [Sinking] Portalin.\n\nStart changing: restore all enemies (or all parts of the disability) [Sinking] This is the same [Sinking] The last round measurement by preparations) / 2",
       "simpleDesc": [
         {
           "abilityID": 9096,
           "simpleDesc": "5 apps [Sinking] Flexible"
         }, {
           "abilityID": 90961,
-          "simpleDesc": "Season [Sinking] This is the same[Sinking] Sold) / 2 in the last round"
+          "simpleDesc": "Season [Sinking] This is the same [Sinking] Sold) / 2 in the last round"
         }
       ]
     }, {
@@ -2335,7 +2335,7 @@
     }, {
       "id": 9100,
       "name": "T-1 fixed primary device",
-      "desc": "First Science: This gift is active when the skill of clicking on more than 5 are obtained. [Charge] Account or \"spending only\".\n\nThe waves start for the first time: all friends have seven. [ChargeForceField]Intersection\n\nਪਹਿਲਾਂ ਲਾਗ: ਸਾਰੇ ਸਲਾਹਕਾਰ (\"(\") (\") (\") (\") (\") (\") (\" \") (\" \") (\")) (\")) (\") (\") (\")(\") (\") (\") (\") (\") (\" \") (\" \") (\" \") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\") (\")[Charge] Digital + \"Special Cost\") / 5 +1) [AttackDmgUp]Jiv\n\nIn the following words: they all grow and grow (total) [Charge] Using \"Cost\") / 4) technology using technology in this contest (up to 40). [Charge] UGED )",
+      "desc": "First Science: This gift is active when the skill of clicking on more than 5 are obtained. [Charge] Account or \"spending only\".\n\nThe waves start for the first time: all friends have seven. [ChargeForceField]Intersection\n\nFirst infection: all consultants [Charge] Digital + \"Special Cost\") / 5 +1) [AttackDmgUp]Jiv\n\nIn the following words: they all grow and grow (total) [Charge] Using \"Cost\") / 4) technology using technology in this contest (up to 40). [Charge] UGED )",
       "simpleDesc": [
         {
           "abilityID": 9100,
@@ -2524,7 +2524,7 @@
     }, {
       "id": 9108,
       "name": "You would like to know",
-      "desc": "[Impressive number 1 ring # 2 should be used in group selection groups.]\n\nWhile using technology to use [Laceration] A button, account or \"unique bleeding\", and the main goal is more than 7 [Laceration] Calculation, Agreement +10 damage",
+      "desc": "[Impressive number 1 ring # 2 should be used in group selection groups.]\n\nWhile using technology to use [Laceration] a button, account or \"unique bleeding\", and the main goal is more than 7 [Laceration] Calculation, Agreement +10 damage",
       "simpleDesc": [
         {
           "abilityID": 9108,
@@ -2580,7 +2580,7 @@
     }, {
       "id": 9111,
       "name": "at home",
-      "desc": "If something is [Vibration] The food has been removed, 0.5[Vibration] Pot +) The following steps can damage any enemies (or all distractions).",
+      "desc": "If something is [Vibration] The food has been removed, 0.5 [Vibration] Pot +) The following steps can damage any enemies (or all distractions).",
       "simpleDesc": [
         {
           "abilityID": 9110,
@@ -2590,7 +2590,7 @@
     }, {
       "id": 19111,
       "name": "We make hair by bio",
-      "desc": "If something is [Vibration] The officers were lost and angry <style=\"upgradeHighlight\">0.75</style>…….[Vibration] Pot +) The following steps can damage any enemies (or all distractions).",
+      "desc": "If something is [Vibration] The officers were lost and angry <style=\"upgradeHighlight\">0.75</style>……. [Vibration] Pot +) The following steps can damage any enemies (or all distractions).",
       "simpleDesc": [
         {
           "abilityID": 19110,
@@ -2600,7 +2600,7 @@
     }, {
       "id": 29111,
       "name": "Effective ++ scams",
-      "desc": "If something is [Vibration] The officers were lost and angry <style=\"upgradeHighlight\">1. Sister</style>…….[Vibration] Pot +) The following steps can damage any enemies (or all distractions).",
+      "desc": "If something is [Vibration] The officers were lost and angry <style=\"upgradeHighlight\">1. Sister</style>……. [Vibration] Pot +) The following steps can damage any enemies (or all distractions).",
       "simpleDesc": [
         {
           "abilityID": 29110,
@@ -2640,7 +2640,7 @@
     }, {
       "id": 9113,
       "name": "A new drink smell",
-      "desc": "[Impressive number 1 ring # 2 should be used in group selection groups.]\n\nSustained.Technology [Vibration] +2 dish or \"unlawful level\"\n\nThe main goal is [Vibration] It also makes it difficult to the adverse technical loss + (level X 7.5).\n\nWhen we temporarily attack enemy technology [Vibration] Bottom or account, + (+ + (upper shoots x 15), + + + + + + +",
+      "desc": "[Impressive number 1 ring # 2 should be used in group selection groups.]\n\nSustained.Technology [Vibration] +2 dish or \"unlawful level\"\n\nThe main goal is [Vibration] It also makes it difficult to the adverse technical loss + (level x 7.5).\n\nWhen we temporarily attack enemy technology [Vibration] Bottom or account, + (+ + (upper shoots x 15), + + + + + + +",
       "simpleDesc": [
         {
           "abilityID": 9113,
@@ -2717,14 +2717,14 @@
     }, {
       "id": 9116,
       "name": "Stop the piece",
-      "desc": "When using it, stimulating identification technology [Vibration] Cut, counts or \"special progress\".\n\nFor example, the final power (Sloa.O.O.o source + is the same to achieve other sources of other resources:\n\nTips to forget with the machine: Additional Application [Vibration] Pre-Placecheck -Mactouters (Interstators, the price of the tit +3 measurement, +4 digital +4, etc.) and protocol + ([Vibration] X 1.5 trigar)%",
+      "desc": "When using it, stimulating identification technology [Vibration] Cut, counts or \"special progress\".\n\nFor example, the final power (Sloa.O.O.o source + is the same to achieve other sources of other resources:\n\nTips to forget with the machine: Additional Application [Vibration] Pre-Placecheck -Mactouters (Interstators, the price of the tit +3 measurement, +4 digital +4, etc.) and protocol + ([Vibration] x 1.5 trigar)%",
       "simpleDesc": [
         {
           "abilityID": 9116,
           "simpleDesc": "For example, the final power (Sloa.O.O.o source + is the same to achieve other sources of other resources:"
         }, {
           "abilityID": 91161,
-          "simpleDesc": "If the situation is complete: additional applications [Vibration] Pre-Placecheck -Mactouters (Interstators, the price of the tit +3 measurement, +4 digital +4, etc.) and protocol + ([Vibration] X 1.5 trigar)%"
+          "simpleDesc": "If the situation is complete: additional applications [Vibration] Pre-Placecheck -Mactouters (Interstators, the price of the tit +3 measurement, +4 digital +4, etc.) and protocol + ([Vibration] x 1.5 trigar)%"
         }
       ]
     }, {
@@ -2906,7 +2906,7 @@
     }, {
       "id": 19124,
       "name": "Beautiful + +",
-      "desc": "The effects of [2, 2 and mountains have been used. <style=\"upgradeHighlight\">#P.</style> Identity App]\n\nUsed in a state of attack damage. [Sinking] Chance, computing or \"disposition\" <style=\"upgradeHighlight\">Yes</style>+ (How?[Sinking] Possible + Account), Application <style=\"upgradeHighlight\">Blood</style> [Sinking] Call and + dish. [Sinking] Measure after the attack (each confessional statement is 2 times)\nIn Central Meetings: Application Form <style=\"upgradeHighlight\">My</style> [Sinking] Call and + dish. [Sinking] instead of",
+      "desc": "The effects of [2, 2 and mountains have been used. <style=\"upgradeHighlight\">#P.</style> Identity App]\n\nUsed in a state of attack damage. [Sinking] Chance, computing or \"disposition\" <style=\"upgradeHighlight\">Yes</style>+ (How? [Sinking] Possible + Account), Application <style=\"upgradeHighlight\">Blood</style> [Sinking] Call and + dish. [Sinking] Measure after the attack (each confessional statement is 2 times)\nIn Central Meetings: Application Form <style=\"upgradeHighlight\">My</style> [Sinking] Call and + dish. [Sinking] instead of",
       "simpleDesc": [
         {
           "abilityID": 19124,
@@ -2916,7 +2916,7 @@
     }, {
       "id": 29124,
       "name": "Beautiful ++",
-      "desc": "[Identity identification number 1, 2 and # 3 only apply.]\n\nUsed in a state of attack damage. [Sinking] Chance, computing or \"disposition\" <style=\"upgradeHighlight\">My</style>+ (How?[Sinking] Pet + numbers, transaction 3 [Sinking] Power and power <style=\"upgradeHighlight\">+ P.</style> [Sinking] Measure after the attack (each confessional statement is 2 times)\nIn Central Meetings: App 5 [Sinking] Power and power <style=\"upgradeHighlight\">+ P.</style> [Sinking] instead of",
+      "desc": "[Identity identification number 1, 2 and # 3 only apply.]\n\nUsed in a state of attack damage. [Sinking] Chance, computing or \"disposition\" <style=\"upgradeHighlight\">My</style>+ (How? [Sinking] Pet + numbers, transaction 3 [Sinking] Power and power <style=\"upgradeHighlight\">+ P.</style> [Sinking] Measure after the attack (each confessional statement is 2 times)\nIn Central Meetings: App 5 [Sinking] Power and power <style=\"upgradeHighlight\">+ P.</style> [Sinking] instead of",
       "simpleDesc": [
         {
           "abilityID": 29124,
@@ -2936,7 +2936,7 @@
     }, {
       "id": 9126,
       "name": "Obstruction",
-      "desc": "For example, the activity consumption using technology. [Sinking] Account, account or \"unique sinking\".\n\nGet the same strength (disappoint as a second source like full + / 3 roots).\n\nGloom Er.Octter: Get additional start [Sinking] Before the attack, the price of measure decreases (Jain +2 computing, etc.) + + (for example technology X 2.5).",
+      "desc": "For example, the activity consumption using technology. [Sinking] Account, account or \"unique sinking\".\n\nGet the same strength (disappoint as a second source like full + / 3 roots).\n\nGloom Er.Octter: Get additional start [Sinking] Before the attack, the price of measure decreases (Jain +2 computing, etc.) + + (for example technology x 2.5).",
       "simpleDesc": [
         {
           "abilityID": 9126,
@@ -3002,7 +3002,7 @@
     }, {
       "id": 29128,
       "name": "Ben A ++ with nuts",
-      "desc": "<style=\"upgradeHighlight\">Characters:</style> 1 fast friend 4 [Breath] Port and 4 [Breath] Account.\n\nIf you have close technology, get 5 [Breath] A pair and 5 [Breath] Instead to count.",
+      "desc": "<style=\"upgradeHighlight\">Characters:</style> 1 fast friend 4 [Breath] Port and 4 [Breath] Account.\n\nIf you have close technology, get 5 [Breath] a pair and 5 [Breath] Instead to count.",
       "simpleDesc": [
         {
           "abilityID": 29128,
@@ -3199,7 +3199,7 @@
           "simpleDesc": "As the final power (eg source + other EC / 3 sauce)."
         }, {
           "abilityID": 91361,
-          "simpleDesc": "High [Charge] GBBroja (Jain Dubokant +2, +3 Computer, +4 Numbers, etc.) and stick + (()[Charge] X 5) More than that time."
+          "simpleDesc": "High [Charge] GBBroja (Jain Dubokant +2, +3 Computer, +4 Numbers, etc.) and stick + ([Charge] x 5) More than that time."
         }
       ]
     }, {
@@ -3986,7 +3986,7 @@
     }, {
       "id": 9434,
       "name": "Manual mirror",
-      "desc": "Start with UPS and 2 enemies of slow movement (or two parts of the disability). [Binding] Blood [DefenseDown] At the beginning of the next round.\n\nIf the enemy gets cured forever and the rest restrictions, current HP(3 times) makes some 66% (such as technology). [Vibration] Of force or [Vibration] Random (with you or with you) [Vibration] very much [Vibration] Possibly, in others, enemy (or other types) and twice as much [Vibration] A gradual possibility of the target.",
+      "desc": "Start with UPS and 2 enemies of slow movement (or two parts of the disability). [Binding] Blood [DefenseDown] At the beginning of the next round.\n\nIf the enemy gets cured forever and the rest restrictions, current HP(3 times) makes some 66% (such as technology). [Vibration] Of force or [Vibration] Random (with you or with you) [Vibration] very much [Vibration] Possibly, in others, enemy (or other types) and twice as much [Vibration] a gradual possibility of the target.",
       "simpleDesc": [
         {
           "abilityID": 9433,
@@ -4075,11 +4075,11 @@
     }, {
       "id": 9708,
       "name": "Excavation",
-      "desc": "When the enemy conflict attacks [Burst] Technology [Burst] The armpits and files, processing + ([Burst] X 1.25) more damage.\n\nIf the partner is recovered permanently, the maximum value is 20%.",
+      "desc": "When the enemy conflict attacks [Burst] Technology [Burst] The armpits and files, processing + ([Burst] x 1.25) more damage.\n\nIf the partner is recovered permanently, the maximum value is 20%.",
       "simpleDesc": [
         {
           "abilityID": 9708,
-          "simpleDesc": "Treatment + ()[Burst] Point x 1.25) more damage (up to 50%)"
+          "simpleDesc": "Treatment + [Burst] Point x 1.25) more damage (up to 50%)"
         }, {
           "abilityID": 97081,
           "simpleDesc": "Fare up to 20%"
@@ -4166,7 +4166,7 @@
     }, {
       "id": 9715,
       "name": "Broken sword",
-      "desc": "If the enemy's friend is seriously killed, celebrate it.[Breath] Puglos / 3) He was proudly.\n\nIf the enemy is under a serious impact, it will reach the sword ([Breath] PIN / 2) arrogant.",
+      "desc": "If the enemy's friend is seriously killed, celebrate it. ([Breath] Puglos / 3) He was proudly.\n\nIf the enemy is under a serious impact, it will reach the sword ([Breath] PIN / 2) arrogant.",
       "simpleDesc": [
         {
           "abilityID": 9715,
@@ -4409,14 +4409,14 @@
     }, {
       "id": 9729,
       "name": "Zaclock: e.k.",
-      "desc": "Exercise: When you attack more than five identities, the gift is active. [Vibration] Tanker, computer or special impact of shaking.\n\nFederal 3 friends are unhappy [Vibration] Opportunity, full or \"Special Viberation\": electric currency +2 and conferences + 25% loss.\n\nIf the employee is valid [Vibration] The bill or \"earthquake\" causes the slow enemies, which causes 2 speeds: Deal + (Deal +))[Vibration] Used to damage the patter and to deliver to the goals of 0.25). [DefenseDown] Each time is suitable for federal damage (up to 6)\n\nFirst Wave: App (12), Enable Application [Vibration] (M.6) and (Speed ​​12-1) / 2 [Vibration] Measure the enemy at a high speed.",
+      "desc": "Exercise: When you attack more than five identities, the gift is active. [Vibration] Tanker, computer or special impact of shaking.\n\nFederal 3 friends are unhappy [Vibration] Opportunity, full or \"Special Viberation\": electric currency +2 and conferences + 25% loss.\n\nIf the employee is valid [Vibration] The bill or \"earthquake\" causes the slow enemies, which causes 2 speeds: Deal + (Deal +[Vibration] Used to damage the patter and to deliver to the goals of 0.25). [DefenseDown] Each time is suitable for federal damage (up to 6)\n\nFirst Wave: App (12), Enable Application [Vibration] (M.6) and (Speed ​​12-1) / 2 [Vibration] Measure the enemy at a high speed.",
       "simpleDesc": [
         {
           "abilityID": 9729,
           "simpleDesc": "3 MANT +2 and + 25% of technology"
         }, {
           "abilityID": 97291,
-          "simpleDesc": "Treatment + ()[Vibration] Target button (% damage; [DefenseDown] All federal injuries"
+          "simpleDesc": "Treatment + [Vibration] Target button (% damage; [DefenseDown] All federal injuries"
         }, {
           "abilityID": 97292,
           "simpleDesc": "Application (current 12 speed) [Vibration] Portro (m3) and (voltage speed 9) / 2 [Vibration] Account"
@@ -4448,7 +4448,7 @@
           "simpleDesc": "3 MANT +2 and + 25% of technology"
         }, {
           "abilityID": 97311,
-          "simpleDesc": "ਪਾਵਰ +2 ਅਤੇ ਡੈਲ + ())[Vibration] The target of the pork"
+          "simpleDesc": "ਪਾਵਰ +2 ਅਤੇ ਡੈਲ + [Vibration] The target of the pork"
         }, {
           "abilityID": 97312,
           "simpleDesc": "to get [AttackUp]"

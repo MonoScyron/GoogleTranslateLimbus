@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11111_1", "desc": "Identity Acquisition", "dlg": "Maya Maya."}, {"id": "lobby_morning_11111_1", "desc": "Morning Greeting", "dlg": "For this reason, it is not related to the assessment, and the layer is still oppressed."}, {"id": "lobby_noon_11111_1", "desc": "Afternoon Greeting", "dlg": "Hhobaber ... I have hungry instead of working."}, {"id": "lobby_night_11111_1", "desc": "Evening Greeting", "dlg": "... very well ...\n... wait, stupid clothes are planted in ..."}, {"id": "smalltalk_11111_1", "desc": "Chatter #1", "dlg": "I did not beat\n... This is not the challenge for my father."}, {"id": "smalltalk_11111_2", "desc": "Chatter #2", "dlg": "To sew the skin, you need a visual and balanced chain.\nWell ... I think you can't use the skin."}, {"id": "smalltalk_11111_3", "desc": "Chatter #3", "dlg": "Wait a moment ... Who will be responsible for tomorrow?"}, {"id": "smalltalk_11111_4", "desc": "Post-Uptie Chat 1", "dlg": "Snacks, idols."}, {"id": "smalltalk_11111_5", "desc": "Post-Uptie Chat 2", "dlg": "ਹਾਇ -ਹਾਈ -ਹ -ਹਾਈ -ਹਾਈ -ਹਾਈ -ਹੇ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹਾਈ -ਹੇ -ਹ -ਹਾਈ -ਹੇ -ਹ -ਹਾਈ -ਹੇ -H-By-B-He-Heavy-Hi-Hi-Hi-Hem\nI hit me."}, {"id": "neglect_11111_1", "desc": "Idle", "dlg": "This is my home."}, {"id": "gacksung_11111_1", "desc": "Uptying", "dlg": "How do you prepare for review?"}, {"id": "formation_11111_1", "desc": "Deployment", "dlg": "Are you calling?"}, {"id": "battleentry_11111_1", "desc": "Stage Entry", "dlg": "Carnival-time."}, {"id": "battle_select_11111_1", "desc": "Viewed in Battle", "dlg": "Did you leave the mask?"}, {"id": "battle_endcommand_11111_1", "desc": "Commencing Attack", "dlg": "Relax with card cake!"}, {"id": "battle_enemy_break_11111_1", "desc": "Enemy Stagger", "dlg": "Yes"}, {"id": "battle_break_11111_1", "desc": "Staggered", "dlg": "Toska ..."}, {"id": "battle_kill_11111_1", "desc": "Enemy Killed", "dlg": "This is just a mix."}, {"id": "battle_dead_11111_1", "desc": "Death", "dlg": "I can easily leave my beliefs ... so ... kill me ..."}, {"id": "choice_success_p_11111_2", "desc": "Check Passed", "dlg": "I know I was the first time."}, {"id": "choice_fail_n_11111_1", "desc": "Check Failed", "dlg": "Why is this trip start?"}, {"id": "battle_clear_11111_1", "desc": "Victory Cry", "dlg": "This program is very easy ... but some of you are reduced by your special rules."}, {"id": "battle_clear_ex_11111_1", "desc": "Extra Conditions Fulfilled", "dlg": "This carnival is ... oe."}, {"id": "battle_defeat_11111_1", "desc": "Defeat Wail", "dlg": "Them!"}]}
+{
+  "dataList": [
+    {
+      "id": "get_11111_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Maya Maya."
+    }, {
+      "id": "lobby_morning_11111_1",
+      "desc": "Morning Greeting",
+      "dlg": "For this reason, it is not related to the assessment, and the layer is still oppressed."
+    }, {
+      "id": "lobby_noon_11111_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Hhobaber ... I have hungry instead of working."
+    }, {
+      "id": "lobby_night_11111_1",
+      "desc": "Evening Greeting",
+      "dlg": "... very well ...\n... wait, stupid clothes are planted in ..."
+    }, {
+      "id": "smalltalk_11111_1",
+      "desc": "Chatter #1",
+      "dlg": "I did not beat\n... This is not the challenge for my father."
+    }, {
+      "id": "smalltalk_11111_2",
+      "desc": "Chatter #2",
+      "dlg": "To sew the skin, you need a visual and balanced chain.\nWell ... I think you can't use the skin."
+    }, {
+      "id": "smalltalk_11111_3",
+      "desc": "Chatter #3",
+      "dlg": "Wait a moment ... Who will be responsible for tomorrow?"
+    }, {
+      "id": "smalltalk_11111_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Snacks, idols."
+    }, {
+      "id": "smalltalk_11111_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "ਹਾਇ -ਹਾਈ -ਹ -ਹਾਈ -ਹਾਈ -ਹਾਈ -ਹੇ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹ -ਹਾਈ -ਹੇ -ਹ -ਹਾਈ -ਹੇ -ਹ -ਹਾਈ -ਹੇ -H-By-B-He-Heavy-Hi-Hi-Hi-Hem\nI hit me."
+    }, {
+      "id": "neglect_11111_1",
+      "desc": "Idle",
+      "dlg": "This is my home."
+    }, {
+      "id": "gacksung_11111_1",
+      "desc": "Uptying",
+      "dlg": "How do you prepare for review?"
+    }, {
+      "id": "formation_11111_1",
+      "desc": "Deployment",
+      "dlg": "Are you calling?"
+    }, {
+      "id": "battleentry_11111_1",
+      "desc": "Stage Entry",
+      "dlg": "Carnival-time."
+    }, {
+      "id": "battle_select_11111_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Did you leave the mask?"
+    }, {
+      "id": "battle_endcommand_11111_1",
+      "desc": "Commencing Attack",
+      "dlg": "Relax with card cake!"
+    }, {
+      "id": "battle_enemy_break_11111_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Yes"
+    }, {
+      "id": "battle_break_11111_1",
+      "desc": "Staggered",
+      "dlg": "Toska ..."
+    }, {
+      "id": "battle_kill_11111_1",
+      "desc": "Enemy Killed",
+      "dlg": "This is just a mix."
+    }, {
+      "id": "battle_dead_11111_1",
+      "desc": "Death",
+      "dlg": "I can easily leave my beliefs ... so ... kill me ..."
+    }, {
+      "id": "choice_success_p_11111_2",
+      "desc": "Check Passed",
+      "dlg": "I know I was the first time."
+    }, {
+      "id": "choice_fail_n_11111_1",
+      "desc": "Check Failed",
+      "dlg": "Why is this trip start?"
+    }, {
+      "id": "battle_clear_11111_1",
+      "desc": "Victory Cry",
+      "dlg": "This program is very easy ... but some of you are reduced by your special rules."
+    }, {
+      "id": "battle_clear_ex_11111_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This carnival is ... oe."
+    }, {
+      "id": "battle_defeat_11111_1",
+      "desc": "Defeat Wail",
+      "dlg": "Them!"
+    }
+  ]
+}

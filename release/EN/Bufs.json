@@ -3,37 +3,37 @@
     {
       "id": "Enhancement",
       "name": "Consent",
-      "desc": "At the end of the attack{0} For him.",
+      "desc": "At the end of the attack{0} for him.",
       "summary": "They heavy, past +{0}",
       "undefined": "-"
     }, {
       "id": "Agility",
       "name": "To go",
-      "desc": "Speed ​​+{0} For him.",
+      "desc": "Speed ​​+{0} for him.",
       "summary": "Sad +{0}",
       "undefined": "-"
     }, {
       "id": "Endurance",
       "name": "Save",
-      "desc": "Last Survival of Energy +{0} For him.",
+      "desc": "Last Survival of Energy +{0} for him.",
       "summary": "Finally +{0}",
       "undefined": "-"
     }, {
       "id": "Reduction",
       "name": "With the power of the attack",
-      "desc": "Recent injuries{0} For him.",
+      "desc": "Recent injuries{0} for him.",
       "summary": "ATK FINAL MANY Technology{0}",
       "undefined": "-"
     }, {
       "id": "Binding",
       "name": "Tahki",
-      "desc": "Pace{0} For him.",
+      "desc": "Pace{0} for him.",
       "summary": "Fetus{0}",
       "undefined": "-"
     }, {
       "id": "Vulnerable",
       "name": "A crisp",
-      "desc": "La + + + +{0}It can cause 0% damage on this path.",
+      "desc": "La + + + +{0} it can cause 0% damage on this path.",
       "summary": "…….{0}0% segments",
       "undefined": "-"
     }, {
@@ -44,11 +44,11 @@
     }, {
       "id": "ElectricShock",
       "name": "Kill",
-      "desc": "Pick up {0} This is more likely to lose the way."
+      "desc": "Pick up {0} this is more likely to lose the way."
     }, {
       "id": "Target",
       "name": "Symptoms",
-      "desc": "Save responsibility [Sharp Edge]Intersection",
+      "desc": "Save responsibility [Sharp Edge] intersection",
       "undefined": "-"
     }, {
       "id": "SelfHarm_LowMorale",
@@ -85,82 +85,82 @@
     }, {
       "id": "DamageOverTime",
       "name": "During the loss",
-      "desc": "Has begun {0} Damage to HP damage.",
+      "desc": "Has begun {0} damage to HP damage.",
       "summary": "{0} I love the sun"
     }, {
       "id": "ResultEnhancement",
       "name": "Consent",
-      "desc": "Final technology +{0} For him.",
+      "desc": "Final technology +{0} for him.",
       "summary": "Final technology +{0}"
     }, {
       "id": "Protection",
       "name": "To save",
-      "desc": "Without a million without a million{0}It can cause 0% damage on this path.",
+      "desc": "Without a million without a million{0} it can cause 0% damage on this path.",
       "summary": "Electrical bulb{0}0% segments"
     }, {
       "id": "AttackDmgUp",
       "name": "Epidemic",
-      "desc": "Business + +{0}I lost 0% love supplies.",
+      "desc": "Business + +{0} I lost 0% love supplies.",
       "summary": "…….{0}0% of damage process"
     }, {
       "id": "DefenseUp",
       "name": "The surface of the water",
-      "desc": "Care level +{0} For him.",
+      "desc": "Care level +{0} for him.",
       "summary": "Care level +{0}"
     }, {
       "id": "PlusCoinValueUp",
       "name": "Include Currency Correction",
-      "desc": "Include electrical currency in + + + +{0} For him.",
+      "desc": "Include electrical currency in + + + +{0} for him.",
       "summary": "Include electrical currency in + + + +{0}"
     }, {
       "id": "MinusCoinValueUp",
       "name": "Cut metal currency",
-      "desc": "Dotterquin +{0} For him.",
+      "desc": "Dotterquin +{0} for him.",
       "summary": "Dotterquin +{0}"
     }, {
       "id": "TimesCoinValueUp",
       "name": "We are supporting high money",
-      "desc": "Other coins +{0} For him.",
+      "desc": "Other coins +{0} for him.",
       "summary": "Other coins +{0}"
     }, {
       "id": "Disarming",
       "name": "Save",
-      "desc": "Finally Defense Department{0} For him.",
+      "desc": "Finally Defense Department{0} for him.",
       "summary": "DAF ultimate skills{0}"
     }, {
       "id": "ResultReduction",
       "name": "To close",
-      "desc": "Last technology-{0} For him.",
+      "desc": "Last technology-{0} for him.",
       "summary": "Last technology-{0}"
     }, {
       "id": "AttackDmgDown",
       "name": "Epidemic",
-      "desc": "Agreement{0}I lost 0% love supplies.",
+      "desc": "Agreement{0} I lost 0% love supplies.",
       "summary": "Electrical bulb{0}0% of damage process"
     }, {
       "id": "DefenseDown",
       "name": "Below",
-      "desc": "Security{0} For him.",
+      "desc": "Security{0} for him.",
       "summary": "Security{0}"
     }, {
       "id": "Paralysis",
       "name": "Paralysis",
-      "desc": "Decision {0} This rotating connection is up to 0.",
-      "summary": "{0} Currency Force 0"
+      "desc": "Decision {0} this rotating connection is up to 0.",
+      "summary": "{0} currency Force 0"
     }, {
       "id": "PlusCoinValueDown",
       "name": "He falls",
-      "desc": "Other coins-{0} For him.",
+      "desc": "Other coins-{0} for him.",
       "summary": "Other coins-{0}"
     }, {
       "id": "MinusCoinValueDown",
       "name": "Charge",
-      "desc": "Detailed powerpoint{0} For him.",
+      "desc": "Detailed powerpoint{0} for him.",
       "summary": "Detailed powerpoint{0}"
     }, {
       "id": "TimesCoinValueDown",
       "name": "Mint",
-      "desc": "Call like a coin{0} For him.",
+      "desc": "Call like a coin{0} for him.",
       "summary": "Call like a coin{0}"
     }, {
       "id": "BeingGolden",
@@ -213,8 +213,8 @@
     }, {
       "id": "Nail",
       "name": "Nile River",
-      "desc": "Start: Increase the number of bleeding and bleeding {0}Intersection\nRound End: Low impact 1.",
-      "summary": "Get and add 1 bleeding{0} Blood flow"
+      "desc": "Start: Increase the number of bleeding and bleeding {0} intersection\nRound End: Low impact 1.",
+      "summary": "Get and add 1 bleeding{0} blood flow"
     }, {
       "id": "Inactible",
       "name": "Stable",
@@ -223,33 +223,33 @@
     }, {
       "id": "Combustion",
       "name": "Irritation",
-      "desc": "End {0} Permanent damage {1} Change.",
+      "desc": "End {0} permanent damage {1} change.",
       "summary": "{0} I love the sun"
     }, {
       "id": "Laceration",
       "name": "Blood flow",
-      "desc": "After this {1} Time (Time), take the bright connection of this device {0} Establishment of injuries.",
+      "desc": "After this {1} time (Time), take the bright connection of this device {0} establishment of injuries.",
       "summary": "{0} I love the sun"
     }, {
       "id": "Vibration",
       "name": "Twitter",
-      "desc": "Increase play restrictions when accepting the attacker {0}……. {1} Change.",
+      "desc": "Increase play restrictions when accepting the attacker {0}……. {1} change.",
       "summary": "Corridor {0}"
     }, {
       "id": "Burst",
       "name": "Storms",
-      "desc": "After this {1} Time (a) affects loneliness {0} Establishment of injuries.",
+      "desc": "After this {1} time (a) affects loneliness {0} establishment of injuries.",
       "summary": "{0} I love the sun"
     }, {
       "id": "Sinking",
       "name": "Drinkage",
-      "desc": "After this {1} Time (a) affects loneliness {0} Establish spa's loss.",
-      "summary": "{0} Relationship"
+      "desc": "After this {1} time (a) affects loneliness {0} establish spa's loss.",
+      "summary": "{0} relationship"
     }, {
       "id": "Breath",
       "name": "Market",
-      "desc": "Add a chance for dangerous occasion {0}% Cat% {1} Hit",
-      "summary": "{0}X5% is an important opportunity"
+      "desc": "Add a chance for dangerous occasion {0}% Cat% {1} hit",
+      "summary": "{0} x5% is an important opportunity"
     }, {
       "id": "BloodPocket",
       "name": "Bags",
@@ -258,7 +258,7 @@
     }, {
       "id": "WaterPocket",
       "name": "Liquid",
-      "desc": "Decrease {0} Small 20-pack leather.",
+      "desc": "Decrease {0} small 20-pack leather.",
       "summary": "Popular love"
     }, {
       "id": "DogThunder",
@@ -273,7 +273,7 @@
     }, {
       "id": "Operation",
       "name": "Surgery",
-      "desc": "5, death.\nThe maximum reduction is 20% (20%){0}Poison\nSometimes 20% or more ({0}Poison\nHas begun {0} To go",
+      "desc": "5, death.\nThe maximum reduction is 20% (20%){0} poison\nSometimes 20% or more ({0} poison\nHas begun {0} to go",
       "summary": "He died with five accounts"
     }, {
       "id": "Emergency_Operation",
@@ -289,7 +289,7 @@
       "id": "PinkRibbon_Ishmael",
       "name": "Pink belt",
       "desc": "After entering the device, number 1 has been added.\nGradually: Connect the meeting number and sign the effect.",
-      "summary": "to get {0} Tahki"
+      "summary": "to get {0} tahki"
     }, {
       "id": "Muckworm",
       "name": "Warehouse",
@@ -298,12 +298,12 @@
     }, {
       "id": "AttackUp",
       "name": "Abuse",
-      "desc": "The level of attack +{0} For him.",
+      "desc": "The level of attack +{0} for him.",
       "summary": "The level of attack +{0}"
     }, {
       "id": "AttackDown",
       "name": "The next level of crime",
-      "desc": "The level of crime{0} For him.",
+      "desc": "The level of crime{0} for him.",
       "summary": "The level of crime{0}"
     }, {
       "id": "Liu_Meursault_Guard_Buff",
@@ -325,18 +325,18 @@
     }, {
       "id": "SlashDamageUp",
       "name": "Cut the DMM",
-      "desc": "Business + +{0}Advanced reduction 0% (up to 100%).",
-      "summary": "Short + +{0}Snow"
+      "desc": "Business + +{0} advanced reduction 0% (up to 100%).",
+      "summary": "Short + +{0} snow"
     }, {
       "id": "PenetrateDamageUp",
       "name": "And he knows the blood",
-      "desc": "Business + +{0}This is currently 0% entry.",
-      "summary": "Wedding injuries +{0}Snow"
+      "desc": "Business + +{0} this is currently 0% entry.",
+      "summary": "Wedding injuries +{0} snow"
     }, {
       "id": "HitDamageUp",
       "name": "DMM boring",
       "desc": "Business + +{0}0% (up to 100%) Boring Technology",
-      "summary": "Boring injury +{0}Snow"
+      "summary": "Boring injury +{0} snow"
     }, {
       "id": "SlashResistDown",
       "name": "Slightly opposition",
@@ -352,18 +352,18 @@
     }, {
       "id": "SlashDamageDown",
       "name": "Damma Oly Soline",
-      "desc": "Agreement{0}Advanced reduction 0% (up to 100%).",
-      "summary": "Installation{0}Snow"
+      "desc": "Agreement{0} advanced reduction 0% (up to 100%).",
+      "summary": "Installation{0} snow"
     }, {
       "id": "PenetrateDamageDown",
       "name": "Pierce DMG below",
-      "desc": "Agreement{0}This is currently 0% entry.",
-      "summary": "Hundreds of damage-{0}Snow"
+      "desc": "Agreement{0} this is currently 0% entry.",
+      "summary": "Hundreds of damage-{0} snow"
     }, {
       "id": "HitDamageDown",
       "name": "Best DMG",
       "desc": "Agreement{0}0% (up to 100%) Boring Technology",
-      "summary": "Damage to the Father{0}Snow"
+      "summary": "Damage to the Father{0} snow"
     }, {
       "id": "CrimsonResistDown",
       "name": "Bad opposition",
@@ -390,7 +390,7 @@
       "desc": "The growth of pride is zero.{0}"
     }, {
       "id": "VioletResistDown",
-      "name": "Jealousy",
+      "name": "Invitation",
       "desc": "Increases the resistance to 0.{0}"
     }, {
       "id": "CrimsonResistUp",
@@ -424,72 +424,72 @@
       "id": "CrimsonDamageDown",
       "name": "Angry DMM",
       "desc": "Agreement{0}0% Bush Technology (up to 100%)",
-      "summary": "Cervix{0}Snow"
+      "summary": "Cervix{0} snow"
     }, {
       "id": "ScarletDamageDown",
       "name": "Dmm wish",
       "desc": "Agreement{0}0% dry loss (up to 100%)",
-      "summary": "Damage to the will-{0}Snow"
+      "summary": "Damage to the will-{0} snow"
     }, {
       "id": "AmberDamageDown",
       "name": "According to the DMM",
       "desc": "Agreement{0}0% lazy loss on this way (up to 100%)",
-      "summary": "Wild{0}Snow"
+      "summary": "Wild{0} snow"
     }, {
       "id": "ShamrockDamageDown",
       "name": "Graph Pat DMG is declining",
       "desc": "Agreement{0}0% to lose sales technology.",
-      "summary": "A kind of fish{0}Snow"
+      "summary": "A kind of fish{0} snow"
     }, {
       "id": "AzureDamageDown",
       "name": "Shomak Ding",
       "desc": "Agreement{0}0% (up to 100%) in the dark of rotation.",
-      "summary": "Dark{0}Snow"
+      "summary": "Dark{0} snow"
     }, {
       "id": "IndigoDamageDown",
       "name": "Dmg is arrogant",
       "desc": "Agreement{0}0% arrogant technology on this way.",
-      "summary": "I am proud of being arrogant.{0}Snow"
+      "summary": "I am proud of being arrogant.{0} snow"
     }, {
       "id": "VioletDamageDown",
       "name": "Mary Syria",
       "desc": "Agreement{0}0% loss depends on this route technique.",
-      "summary": "Damage{0}Snow"
+      "summary": "Damage{0} snow"
     }, {
       "id": "CrimsonDamageUp",
       "name": "Thohat and DMG",
       "desc": "Business + +{0}0% Bush Technology (up to 100%)",
-      "summary": "Angry injuries +{0}Snow"
+      "summary": "Angry injuries +{0} snow"
     }, {
       "id": "ScarletDamageUp",
       "name": "Dmm wish",
       "desc": "Business + +{0}0% dry loss (up to 100%)",
-      "summary": "Law + Injury{0}Snow"
+      "summary": "Law + Injury{0} snow"
     }, {
       "id": "AmberDamageUp",
       "name": "DMM Falls slope",
       "desc": "Business + +{0}0% lazy loss on this way (up to 100%)",
-      "summary": "Lazy{0}Snow"
+      "summary": "Lazy{0} snow"
     }, {
       "id": "ShamrockDamageUp",
       "name": "Dmm gluton",
       "desc": "Business + +{0}0% to lose sales technology.",
-      "summary": "Skad + Gadgese{0}Snow"
+      "summary": "Skad + Gadgese{0} snow"
     }, {
       "id": "AzureDamageUp",
       "name": "Full list",
       "desc": "Business + +{0}0% (up to 100%) in the dark of rotation.",
-      "summary": "Confusion Damage +{0}Snow"
+      "summary": "Confusion Damage +{0} snow"
     }, {
       "id": "IndigoDamageUp",
       "name": "Dmm pride",
       "desc": "Business + +{0}0% arrogant technology on this way.",
-      "summary": "Poor honor +{0}Snow"
+      "summary": "Poor honor +{0} snow"
     }, {
       "id": "VioletDamageUp",
       "name": "Jealousy",
       "desc": "Business + +{0}0% loss depends on this route technique.",
-      "summary": "Injury{0}Snow"
+      "summary": "Injury{0} snow"
     }, {
       "id": "Curse",
       "name": "Strict",
@@ -499,7 +499,7 @@
       "id": "AttackDmgUp_Weak",
       "name": "Dmg has been lowly improved",
       "desc": "Increased attacks in resistant attack {0}%",
-      "summary": "…….{0}Low damage and resistance"
+      "summary": "…….{0} low damage and resistance"
     }, {
       "id": "Bullet",
       "name": "Ammo",
@@ -508,10 +508,10 @@
     }, {
       "id": "Meursault_Last_Remodeling",
       "name": "In spite of everything",
-      "desc": "Start: Get 3 benefits from Electricity, Security and Business {0} Change."
+      "desc": "Start: Get 3 benefits from Electricity, Security and Business {0} change."
     }, {
       "id": "Choice_90103301",
-      "name": "Clash",
+      "name": "Conversation",
       "desc": "This combat speed is +1.",
       "summary": "Fetus"
     }, {
@@ -560,7 +560,7 @@
     }, {
       "id": "Assemble",
       "name": "With anger",
-      "desc": "Final technology +{0} This is the opposite of the nail device.",
+      "desc": "Final technology +{0} this is the opposite of the nail device.",
       "summary": "Maximum power +{0}"
     }, {
       "id": "ReinforcedAssemble",
@@ -579,7 +579,7 @@
     }, {
       "id": "GreedyReady",
       "name": "Women building",
-      "desc": "Using appropriate technology in \"emergency\" {0} Change."
+      "desc": "Using appropriate technology in \"emergency\" {0} change."
     }, {
       "id": "Decay",
       "name": "Skin",
@@ -588,8 +588,8 @@
     }, {
       "id": "Poison",
       "name": "Toxic",
-      "desc": "End {0} After certain disadvantages, reduce numbers.",
-      "summary": "{0} Integration of love"
+      "desc": "End {0} after certain disadvantages, reduce numbers.",
+      "summary": "{0} integration of love"
     }, {
       "id": "Cromer_Target",
       "name": "See the arrested person",
@@ -638,103 +638,103 @@
     }, {
       "id": "SlashTakeDamageDown",
       "name": "Hair protection",
-      "desc": "Without a million without a million{0}Because this trip is 0% (up to 100%)",
-      "summary": "Casco{0}Snow"
+      "desc": "Without a million without a million{0} because this trip is 0% (up to 100%)",
+      "summary": "Casco{0} snow"
     }, {
       "id": "PenetrateTakeDamageDown",
       "name": "Save",
-      "desc": "Without a million without a million{0}This reverse loss is 0%.",
-      "summary": "Weakness{0}Snow"
+      "desc": "Without a million without a million{0} this reverse loss is 0%.",
+      "summary": "Weakness{0} snow"
     }, {
       "id": "HitTakeDamageDown",
       "name": "Boring",
-      "desc": "Without a million without a million{0}Due to this rotation technology, the damage is 0%.",
-      "summary": "Epidemic of the epidemic-{0}Snow"
+      "desc": "Without a million without a million{0} due to this rotation technology, the damage is 0%.",
+      "summary": "Epidemic of the epidemic-{0} snow"
     }, {
       "id": "CrimsonTakeDamageDown",
       "name": "Fueltion protection protection",
-      "desc": "Without a million without a million{0}This reverse anger technology is affected by 0%.",
-      "summary": "What is angry pain?{0}Snow"
+      "desc": "Without a million without a million{0} this reverse anger technology is affected by 0%.",
+      "summary": "What is angry pain?{0} snow"
     }, {
       "id": "ScarletTakeDamageDown",
       "name": "Security",
-      "desc": "Without a million without a million{0}Due to the technology of the will, the damage is 0%.",
-      "summary": "best wishes{0}Snow"
+      "desc": "Without a million without a million{0} due to the technology of the will, the damage is 0%.",
+      "summary": "best wishes{0} snow"
     }, {
       "id": "AmberTakeDamageDown",
       "name": "Low protection",
-      "desc": "Without a million without a million{0}It works 0% lazy (up to 100%).",
-      "summary": "Lazy{0}Snow"
+      "desc": "Without a million without a million{0} it works 0% lazy (up to 100%).",
+      "summary": "Lazy{0} snow"
     }, {
       "id": "ShamrockTakeDamageDown",
       "name": "Purchase",
       "desc": "Without a million without a million{0}0% loss on this way (up to 100%)",
-      "summary": "Danger{0}Snow"
+      "summary": "Danger{0} snow"
     }, {
       "id": "AzureTakeDamageDown",
       "name": "Dark",
-      "desc": "Without a million without a million{0}It changes 0% to loser sorry (up to 100%)",
-      "summary": "Is incredible{0}Snow"
+      "desc": "Without a million without a million{0} it changes 0% to loser sorry (up to 100%)",
+      "summary": "Is incredible{0} snow"
     }, {
       "id": "IndigoTakeDamageDown",
       "name": "Pride survival",
       "desc": "Without a million without a million{0}0% Damage Damage.",
-      "summary": "Season{0}Snow"
+      "summary": "Season{0} snow"
     }, {
       "id": "VioletTakeDamageDown",
       "name": "Appropriate protection",
       "desc": "Without a million without a million{0}0% 100% due to technology",
-      "summary": "Hi{0}Snow"
+      "summary": "Hi{0} snow"
     }, {
       "id": "SlashTakeDamageUp",
       "name": "A crisp",
-      "desc": "La + + + +{0}Because this trip is 0% (up to 100%)",
-      "summary": "Housing + Loss{0}Snow"
+      "desc": "La + + + +{0} because this trip is 0% (up to 100%)",
+      "summary": "Housing + Loss{0} snow"
     }, {
       "id": "PenetrateTakeDamageUp",
       "name": "Boat",
-      "desc": "La + + + +{0}This reverse loss is 0%.",
-      "summary": "break down{0}Snow"
+      "desc": "La + + + +{0} this reverse loss is 0%.",
+      "summary": "break down{0} snow"
     }, {
       "id": "HitTakeDamageUp",
       "name": "Sensitivity",
-      "desc": "La + + + +{0}Due to this rotation technology, the damage is 0%.",
-      "summary": "Epidemic{0}Snow"
+      "desc": "La + + + +{0} due to this rotation technology, the damage is 0%.",
+      "summary": "Epidemic{0} snow"
     }, {
       "id": "CrimsonTakeDamageUp",
       "name": "Bad",
-      "desc": "La + + + +{0}This reverse anger technology is affected by 0%.",
-      "summary": "Anger + Loss{0}Snow"
+      "desc": "La + + + +{0} this reverse anger technology is affected by 0%.",
+      "summary": "Anger + Loss{0} snow"
     }, {
       "id": "ScarletTakeDamageUp",
       "name": "Dry",
-      "desc": "La + + + +{0}Due to the technology of the will, the damage is 0%.",
-      "summary": "Law + Injury{0}Snow"
+      "desc": "La + + + +{0} due to the technology of the will, the damage is 0%.",
+      "summary": "Law + Injury{0} snow"
     }, {
       "id": "AmberTakeDamageUp",
       "name": "Bad",
-      "desc": "La + + + +{0}It works 0% lazy (up to 100%).",
-      "summary": "Beauty + Injuries{0}Snow"
+      "desc": "La + + + +{0} it works 0% lazy (up to 100%).",
+      "summary": "Beauty + Injuries{0} snow"
     }, {
       "id": "ShamrockTakeDamageUp",
       "name": "Bad",
       "desc": "La + + + +{0}0% loss on this way (up to 100%)",
-      "summary": "Preferred Loss of Jacket +{0}Snow"
+      "summary": "Preferred Loss of Jacket +{0} snow"
     }, {
       "id": "AzureTakeDamageUp",
       "name": "Dirty",
-      "desc": "La + + + +{0}It changes 0% to loser sorry (up to 100%)",
-      "summary": "Drake Cream + Effect{0}Snow"
+      "desc": "La + + + +{0} it changes 0% to loser sorry (up to 100%)",
+      "summary": "Drake Cream + Effect{0} snow"
     }, {
       "id": "IndigoTakeDamageUp",
       "name": "Rotate",
       "desc": "La + + + +{0}0% Damage Damage.",
-      "summary": "Pride wounds + wounds +{0}Snow"
+      "summary": "Pride wounds + wounds +{0} snow"
     }, {
       "id": "VioletTakeDamageUp",
       "name": "Friends",
       "desc": "La + + + +{0}0% 100% due to technology",
-      "summary": "Damage depends on + + + +{0}Snow"
+      "summary": "Damage depends on + + + +{0} snow"
     }, {
       "id": "LittleCourage",
       "name": "Password",
@@ -743,12 +743,12 @@
     }, {
       "id": "NailPersonality",
       "name": "Nails",
-      "desc": "Blood flow\nStart: Increase the number of bleeding and bleeding {0}Intersection\nRound End: The number of effects is half a half.",
-      "summary": "Get and add 1 bleeding{0} Blood flow"
+      "desc": "Blood flow\nStart: Increase the number of bleeding and bleeding {0} intersection\nRound End: The number of effects is half a half.",
+      "summary": "Get and add 1 bleeding{0} blood flow"
     }, {
       "id": "AssemblePersonality",
       "name": "With anger",
-      "desc": "Final technology +{0} This is the opposite of the nail device.",
+      "desc": "Final technology +{0} this is the opposite of the nail device.",
       "summary": "Maximum power +{0}"
     }, {
       "id": "MarkOfHeresy",
@@ -758,7 +758,7 @@
     }, {
       "id": "HitResultUp",
       "name": "The best neutral",
-      "desc": "I'm afraid of the finals +{0} For him.",
+      "desc": "I'm afraid of the finals +{0} for him.",
       "summary": "I'm afraid of the finals +{0}"
     }, {
       "id": "WeaknessAnalysis",
@@ -768,7 +768,7 @@
     }, {
       "id": "Cycle",
       "name": "Vineyard",
-      "desc": "La + + + +{0}Send Categories: Telephone 108+.",
+      "desc": "La + + + +{0} send Categories: Telephone 108+.",
       "summary": "Mystery"
     }, {
       "id": "Duress",
@@ -778,7 +778,7 @@
     }, {
       "id": "VioletResultUp",
       "name": "Jealousy",
-      "desc": "Celebration{0} For him.",
+      "desc": "Celebration{0} for him.",
       "summary": "Celebration{0}"
     }, {
       "id": "CyclingKarma",
@@ -788,23 +788,23 @@
     }, {
       "id": "TakeHpHealReduce",
       "name": "Restoration HP",
-      "desc": "I'm fine{0}HP 0% when the responsibility, the effects of technology and coins.",
-      "summary": "The love engine is the engine.{0}Snow"
+      "desc": "I'm fine{0} hP 0% when the responsibility, the effects of technology and coins.",
+      "summary": "The love engine is the engine.{0} snow"
     }, {
       "id": "AttackLevelAdder",
       "name": "The level of attack +",
-      "desc": "The level of attack +{0} For him.",
+      "desc": "The level of attack +{0} for him.",
       "summary": "The level of attack +{0}"
     }, {
       "id": "Thirst",
       "name": "Migration",
-      "desc": "…….{0}0% treatment [Rustle Up]Intersection\nThe cost of negative active.",
+      "desc": "…….{0}0% treatment [Rustle Up] intersection\nThe cost of negative active.",
       "summary": "[Rustle Up] Treatment + + +{0}0% HP"
     }, {
       "id": "GainSinStockAdder",
       "name": "For example, resources",
-      "desc": "Jin + +{0} For example, suppliers with the help of these sales technologies.",
-      "summary": "…….{0} For example, you get a resource"
+      "desc": "Jin + +{0} for example, suppliers with the help of these sales technologies.",
+      "summary": "…….{0} for example, you get a resource"
     }, {
       "id": "Weak_Chicken",
       "name": "Statements",
@@ -818,7 +818,7 @@
     }, {
       "id": "DimensionRift",
       "name": "Vitamin",
-      "desc": "Spin: Benefits{0} Numbers",
+      "desc": "Spin: Benefits{0} numbers",
       "summary": "Increase the number of tears"
     }, {
       "id": "Scared",
@@ -838,13 +838,13 @@
     }, {
       "id": "ShardOfUmbrella",
       "name": "Umbrella",
-      "desc": "Everything is over {0} Shorter 5",
-      "summary": "Everything is over {0} Shorter 5"
+      "desc": "Everything is over {0} shorter 5",
+      "summary": "Everything is over {0} shorter 5"
     }, {
       "id": "WrappedCurseTag",
       "name": "Thai was cursed",
       "desc": "Business + +{0}% Injury\nWith 9 or more, it has been reduced to two attack powers from scratch.",
-      "summary": "Business + +{0}More than 9 damage."
+      "summary": "Business + +{0} more than 9 damage."
     }, {
       "id": "ReattachedCurseTag",
       "name": "In the left theater",
@@ -863,7 +863,7 @@
     }, {
       "id": "Exalted",
       "name": "It should be a speaker",
-      "desc": "to get {0} Damage to each line (up to 5)\nIf you ask, you will not get a situation",
+      "desc": "to get {0} damage to each line (up to 5)\nIf you ask, you will not get a situation",
       "summary": "The result of the damage does not achieve the opposite situation."
     }, {
       "id": "Tipsiness",
@@ -894,7 +894,7 @@
       "id": "ATL_EndureCombustion",
       "name": "Resistance to infection",
       "desc": "Reduce damage caused by loss of damage {0}0% (up to 10)",
-      "summary": "Damage {0}Low injury 0%"
+      "summary": "Damage {0} low injury 0%"
     }, {
       "id": "Resonate",
       "name": "Net",
@@ -1008,7 +1008,7 @@
       "id": "ATL_EndureLaceration",
       "name": "A wild",
       "desc": "To prevent blood stop and reduce damage {0}0% (up to 10)",
-      "summary": "Bleeding, take {0}Low injury 0%"
+      "summary": "Bleeding, take {0} low injury 0%"
     }, {
       "id": "DongbaekGrow",
       "name": "Growing up large",
@@ -1042,7 +1042,7 @@
     }, {
       "id": "CrimsonResultUp",
       "name": "Black",
-      "desc": "Car Technology + Last +{0} For",
+      "desc": "Car Technology + Last +{0} for",
       "summary": "Car Technology + Last +{0}"
     }, {
       "id": "EmittedCurrent",
@@ -1103,7 +1103,7 @@
     }, {
       "id": "AmberResultUp",
       "name": "Slowly",
-      "desc": "The final strength of the Coler + Skill{0} For",
+      "desc": "The final strength of the Coler + Skill{0} for",
       "summary": "The final strength of the Coler + Skill{0}"
     }, {
       "id": "EgoAwakenDongrangTreeDisplay",
@@ -1127,8 +1127,8 @@
     }, {
       "id": "TakeHpHealIncrease",
       "name": "HP's heals improved",
-      "desc": "Good + + + +{0}HP 0% when the responsibility, the effects of technology and coins.",
-      "summary": "Love love +{0}Snow"
+      "desc": "Good + + + +{0} hP 0% when the responsibility, the effects of technology and coins.",
+      "summary": "Love love +{0} snow"
     }, {
       "id": "Choice_90104001",
       "name": "Understand",
@@ -1167,7 +1167,7 @@
     }, {
       "id": "SkillPowerUp",
       "name": "Would be a foundation",
-      "desc": "Energy Technology Robot{0} For him.",
+      "desc": "Energy Technology Robot{0} for him.",
       "summary": "Energy Technology Robot{0}"
     }, {
       "id": "MaxHpMultiplier",
@@ -1192,7 +1192,7 @@
     }, {
       "id": "Talisman",
       "name": "Calculation",
-      "desc": "Click and apply {0} Sadar; {0} Storms\nIn turn: Remove all the tires from 6+ and then download a certain number for each digital loss.",
+      "desc": "Click and apply {0} sadar; {0} storms\nIn turn: Remove all the tires from 6+ and then download a certain number for each digital loss.",
       "summary": "When I touched her, the attack was broken and spread"
     }, {
       "id": "S2Mirror2ndFloor_Hard",
@@ -1238,7 +1238,7 @@
     }, {
       "id": "BurstVulnerable",
       "name": "Improvements",
-      "desc": "La + + + +{0} Damage caused by the effect of this path."
+      "desc": "La + + + +{0} damage caused by the effect of this path."
     }, {
       "id": "EmergencyFeed",
       "name": "Eat",
@@ -1250,11 +1250,11 @@
     }, {
       "id": "SinkingVulnerable",
       "name": "Bad",
-      "desc": "La + + + +{0} This damage was damaged by the effect of sale."
+      "desc": "La + + + +{0} this damage was damaged by the effect of sale."
     }, {
       "id": "BurstProtection",
       "name": "Generation",
-      "desc": "Without a million without a million{0} Damage caused by the effect of this path."
+      "desc": "Without a million without a million{0} damage caused by the effect of this path."
     }, {
       "id": "PseudoLastBoss_KingCrap",
       "name": "off one's nuts",
@@ -1262,11 +1262,11 @@
     }, {
       "id": "ChargeForceField",
       "name": "Obstacles",
-      "desc": "('') To get{0} K3) shield.\nPregnancy (loss) (loss) (loss) (loss) (loss) (loss) (loss) (loss{0} K3) shield.\n- (if device units, download obstacles for all types of charging ({0} Short 5) ({0} Problem 3)\nThere are ends barriers at the end of every obstacle, bill and the shield."
+      "desc": "To get {0} K3 shield.\nPregnancy (loss) (loss {0} K3) shield.\n- if device units, download obstacles for all types of charging ({0} short 5) ({0} problem 3)\nThere are ends barriers at the end of every obstacle, bill and the shield."
     }, {
       "id": "SlashResultUp",
       "name": "Decrease",
-      "desc": "Technology Reduction + End Force +{0} For him.",
+      "desc": "Technology Reduction + End Force +{0} for him.",
       "summary": "Technology Reduction + End Force +{0}"
     }, {
       "id": "RailBuffForLine2_A_ENEMY",
@@ -1366,7 +1366,7 @@
     }, {
       "id": "PenetrateResultUp",
       "name": "Punch",
-      "desc": "Pierce Last Power Technology +{0} For him.",
+      "desc": "Pierce Last Power Technology +{0} for him.",
       "summary": "Pierce Last Power Technology +{0}"
     }, {
       "id": "DuelDeclaration_DonQuixote",
@@ -1399,7 +1399,7 @@
     }, {
       "id": "DarkFlame",
       "name": "Dark lot",
-      "desc": "-Puda\nRunning value: 7\nRegular{0}\nEnd: Transaction (treatment){0} X burned from topic.) I lost your close relationship with pride."
+      "desc": "-Puda\nRunning value: 7\nRegular{0}\nEnd: Transaction (treatment){0} x burned from topic.) I lost your close relationship with pride."
     }, {
       "id": "CtrlTeamCaptain",
       "name": "Control-possiblebin",
@@ -1423,17 +1423,17 @@
     }, {
       "id": "IndigoResultUp",
       "name": "Proud.",
-      "desc": "Demay Technology Return - Power + Power +{0} For him.",
+      "desc": "Demay Technology Return - Power + Power +{0} for him.",
       "summary": "Demay Technology Return - Power + Power +{0}"
     }, {
       "id": "BladeResultUpTier1",
       "name": "Landzared -water Water",
-      "desc": "Technology is 1 final power{0} For him.",
+      "desc": "Technology is 1 final power{0} for him.",
       "summary": "Technology is 1 final power{0}"
     }, {
       "id": "BladeResultUpTier2",
       "name": "Birth sword",
-      "desc": "2 Last Technology +{0} For him.",
+      "desc": "2 Last Technology +{0} for him.",
       "summary": "2 Last Technology +{0}"
     }, {
       "id": "SwordPlayOfTheHomeland",
@@ -1448,77 +1448,77 @@
     }, {
       "id": "RedApricotBlossom",
       "name": "Black plum",
-      "desc": "Freed bleeding\nRunning value: 10\n-I main goal is the main goal, the device can be + 10%.\nIf it was badly exposed, half of the bleeding, half of the same value, + (+ (){0} X 3) Serious stroke damage %%\nValue 1 after what",
+      "desc": "Freed bleeding\nRunning value: 10\n-I main goal is the main goal, the device can be + 10%.\nIf it was badly exposed, half of the bleeding, half of the same value, + (+ (){0} x 3) Serious stroke damage %%\nValue 1 after what",
       "summary": "Likely to strict stress;"
     }, {
       "id": "ShamrockResultUp",
       "name": "Excellent nutrition",
-      "desc": "Tan{0} For him.",
+      "desc": "Tan{0} for him.",
       "summary": "Tan{0}"
     }, {
       "id": "ScarletResultUp",
       "name": "best wishes",
-      "desc": "The last power of the desire +{0} For him.",
+      "desc": "The last power of the desire +{0} for him.",
       "summary": "The last power of the desire +{0}"
     }, {
       "id": "AzureResultUp",
       "name": "Anxiety",
-      "desc": "Last Energy Skills + Based +{0} For him.",
+      "desc": "Last Energy Skills + Based +{0} for him.",
       "summary": "Last Energy Skills + Based +{0}"
     }, {
       "id": "HitResultDown",
       "name": "Decrease",
-      "desc": "The last skill of toba-{0} For him.",
+      "desc": "The last skill of toba-{0} for him.",
       "summary": "The last skill of toba-{0}"
     }, {
       "id": "PenetrateResultDown",
       "name": "Punch",
-      "desc": "Finally, work technology{0} For him.",
+      "desc": "Finally, work technology{0} for him.",
       "summary": "Finally, work technology{0}"
     }, {
       "id": "SlashResultDown",
       "name": "Suddenly",
-      "desc": "The last mile power{0} For him.",
+      "desc": "The last mile power{0} for him.",
       "summary": "The last mile power{0}"
     }, {
       "id": "CrimsonResultDown",
       "name": "Anger stopped",
-      "desc": "The last strength of art anger{0} For",
+      "desc": "The last strength of art anger{0} for",
       "summary": "The last strength of art anger{0}"
     }, {
       "id": "ScarletResultDown",
       "name": "best wishes",
-      "desc": "The ultimate power of the will{0} For him.",
+      "desc": "The ultimate power of the will{0} for him.",
       "summary": "The ultimate power of the will{0}"
     }, {
       "id": "ShamrockResultDown",
       "name": "Eat",
-      "desc": "Finally, Gluton Technology{0} For him.",
+      "desc": "Finally, Gluton Technology{0} for him.",
       "summary": "Finally, Gluton Technology{0}"
     }, {
       "id": "AmberResultDown",
       "name": "Free power",
-      "desc": "Final technology and lazy{0} For",
+      "desc": "Final technology and lazy{0} for",
       "summary": "Final technology and lazy{0}"
     }, {
       "id": "AzureResultDown",
       "name": "Black",
-      "desc": "Last round{0} For him.",
+      "desc": "Last round{0} for him.",
       "summary": "Last round{0}"
     }, {
       "id": "IndigoResultDown",
       "name": "Attractions",
-      "desc": "A re-sollege of pride technology{0} For him.",
+      "desc": "A re-sollege of pride technology{0} for him.",
       "summary": "A re-sollege of pride technology{0}"
     }, {
       "id": "VioletResultDown",
       "name": "Must be",
-      "desc": "Last technology-{0} For him.",
+      "desc": "Last technology-{0} for him.",
       "summary": "Last technology-{0}"
     }, {
       "id": "VibrationCollapse",
       "name": "Spasm",
-      "desc": "Each balcony is protected by protection of opportunities.\nBelow {1} Change: Increasing the pollen range during leaving technology. {0}\n(Natural influence strength / shower equipment improve or impact)",
+      "desc": "Each balcony is protected by protection of opportunities.\nBelow {1} change: Increasing the pollen range during leaving technology. {0}\n(Natural influence strength / shower equipment improve or impact)",
       "summary": "Each balcony is protected by protection of opportunities.\nCorridor {0}"
     }, {
       "id": "EchoOfMansion",
@@ -1538,7 +1538,7 @@
     }, {
       "id": "VibrationCrack",
       "name": "Current",
-      "desc": "-Cum level, total shower equipment and a total of 20 or more\nWe must extend from the value.\nIncrease play restrictions when accepting the attacker {0}……. {1} Exchange of currencies\n(Natural influence strength / shower equipment improve or impact)",
+      "desc": "-Cum level, total shower equipment and a total of 20 or more\nWe must extend from the value.\nIncrease play restrictions when accepting the attacker {0}……. {1} exchange of currencies\n(Natural influence strength / shower equipment improve or impact)",
       "summary": "If you have a total of 20 bathrooms and the bathroom measurements and measurement, increase your soft level 1.\nCorridor {0}"
     }, {
       "id": "ForwardToTheKing",
@@ -1577,7 +1577,7 @@
     }, {
       "id": "UnstableFeeling",
       "name": "Ashanti",
-      "desc": "-Nling, 1 image application\n-F's main goal ended, final lightning will burn.\nIf you have skills that you need to start battle, this instrument can get bad things from aggressors.\nLosing termination of global (loss){0} Little 5) tickets.",
+      "desc": "-Nling, 1 image application\n-F's main goal ended, final lightning will burn.\nIf you have skills that you need to start battle, this instrument can get bad things from aggressors.\nLosing termination of global (loss){0} little 5) tickets.",
       "summary": " "
     }, {
       "id": "LibrarianOfHistoryHard",
@@ -1592,7 +1592,7 @@
     }, {
       "id": "VibrationEcho",
       "name": "Helila -",
-      "desc": "- with {1} Slowly: Obviously, adoption {0} Flight loss.\n- with {1} Change: Increasing the pollen range during leaving technology. {0}Intersection\nBy the end: Reduce numbers.\n(Communication method is an effective natural impact.",
+      "desc": "- with {1} slowly: Obviously, adoption {0} flight loss.\n- with {1} change: Increasing the pollen range during leaving technology. {0} intersection\nBy the end: Reduce numbers.\n(Communication method is an effective natural impact.",
       "summary": ""
     }, {
       "id": "ShieldManagerCryingToad",
@@ -1607,12 +1607,12 @@
     }, {
       "id": "TimeSuspend",
       "name": "Late",
-      "desc": "If it is active, this effect will not be corrupted.\n-TheBone: If this effect is only balanced, the result will be active. {0} After leaving {3} Flight loss.\nComplete: 1 get well and give 1 number\n-We use another example of rumpy, delayed time after irritation.\n-What storage damage: {2}",
+      "desc": "If it is active, this effect will not be corrupted.\n-TheBone: If this effect is only balanced, the result will be active. {0} after leaving {3} flight loss.\nComplete: 1 get well and give 1 number\n-We use another example of rumpy, delayed time after irritation.\n-What storage damage: {2}",
       "summary": ""
     }, {
       "id": "TimeRentalTwoPersonality",
       "name": "Debt",
-      "desc": "Last 2:\n-It {1} Fire Exchange, lack of energy and perfect\nIt is kept as a busy person, the effect of the next round and loan time is ends in the next step and keeps units.\n\nDirect Internal Companity 1 1 {0} Tiger\nAs a result: 1 get the number and 1 damage number.",
+      "desc": "Last 2:\n-It {1} fire Exchange, lack of energy and perfect\nIt is kept as a busy person, the effect of the next round and loan time is ends in the next step and keeps units.\n\nDirect Internal Companity 1 1 {0} tiger\nAs a result: 1 get the number and 1 damage number.",
       "summary": ""
     }, {
       "id": "VibrationChainPersonality",
@@ -1632,7 +1632,7 @@
     }, {
       "id": "KnowledgeTraining",
       "name": "Known",
-      "desc": "Popular price: 6\n-I will throw the technology, it is used as Shield (ion X 1.5)% (after each round).\nIf the device cancelerate two or more, you will get the opposite force (at the same time a trip).\n-SP has been reduced to HP to 1 damage.\nBuddy",
+      "desc": "Popular price: 6\n-I will throw the technology, it is used as Shield (ion x 1.5)% (after each round).\nIf the device cancelerate two or more, you will get the opposite force (at the same time a trip).\n-SP has been reduced to HP to 1 damage.\nBuddy",
       "summary": ""
     }, {
       "id": "BoseProjektil",
@@ -1642,7 +1642,7 @@
     }, {
       "id": "ChargeLoad",
       "name": "Forests",
-      "desc": "Popular price: 6\nDell + (Del +){0} X 2.5% (up to 15%)\n-It employee equipment, the effect of contract +{0} X 5) instead of more (up to 30%)\nBy the end: This effect is over",
+      "desc": "Popular price: 6\nDell + (Del +){0} x 2.5% (up to 15%)\n-It employee equipment, the effect of contract +{0} x 5) instead of more (up to 30%)\nBy the end: This effect is over",
       "summary": ""
     }, {
       "id": "PhotoElectricity",
@@ -1841,7 +1841,7 @@
     }, {
       "id": "FestivalFeverRodion",
       "name": "Culture",
-      "desc": "Running value: 10\nThe attachment at the end of the round\nMaintenance + ({0} X 1.5) Bleeding caused extra damage\n-Uppression is to be done to do or accept: work + (working at work){0} x 3)% damaged%",
+      "desc": "Running value: 10\nThe attachment at the end of the round\nMaintenance + ({0} x 1.5) Bleeding caused extra damage\n-Uppression is to be done to do or accept: work + (working at work){0} x 3)% damaged%",
       "summary": "",
       "undefined": "-"
     }

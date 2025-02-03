@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11010_1", "desc": "Identity Acquisition", "dlg": "We provide those who are reading when you are looking for you so you can show your fingers ...?"}, {"id": "lobby_morning_11010_1", "desc": "Morning Greeting", "dlg": "... I am in the morning?"}, {"id": "lobby_noon_11010_1", "desc": "Afternoon Greeting", "dlg": "You have to fill out many files."}, {"id": "lobby_night_11010_1", "desc": "Evening Greeting", "dlg": "If bargain is stopping the delay at night, you will not be more careful."}, {"id": "smalltalk_11010_1", "desc": "Chatter #1", "dlg": "Customers were not only attracted to customers when the customer's night struggle was confused.\nHere I want to know that this battle is appreciated ... I think everything is the reason for everything."}, {"id": "smalltalk_11010_2", "desc": "Chatter #2", "dlg": "I know that most people don't care about security or savings when I work with other agreements of the Sangat.\nI know that when I make money for us, but ... when we save our customers, our company is the best."}, {"id": "smalltalk_11010_3", "desc": "Chatter #3", "dlg": "Sometimes we describe the assessment agreement.\nIf you pay enough price, there is no other way to the US-trusted device and can be at the association request."}, {"id": "smalltalk_11010_4", "desc": "Post-Uptie Chat 1", "dlg": "I hate the death of the people around me.\n... not."}, {"id": "smalltalk_11010_5", "desc": "Post-Uptie Chat 2", "dlg": "I think all the desires are not bad.\nThis is just a city."}, {"id": "neglect_11010_1", "desc": "Idle", "dlg": "... don't be alone!"}, {"id": "gacksung_11010_1", "desc": "Uptying", "dlg": "Everything is fine."}, {"id": "formation_11010_1", "desc": "Deployment", "dlg": "Study ... Confirmation."}, {"id": "battleentry_11010_1", "desc": "Stage Entry", "dlg": "So you have become your sword and shield."}, {"id": "battle_select_11010_1", "desc": "Viewed in Battle", "dlg": "I thought I'm doing everything ...?"}, {"id": "battle_endcommand_11010_1", "desc": "Commencing Attack", "dlg": "Staff are safe ...!"}, {"id": "battle_enemy_break_11010_1", "desc": "Enemy Stagger", "dlg": "Come now ...!"}, {"id": "battle_break_11010_1", "desc": "Staggered", "dlg": "For men and women pr ..."}, {"id": "battle_kill_11010_1", "desc": "Enemy Killed", "dlg": "Except all accidentally ..."}, {"id": "battle_dead_11010_1", "desc": "Death", "dlg": "I like it very much ... so I ran ... very far ..."}, {"id": "choice_success_p_11010_2", "desc": "Check Passed", "dlg": "I can save others, but this time I can't do it."}, {"id": "choice_fail_n_11010_1", "desc": "Check Failed", "dlg": "... apologize."}, {"id": "battle_clear_11010_1", "desc": "Victory Cry", "dlg": "We are hurt by some damage, but I don't think it's good help."}, {"id": "battle_clear_ex_11010_1", "desc": "Extra Conditions Fulfilled", "dlg": "We have already saved everything."}, {"id": "battle_defeat_11010_1", "desc": "Defeat Wail", "dlg": "We have no hesitation."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11010_1",
+      "desc": "Identity Acquisition",
+      "dlg": "We provide those who are reading when you are looking for you so you can show your fingers ...?"
+    }, {
+      "id": "lobby_morning_11010_1",
+      "desc": "Morning Greeting",
+      "dlg": "... I am in the morning?"
+    }, {
+      "id": "lobby_noon_11010_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "You have to fill out many files."
+    }, {
+      "id": "lobby_night_11010_1",
+      "desc": "Evening Greeting",
+      "dlg": "If bargain is stopping the delay at night, you will not be more careful."
+    }, {
+      "id": "smalltalk_11010_1",
+      "desc": "Chatter #1",
+      "dlg": "Customers were not only attracted to customers when the customer's night struggle was confused.\nHere I want to know that this battle is appreciated ... I think everything is the reason for everything."
+    }, {
+      "id": "smalltalk_11010_2",
+      "desc": "Chatter #2",
+      "dlg": "I know that most people don't care about security or savings when I work with other agreements of the Sangat.\nI know that when I make money for us, but ... when we save our customers, our company is the best."
+    }, {
+      "id": "smalltalk_11010_3",
+      "desc": "Chatter #3",
+      "dlg": "Sometimes we describe the assessment agreement.\nIf you pay enough price, there is no other way to the US-trusted device and can be at the association request."
+    }, {
+      "id": "smalltalk_11010_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I hate the death of the people around me.\n... not."
+    }, {
+      "id": "smalltalk_11010_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I think all the desires are not bad.\nThis is just a city."
+    }, {
+      "id": "neglect_11010_1",
+      "desc": "Idle",
+      "dlg": "... don't be alone!"
+    }, {
+      "id": "gacksung_11010_1",
+      "desc": "Uptying",
+      "dlg": "Everything is fine."
+    }, {
+      "id": "formation_11010_1",
+      "desc": "Deployment",
+      "dlg": "Study ... Confirmation."
+    }, {
+      "id": "battleentry_11010_1",
+      "desc": "Stage Entry",
+      "dlg": "So you have become your sword and shield."
+    }, {
+      "id": "battle_select_11010_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I thought I'm doing everything ...?"
+    }, {
+      "id": "battle_endcommand_11010_1",
+      "desc": "Commencing Attack",
+      "dlg": "Staff are safe ...!"
+    }, {
+      "id": "battle_enemy_break_11010_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Come now ...!"
+    }, {
+      "id": "battle_break_11010_1",
+      "desc": "Staggered",
+      "dlg": "For men and women pr ..."
+    }, {
+      "id": "battle_kill_11010_1",
+      "desc": "Enemy Killed",
+      "dlg": "Except all accidentally ..."
+    }, {
+      "id": "battle_dead_11010_1",
+      "desc": "Death",
+      "dlg": "I like it very much ... so I ran ... very far ..."
+    }, {
+      "id": "choice_success_p_11010_2",
+      "desc": "Check Passed",
+      "dlg": "I can save others, but this time I can't do it."
+    }, {
+      "id": "choice_fail_n_11010_1",
+      "desc": "Check Failed",
+      "dlg": "... apologize."
+    }, {
+      "id": "battle_clear_11010_1",
+      "desc": "Victory Cry",
+      "dlg": "We are hurt by some damage, but I don't think it's good help."
+    }, {
+      "id": "battle_clear_ex_11010_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "We have already saved everything."
+    }, {
+      "id": "battle_defeat_11010_1",
+      "desc": "Defeat Wail",
+      "dlg": "We have no hesitation."
+    }
+  ]
+}

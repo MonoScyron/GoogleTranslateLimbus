@@ -1,1 +1,89 @@
-{"dataList": [{"id": "get_10401_1", "desc": "Identity Acquisition", "dlg": "I am glad to meet this commerce."}, {"id": "lobby_morning_10401_1", "desc": "Morning Greeting", "dlg": "What can you get soon?"}, {"id": "lobby_noon_10401_1", "desc": "Afternoon Greeting", "dlg": "Yes, nothing left in siggs after lunch."}, {"id": "lobby_night_10401_1", "desc": "Evening Greeting", "dlg": "Here are the viewers bored."}, {"id": "smalltalk_10401_1", "desc": "Chatter #1", "dlg": "I have spent a lot of time after seeing the art classification."}, {"id": "smalltalk_10401_2", "desc": "Chatter #2", "dlg": "If you want to go with me, you can minimize and what you can see."}, {"id": "smalltalk_10401_3", "desc": "Chatter #3", "dlg": "If you don't try to tell me how long you hurt me how long you hurt, don't hurt me."}, {"id": "neglect_10401_1", "desc": "Idle", "dlg": "You talk to me first, and then go ... Where have you learned such exercise?"}, {"id": "formation_10401_1", "desc": "Deployment", "dlg": "Show them for art."}, {"id": "battleentry_10401_1", "desc": "Stage Entry", "dlg": "I hope you see the original art."}, {"id": "battle_select_10401_1", "desc": "Viewed in Battle", "dlg": "Bring light?"}, {"id": "battle_endcommand_10401_1", "desc": "Commencing Attack", "dlg": "I will show you the right art."}, {"id": "battle_enemy_break_10401_1", "desc": "Enemy Stagger", "dlg": "Basic."}, {"id": "battle_break_10401_1", "desc": "Staggered", "dlg": "Common!"}, {"id": "battle_kill_10401_1", "desc": "Enemy Killed", "dlg": "Is more beautiful."}, {"id": "battle_allydead_10401_1", "desc": "Ally Death", "dlg": "This is not what I want to see."}, {"id": "choice_success_p_10401_2", "desc": "Check Passed", "dlg": "I'm doing well."}, {"id": "choice_fail_n_10401_1", "desc": "Check Failed", "dlg": "They told me."}, {"id": "battle_clear_10401_1", "desc": "Victory Cry", "dlg": "I'm kissing"}, {"id": "battle_clear_ex_10401_1", "desc": "Extra Conditions Fulfilled", "dlg": "If you are enough to wake you, you are not the original artist."}, {"id": "battle_defeat_10401_1", "desc": "Defeat Wail", "dlg": "Then.\nPrayers and interesting arts or all methods cannot be achieved."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10401_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I am glad to meet this commerce."
+    }, {
+      "id": "lobby_morning_10401_1",
+      "desc": "Morning Greeting",
+      "dlg": "What can you get soon?"
+    }, {
+      "id": "lobby_noon_10401_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Yes, nothing left in siggs after lunch."
+    }, {
+      "id": "lobby_night_10401_1",
+      "desc": "Evening Greeting",
+      "dlg": "Here are the viewers bored."
+    }, {
+      "id": "smalltalk_10401_1",
+      "desc": "Chatter #1",
+      "dlg": "I have spent a lot of time after seeing the art classification."
+    }, {
+      "id": "smalltalk_10401_2",
+      "desc": "Chatter #2",
+      "dlg": "If you want to go with me, you can minimize and what you can see."
+    }, {
+      "id": "smalltalk_10401_3",
+      "desc": "Chatter #3",
+      "dlg": "If you don't try to tell me how long you hurt me how long you hurt, don't hurt me."
+    }, {
+      "id": "neglect_10401_1",
+      "desc": "Idle",
+      "dlg": "You talk to me first, and then go ... Where have you learned such exercise?"
+    }, {
+      "id": "formation_10401_1",
+      "desc": "Deployment",
+      "dlg": "Show them for art."
+    }, {
+      "id": "battleentry_10401_1",
+      "desc": "Stage Entry",
+      "dlg": "I hope you see the original art."
+    }, {
+      "id": "battle_select_10401_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Bring light?"
+    }, {
+      "id": "battle_endcommand_10401_1",
+      "desc": "Commencing Attack",
+      "dlg": "I will show you the right art."
+    }, {
+      "id": "battle_enemy_break_10401_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Basic."
+    }, {
+      "id": "battle_break_10401_1",
+      "desc": "Staggered",
+      "dlg": "Common!"
+    }, {
+      "id": "battle_kill_10401_1",
+      "desc": "Enemy Killed",
+      "dlg": "Is more beautiful."
+    }, {
+      "id": "battle_allydead_10401_1",
+      "desc": "Ally Death",
+      "dlg": "This is not what I want to see."
+    }, {
+      "id": "choice_success_p_10401_2",
+      "desc": "Check Passed",
+      "dlg": "I'm doing well."
+    }, {
+      "id": "choice_fail_n_10401_1",
+      "desc": "Check Failed",
+      "dlg": "They told me."
+    }, {
+      "id": "battle_clear_10401_1",
+      "desc": "Victory Cry",
+      "dlg": "I'm kissing"
+    }, {
+      "id": "battle_clear_ex_10401_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "If you are enough to wake you, you are not the original artist."
+    }, {
+      "id": "battle_defeat_10401_1",
+      "desc": "Defeat Wail",
+      "dlg": "Then.\nPrayers and interesting arts or all methods cannot be achieved."
+    }
+  ]
+}

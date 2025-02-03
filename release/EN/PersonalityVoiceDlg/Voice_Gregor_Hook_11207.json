@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11207_1", "desc": "Identity Acquisition", "dlg": "This is ..."}, {"id": "lobby_morning_11207_1", "desc": "Morning Greeting", "dlg": "Hello ~ good morning.\nI really need a report!"}, {"id": "lobby_noon_11207_1", "desc": "Afternoon Greeting", "dlg": "Lunch?\nIf you stole our warehouse with food ... now they are looking for a mast that adds them."}, {"id": "lobby_night_11207_1", "desc": "Evening Greeting", "dlg": "I was late ... I sang from the outside."}, {"id": "smalltalk_11207_1", "desc": "Chatter #1", "dlg": "The Perfect Marm is not a useful romantic."}, {"id": "smalltalk_11207_2", "desc": "Chatter #2", "dlg": "What, we broke many dead cells in the skin."}, {"id": "smalltalk_11207_3", "desc": "Chatter #3", "dlg": "Hey, wait a moment."}, {"id": "smalltalk_11207_4", "desc": "Post-Uptie Chat 1", "dlg": "Or."}, {"id": "smalltalk_11207_5", "desc": "Post-Uptie Chat 2", "dlg": "Now be comfortable in this transport container.\n~ Tsk tsk if you cool it coldKeep in memory of, you may have enough time."}, {"id": "neglect_11207_1", "desc": "Idle", "dlg": "The table is on this boring table ... I have lost me and used high pools, steal, train and boat ..."}, {"id": "gacksung_11207_1", "desc": "Uptying", "dlg": "Do you want to cooperate?"}, {"id": "formation_11207_1", "desc": "Deployment", "dlg": "Do you need your first husband?"}, {"id": "battleentry_11207_1", "desc": "Stage Entry", "dlg": "Well, I would do the same."}, {"id": "battle_select_11207_1", "desc": "Viewed in Battle", "dlg": "I'm busy"}, {"id": "battle_endcommand_11207_1", "desc": "Commencing Attack", "dlg": "I'll take a new breathing hole."}, {"id": "battle_enemy_break_11207_1", "desc": "Enemy Stagger", "dlg": "The plane of the transport flies like a bucket."}, {"id": "battle_break_11207_1", "desc": "Staggered", "dlg": "What ..."}, {"id": "battle_kill_11207_1", "desc": "Enemy Killed", "dlg": "It's nothing."}, {"id": "battle_dead_11207_1", "desc": "Death", "dlg": "I will not die ... m-medal ..."}, {"id": "choice_success_p_11207_2", "desc": "Check Passed", "dlg": "It's easy to lie and choose."}, {"id": "choice_fail_n_11207_1", "desc": "Check Failed", "dlg": "what did you say"}, {"id": "battle_clear_11207_1", "desc": "Victory Cry", "dlg": "The next day, another company at an accurate price."}, {"id": "battle_clear_ex_11207_1", "desc": "Extra Conditions Fulfilled", "dlg": "Well, we canceled them between them."}, {"id": "battle_defeat_11207_1", "desc": "Defeat Wail", "dlg": "Well ... my face and name ... when my sister comes here, we will do it."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11207_1",
+      "desc": "Identity Acquisition",
+      "dlg": "This is ..."
+    }, {
+      "id": "lobby_morning_11207_1",
+      "desc": "Morning Greeting",
+      "dlg": "Hello ~ good morning.\nI really need a report!"
+    }, {
+      "id": "lobby_noon_11207_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Lunch?\nIf you stole our warehouse with food ... now they are looking for a mast that adds them."
+    }, {
+      "id": "lobby_night_11207_1",
+      "desc": "Evening Greeting",
+      "dlg": "I was late ... I sang from the outside."
+    }, {
+      "id": "smalltalk_11207_1",
+      "desc": "Chatter #1",
+      "dlg": "The Perfect Marm is not a useful romantic."
+    }, {
+      "id": "smalltalk_11207_2",
+      "desc": "Chatter #2",
+      "dlg": "What, we broke many dead cells in the skin."
+    }, {
+      "id": "smalltalk_11207_3",
+      "desc": "Chatter #3",
+      "dlg": "Hey, wait a moment."
+    }, {
+      "id": "smalltalk_11207_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Or."
+    }, {
+      "id": "smalltalk_11207_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Now be comfortable in this transport container.\n~ Tsk tsk if you cool it coldKeep in memory of, you may have enough time."
+    }, {
+      "id": "neglect_11207_1",
+      "desc": "Idle",
+      "dlg": "The table is on this boring table ... I have lost me and used high pools, steal, train and boat ..."
+    }, {
+      "id": "gacksung_11207_1",
+      "desc": "Uptying",
+      "dlg": "Do you want to cooperate?"
+    }, {
+      "id": "formation_11207_1",
+      "desc": "Deployment",
+      "dlg": "Do you need your first husband?"
+    }, {
+      "id": "battleentry_11207_1",
+      "desc": "Stage Entry",
+      "dlg": "Well, I would do the same."
+    }, {
+      "id": "battle_select_11207_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I'm busy"
+    }, {
+      "id": "battle_endcommand_11207_1",
+      "desc": "Commencing Attack",
+      "dlg": "I'll take a new breathing hole."
+    }, {
+      "id": "battle_enemy_break_11207_1",
+      "desc": "Enemy Stagger",
+      "dlg": "The plane of the transport flies like a bucket."
+    }, {
+      "id": "battle_break_11207_1",
+      "desc": "Staggered",
+      "dlg": "What ..."
+    }, {
+      "id": "battle_kill_11207_1",
+      "desc": "Enemy Killed",
+      "dlg": "It's nothing."
+    }, {
+      "id": "battle_dead_11207_1",
+      "desc": "Death",
+      "dlg": "I will not die ... m-medal ..."
+    }, {
+      "id": "choice_success_p_11207_2",
+      "desc": "Check Passed",
+      "dlg": "It's easy to lie and choose."
+    }, {
+      "id": "choice_fail_n_11207_1",
+      "desc": "Check Failed",
+      "dlg": "what did you say"
+    }, {
+      "id": "battle_clear_11207_1",
+      "desc": "Victory Cry",
+      "dlg": "The next day, another company at an accurate price."
+    }, {
+      "id": "battle_clear_ex_11207_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Well, we canceled them between them."
+    }, {
+      "id": "battle_defeat_11207_1",
+      "desc": "Defeat Wail",
+      "dlg": "Well ... my face and name ... when my sister comes here, we will do it."
+    }
+  ]
+}

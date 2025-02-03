@@ -1,1 +1,77 @@
-{"dataList": [{"id": "battle_awaken_20701_1", "desc": "E.G.O Activation", "dlg": "Then this bag will be pushed!"}, {"id": "battle_awaken_20702_1", "desc": "E.G.O Activation", "dlg": "Ok, I'll send you to your chapter!"}, {"id": "battle_erosion_20702_1", "desc": "E.G.O Corrosion", "dlg": ""}, {"id": "battle_awaken_20703_1", "desc": "E.G.O Activation", "dlg": "What!"}, {"id": "battle_erosion_20703_1", "desc": "E.G.O Corrosion", "dlg": "Now my character hurt me ... I am surprised to see the system?"}, {"id": "battle_awaken_20704_1", "desc": "E.G.O Activation", "dlg": "The man throws bail to destroy the country."}, {"id": "battle_erosion_20704_1", "desc": "E.G.O Corrosion", "dlg": "Sentle's wheels once again."}, {"id": "battle_awaken_20705_1", "desc": "E.G.O Activation", "dlg": "Well, you offer a good gift!"}, {"id": "battle_erosion_20705_1", "desc": "E.G.O Corrosion", "dlg": "good luck"}, {"id": "battle_overdrive_20701_1-1", "desc": "Frenzied E.G.O Activation", "dlg": "You ... everything will take on my feet\nThis wall is covered between me and KSy ..."}, {"id": "battle_overdrive_20701_1-2", "desc": "Frenzied E.G.O Activation", "dlg": "I pushed everything in this bag ... I think it will attract the last information ..."}, {"id": "battle_overdrive_20701_1-3", "desc": "Frenzied E.G.O Activation", "dlg": "... and I will motivate me for permission ...!"}, {"id": "battle_awaken_20706_1", "desc": "E.G.O Activation", "dlg": "I want to dominate the throne ..."}, {"id": "battle_erosion_20706_1", "desc": "E.G.O Corrosion", "dlg": "This defeat touched me ... when you go away?"}, {"id": "battle_awaken_20701_2", "desc": "E.G.O Activation", "dlg": "You have to see Catherine."}, {"id": "battle_awaken_20701_3", "desc": "E.G.O Activation", "dlg": "If you forget about the world ... I will call you."}, {"id": "battle_awaken_20707_1", "desc": "E.G.O Activation", "dlg": "If you want steps.\n... running does not matter."}, {"id": "battle_erosion_20707_1", "desc": "E.G.O Corrosion", "dlg": "Lead is not enough ...\nAs long as he always lost all shooting programs and employment!"}]}
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20701_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Then this bag will be pushed!"
+    }, {
+      "id": "battle_awaken_20702_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ok, I'll send you to your chapter!"
+    }, {
+      "id": "battle_erosion_20702_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    }, {
+      "id": "battle_awaken_20703_1",
+      "desc": "E.G.O Activation",
+      "dlg": "What!"
+    }, {
+      "id": "battle_erosion_20703_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Now my character hurt me ... I am surprised to see the system?"
+    }, {
+      "id": "battle_awaken_20704_1",
+      "desc": "E.G.O Activation",
+      "dlg": "The man throws bail to destroy the country."
+    }, {
+      "id": "battle_erosion_20704_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Sentle's wheels once again."
+    }, {
+      "id": "battle_awaken_20705_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Well, you offer a good gift!"
+    }, {
+      "id": "battle_erosion_20705_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "good luck"
+    }, {
+      "id": "battle_overdrive_20701_1-1",
+      "desc": "Frenzied E.G.O Activation",
+      "dlg": "You ... everything will take on my feet\nThis wall is covered between me and KSy ..."
+    }, {
+      "id": "battle_overdrive_20701_1-2",
+      "desc": "Frenzied E.G.O Activation",
+      "dlg": "I pushed everything in this bag ... I think it will attract the last information ..."
+    }, {
+      "id": "battle_overdrive_20701_1-3",
+      "desc": "Frenzied E.G.O Activation",
+      "dlg": "... and I will motivate me for permission ...!"
+    }, {
+      "id": "battle_awaken_20706_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I want to dominate the throne ..."
+    }, {
+      "id": "battle_erosion_20706_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "This defeat touched me ... when you go away?"
+    }, {
+      "id": "battle_awaken_20701_2",
+      "desc": "E.G.O Activation",
+      "dlg": "You have to see Catherine."
+    }, {
+      "id": "battle_awaken_20701_3",
+      "desc": "E.G.O Activation",
+      "dlg": "If you forget about the world ... I will call you."
+    }, {
+      "id": "battle_awaken_20707_1",
+      "desc": "E.G.O Activation",
+      "dlg": "If you want steps.\n... running does not matter."
+    }, {
+      "id": "battle_erosion_20707_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Lead is not enough ...\nAs long as he always lost all shooting programs and employment!"
+    }
+  ]
+}

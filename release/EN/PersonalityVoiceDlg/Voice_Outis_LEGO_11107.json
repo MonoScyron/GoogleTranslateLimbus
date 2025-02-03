@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11107_1", "desc": "Identity Acquisition", "dlg": "Do not 50 schemes."}, {"id": "lobby_morning_11107_1", "desc": "Morning Greeting", "dlg": "Do not use mostly this morning."}, {"id": "lobby_noon_11107_1", "desc": "Afternoon Greeting", "dlg": "In other classes discount discounts and injure."}, {"id": "lobby_night_11107_1", "desc": "Evening Greeting", "dlg": "After closing the lights, the whole warning is required."}, {"id": "smalltalk_11107_1", "desc": "Chatter #1", "dlg": "If you can't find my house here, you can be another soldier.\nWhen all the staff got out of terror, I quickly put my nose in red and found his goal in the boring chemical character."}, {"id": "smalltalk_11107_2", "desc": "Chatter #2", "dlg": "As the leader of the training, I have only one advice."}, {"id": "smalltalk_11107_3", "desc": "Chatter #3", "dlg": "Some teams consider it a hero."}, {"id": "smalltalk_11107_4", "desc": "Post-Uptie Chat 1", "dlg": "\"Sharar\" he hit.\nSo I suggested Mrs. Hood to life."}, {"id": "smalltalk_11107_5", "desc": "Post-Uptie Chat 2", "dlg": "Yes, I know I am looking forward to the ball under the magazine.\n... see everything."}, {"id": "neglect_11107_1", "desc": "Idle", "dlg": "Surprisingly, if this ball weight is hanged."}, {"id": "gacksung_11107_1", "desc": "Uptying", "dlg": "I remember the day I fell."}, {"id": "formation_11107_1", "desc": "Deployment", "dlg": "I'm always ready."}, {"id": "battleentry_11107_1", "desc": "Stage Entry", "dlg": "It's time to kill the earth."}, {"id": "battle_select_11107_1", "desc": "Viewed in Battle", "dlg": "I put it on the stage."}, {"id": "battle_endcommand_11107_1", "desc": "Commencing Attack", "dlg": "Perfect lens."}, {"id": "battle_enemy_break_11107_1", "desc": "Enemy Stagger", "dlg": "A bull sits."}, {"id": "battle_break_11107_1", "desc": "Staggered", "dlg": "O good"}, {"id": "battle_kill_11107_1", "desc": "Enemy Killed", "dlg": "Everything is fine."}, {"id": "battle_dead_11107_1", "desc": "Death", "dlg": "... there is no end here ..."}, {"id": "choice_success_p_11107_2", "desc": "Check Passed", "dlg": "In fact, this cable is correct."}, {"id": "choice_fail_n_11107_1", "desc": "Check Failed", "dlg": "However, you see the lens of the lens, it is not necessary."}, {"id": "battle_clear_11107_1", "desc": "Victory Cry", "dlg": "Continues to continue to rewrite the ball."}, {"id": "battle_clear_ex_11107_1", "desc": "Extra Conditions Fulfilled", "dlg": "If the manager takes me a photo, the tablet is a model."}, {"id": "battle_defeat_11107_1", "desc": "Defeat Wail", "dlg": "Maybe my opinion is still frequenchivity."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11107_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Do not 50 schemes."
+    }, {
+      "id": "lobby_morning_11107_1",
+      "desc": "Morning Greeting",
+      "dlg": "Do not use mostly this morning."
+    }, {
+      "id": "lobby_noon_11107_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "In other classes discount discounts and injure."
+    }, {
+      "id": "lobby_night_11107_1",
+      "desc": "Evening Greeting",
+      "dlg": "After closing the lights, the whole warning is required."
+    }, {
+      "id": "smalltalk_11107_1",
+      "desc": "Chatter #1",
+      "dlg": "If you can't find my house here, you can be another soldier.\nWhen all the staff got out of terror, I quickly put my nose in red and found his goal in the boring chemical character."
+    }, {
+      "id": "smalltalk_11107_2",
+      "desc": "Chatter #2",
+      "dlg": "As the leader of the training, I have only one advice."
+    }, {
+      "id": "smalltalk_11107_3",
+      "desc": "Chatter #3",
+      "dlg": "Some teams consider it a hero."
+    }, {
+      "id": "smalltalk_11107_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "\"Sharar\" he hit.\nSo I suggested Mrs. Hood to life."
+    }, {
+      "id": "smalltalk_11107_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Yes, I know I am looking forward to the ball under the magazine.\n... see everything."
+    }, {
+      "id": "neglect_11107_1",
+      "desc": "Idle",
+      "dlg": "Surprisingly, if this ball weight is hanged."
+    }, {
+      "id": "gacksung_11107_1",
+      "desc": "Uptying",
+      "dlg": "I remember the day I fell."
+    }, {
+      "id": "formation_11107_1",
+      "desc": "Deployment",
+      "dlg": "I'm always ready."
+    }, {
+      "id": "battleentry_11107_1",
+      "desc": "Stage Entry",
+      "dlg": "It's time to kill the earth."
+    }, {
+      "id": "battle_select_11107_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I put it on the stage."
+    }, {
+      "id": "battle_endcommand_11107_1",
+      "desc": "Commencing Attack",
+      "dlg": "Perfect lens."
+    }, {
+      "id": "battle_enemy_break_11107_1",
+      "desc": "Enemy Stagger",
+      "dlg": "A bull sits."
+    }, {
+      "id": "battle_break_11107_1",
+      "desc": "Staggered",
+      "dlg": "O good"
+    }, {
+      "id": "battle_kill_11107_1",
+      "desc": "Enemy Killed",
+      "dlg": "Everything is fine."
+    }, {
+      "id": "battle_dead_11107_1",
+      "desc": "Death",
+      "dlg": "... there is no end here ..."
+    }, {
+      "id": "choice_success_p_11107_2",
+      "desc": "Check Passed",
+      "dlg": "In fact, this cable is correct."
+    }, {
+      "id": "choice_fail_n_11107_1",
+      "desc": "Check Failed",
+      "dlg": "However, you see the lens of the lens, it is not necessary."
+    }, {
+      "id": "battle_clear_11107_1",
+      "desc": "Victory Cry",
+      "dlg": "Continues to continue to rewrite the ball."
+    }, {
+      "id": "battle_clear_ex_11107_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "If the manager takes me a photo, the tablet is a model."
+    }, {
+      "id": "battle_defeat_11107_1",
+      "desc": "Defeat Wail",
+      "dlg": "Maybe my opinion is still frequenchivity."
+    }
+  ]
+}

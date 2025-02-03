@@ -1,1 +1,57 @@
-{"dataList": [{"id": "battle_awaken_20501_1", "desc": "E.G.O Activation", "dlg": "People disappeared ..."}, {"id": "battle_awaken_20502_1", "desc": "E.G.O Activation", "dlg": "Eliminate your goals in this process."}, {"id": "battle_erosion_20502_1", "desc": "E.G.O Corrosion", "dlg": "19 In the 19 obstacles."}, {"id": "battle_awaken_20503_1", "desc": "E.G.O Activation", "dlg": "I will do this for you."}, {"id": "battle_erosion_20503_1", "desc": "E.G.O Corrosion", "dlg": "Don't forgive others."}, {"id": "battle_awaken_20504_1", "desc": "E.G.O Activation", "dlg": "... I have to wait."}, {"id": "battle_erosion_20504_1", "desc": "E.G.O Corrosion", "dlg": "I'm going to the upper floor."}, {"id": "battle_awaken_20505_1", "desc": "E.G.O Activation", "dlg": "This simple jacket is not enough to return violence."}, {"id": "battle_erosion_20505_1", "desc": "E.G.O Corrosion", "dlg": "My head has changed ... Metal ... Brain ... Brain ... End, start."}, {"id": "battle_awaken_20506_1", "desc": "E.G.O Activation", "dlg": "I will leave this power ... I can't ...!"}, {"id": "battle_erosion_20506_1", "desc": "E.G.O Corrosion", "dlg": ""}, {"id": "battle_awaken_20507_1", "desc": "E.G.O Activation", "dlg": "Peak blood, beautiful flowers.\nI want to ask me!"}, {"id": "battle_erosion_20507_1", "desc": "E.G.O Corrosion", "dlg": "Also, he can't feel ...\nThey broke the dam ...!"}]}
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20501_1",
+      "desc": "E.G.O Activation",
+      "dlg": "People disappeared ..."
+    }, {
+      "id": "battle_awaken_20502_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Eliminate your goals in this process."
+    }, {
+      "id": "battle_erosion_20502_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "19 In the 19 obstacles."
+    }, {
+      "id": "battle_awaken_20503_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I will do this for you."
+    }, {
+      "id": "battle_erosion_20503_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Don't forgive others."
+    }, {
+      "id": "battle_awaken_20504_1",
+      "desc": "E.G.O Activation",
+      "dlg": "... I have to wait."
+    }, {
+      "id": "battle_erosion_20504_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "I'm going to the upper floor."
+    }, {
+      "id": "battle_awaken_20505_1",
+      "desc": "E.G.O Activation",
+      "dlg": "This simple jacket is not enough to return violence."
+    }, {
+      "id": "battle_erosion_20505_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "My head has changed ... Metal ... Brain ... Brain ... End, start."
+    }, {
+      "id": "battle_awaken_20506_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I will leave this power ... I can't ...!"
+    }, {
+      "id": "battle_erosion_20506_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    }, {
+      "id": "battle_awaken_20507_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Peak blood, beautiful flowers.\nI want to ask me!"
+    }, {
+      "id": "battle_erosion_20507_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Also, he can't feel ...\nThey broke the dam ...!"
+    }
+  ]
+}

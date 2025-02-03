@@ -17,7 +17,7 @@
       "content": "Season"
     }, {
       "id": "battlepass_freeandpaid",
-      "content": "Push {0} Free {1}"
+      "content": "Push {0} free {1}"
     }, {
       "id": "battlepass_mission_tag_normal",
       "content": "General"
@@ -26,10 +26,10 @@
       "content": "Clash"
     }, {
       "id": "battlepass_remain_time",
-      "content": "{0} The wind {1} Waste"
+      "content": "{0} the wind {1} waste"
     }, {
       "id": "battlepass_ask_purchase_limbus_pass",
-      "content": "Buy a lemons pass {0}that's it"
+      "content": "Buy a lemons pass {0} that's it"
     }, {
       "id": "battlepass_limbus_pass_benefit_reward",
       "content": "Lincin Awards are available"
@@ -41,7 +41,7 @@
       "content": "The surface of the water"
     }, {
       "id": "battlepass_level_up_ask",
-      "content": "Use [Paid Lunacy]Intersection"
+      "content": "Use [Paid Lunacy] intersection"
     }, {
       "id": "battlepass_level_upgrade",
       "content": "Temporary"
@@ -56,13 +56,13 @@
       "content": "too short"
     }, {
       "id": "remain_days_with_label",
-      "content": "{0}I d."
+      "content": "{0} I d."
     }, {
       "id": "remain_hours_with_label",
-      "content": "{0}H left"
+      "content": "{0} h left"
     }, {
       "id": "remain_minutes_with_label",
-      "content": "{0}To leave"
+      "content": "{0} to leave"
     }, {
       "id": "update_progress",
       "content": "The progress has been updated"
@@ -71,7 +71,7 @@
       "content": "The highest value meets the rules"
     }, {
       "id": "ask_to_use_paid_lunacy_to_level_up_pass",
-      "content": "go out {0} Do you want to pay?"
+      "content": "go out {0} do you want to pay?"
     }, {
       "id": "battlepass_purchase_level_up",
       "content": "Collection card"
@@ -101,7 +101,7 @@
       "content": "Put the maximum value"
     }, {
       "id": "battlepass_reward_opened_at",
-      "content": "{0} Restoration"
+      "content": "{0} restoration"
     }, {
       "id": "battlepass_package_purchase",
       "content": "<font=\"BebasKai SDF\">Lemon halves</style> In the attic"
@@ -110,10 +110,10 @@
       "content": "There are special flags for dogs and citroin banners."
     }, {
       "id": "battlepass_package_desc_banner",
-      "content": "……. [LIMBUS PASS] Turn off travel"
+      "content": "……. [LIMBUS PASS] turn off travel"
     }, {
       "id": "battlepass_package_ask_purchase",
-      "content": "go out {0} Crazy payment to purchase this package?"
+      "content": "go out {0} crazy payment to purchase this package?"
     }, {
       "id": "battlepass_package_warning",
       "content": "After purchasing this product, the company is used immediately."
@@ -128,7 +128,7 @@
       "content": "Package Selection / Program"
     }, {
       "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
-      "content": "Buy the costs of the crossroad {0} It makes her silly."
+      "content": "Buy the costs of the crossroad {0} it makes her silly."
     }, {
       "id": "battle_pass_package_button_desc",
       "content": "Narrow\nPersonal transparency"
@@ -143,7 +143,7 @@
       "content": "A company receives 10 roads as purchased.\nHere are loveols:"
     }, {
       "id": "battle_pass_limbus_purchase_popup_desc",
-      "content": "Get different prices in the room in lemon.\nGet 3 [Season 3] This is not one of the trivial laughs."
+      "content": "Get different prices in the room in lemon.\nGet 3 [Season 3] this is not one of the trivial laughs."
     }, {
       "id": "battle_pass_package_button_desc_with_limbus",
       "content": "Narrow\nPersonal transparency\n……. [LIMBUS PASS]"
@@ -158,7 +158,7 @@
       "content": "Season 6 Update"
     }, {
       "id": "battlepass_ask_purchase_limbus_pass_package",
-      "content": "Will buy a lemon pass to escape\nAt the same time, we provide the following benefits: {0}that's it"
+      "content": "Will buy a lemon pass to escape\nAt the same time, we provide the following benefits: {0} that's it"
     }, {
       "id": "battlepass_purchase_desc_pass",
       "content": "There are different prices of Citronpass."
@@ -176,10 +176,10 @@
       "content": "Special banner"
     }, {
       "id": "battlepass_purchase_desc_policy",
-      "content": "After purchasing this product, the company is used immediately.\n\nYes [at least 90 days from the start of the Season]Intersection\nThe instructions in the next war will be monitored. [Guide for the upcoming Season] Post.\nIt should be remembered that the day of purchase, it does not affect the active period of dog fighting."
+      "content": "After purchasing this product, the company is used immediately.\n\nYes [at least 90 days from the start of the Season] intersection\nThe instructions in the next war will be monitored. [Guide for the upcoming Season] post.\nIt should be remembered that the day of purchase, it does not affect the active period of dog fighting."
     }, {
       "id": "owned_count",
-      "content": "{0} Asset"
+      "content": "{0} asset"
     }, {
       "id": "battle_pass_package_button_desc_with_limbus_2",
       "content": "Buy 10 Pass to Go LV\n2 2 private banners\nReturn the map level at the top"

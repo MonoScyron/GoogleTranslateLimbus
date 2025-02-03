@@ -37,7 +37,7 @@
                 {
                   "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -124,14 +124,14 @@
         {
           "level": 1,
           "name": "Cells",
-          "desc": "[WhenUse] The target is 6+ [Laceration]Processing 20% ​​damaged and increased.",
+          "desc": "[WhenUse] The target is 6+ [Laceration] Processing 20% ​​damaged and increased.",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }
@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "We offer a program!",
-          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] If this device cannot be used [BloodDinner] Get 5 with this technique [Laceration] 1 [HardenedBlood]Intersection\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] If this device cannot be used [BloodDinner] Get 5 with this technique [Laceration] 1 [HardenedBlood] Intersection\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
           "coinlist": [
             {
               "coindescs": [
@@ -245,7 +245,7 @@
                 {
                   "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration] 1, 1 [BloodyHand]"
                 }
               ]
             }
@@ -269,7 +269,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"
+                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand] Intersection"
                 }
               ]
             }
@@ -354,7 +354,7 @@
         {
           "level": 1,
           "name": "Participate in the rubbing of good procession!",
-          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner] Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -406,7 +406,7 @@
         {
           "level": 1,
           "name": "Continuous Happiness, No Mann Land!",
-          "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "desc": "[WhenUse] In 40 years [BloodDinner] Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [

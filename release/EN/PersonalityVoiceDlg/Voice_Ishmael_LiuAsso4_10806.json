@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10806_1", "desc": "Identity Acquisition", "dlg": "You call me?"}, {"id": "lobby_morning_10806_1", "desc": "Morning Greeting", "dlg": "Our body is our frequency ... we still have a morning document."}, {"id": "lobby_noon_10806_1", "desc": "Afternoon Greeting", "dlg": "Well, eat me anything before."}, {"id": "lobby_night_10806_1", "desc": "Evening Greeting", "dlg": "He ... I can wear sunglasses for night's training."}, {"id": "smalltalk_10806_1", "desc": "Chatter #1", "dlg": "I often go here."}, {"id": "smalltalk_10806_2", "desc": "Chatter #2", "dlg": "Muston hit Meston's clothing."}, {"id": "smalltalk_10806_3", "desc": "Chatter #3", "dlg": "It seems to us that it is good ... we understand it and sometimes we go to shoulders.\nHammah, but it is still not registered."}, {"id": "smalltalk_10806_4", "desc": "Post-Uptie Chat 1", "dlg": "LEUs provide many martial arts and technology arts to learn many opportunities."}, {"id": "smalltalk_10806_5", "desc": "Post-Uptie Chat 2", "dlg": "Hello ... you want to know how to deal with a sharp weapon?"}, {"id": "gacksung_10806_1", "desc": "Uptying", "dlg": "... nice like that."}, {"id": "neglect_10806_1", "desc": "Idle", "dlg": "Ok ... I understand ... what should I eat now?"}, {"id": "formation_10806_1", "desc": "Deployment", "dlg": "I'm with you"}, {"id": "battleentry_10806_1", "desc": "Stage Entry", "dlg": "I go to the line of conflict."}, {"id": "battle_select_10806_1", "desc": "Viewed in Battle", "dlg": "Maintain the distance."}, {"id": "battle_endcommand_10806_1", "desc": "Commencing Attack", "dlg": "I will end it right now."}, {"id": "battle_enemy_break_10806_1", "desc": "Enemy Stagger", "dlg": "This is ..."}, {"id": "battle_break_10806_1", "desc": "Staggered", "dlg": "Cog ..."}, {"id": "battle_kill_10806_1", "desc": "Enemy Killed", "dlg": "Found!"}, {"id": "battle_dead_10806_1", "desc": "Death", "dlg": "Ab ... I can ... I really can use ... beef dish ... pasta."}, {"id": "choice_success_p_10806_2", "desc": "Check Passed", "dlg": "This is not a problem."}, {"id": "choice_fail_n_10806_1", "desc": "Check Failed", "dlg": "Teach ... not available."}, {"id": "battle_clear_10806_1", "desc": "Victory Cry", "dlg": "Is that very good?"}, {"id": "battle_clear_ex_10806_1", "desc": "Extra Conditions Fulfilled", "dlg": "Wow ~ a good thing."}, {"id": "battle_defeat_10806_1", "desc": "Defeat Wail", "dlg": "I ... more experience, training, show ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10806_1",
+      "desc": "Identity Acquisition",
+      "dlg": "You call me?"
+    }, {
+      "id": "lobby_morning_10806_1",
+      "desc": "Morning Greeting",
+      "dlg": "Our body is our frequency ... we still have a morning document."
+    }, {
+      "id": "lobby_noon_10806_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Well, eat me anything before."
+    }, {
+      "id": "lobby_night_10806_1",
+      "desc": "Evening Greeting",
+      "dlg": "He ... I can wear sunglasses for night's training."
+    }, {
+      "id": "smalltalk_10806_1",
+      "desc": "Chatter #1",
+      "dlg": "I often go here."
+    }, {
+      "id": "smalltalk_10806_2",
+      "desc": "Chatter #2",
+      "dlg": "Muston hit Meston's clothing."
+    }, {
+      "id": "smalltalk_10806_3",
+      "desc": "Chatter #3",
+      "dlg": "It seems to us that it is good ... we understand it and sometimes we go to shoulders.\nHammah, but it is still not registered."
+    }, {
+      "id": "smalltalk_10806_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "LEUs provide many martial arts and technology arts to learn many opportunities."
+    }, {
+      "id": "smalltalk_10806_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Hello ... you want to know how to deal with a sharp weapon?"
+    }, {
+      "id": "gacksung_10806_1",
+      "desc": "Uptying",
+      "dlg": "... nice like that."
+    }, {
+      "id": "neglect_10806_1",
+      "desc": "Idle",
+      "dlg": "Ok ... I understand ... what should I eat now?"
+    }, {
+      "id": "formation_10806_1",
+      "desc": "Deployment",
+      "dlg": "I'm with you"
+    }, {
+      "id": "battleentry_10806_1",
+      "desc": "Stage Entry",
+      "dlg": "I go to the line of conflict."
+    }, {
+      "id": "battle_select_10806_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Maintain the distance."
+    }, {
+      "id": "battle_endcommand_10806_1",
+      "desc": "Commencing Attack",
+      "dlg": "I will end it right now."
+    }, {
+      "id": "battle_enemy_break_10806_1",
+      "desc": "Enemy Stagger",
+      "dlg": "This is ..."
+    }, {
+      "id": "battle_break_10806_1",
+      "desc": "Staggered",
+      "dlg": "Cog ..."
+    }, {
+      "id": "battle_kill_10806_1",
+      "desc": "Enemy Killed",
+      "dlg": "Found!"
+    }, {
+      "id": "battle_dead_10806_1",
+      "desc": "Death",
+      "dlg": "Ab ... I can ... I really can use ... beef dish ... pasta."
+    }, {
+      "id": "choice_success_p_10806_2",
+      "desc": "Check Passed",
+      "dlg": "This is not a problem."
+    }, {
+      "id": "choice_fail_n_10806_1",
+      "desc": "Check Failed",
+      "dlg": "Teach ... not available."
+    }, {
+      "id": "battle_clear_10806_1",
+      "desc": "Victory Cry",
+      "dlg": "Is that very good?"
+    }, {
+      "id": "battle_clear_ex_10806_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Wow ~ a good thing."
+    }, {
+      "id": "battle_defeat_10806_1",
+      "desc": "Defeat Wail",
+      "dlg": "I ... more experience, training, show ..."
+    }
+  ]
+}

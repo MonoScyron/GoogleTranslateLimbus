@@ -1,1 +1,89 @@
-{"dataList": [{"id": "get_10201_1", "desc": "Identity Acquisition", "dlg": "This gospel."}, {"id": "lobby_morning_10201_1", "desc": "Morning Greeting", "dlg": "After three hours of sleep, I always got up."}, {"id": "lobby_noon_10201_1", "desc": "Afternoon Greeting", "dlg": "In a short time, first is to believe in useful functions in the sun."}, {"id": "lobby_night_10201_1", "desc": "Evening Greeting", "dlg": "Are not very interested, but I really liked the stars."}, {"id": "smalltalk_10201_1", "desc": "Chatter #1", "dlg": "... If you have a kind of person who calls someone, is advised to contact the file before thinking about it."}, {"id": "smalltalk_10201_2", "desc": "Chatter #2", "dlg": "Adjust the amount of other sinners."}, {"id": "smalltalk_10201_3", "desc": "Chatter #3", "dlg": "Daina, I believe you don't say that you want to answer all your questions."}, {"id": "neglect_10201_1", "desc": "Idle", "dlg": "Within the powers is very little deviation."}, {"id": "formation_10201_1", "desc": "Deployment", "dlg": "I will be honored together."}, {"id": "battleentry_10201_1", "desc": "Stage Entry", "dlg": "I will follow you"}, {"id": "battle_select_10201_1", "desc": "Viewed in Battle", "dlg": "What is the manager?"}, {"id": "battle_endcommand_10201_1", "desc": "Commencing Attack", "dlg": "Action."}, {"id": "battle_enemy_break_10201_1", "desc": "Enemy Stagger", "dlg": "This is a chance."}, {"id": "battle_break_10201_1", "desc": "Staggered", "dlg": "Oh!"}, {"id": "battle_kill_10201_1", "desc": "Enemy Killed", "dlg": "Clearly results."}, {"id": "battle_allydead_10201_1", "desc": "Ally Death", "dlg": "It is not the most effective."}, {"id": "choice_success_p_10201_1", "desc": "Check Passed", "dlg": "Do not try to continue this success."}, {"id": "choice_fail_n_10201_1", "desc": "Check Failed", "dlg": "Do not preview this failure."}, {"id": "battle_clear_10201_1", "desc": "Victory Cry", "dlg": "Is there any reason for this hobby?"}, {"id": "battle_clear_ex_10201_1", "desc": "Extra Conditions Fulfilled", "dlg": "Your use.More than expected."}, {"id": "battle_defeat_10201_1", "desc": "Defeat Wail", "dlg": "You have some hopes."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10201_1",
+      "desc": "Identity Acquisition",
+      "dlg": "This gospel."
+    }, {
+      "id": "lobby_morning_10201_1",
+      "desc": "Morning Greeting",
+      "dlg": "After three hours of sleep, I always got up."
+    }, {
+      "id": "lobby_noon_10201_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "In a short time, first is to believe in useful functions in the sun."
+    }, {
+      "id": "lobby_night_10201_1",
+      "desc": "Evening Greeting",
+      "dlg": "Are not very interested, but I really liked the stars."
+    }, {
+      "id": "smalltalk_10201_1",
+      "desc": "Chatter #1",
+      "dlg": "... If you have a kind of person who calls someone, is advised to contact the file before thinking about it."
+    }, {
+      "id": "smalltalk_10201_2",
+      "desc": "Chatter #2",
+      "dlg": "Adjust the amount of other sinners."
+    }, {
+      "id": "smalltalk_10201_3",
+      "desc": "Chatter #3",
+      "dlg": "Daina, I believe you don't say that you want to answer all your questions."
+    }, {
+      "id": "neglect_10201_1",
+      "desc": "Idle",
+      "dlg": "Within the powers is very little deviation."
+    }, {
+      "id": "formation_10201_1",
+      "desc": "Deployment",
+      "dlg": "I will be honored together."
+    }, {
+      "id": "battleentry_10201_1",
+      "desc": "Stage Entry",
+      "dlg": "I will follow you"
+    }, {
+      "id": "battle_select_10201_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What is the manager?"
+    }, {
+      "id": "battle_endcommand_10201_1",
+      "desc": "Commencing Attack",
+      "dlg": "Action."
+    }, {
+      "id": "battle_enemy_break_10201_1",
+      "desc": "Enemy Stagger",
+      "dlg": "This is a chance."
+    }, {
+      "id": "battle_break_10201_1",
+      "desc": "Staggered",
+      "dlg": "Oh!"
+    }, {
+      "id": "battle_kill_10201_1",
+      "desc": "Enemy Killed",
+      "dlg": "Clearly results."
+    }, {
+      "id": "battle_allydead_10201_1",
+      "desc": "Ally Death",
+      "dlg": "It is not the most effective."
+    }, {
+      "id": "choice_success_p_10201_1",
+      "desc": "Check Passed",
+      "dlg": "Do not try to continue this success."
+    }, {
+      "id": "choice_fail_n_10201_1",
+      "desc": "Check Failed",
+      "dlg": "Do not preview this failure."
+    }, {
+      "id": "battle_clear_10201_1",
+      "desc": "Victory Cry",
+      "dlg": "Is there any reason for this hobby?"
+    }, {
+      "id": "battle_clear_ex_10201_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Your use.More than expected."
+    }, {
+      "id": "battle_defeat_10201_1",
+      "desc": "Defeat Wail",
+      "dlg": "You have some hopes."
+    }
+  ]
+}

@@ -620,7 +620,7 @@
       "content": "Connection"
     }, {
       "id": "mirrordungeon_select_theme_pack_at_floor",
-      "content": "Select the flooring {0} Theater package"
+      "content": "Select the flooring {0} theater package"
     }, {
       "id": "mirrordungeon_ego_gift_appear_rate_up",
       "content": "Piece"
@@ -638,7 +638,7 @@
       "content": "Canot"
     }, {
       "id": "side_content_cannot_acquire_specific_ego_gift",
-      "content": "There is no level {0} For example, you can get a gift from this subject."
+      "content": "There is no level {0} for example, you can get a gift from this subject."
     }, {
       "id": "side_content_free_refresh",
       "content": "[Grand Sea of Clouds] The active of war\nFree recovery price"
@@ -689,7 +689,7 @@
       "content": "Again shop"
     }, {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
-      "content": "To enhance the possibility of keyword category in the restoration key \"store\"\nDeleting {0} New price?"
+      "content": "To enhance the possibility of keyword category in the restoration key \"store\"\nDeleting {0} new price?"
     }, {
       "id": "ego_gift_combine_ui_plz_select_keyword",
       "content": "Select Keywords."

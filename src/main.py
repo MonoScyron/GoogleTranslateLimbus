@@ -4,7 +4,13 @@ import shutil
 
 from const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EGO_PATH, NUM_RETRY
 
-# todo: need to fix ego, id, and enemy skills
+# todo: for all bufs, need to change "name" to original value(?)
+#   No!!!! fuck it we bALLLLLLLLLL if shit gets put onto other shit then WHATEVER
+#   need to fix one of the bufs that break the skills entirely tho (it's Bufs_Mirror3)
+#    - maybe because can't have dup names for bufs?
+
+# todo: Issue with sprite name tags not showing up as sprites, specifically VioletResistDown & Choice_90103301
+#   - maybe because can't have dup names for bufs & battle keywords?
 
 LOG = utils.LOG
 

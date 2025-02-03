@@ -1,1 +1,57 @@
-{"dataList": [{"id": "battle_awaken_20901_1", "desc": "E.G.O Activation", "dlg": "I can't cancel anything ..."}, {"id": "battle_awaken_20902_1", "desc": "E.G.O Activation", "dlg": "If a hobby can leave the heart of fire ..."}, {"id": "battle_awaken_20903_1", "desc": "E.G.O Activation", "dlg": "Well, I would never be cool ever."}, {"id": "battle_erosion_20902_1", "desc": "E.G.O Corrosion", "dlg": "In the axis ... the content ..."}, {"id": "battle_erosion_20903_1", "desc": "E.G.O Corrosion", "dlg": "Height is not painful."}, {"id": "battle_awaken_20904_1", "desc": "E.G.O Activation", "dlg": "It is sticky ... you can't escape it!"}, {"id": "battle_erosion_20904_1", "desc": "E.G.O Corrosion", "dlg": "They are ... Ah, Jjju is not to be changed!"}, {"id": "battle_awaken_20905_1", "desc": "E.G.O Activation", "dlg": "You are in writing."}, {"id": "battle_erosion_20905_1", "desc": "E.G.O Corrosion", "dlg": "All will be published in writing."}, {"id": "battle_awaken_20906_1", "desc": "E.G.O Activation", "dlg": "This is the only person who dances in this beautiful dance ...\nSo before cutting the ankle ...!"}, {"id": "battle_erosion_20906_1", "desc": "E.G.O Corrosion", "dlg": "Yes!\nEverything is red and large colors more cruel ...!"}, {"id": "battle_awaken_20907_1", "desc": "E.G.O Activation", "dlg": "A little bear, the dance behind me!"}, {"id": "battle_erosion_20907_1", "desc": "E.G.O Corrosion", "dlg": "Rodia now."}]}
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20901_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I can't cancel anything ..."
+    }, {
+      "id": "battle_awaken_20902_1",
+      "desc": "E.G.O Activation",
+      "dlg": "If a hobby can leave the heart of fire ..."
+    }, {
+      "id": "battle_awaken_20903_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Well, I would never be cool ever."
+    }, {
+      "id": "battle_erosion_20902_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "In the axis ... the content ..."
+    }, {
+      "id": "battle_erosion_20903_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Height is not painful."
+    }, {
+      "id": "battle_awaken_20904_1",
+      "desc": "E.G.O Activation",
+      "dlg": "It is sticky ... you can't escape it!"
+    }, {
+      "id": "battle_erosion_20904_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "They are ... Ah, Jjju is not to be changed!"
+    }, {
+      "id": "battle_awaken_20905_1",
+      "desc": "E.G.O Activation",
+      "dlg": "You are in writing."
+    }, {
+      "id": "battle_erosion_20905_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "All will be published in writing."
+    }, {
+      "id": "battle_awaken_20906_1",
+      "desc": "E.G.O Activation",
+      "dlg": "This is the only person who dances in this beautiful dance ...\nSo before cutting the ankle ...!"
+    }, {
+      "id": "battle_erosion_20906_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Yes!\nEverything is red and large colors more cruel ...!"
+    }, {
+      "id": "battle_awaken_20907_1",
+      "desc": "E.G.O Activation",
+      "dlg": "A little bear, the dance behind me!"
+    }, {
+      "id": "battle_erosion_20907_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Rodia now."
+    }
+  ]
+}

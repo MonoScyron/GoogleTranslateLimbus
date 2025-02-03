@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_7_1", "dlg": "Well, they are the operational areas."}, {"id": "announcer_cheer_7_2", "dlg": "Let us with no harm."}, {"id": "announcer_specialcheer_7_1", "dlg": "You are too big."}, {"id": "announcer_specialcheer_7_2", "dlg": "Hey, please accept."}, {"id": "announcer_enemy_break_7_1", "dlg": "As you can see, there is no enemy that burns the enemy."}, {"id": "announcer_ally_break_7_1", "dlg": "I have an infected friend."}, {"id": "announcer_killenemy_7_1", "dlg": "The goal is fair."}, {"id": "announcer_ally_dead_7_1", "dlg": "Many supported victims."}, {"id": "announcer_enemy_adv_7_1", "dlg": "Maybe you miss ... the new crash."}, {"id": "announcer_ally_adv_7_1", "dlg": "We are very aggressive."}, {"id": "announcer_danger_7_1", "dlg": "This attack will be our biggest last opportunity."}, {"id": "announcer_enemy_specialskill_7_1", "dlg": "Donate to Danger!"}, {"id": "announcer_enemy_specialgimmick_7_1", "dlg": "Wait for a moment ... we have a radar."}, {"id": "announcer_advatk_physical_7_1", "dlg": "Performance Assessment Attack ... positive!"}, {"id": "announcer_disadvatk_physical_7_1", "dlg": "Performance assessment attack ... voice."}, {"id": "announcer_advatk_attr_7_1", "dlg": "Winning technology"}, {"id": "announcer_disadvatk_attr_7_1", "dlg": "It seems to be strategic."}, {"id": "announcer_enemy_specialbuff_7_1", "dlg": "Waiting something ... their morality seems to add something."}, {"id": "announcer_enemy_specialdebuff_7_1", "dlg": "They failed."}, {"id": "announcer_ally_specialbuff_7_1", "dlg": "Oh, you roll."}, {"id": "announcer_ally_specialdebuff_7_1", "dlg": "They ... our friends measure themselves."}, {"id": "announcer_enemy_destroy_7_1", "dlg": "Oh, you have broken this section."}, {"id": "announcer_enemy_destroy_7_2", "dlg": "You can add broken pieces."}, {"id": "announcer_round_takebigdmg_7_1", "dlg": "Your friend hurts!"}, {"id": "announcer_round_takebigdmg_7_2", "dlg": "Many of us have attacked ... get down and collect again."}, {"id": "announcer_round_givebigdmg_7_1", "dlg": "Click immediately!"}, {"id": "announcer_round_givebigdmg_7_2", "dlg": "Wow ~ I think all day."}, {"id": "announcer_multikillenemy_7_1", "dlg": "Made up to unwanted victims."}, {"id": "announcer_equip_7_1", "dlg": "Hey, approval."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_7_1",
+      "dlg": "Well, they are the operational areas."
+    }, {
+      "id": "announcer_cheer_7_2",
+      "dlg": "Let us with no harm."
+    }, {
+      "id": "announcer_specialcheer_7_1",
+      "dlg": "You are too big."
+    }, {
+      "id": "announcer_specialcheer_7_2",
+      "dlg": "Hey, please accept."
+    }, {
+      "id": "announcer_enemy_break_7_1",
+      "dlg": "As you can see, there is no enemy that burns the enemy."
+    }, {
+      "id": "announcer_ally_break_7_1",
+      "dlg": "I have an infected friend."
+    }, {
+      "id": "announcer_killenemy_7_1",
+      "dlg": "The goal is fair."
+    }, {
+      "id": "announcer_ally_dead_7_1",
+      "dlg": "Many supported victims."
+    }, {
+      "id": "announcer_enemy_adv_7_1",
+      "dlg": "Maybe you miss ... the new crash."
+    }, {
+      "id": "announcer_ally_adv_7_1",
+      "dlg": "We are very aggressive."
+    }, {
+      "id": "announcer_danger_7_1",
+      "dlg": "This attack will be our biggest last opportunity."
+    }, {
+      "id": "announcer_enemy_specialskill_7_1",
+      "dlg": "Donate to Danger!"
+    }, {
+      "id": "announcer_enemy_specialgimmick_7_1",
+      "dlg": "Wait for a moment ... we have a radar."
+    }, {
+      "id": "announcer_advatk_physical_7_1",
+      "dlg": "Performance Assessment Attack ... positive!"
+    }, {
+      "id": "announcer_disadvatk_physical_7_1",
+      "dlg": "Performance assessment attack ... voice."
+    }, {
+      "id": "announcer_advatk_attr_7_1",
+      "dlg": "Winning technology"
+    }, {
+      "id": "announcer_disadvatk_attr_7_1",
+      "dlg": "It seems to be strategic."
+    }, {
+      "id": "announcer_enemy_specialbuff_7_1",
+      "dlg": "Waiting something ... their morality seems to add something."
+    }, {
+      "id": "announcer_enemy_specialdebuff_7_1",
+      "dlg": "They failed."
+    }, {
+      "id": "announcer_ally_specialbuff_7_1",
+      "dlg": "Oh, you roll."
+    }, {
+      "id": "announcer_ally_specialdebuff_7_1",
+      "dlg": "They ... our friends measure themselves."
+    }, {
+      "id": "announcer_enemy_destroy_7_1",
+      "dlg": "Oh, you have broken this section."
+    }, {
+      "id": "announcer_enemy_destroy_7_2",
+      "dlg": "You can add broken pieces."
+    }, {
+      "id": "announcer_round_takebigdmg_7_1",
+      "dlg": "Your friend hurts!"
+    }, {
+      "id": "announcer_round_takebigdmg_7_2",
+      "dlg": "Many of us have attacked ... get down and collect again."
+    }, {
+      "id": "announcer_round_givebigdmg_7_1",
+      "dlg": "Click immediately!"
+    }, {
+      "id": "announcer_round_givebigdmg_7_2",
+      "dlg": "Wow ~ I think all day."
+    }, {
+      "id": "announcer_multikillenemy_7_1",
+      "dlg": "Made up to unwanted victims."
+    }, {
+      "id": "announcer_equip_7_1",
+      "dlg": "Hey, approval."
+    }
+  ]
+}

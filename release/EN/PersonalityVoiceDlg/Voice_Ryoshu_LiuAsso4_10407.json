@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10407_1", "desc": "Identity Acquisition", "dlg": "Do you want to check the artwork in the training room?"}, {"id": "lobby_morning_10407_1", "desc": "Morning Greeting", "dlg": "Comcoming ... they should again breakfast.\nHMPH and delicious foods are not suitable for good training."}, {"id": "lobby_noon_10407_1", "desc": "Afternoon Greeting", "dlg": "Are you at the afternoon?"}, {"id": "lobby_night_10407_1", "desc": "Evening Greeting", "dlg": "When they lay down and stay awake, they began to sleep.\nIn addition, gold with this toy.It is more comfortable than expected."}, {"id": "smalltalk_10407_1", "desc": "Chatter #1", "dlg": "It is called.\nBut his sole is me got everything."}, {"id": "smalltalk_10407_2", "desc": "Chatter #2", "dlg": "Strong fireworks, effective ... anemia and weaknesses.\nThe only way to change the fire is upsetting the fire."}, {"id": "smalltalk_10407_3", "desc": "Chatter #3", "dlg": "A fire effective impulse turns away the tattoo, as shown strong tattoos, as hell and the skin is shown in different colors.\n... this skin is covered with ... you're strong."}, {"id": "smalltalk_10407_4", "desc": "Post-Uptie Chat 1", "dlg": "Yes!\nIt is interesting to meet you when you think life is, but to see twenty shape."}, {"id": "smalltalk_10407_5", "desc": "Post-Uptie Chat 2", "dlg": "C price p.\nThink about a glass of glass on a plate."}, {"id": "neglect_10407_1", "desc": "Idle", "dlg": "Or."}, {"id": "gacksung_10407_1", "desc": "Uptying", "dlg": "The head of the section ... I think it's useless voice, but he taught these useful skills."}, {"id": "formation_10407_1", "desc": "Deployment", "dlg": "Where I am"}, {"id": "battleentry_10407_1", "desc": "Stage Entry", "dlg": "The speed of toys ... it's interesting."}, {"id": "battle_select_10407_1", "desc": "Viewed in Battle", "dlg": "I'm trying to focus."}, {"id": "battle_endcommand_10407_1", "desc": "Commencing Attack", "dlg": "The first model!"}, {"id": "battle_enemy_break_10407_1", "desc": "Enemy Stagger", "dlg": "I got up"}, {"id": "battle_break_10407_1", "desc": "Staggered", "dlg": "You ..."}, {"id": "battle_kill_10407_1", "desc": "Enemy Killed", "dlg": "Tsk, certainly useless."}, {"id": "battle_dead_10407_1", "desc": "Death", "dlg": "Hack ... it ... DJM Exercise ... Training Equipment is not enough."}, {"id": "choice_success_p_10407_2", "desc": "Check Passed", "dlg": "How will the garbage live?"}, {"id": "choice_fail_n_10407_1", "desc": "Check Failed", "dlg": "For this reason I lost my time."}, {"id": "battle_clear_10407_1", "desc": "Victory Cry", "dlg": "Darling."}, {"id": "battle_clear_ex_10407_1", "desc": "Extra Conditions Fulfilled", "dlg": "This training is not included in toys ... This success is boring."}, {"id": "battle_defeat_10407_1", "desc": "Defeat Wail", "dlg": "We lost ...?"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10407_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Do you want to check the artwork in the training room?"
+    }, {
+      "id": "lobby_morning_10407_1",
+      "desc": "Morning Greeting",
+      "dlg": "Comcoming ... they should again breakfast.\nHMPH and delicious foods are not suitable for good training."
+    }, {
+      "id": "lobby_noon_10407_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Are you at the afternoon?"
+    }, {
+      "id": "lobby_night_10407_1",
+      "desc": "Evening Greeting",
+      "dlg": "When they lay down and stay awake, they began to sleep.\nIn addition, gold with this toy.It is more comfortable than expected."
+    }, {
+      "id": "smalltalk_10407_1",
+      "desc": "Chatter #1",
+      "dlg": "It is called.\nBut his sole is me got everything."
+    }, {
+      "id": "smalltalk_10407_2",
+      "desc": "Chatter #2",
+      "dlg": "Strong fireworks, effective ... anemia and weaknesses.\nThe only way to change the fire is upsetting the fire."
+    }, {
+      "id": "smalltalk_10407_3",
+      "desc": "Chatter #3",
+      "dlg": "A fire effective impulse turns away the tattoo, as shown strong tattoos, as hell and the skin is shown in different colors.\n... this skin is covered with ... you're strong."
+    }, {
+      "id": "smalltalk_10407_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Yes!\nIt is interesting to meet you when you think life is, but to see twenty shape."
+    }, {
+      "id": "smalltalk_10407_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "C price p.\nThink about a glass of glass on a plate."
+    }, {
+      "id": "neglect_10407_1",
+      "desc": "Idle",
+      "dlg": "Or."
+    }, {
+      "id": "gacksung_10407_1",
+      "desc": "Uptying",
+      "dlg": "The head of the section ... I think it's useless voice, but he taught these useful skills."
+    }, {
+      "id": "formation_10407_1",
+      "desc": "Deployment",
+      "dlg": "Where I am"
+    }, {
+      "id": "battleentry_10407_1",
+      "desc": "Stage Entry",
+      "dlg": "The speed of toys ... it's interesting."
+    }, {
+      "id": "battle_select_10407_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I'm trying to focus."
+    }, {
+      "id": "battle_endcommand_10407_1",
+      "desc": "Commencing Attack",
+      "dlg": "The first model!"
+    }, {
+      "id": "battle_enemy_break_10407_1",
+      "desc": "Enemy Stagger",
+      "dlg": "I got up"
+    }, {
+      "id": "battle_break_10407_1",
+      "desc": "Staggered",
+      "dlg": "You ..."
+    }, {
+      "id": "battle_kill_10407_1",
+      "desc": "Enemy Killed",
+      "dlg": "Tsk, certainly useless."
+    }, {
+      "id": "battle_dead_10407_1",
+      "desc": "Death",
+      "dlg": "Hack ... it ... DJM Exercise ... Training Equipment is not enough."
+    }, {
+      "id": "choice_success_p_10407_2",
+      "desc": "Check Passed",
+      "dlg": "How will the garbage live?"
+    }, {
+      "id": "choice_fail_n_10407_1",
+      "desc": "Check Failed",
+      "dlg": "For this reason I lost my time."
+    }, {
+      "id": "battle_clear_10407_1",
+      "desc": "Victory Cry",
+      "dlg": "Darling."
+    }, {
+      "id": "battle_clear_ex_10407_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This training is not included in toys ... This success is boring."
+    }, {
+      "id": "battle_defeat_10407_1",
+      "desc": "Defeat Wail",
+      "dlg": "We lost ...?"
+    }
+  ]
+}

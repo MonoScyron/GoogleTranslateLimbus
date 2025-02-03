@@ -5,10 +5,10 @@
       "content": "<color=#ebcaa2>There will be a full old umbrella</color> A common share<color=#00ff9c>Up to 30.</color>"
     }, {
       "id": "853901_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} ticket sales</color>"
     }, {
       "id": "853901_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} ticket sales</color>"
     }, {
       "id": "854101_success_1_1",
       "content": "<color=#ebcaa2>[{0}] Enthusiastic {2} [{1}] …….</color>"
@@ -23,13 +23,13 @@
       "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……."
     }, {
       "id": "854201_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} hard power</color>"
     }, {
       "id": "854201_success_1_2",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……. {4} [{3}] And and {6} [{5}] ……."
     }, {
       "id": "854201_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} hard power</color>"
     }, {
       "id": "854201_failure_1_2",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……. {4} [{3}] And and {6} [{5}] ……."
@@ -41,16 +41,16 @@
       "content": "[{0}] Fork<color=#00ff9c> {2} {1}</color> Valley"
     }, {
       "id": "854401_failure_1_1",
-      "content": "<color=#ebcaa2>All {1} Remove</color> By<color=#ebcaa2>[{0}]</color>"
+      "content": "<color=#ebcaa2>All {1} remove</color> By<color=#ebcaa2>[{0}]</color>"
     }, {
       "id": "854501_success_1_1",
-      "content": "<color=#ebcaa2> {0} Very pleasant</color>"
+      "content": "<color=#ebcaa2> {0} very pleasant</color>"
     }, {
       "id": "854501_success_1_2",
       "content": "<color=#ebcaa2>[{0}] Fork</color> {2} <color=#e30000>[{1}]</color>Intersection"
     }, {
       "id": "854501_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} love.</color>"
     }, {
       "id": "854901_success_1_1",
       "content": "<color=#ebcaa2>Villa is very easy!</color>"
@@ -68,7 +68,7 @@
       "content": "<color=#ebcaa2>[{0}] Fork</color> <color=#e30000> {2} [{1}]</color>"
     }, {
       "id": "855001_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}] Epidemic</color> <color=#e30000>Up to 20 {1} Love)</color>"
+      "content": "<color=#ebcaa2>[{0}] Epidemic</color> <color=#e30000>Up to 20 {1} love)</color>"
     }, {
       "id": "855501_success_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Epidemic</color> <color=#e30000> {2} {1}</color>"

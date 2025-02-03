@@ -48,7 +48,7 @@
         {
           "level": 1,
           "name": "Do you think about blood today?",
-          "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Use up to 30 [BloodDinner]Auxiliary assistants (minimum ('),[BloodDinner] Consumption x 2).",
+          "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Use up to 30 [BloodDinner]Auxiliary assistants (minimum, [BloodDinner] Consumption x 2).",
           "coinlist": [
             {
               "coindescs": [
@@ -72,7 +72,7 @@
         {
           "level": 1,
           "name": "You still think about blood?",
-          "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Up to 20 [BloodDinner]However, friendly and friendly (abstract) and accessories (core and partitions)[BloodDinner] Consumption x 2).\n-Po if you don't have friends, a double ring will be compared.",
+          "desc": "[WhenUse] Get 10 [Laceration]\n[WhenUse] Up to 20 [BloodDinner]However, friendly and friendly (abstract) and accessories (core and partitions) [BloodDinner] Consumption x 2).\n-Po if you don't have friends, a double ring will be compared.",
           "coinlist": [
             {
               "coindescs": [
@@ -890,7 +890,7 @@
         {
           "level": 1,
           "name": "Power",
-          "desc": "[StartBattle] 2 get (receive[DefenseUp] Yourself in itself) Shells HP (20 or 2 times round)",
+          "desc": "[StartBattle] 2 get (receive [DefenseUp] Yourself in itself) Shells HP (20 or 2 times round)",
           "coinlist": [
             {
               "coindescs": [

@@ -68,13 +68,13 @@
       "content": "Dark"
     }, {
       "id": "giving_up_hells_chicken_dungeon_content",
-      "content": "You are currently in the study {0}Intersection\nWill you progress and enter the new dark?"
+      "content": "You are currently in the study {0} intersection\nWill you progress and enter the new dark?"
     }, {
       "id": "hells_chicken_dungeon_error_desc",
       "content": "Server errors have lost data.\nIf there is a feature, the input is returned by the Equalin device."
     }, {
       "id": "only_giving_up_hells_chicken_dungeon_content",
-      "content": "{0} Post execution.\nDo you believe you want to lose?"
+      "content": "{0} post execution.\nDo you believe you want to lose?"
     }, {
       "id": "hells_chicken_dungeon_stage_button_locked",
       "content": "The first is more obviously III."

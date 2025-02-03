@@ -1,1 +1,57 @@
-{"dataList": [{"id": "battle_awaken_21201_1", "desc": "E.G.O Activation", "dlg": "My hands have changed ..."}, {"id": "battle_awaken_21202_1", "desc": "E.G.O Activation", "dlg": "Listen, can you wait?"}, {"id": "battle_erosion_21202_1", "desc": "E.G.O Corrosion", "dlg": "Together ... we are bad."}, {"id": "battle_awaken_21203_1", "desc": "E.G.O Activation", "dlg": "How did you read this story?"}, {"id": "battle_erosion_21203_1", "desc": "E.G.O Corrosion", "dlg": "It's too late ... everyone is attractive."}, {"id": "battle_awaken_21204_1", "desc": "E.G.O Activation", "dlg": "Okay, try to stop it ... you will kill him to kill him."}, {"id": "battle_erosion_21204_1", "desc": "E.G.O Corrosion", "dlg": "Tongue ... are you a new test?"}, {"id": "battle_awaken_21205_1", "desc": "E.G.O Activation", "dlg": "I can't tell you that you will give you ... yes!"}, {"id": "battle_erosion_21205_1", "desc": "E.G.O Corrosion", "dlg": "The intersection is not broken down this brush."}, {"id": "battle_awaken_21206_1", "desc": "E.G.O Activation", "dlg": "Define this place ..."}, {"id": "battle_erosion_21206_1", "desc": "E.G.O Corrosion", "dlg": "Butter ... where is this home manager?"}, {"id": "battle_awaken_21207_1", "desc": "E.G.O Activation", "dlg": "Danger, depressed children ... \nAs long as I am unhappy about it, I can't."}, {"id": "battle_erosion_21207_1", "desc": "E.G.O Corrosion", "dlg": "This belief is only an empty desire.\nDrink deep, drink slowly at night."}]}
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_21201_1",
+      "desc": "E.G.O Activation",
+      "dlg": "My hands have changed ..."
+    }, {
+      "id": "battle_awaken_21202_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Listen, can you wait?"
+    }, {
+      "id": "battle_erosion_21202_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Together ... we are bad."
+    }, {
+      "id": "battle_awaken_21203_1",
+      "desc": "E.G.O Activation",
+      "dlg": "How did you read this story?"
+    }, {
+      "id": "battle_erosion_21203_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "It's too late ... everyone is attractive."
+    }, {
+      "id": "battle_awaken_21204_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Okay, try to stop it ... you will kill him to kill him."
+    }, {
+      "id": "battle_erosion_21204_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Tongue ... are you a new test?"
+    }, {
+      "id": "battle_awaken_21205_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I can't tell you that you will give you ... yes!"
+    }, {
+      "id": "battle_erosion_21205_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "The intersection is not broken down this brush."
+    }, {
+      "id": "battle_awaken_21206_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Define this place ..."
+    }, {
+      "id": "battle_erosion_21206_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Butter ... where is this home manager?"
+    }, {
+      "id": "battle_awaken_21207_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Danger, depressed children ... \nAs long as I am unhappy about it, I can't."
+    }, {
+      "id": "battle_erosion_21207_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "This belief is only an empty desire.\nDrink deep, drink slowly at night."
+    }
+  ]
+}

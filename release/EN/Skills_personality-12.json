@@ -448,7 +448,7 @@
                 {
                   "desc": "[OnSucceedAttack] Apps violate less than 1 level"
                 }, {
-                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]The following power supply is suitable for electricity"
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration] The following power supply is suitable for electricity"
                 }
               ]
             }
@@ -469,7 +469,7 @@
                 {
                   "desc": "[OnSucceedAttack] Apps violate less than 1 level"
                 }, {
-                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]The following power supply is suitable for electricity"
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration] The following power supply is suitable for electricity"
                 }
               ]
             }
@@ -477,7 +477,7 @@
         }, {
           "level": 4,
           "name": "Clouds",
-          "desc": "[WhenUse] Target 7+ [Laceration]Power Crash 2",
+          "desc": "[WhenUse] Target 7+ [Laceration] Power Crash 2",
           "coinlist": [
             {
               "coindescs": [
@@ -490,7 +490,7 @@
                 {
                   "desc": "[OnSucceedAttack] Apps violate less than 1 level"
                 }, {
-                  "desc": "[OnSucceedAttack] Target 7+ [Laceration]The following power supply is suitable for electricity"
+                  "desc": "[OnSucceedAttack] Target 7+ [Laceration] The following power supply is suitable for electricity"
                 }
               ]
             }
@@ -510,7 +510,7 @@
                 {
                   "desc": "[OnSucceedAttack] Apps violate less than 1 level"
                 }, {
-                  "desc": "[OnSucceedAttack] Target 7+ [Laceration]In the stages of illegal behavior in the next stage of 1"
+                  "desc": "[OnSucceedAttack] Target 7+ [Laceration] In the stages of illegal behavior in the next stage of 1"
                 }
               ]
             }, {
@@ -518,7 +518,7 @@
                 {
                   "desc": "[OnSucceedAttack] Apps violate less than 1 level"
                 }, {
-                  "desc": "[OnSucceedAttack] Target 7+ [Laceration]In the stages of illegal behavior in the next stage of 1"
+                  "desc": "[OnSucceedAttack] Target 7+ [Laceration] In the stages of illegal behavior in the next stage of 1"
                 }
               ]
             }, {
@@ -539,7 +539,7 @@
                 {
                   "desc": "[OnSucceedAttack] Apps violate less than 1 level"
                 }, {
-                  "desc": "[OnSucceedAttack] Target 7+ [Laceration]In the stages of illegal behavior in the next stage of 1"
+                  "desc": "[OnSucceedAttack] Target 7+ [Laceration] In the stages of illegal behavior in the next stage of 1"
                 }
               ]
             }, {

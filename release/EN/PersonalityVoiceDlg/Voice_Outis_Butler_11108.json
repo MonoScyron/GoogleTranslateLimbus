@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11108_1", "desc": "Identity Acquisition", "dlg": "You will not reach this castle furniture without obvious permission."}, {"id": "lobby_morning_11108_1", "desc": "Morning Greeting", "dlg": "When you suck the country's house."}, {"id": "lobby_noon_11108_1", "desc": "Afternoon Greeting", "dlg": "According to this quarter, you need to warm cold bones."}, {"id": "lobby_night_11108_1", "desc": "Evening Greeting", "dlg": "The law of the temple ... Open the window ... so my friend's voice is more clear in my ears."}, {"id": "smalltalk_11108_1", "desc": "Chatter #1", "dlg": "Don't ask if I am looking for things."}, {"id": "smalltalk_11108_2", "desc": "Chatter #2", "dlg": "Two teaspoons-gums and hot but funny.\n... Wuing winding cannot be removed in the evening and prepare to prepare for our region."}, {"id": "smalltalk_11108_3", "desc": "Chatter #3", "dlg": "My line returned to the rest of the bowl."}, {"id": "smalltalk_11108_4", "desc": "Post-Uptie Chat 1", "dlg": "In some cases, when the throat is dry and thirst, I suggest a collection, and when it is a kind of water, I am waiting for this regrets."}, {"id": "smalltalk_11108_5", "desc": "Post-Uptie Chat 2", "dlg": "We came here with this country."}, {"id": "neglect_11108_1", "desc": "Idle", "dlg": "Here he temporarily increase his presence."}, {"id": "gacksung_11108_1", "desc": "Uptying", "dlg": "Hey, the gift to the teacher."}, {"id": "formation_11108_1", "desc": "Deployment", "dlg": "Time to attract discomfort guests."}, {"id": "battleentry_11108_1", "desc": "Stage Entry", "dlg": "The next handle is back."}, {"id": "battle_select_11108_1", "desc": "Viewed in Battle", "dlg": "You don't like something?"}, {"id": "battle_endcommand_11108_1", "desc": "Commencing Attack", "dlg": "If someone dares to control this country, I love them ..."}, {"id": "battle_enemy_break_11108_1", "desc": "Enemy Stagger", "dlg": "Now you are leftist or brutal guests."}, {"id": "battle_break_11108_1", "desc": "Staggered", "dlg": "Oh, I put this kind of hippog, you have attracted me ..."}, {"id": "battle_kill_11108_1", "desc": "Enemy Killed", "dlg": "Do not remove items from the garden."}, {"id": "battle_dead_11108_1", "desc": "Death", "dlg": "No., not water yet ... no ..."}, {"id": "choice_success_p_11108_2", "desc": "Check Passed", "dlg": "I will do this as per your request."}, {"id": "choice_fail_n_11108_1", "desc": "Check Failed", "dlg": "This is my fault."}, {"id": "battle_clear_11108_1", "desc": "Victory Cry", "dlg": "Let's look back to the height of the water."}, {"id": "battle_clear_ex_11108_1", "desc": "Extra Conditions Fulfilled", "dlg": "Hello, you witnessed me and all guests were made and violated."}, {"id": "battle_defeat_11108_1", "desc": "Defeat Wail", "dlg": "My deeper apple, master."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11108_1",
+      "desc": "Identity Acquisition",
+      "dlg": "You will not reach this castle furniture without obvious permission."
+    }, {
+      "id": "lobby_morning_11108_1",
+      "desc": "Morning Greeting",
+      "dlg": "When you suck the country's house."
+    }, {
+      "id": "lobby_noon_11108_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "According to this quarter, you need to warm cold bones."
+    }, {
+      "id": "lobby_night_11108_1",
+      "desc": "Evening Greeting",
+      "dlg": "The law of the temple ... Open the window ... so my friend's voice is more clear in my ears."
+    }, {
+      "id": "smalltalk_11108_1",
+      "desc": "Chatter #1",
+      "dlg": "Don't ask if I am looking for things."
+    }, {
+      "id": "smalltalk_11108_2",
+      "desc": "Chatter #2",
+      "dlg": "Two teaspoons-gums and hot but funny.\n... Wuing winding cannot be removed in the evening and prepare to prepare for our region."
+    }, {
+      "id": "smalltalk_11108_3",
+      "desc": "Chatter #3",
+      "dlg": "My line returned to the rest of the bowl."
+    }, {
+      "id": "smalltalk_11108_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "In some cases, when the throat is dry and thirst, I suggest a collection, and when it is a kind of water, I am waiting for this regrets."
+    }, {
+      "id": "smalltalk_11108_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "We came here with this country."
+    }, {
+      "id": "neglect_11108_1",
+      "desc": "Idle",
+      "dlg": "Here he temporarily increase his presence."
+    }, {
+      "id": "gacksung_11108_1",
+      "desc": "Uptying",
+      "dlg": "Hey, the gift to the teacher."
+    }, {
+      "id": "formation_11108_1",
+      "desc": "Deployment",
+      "dlg": "Time to attract discomfort guests."
+    }, {
+      "id": "battleentry_11108_1",
+      "desc": "Stage Entry",
+      "dlg": "The next handle is back."
+    }, {
+      "id": "battle_select_11108_1",
+      "desc": "Viewed in Battle",
+      "dlg": "You don't like something?"
+    }, {
+      "id": "battle_endcommand_11108_1",
+      "desc": "Commencing Attack",
+      "dlg": "If someone dares to control this country, I love them ..."
+    }, {
+      "id": "battle_enemy_break_11108_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Now you are leftist or brutal guests."
+    }, {
+      "id": "battle_break_11108_1",
+      "desc": "Staggered",
+      "dlg": "Oh, I put this kind of hippog, you have attracted me ..."
+    }, {
+      "id": "battle_kill_11108_1",
+      "desc": "Enemy Killed",
+      "dlg": "Do not remove items from the garden."
+    }, {
+      "id": "battle_dead_11108_1",
+      "desc": "Death",
+      "dlg": "No., not water yet ... no ..."
+    }, {
+      "id": "choice_success_p_11108_2",
+      "desc": "Check Passed",
+      "dlg": "I will do this as per your request."
+    }, {
+      "id": "choice_fail_n_11108_1",
+      "desc": "Check Failed",
+      "dlg": "This is my fault."
+    }, {
+      "id": "battle_clear_11108_1",
+      "desc": "Victory Cry",
+      "dlg": "Let's look back to the height of the water."
+    }, {
+      "id": "battle_clear_ex_11108_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Hello, you witnessed me and all guests were made and violated."
+    }, {
+      "id": "battle_defeat_11108_1",
+      "desc": "Defeat Wail",
+      "dlg": "My deeper apple, master."
+    }
+  ]
+}

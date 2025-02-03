@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10504_1", "desc": "Identity Acquisition", "dlg": "This is a hammer."}, {"id": "lobby_morning_10504_1", "desc": "Morning Greeting", "dlg": "The disciplinary time was."}, {"id": "lobby_noon_10504_1", "desc": "Afternoon Greeting", "dlg": "I met this text."}, {"id": "lobby_night_10504_1", "desc": "Evening Greeting", "dlg": "I retire you to save my strength ... I have to follow the question."}, {"id": "smalltalk_10504_1", "desc": "Chatter #1", "dlg": "I didn't forget anyone."}, {"id": "smalltalk_10504_2", "desc": "Chatter #2", "dlg": "So you want to use this nail."}, {"id": "smalltalk_10504_3", "desc": "Chatter #3", "dlg": "This mask is rented by a thief."}, {"id": "smalltalk_10504_4", "desc": "Post-Uptie Chat 1", "dlg": "... I recently said that there was an option to work for norms."}, {"id": "smalltalk_10504_5", "desc": "Post-Uptie Chat 2", "dlg": "I use it to hammer and take my nails."}, {"id": "neglect_10504_1", "desc": "Idle", "dlg": "Wait for the hammer in this place."}, {"id": "gacksung_10504_1", "desc": "Uptying", "dlg": "I think if I would be gathered by insisting on agreement."}, {"id": "formation_10504_1", "desc": "Deployment", "dlg": "I am here."}, {"id": "battleentry_10504_1", "desc": "Stage Entry", "dlg": "I can't rest in the underground."}, {"id": "battle_select_10504_1", "desc": "Viewed in Battle", "dlg": "I save you."}, {"id": "battle_endcommand_10504_1", "desc": "Commencing Attack", "dlg": "Sorry."}, {"id": "battle_enemy_break_10504_1", "desc": "Enemy Stagger", "dlg": "Useful opposition."}, {"id": "battle_break_10504_1", "desc": "Staggered", "dlg": "This bad faith"}, {"id": "battle_kill_10504_1", "desc": "Enemy Killed", "dlg": "Scientists are obvious."}, {"id": "battle_dead_10504_1", "desc": "Death", "dlg": "Useful ... finally your back ..."}, {"id": "choice_success_p_10504_2", "desc": "Check Passed", "dlg": "He asked me to ask."}, {"id": "choice_fail_n_10504_1", "desc": "Check Failed", "dlg": "The execution is wrong."}, {"id": "battle_clear_10504_1", "desc": "Victory Cry", "dlg": "If he is very happy with me."}, {"id": "battle_clear_ex_10504_1", "desc": "Extra Conditions Fulfilled", "dlg": "I will get this success."}, {"id": "battle_defeat_10504_1", "desc": "Defeat Wail", "dlg": "Everything ... my weakness ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10504_1",
+      "desc": "Identity Acquisition",
+      "dlg": "This is a hammer."
+    }, {
+      "id": "lobby_morning_10504_1",
+      "desc": "Morning Greeting",
+      "dlg": "The disciplinary time was."
+    }, {
+      "id": "lobby_noon_10504_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I met this text."
+    }, {
+      "id": "lobby_night_10504_1",
+      "desc": "Evening Greeting",
+      "dlg": "I retire you to save my strength ... I have to follow the question."
+    }, {
+      "id": "smalltalk_10504_1",
+      "desc": "Chatter #1",
+      "dlg": "I didn't forget anyone."
+    }, {
+      "id": "smalltalk_10504_2",
+      "desc": "Chatter #2",
+      "dlg": "So you want to use this nail."
+    }, {
+      "id": "smalltalk_10504_3",
+      "desc": "Chatter #3",
+      "dlg": "This mask is rented by a thief."
+    }, {
+      "id": "smalltalk_10504_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "... I recently said that there was an option to work for norms."
+    }, {
+      "id": "smalltalk_10504_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I use it to hammer and take my nails."
+    }, {
+      "id": "neglect_10504_1",
+      "desc": "Idle",
+      "dlg": "Wait for the hammer in this place."
+    }, {
+      "id": "gacksung_10504_1",
+      "desc": "Uptying",
+      "dlg": "I think if I would be gathered by insisting on agreement."
+    }, {
+      "id": "formation_10504_1",
+      "desc": "Deployment",
+      "dlg": "I am here."
+    }, {
+      "id": "battleentry_10504_1",
+      "desc": "Stage Entry",
+      "dlg": "I can't rest in the underground."
+    }, {
+      "id": "battle_select_10504_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I save you."
+    }, {
+      "id": "battle_endcommand_10504_1",
+      "desc": "Commencing Attack",
+      "dlg": "Sorry."
+    }, {
+      "id": "battle_enemy_break_10504_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Useful opposition."
+    }, {
+      "id": "battle_break_10504_1",
+      "desc": "Staggered",
+      "dlg": "This bad faith"
+    }, {
+      "id": "battle_kill_10504_1",
+      "desc": "Enemy Killed",
+      "dlg": "Scientists are obvious."
+    }, {
+      "id": "battle_dead_10504_1",
+      "desc": "Death",
+      "dlg": "Useful ... finally your back ..."
+    }, {
+      "id": "choice_success_p_10504_2",
+      "desc": "Check Passed",
+      "dlg": "He asked me to ask."
+    }, {
+      "id": "choice_fail_n_10504_1",
+      "desc": "Check Failed",
+      "dlg": "The execution is wrong."
+    }, {
+      "id": "battle_clear_10504_1",
+      "desc": "Victory Cry",
+      "dlg": "If he is very happy with me."
+    }, {
+      "id": "battle_clear_ex_10504_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I will get this success."
+    }, {
+      "id": "battle_defeat_10504_1",
+      "desc": "Defeat Wail",
+      "dlg": "Everything ... my weakness ..."
+    }
+  ]
+}

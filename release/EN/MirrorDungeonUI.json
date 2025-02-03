@@ -53,7 +53,7 @@
       "content": "Do you want to close your current simulation?"
     }, {
       "id": "mirrordungeon_progress_rate_simulation",
-      "content": "{0} Double progress"
+      "content": "{0} double progress"
     }, {
       "id": "mirrordungeon_resume_simulation",
       "content": "Initial simulation"
@@ -74,7 +74,7 @@
       "content": "Stop the test"
     }, {
       "id": "mirrordungeon_dungeon_name_simulation",
-      "content": "{0} Simulation"
+      "content": "{0} simulation"
     }, {
       "id": "mirrordungeon_warning_not_equip_ego",
       "content": "For example, there is no device.\nDo you want to follow?"

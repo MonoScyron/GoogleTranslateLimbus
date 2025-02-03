@@ -1,1 +1,98 @@
-{"dataList": [{"id": "announcer_cheer_1_1", "dlg": "My watch is not a magical treatment."}, {"id": "announcer_cheer_1_2", "dlg": "Take care of your health."}, {"id": "announcer_specialcheer_1_1", "dlg": "Oh ... Is this a bad injury?"}, {"id": "announcer_specialcheer_1_2", "dlg": "I can't take you because you're not dangerous before."}, {"id": "announcer_enemy_break_1_1", "dlg": "The enemy should be attached."}, {"id": "announcer_ally_break_1_1", "dlg": "No, you're dirty ..."}, {"id": "announcer_killenemy_1_1", "dlg": "Well, this kind of sin is to maintain sin."}, {"id": "announcer_ally_dead_1_1", "dlg": "Honey, at least I'll be fine ..."}, {"id": "announcer_enemy_adv_1_1", "dlg": "The enemy removes this relationship."}, {"id": "announcer_ally_adv_1_1", "dlg": "The work seems to be your concern."}, {"id": "announcer_danger_1_1", "dlg": "It seems to be a dangerous moment."}, {"id": "announcer_enemy_specialskill_1_1", "dlg": "I think our enemies will soon work bad things."}, {"id": "announcer_enemy_specialgimmick_1_1", "dlg": "It's only me, it looks bad?"}, {"id": "announcer_advatk_physical_1_1", "dlg": "OK."}, {"id": "announcer_disadvatk_physical_1_1", "dlg": "It is unfortunate."}, {"id": "announcer_advatk_attr_1_1", "dlg": "Shamefully is very impressive."}, {"id": "announcer_disadvatk_attr_1_1", "dlg": "Oh ... this sin is not very effective."}, {"id": "announcer_enemy_specialbuff_1_1", "dlg": "I think they are hidden?"}, {"id": "announcer_enemy_specialdebuff_1_1", "dlg": "Our enemies are looking now."}, {"id": "announcer_ally_specialbuff_1_1", "dlg": "I'm fine."}, {"id": "announcer_ally_specialdebuff_1_1", "dlg": "It looks like a small problem."}, {"id": "announcer_enemy_destroy_1_1", "dlg": "Improve it."}, {"id": "announcer_enemy_destroy_1_2", "dlg": "You break some parts of the enemy."}, {"id": "announcer_round_takebigdmg_1_1", "dlg": "You are seriously injured?"}, {"id": "announcer_round_takebigdmg_1_2", "dlg": "Identity is harmful."}, {"id": "announcer_round_takebigdmg_1_3", "dlg": "Everything."}, {"id": "announcer_round_takebigdmg_1_4", "dlg": "What do you do again"}, {"id": "announcer_multikillenemy_1_1", "dlg": "Seatolled sand."}, {"id": "announcer_equip_1_1", "dlg": "I know this is your old face ... but I'm here."}, {"id": "announcer_a1c5p3_ish_special_1_1", "dlg": "To Slala ... listen to your heart."}, {"id": "announcer_a1c7p3_don_special_1_1", "dlg": "Enter!"}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_1_1",
+      "dlg": "My watch is not a magical treatment."
+    }, {
+      "id": "announcer_cheer_1_2",
+      "dlg": "Take care of your health."
+    }, {
+      "id": "announcer_specialcheer_1_1",
+      "dlg": "Oh ... Is this a bad injury?"
+    }, {
+      "id": "announcer_specialcheer_1_2",
+      "dlg": "I can't take you because you're not dangerous before."
+    }, {
+      "id": "announcer_enemy_break_1_1",
+      "dlg": "The enemy should be attached."
+    }, {
+      "id": "announcer_ally_break_1_1",
+      "dlg": "No, you're dirty ..."
+    }, {
+      "id": "announcer_killenemy_1_1",
+      "dlg": "Well, this kind of sin is to maintain sin."
+    }, {
+      "id": "announcer_ally_dead_1_1",
+      "dlg": "Honey, at least I'll be fine ..."
+    }, {
+      "id": "announcer_enemy_adv_1_1",
+      "dlg": "The enemy removes this relationship."
+    }, {
+      "id": "announcer_ally_adv_1_1",
+      "dlg": "The work seems to be your concern."
+    }, {
+      "id": "announcer_danger_1_1",
+      "dlg": "It seems to be a dangerous moment."
+    }, {
+      "id": "announcer_enemy_specialskill_1_1",
+      "dlg": "I think our enemies will soon work bad things."
+    }, {
+      "id": "announcer_enemy_specialgimmick_1_1",
+      "dlg": "It's only me, it looks bad?"
+    }, {
+      "id": "announcer_advatk_physical_1_1",
+      "dlg": "OK."
+    }, {
+      "id": "announcer_disadvatk_physical_1_1",
+      "dlg": "It is unfortunate."
+    }, {
+      "id": "announcer_advatk_attr_1_1",
+      "dlg": "Shamefully is very impressive."
+    }, {
+      "id": "announcer_disadvatk_attr_1_1",
+      "dlg": "Oh ... this sin is not very effective."
+    }, {
+      "id": "announcer_enemy_specialbuff_1_1",
+      "dlg": "I think they are hidden?"
+    }, {
+      "id": "announcer_enemy_specialdebuff_1_1",
+      "dlg": "Our enemies are looking now."
+    }, {
+      "id": "announcer_ally_specialbuff_1_1",
+      "dlg": "I'm fine."
+    }, {
+      "id": "announcer_ally_specialdebuff_1_1",
+      "dlg": "It looks like a small problem."
+    }, {
+      "id": "announcer_enemy_destroy_1_1",
+      "dlg": "Improve it."
+    }, {
+      "id": "announcer_enemy_destroy_1_2",
+      "dlg": "You break some parts of the enemy."
+    }, {
+      "id": "announcer_round_takebigdmg_1_1",
+      "dlg": "You are seriously injured?"
+    }, {
+      "id": "announcer_round_takebigdmg_1_2",
+      "dlg": "Identity is harmful."
+    }, {
+      "id": "announcer_round_takebigdmg_1_3",
+      "dlg": "Everything."
+    }, {
+      "id": "announcer_round_takebigdmg_1_4",
+      "dlg": "What do you do again"
+    }, {
+      "id": "announcer_multikillenemy_1_1",
+      "dlg": "Seatolled sand."
+    }, {
+      "id": "announcer_equip_1_1",
+      "dlg": "I know this is your old face ... but I'm here."
+    }, {
+      "id": "announcer_a1c5p3_ish_special_1_1",
+      "dlg": "To Slala ... listen to your heart."
+    }, {
+      "id": "announcer_a1c7p3_don_special_1_1",
+      "dlg": "Enter!"
+    }
+  ]
+}

@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] Same account [Vibration] Result"
+                  "desc": "[OnSucceedAttack] To get [Vibration] Same account [Vibration] Result"
                 }, {
                   "desc": "[OnSucceedAttack] App +2 [Vibration] Account"
                 }, {
@@ -75,7 +75,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }
@@ -88,7 +88,7 @@
         {
           "level": 1,
           "name": "Water",
-          "desc": "[StartBattle] 2 get (receive[Vibration] The same) shed hp (up to 20)",
+          "desc": "[StartBattle] 2 get (receive [Vibration] The same) shed hp (up to 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] Is correct [Vibration] Matampon"
+                  "desc": "[OnSucceedAttack] To get [Vibration] Is correct [Vibration] Matampon"
                 }, {
                   "desc": "[OnSucceedAttack] Application 6 [Vibration]"
                 }, {
@@ -169,13 +169,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] Is correct [Vibration] Matampon"
+                  "desc": "[OnSucceedAttack] To get [Vibration] Is correct [Vibration] Matampon"
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }
@@ -188,7 +188,7 @@
         {
           "level": 1,
           "name": "Water",
-          "desc": "[StartBattle] 2 get (receive[Vibration] The same) shed hp (up to 20)",
+          "desc": "[StartBattle] 2 get (receive [Vibration] The same) shed hp (up to 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -265,9 +265,9 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 10+ [Vibration] Trust yourself, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] 10+ [Vibration] Trust yourself, trigger [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 15+ [Vibration] Characters [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] The target is 15+ [Vibration] Characters [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }
@@ -373,11 +373,11 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Blood [Vibration] I believe in myself [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] Blood [Vibration] I believe in myself [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }, {
-                  "desc": "[OnSucceedAttack] Blood [Vibration] I believe in myself [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] Blood [Vibration] I believe in myself [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }, {
-                  "desc": "[OnSucceedAttack] Blood [Vibration] I believe in myself [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] Blood [Vibration] I believe in myself [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }
@@ -453,7 +453,7 @@
                 {
                   "desc": "[OnSucceedAttack] Benefits +2 [Vibration] The next line measure"
                 }, {
-                  "desc": "[OnSucceedAttack] If the goal is 8+ [Vibration]1 apply [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] If the goal is 8+ [Vibration] 1 apply [InterlockingTime]"
                 }, {
                   "desc": "[OnSucceedAttack] 4+ [Vibration] Dimensions, App 8 [Vibration]"
                 }
@@ -605,7 +605,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Admission 2 [Vibration] Trust in activity [VibrationExplosion]Then use this connection"
+                  "desc": "[OnSucceedAttack] Admission 2 [Vibration] Trust in activity [VibrationExplosion] Then use this connection"
                 }, {
                   "desc": "[OnSucceedAttack] Consumption 5 [Vibration] You believe your application 2 [TimeAccumulation]"
                 }
@@ -731,7 +731,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Admission 2 [Vibration] Trust in activity [VibrationExplosion]Then use this connection"
+                  "desc": "[OnSucceedAttack] Admission 2 [Vibration] Trust in activity [VibrationExplosion] Then use this connection"
                 }, {
                   "desc": "[OnSucceedAttack] Consumption 5 [Vibration] You believe your application 2 [TimeAccumulation]"
                 }

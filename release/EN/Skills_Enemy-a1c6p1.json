@@ -55,7 +55,7 @@
                 {
                   "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"
                 }, {
-                  "desc": "If your goal is a metabolism. [VibrationExplosion]Use the connection again"
+                  "desc": "If your goal is a metabolism. [VibrationExplosion] Use the connection again"
                 }
               ]
             }
@@ -117,7 +117,7 @@
                 {
                   "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]"
                 }, {
-                  "desc": "If your goal is a metabolism. [VibrationExplosion]Use the connection again"
+                  "desc": "If your goal is a metabolism. [VibrationExplosion] Use the connection again"
                 }
               ]
             }
@@ -176,7 +176,7 @@
         {
           "level": 1,
           "name": "Weakness ...",
-          "desc": "[WhenUse] If your goal is. [Burst]The basic power on 3 [Burst] Autobcaren person (up to 3)",
+          "desc": "[WhenUse] If your goal is. [Burst] The basic power on 3 [Burst] Autobcaren person (up to 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
         {
           "level": 1,
           "name": "I threw ...",
-          "desc": "[WhenUse] If your goal is. [Burst]Any primary strength [Burst] Target measure (up to 3)",
+          "desc": "[WhenUse] If your goal is. [Burst] Any primary strength [Burst] Target measure (up to 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -452,7 +452,7 @@
         {
           "level": 1,
           "name": "Explosives",
-          "desc": "[WhenUse] 3 apps SP -dames\n[WhenUse] If your goal is. [Burst]The basic power on 3 [Burst] Target measure (up to 3)",
+          "desc": "[WhenUse] 3 apps SP -dames\n[WhenUse] If your goal is. [Burst] The basic power on 3 [Burst] Target measure (up to 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1039,7 +1039,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target 12+ [Laceration]Apply to 3, apply [AttackDown]"
+                  "desc": "[OnSucceedAttack] Target 12+ [Laceration] Apply to 3, apply [AttackDown]"
                 }
               ]
             }, {

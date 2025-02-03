@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10109_1", "desc": "Identity Acquisition", "dlg": "Would you like to be inspired again?"}, {"id": "lobby_morning_10109_1", "desc": "Morning Greeting", "dlg": "Open a strange lab."}, {"id": "lobby_noon_10109_1", "desc": "Afternoon Greeting", "dlg": "Oh, so I want to eat so in 5 seconds."}, {"id": "lobby_night_10109_1", "desc": "Evening Greeting", "dlg": "When the partner has died as a partner, he removed the ability to wake up."}, {"id": "smalltalk_10109_1", "desc": "Chatter #1", "dlg": "I've just hunted but I am very interested in it.\n\"Art Varks\" Mastero Award has been completed ..."}, {"id": "smalltalk_10109_2", "desc": "Chatter #2", "dlg": "Ask ...?\nThis is a very small illegal act."}, {"id": "smalltalk_10109_3", "desc": "Chatter #3", "dlg": "There were no veins in the past.\nOh, you can show you the previous work and show that they are really interesting."}, {"id": "smalltalk_10109_4", "desc": "Post-Uptie Chat 1", "dlg": "F.Hah ... more ... Ah!"}, {"id": "smalltalk_10109_5", "desc": "Post-Uptie Chat 2", "dlg": "I think that your technology is satisfying the spirit of conceptuality."}, {"id": "neglect_10109_1", "desc": "Idle", "dlg": "Oops, if you see the next project, I won't hurt you."}, {"id": "gacksung_10109_1", "desc": "Uptying", "dlg": "Yes, have you recorded?"}, {"id": "formation_10109_1", "desc": "Deployment", "dlg": "Do you want the element ready?"}, {"id": "battleentry_10109_1", "desc": "Stage Entry", "dlg": "It's very interesting."}, {"id": "battle_select_10109_1", "desc": "Viewed in Battle", "dlg": "Do you want my job?"}, {"id": "battle_endcommand_10109_1", "desc": "Commencing Attack", "dlg": "Hard criticism!"}, {"id": "battle_enemy_break_10109_1", "desc": "Enemy Stagger", "dlg": "This is stress."}, {"id": "battle_break_10109_1", "desc": "Staggered", "dlg": "Nick ..."}, {"id": "battle_kill_10109_1", "desc": "Enemy Killed", "dlg": "Finally ... ready."}, {"id": "battle_dead_10109_1", "desc": "Death", "dlg": "Failure in artistic construction work ... really ... death ... more complete ..."}, {"id": "choice_success_p_10109_2", "desc": "Check Passed", "dlg": "This is temporary."}, {"id": "choice_fail_n_10109_1", "desc": "Check Failed", "dlg": "In ... it's an error."}, {"id": "battle_clear_10109_1", "desc": "Victory Cry", "dlg": "This is ... full of zeal."}, {"id": "battle_clear_ex_10109_1", "desc": "Extra Conditions Fulfilled", "dlg": "We've made a full technological trip ... oy, I can't help, but I beat this area when you see the masterroom."}, {"id": "battle_defeat_10109_1", "desc": "Defeat Wail", "dlg": "How terrible is ... the material breaks up and leaves no effect."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10109_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Would you like to be inspired again?"
+    }, {
+      "id": "lobby_morning_10109_1",
+      "desc": "Morning Greeting",
+      "dlg": "Open a strange lab."
+    }, {
+      "id": "lobby_noon_10109_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Oh, so I want to eat so in 5 seconds."
+    }, {
+      "id": "lobby_night_10109_1",
+      "desc": "Evening Greeting",
+      "dlg": "When the partner has died as a partner, he removed the ability to wake up."
+    }, {
+      "id": "smalltalk_10109_1",
+      "desc": "Chatter #1",
+      "dlg": "I've just hunted but I am very interested in it.\n\"Art Varks\" Mastero Award has been completed ..."
+    }, {
+      "id": "smalltalk_10109_2",
+      "desc": "Chatter #2",
+      "dlg": "Ask ...?\nThis is a very small illegal act."
+    }, {
+      "id": "smalltalk_10109_3",
+      "desc": "Chatter #3",
+      "dlg": "There were no veins in the past.\nOh, you can show you the previous work and show that they are really interesting."
+    }, {
+      "id": "smalltalk_10109_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "F.Hah ... more ... Ah!"
+    }, {
+      "id": "smalltalk_10109_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I think that your technology is satisfying the spirit of conceptuality."
+    }, {
+      "id": "neglect_10109_1",
+      "desc": "Idle",
+      "dlg": "Oops, if you see the next project, I won't hurt you."
+    }, {
+      "id": "gacksung_10109_1",
+      "desc": "Uptying",
+      "dlg": "Yes, have you recorded?"
+    }, {
+      "id": "formation_10109_1",
+      "desc": "Deployment",
+      "dlg": "Do you want the element ready?"
+    }, {
+      "id": "battleentry_10109_1",
+      "desc": "Stage Entry",
+      "dlg": "It's very interesting."
+    }, {
+      "id": "battle_select_10109_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Do you want my job?"
+    }, {
+      "id": "battle_endcommand_10109_1",
+      "desc": "Commencing Attack",
+      "dlg": "Hard criticism!"
+    }, {
+      "id": "battle_enemy_break_10109_1",
+      "desc": "Enemy Stagger",
+      "dlg": "This is stress."
+    }, {
+      "id": "battle_break_10109_1",
+      "desc": "Staggered",
+      "dlg": "Nick ..."
+    }, {
+      "id": "battle_kill_10109_1",
+      "desc": "Enemy Killed",
+      "dlg": "Finally ... ready."
+    }, {
+      "id": "battle_dead_10109_1",
+      "desc": "Death",
+      "dlg": "Failure in artistic construction work ... really ... death ... more complete ..."
+    }, {
+      "id": "choice_success_p_10109_2",
+      "desc": "Check Passed",
+      "dlg": "This is temporary."
+    }, {
+      "id": "choice_fail_n_10109_1",
+      "desc": "Check Failed",
+      "dlg": "In ... it's an error."
+    }, {
+      "id": "battle_clear_10109_1",
+      "desc": "Victory Cry",
+      "dlg": "This is ... full of zeal."
+    }, {
+      "id": "battle_clear_ex_10109_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "We've made a full technological trip ... oy, I can't help, but I beat this area when you see the masterroom."
+    }, {
+      "id": "battle_defeat_10109_1",
+      "desc": "Defeat Wail",
+      "dlg": "How terrible is ... the material breaks up and leaves no effect."
+    }
+  ]
+}

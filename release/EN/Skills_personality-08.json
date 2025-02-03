@@ -718,7 +718,7 @@
                 {
                   "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Personal Number) / 2) (up to 2)"
                 }, {
-                  "desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"
+                  "desc": "[OnSucceedAttack] 10+ [DefenseUp] 1 apply [Reduction]"
                 }
               ]
             }
@@ -745,7 +745,7 @@
                 {
                   "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">Blood</style>……."
                 }, {
-                  "desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"
+                  "desc": "[OnSucceedAttack] 10+ [DefenseUp] 1 apply [Reduction]"
                 }
               ]
             }
@@ -802,7 +802,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For the purpose of.\n-S SARPPORTS + (surplus) [Vibration] X 1.5)% (up to 30%)"
+                  "desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For the purpose of.\n-S SARPPORTS + (surplus) [Vibration] x 1.5)% (up to 30%)"
                 }, {
                   "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
                 }, {

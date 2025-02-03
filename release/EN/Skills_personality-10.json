@@ -690,7 +690,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Another friend [DefenseUp]…….[DefenseUp] In federation) / 3) [AttackUp] The next line (after each message 3)"
+                  "desc": "[OnSucceedAttack] Another friend [DefenseUp]……. [DefenseUp] In federation) / 3) [AttackUp] The next line (after each message 3)"
                 }
               ]
             }
@@ -709,7 +709,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Another friend [DefenseUp]…….[DefenseUp] In the federation) /<style=\"highlight\">There is no way</style>……. [AttackUp] The next line (after each message 3)"
+                  "desc": "[OnSucceedAttack] Another friend [DefenseUp]……. [DefenseUp] In the federation) /<style=\"highlight\">There is no way</style>……. [AttackUp] The next line (after each message 3)"
                 }
               ]
             }
@@ -728,7 +728,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Calculation <style=\"highlight\">The other two friends are</style> And and [DefenseUp]…….[DefenseUp] In federation) / 2) [AttackUp] The next line (after each message 3)"
+                  "desc": "[OnSucceedAttack] Calculation <style=\"highlight\">The other two friends are</style> And and [DefenseUp]……. [DefenseUp] In federation) / 2) [AttackUp] The next line (after each message 3)"
                 }
               ]
             }
@@ -760,7 +760,7 @@
                 {
                   "desc": "[OnSucceedAttack] They usually use 8 [Vibration] Measure yourself and apply the same amount [Vibration] Result"
                 }, {
-                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }

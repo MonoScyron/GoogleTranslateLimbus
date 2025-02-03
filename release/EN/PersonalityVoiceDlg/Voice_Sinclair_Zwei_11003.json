@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11003_1", "desc": "Identity Acquisition", "dlg": "I'll save you as much as you can, oh, oh, don't go ..."}, {"id": "lobby_morning_11003_1", "desc": "Morning Greeting", "dlg": "Is there a beautiful evening?"}, {"id": "lobby_noon_11003_1", "desc": "Afternoon Greeting", "dlg": "It's time to eat lunch."}, {"id": "lobby_night_11003_1", "desc": "Evening Greeting", "dlg": "I want to get up at night"}, {"id": "smalltalk_11003_1", "desc": "Chatter #1", "dlg": "Even if I'm not a destructive shock ... I can take you one."}, {"id": "smalltalk_11003_2", "desc": "Chatter #2", "dlg": "Tok, you afraid of me ... sorry, I don't like a cloud."}, {"id": "smalltalk_11003_3", "desc": "Chatter #3", "dlg": "I am very worried that when I had the first training with Don Cooktot ... but now he started his job."}, {"id": "smalltalk_11003_4", "desc": "Post-Uptie Chat 1", "dlg": "In the past ... I lost many valuables because I don't know what to do."}, {"id": "smalltalk_11003_5", "desc": "Post-Uptie Chat 2", "dlg": "I became a broken arm and I did not run away ... I do not want to interfere with others."}, {"id": "neglect_11003_1", "desc": "Idle", "dlg": "Manager ... I'm thinking of going somewhere ... I'm sick."}, {"id": "gacksung_11003_1", "desc": "Uptying", "dlg": "I am struggling!"}, {"id": "formation_11003_1", "desc": "Deployment", "dlg": "This is an inevitable shield."}, {"id": "battleentry_11003_1", "desc": "Stage Entry", "dlg": "I'll be completely out to protect you!"}, {"id": "battle_select_11003_1", "desc": "Viewed in Battle", "dlg": "We make all the efforts to rest!"}, {"id": "battle_endcommand_11003_1", "desc": "Commencing Attack", "dlg": "Yes!"}, {"id": "battle_enemy_break_11003_1", "desc": "Enemy Stagger", "dlg": "Now our chance!"}, {"id": "battle_break_11003_1", "desc": "Staggered", "dlg": "Sri Akal!"}, {"id": "battle_kill_11003_1", "desc": "Enemy Killed", "dlg": "I've done this!"}, {"id": "battle_allydead_11003_1", "desc": "Ally Death", "dlg": "I can't save you ..."}, {"id": "choice_success_p_11003_1", "desc": "Check Passed", "dlg": "Thank you for my faith!"}, {"id": "choice_fail_n_11003_1", "desc": "Check Failed", "dlg": "I can't hurt ..."}, {"id": "battle_clear_11003_1", "desc": "Victory Cry", "dlg": "I think it's real safety."}, {"id": "battle_clear_ex_11003_1", "desc": "Extra Conditions Fulfilled", "dlg": "Poured me completely and was pleased with my efforts."}, {"id": "battle_defeat_11003_1", "desc": "Defeat Wail", "dlg": "I can't protect the rest of them."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11003_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I'll save you as much as you can, oh, oh, don't go ..."
+    }, {
+      "id": "lobby_morning_11003_1",
+      "desc": "Morning Greeting",
+      "dlg": "Is there a beautiful evening?"
+    }, {
+      "id": "lobby_noon_11003_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "It's time to eat lunch."
+    }, {
+      "id": "lobby_night_11003_1",
+      "desc": "Evening Greeting",
+      "dlg": "I want to get up at night"
+    }, {
+      "id": "smalltalk_11003_1",
+      "desc": "Chatter #1",
+      "dlg": "Even if I'm not a destructive shock ... I can take you one."
+    }, {
+      "id": "smalltalk_11003_2",
+      "desc": "Chatter #2",
+      "dlg": "Tok, you afraid of me ... sorry, I don't like a cloud."
+    }, {
+      "id": "smalltalk_11003_3",
+      "desc": "Chatter #3",
+      "dlg": "I am very worried that when I had the first training with Don Cooktot ... but now he started his job."
+    }, {
+      "id": "smalltalk_11003_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "In the past ... I lost many valuables because I don't know what to do."
+    }, {
+      "id": "smalltalk_11003_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I became a broken arm and I did not run away ... I do not want to interfere with others."
+    }, {
+      "id": "neglect_11003_1",
+      "desc": "Idle",
+      "dlg": "Manager ... I'm thinking of going somewhere ... I'm sick."
+    }, {
+      "id": "gacksung_11003_1",
+      "desc": "Uptying",
+      "dlg": "I am struggling!"
+    }, {
+      "id": "formation_11003_1",
+      "desc": "Deployment",
+      "dlg": "This is an inevitable shield."
+    }, {
+      "id": "battleentry_11003_1",
+      "desc": "Stage Entry",
+      "dlg": "I'll be completely out to protect you!"
+    }, {
+      "id": "battle_select_11003_1",
+      "desc": "Viewed in Battle",
+      "dlg": "We make all the efforts to rest!"
+    }, {
+      "id": "battle_endcommand_11003_1",
+      "desc": "Commencing Attack",
+      "dlg": "Yes!"
+    }, {
+      "id": "battle_enemy_break_11003_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Now our chance!"
+    }, {
+      "id": "battle_break_11003_1",
+      "desc": "Staggered",
+      "dlg": "Sri Akal!"
+    }, {
+      "id": "battle_kill_11003_1",
+      "desc": "Enemy Killed",
+      "dlg": "I've done this!"
+    }, {
+      "id": "battle_allydead_11003_1",
+      "desc": "Ally Death",
+      "dlg": "I can't save you ..."
+    }, {
+      "id": "choice_success_p_11003_1",
+      "desc": "Check Passed",
+      "dlg": "Thank you for my faith!"
+    }, {
+      "id": "choice_fail_n_11003_1",
+      "desc": "Check Failed",
+      "dlg": "I can't hurt ..."
+    }, {
+      "id": "battle_clear_11003_1",
+      "desc": "Victory Cry",
+      "dlg": "I think it's real safety."
+    }, {
+      "id": "battle_clear_ex_11003_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Poured me completely and was pleased with my efforts."
+    }, {
+      "id": "battle_defeat_11003_1",
+      "desc": "Defeat Wail",
+      "dlg": "I can't protect the rest of them."
+    }
+  ]
+}

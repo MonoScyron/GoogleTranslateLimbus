@@ -16,7 +16,7 @@
     }, {
       "id": "PassedPortal_Yellow",
       "name": "Face",
-      "desc": "Choose measurements {0} Pace"
+      "desc": "Choose measurements {0} pace"
     }, {
       "id": "PassedPortal_Blue",
       "name": "Electricity",
@@ -34,7 +34,7 @@
     }, {
       "id": "WaveFoxUmbrella",
       "name": "Umbrella",
-      "desc": "All parts are obtained equal security {0}\nCall weather techniques while using Weather Technology {0} Old umbrella\nEach time 1 umbrella is broken."
+      "desc": "All parts are obtained equal security {0}\nCall weather techniques while using Weather Technology {0} old umbrella\nEach time 1 umbrella is broken."
     }, {
       "id": "InterlockingTime_Re",
       "name": "Inflammation",
@@ -68,12 +68,12 @@
     }, {
       "id": "BloomingRose",
       "name": "Caught",
-      "desc": "At the end of\nThis account is received.\nElectrical bulb {2} Damage 25% HP HP.\n10% of the bank {1} A source for example.\nProcessing of pink symbols is 5% over.\n\nIn the calculations\nElectrical bulb {2} He was dead.\n-Suser {1} A source for example.",
+      "desc": "At the end of\nThis account is received.\nElectrical bulb {2} damage 25% HP HP.\n10% of the bank {1} a source for example.\nProcessing of pink symbols is 5% over.\n\nIn the calculations\nElectrical bulb {2} he was dead.\n-Suser {1} a source for example.",
       "summary": ""
     }, {
       "id": "EatingSin",
       "name": "Crime",
-      "desc": "Buy the biggest HP {0}% (Such as sauce)\n\nHe dies\nAgain {0} By {1} A source for example.\nElectrical bulb {2} Healing HP (25% of HP HP singer flowers).",
+      "desc": "Buy the biggest HP {0}% (Such as sauce)\n\nHe dies\nAgain {0} by {1} a source for example.\nElectrical bulb {2} healing HP (25% of HP HP singer flowers).",
       "summary": ""
     }, {
       "id": "EnhanceRose",

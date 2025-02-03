@@ -44,18 +44,18 @@
         {
           "level": 1,
           "name": "Root tiring",
-          "desc": "[CantDuel]\nGoal [MRcAfBa], Attack on a fast unit;\nAgreement ([MRcAfBa] X 10) Damage",
+          "desc": "[CantDuel]\nGoal [MRcAfBa], Attack on a fast unit;\nAgreement ([MRcAfBa] x 10) Damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([MRcAfBa] X 5) Damage"
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([MRcAfBa] x 5) Damage"
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([MRcAfBa] X 5) Damage"
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([MRcAfBa] x 5) Damage"
                 }
               ]
             }

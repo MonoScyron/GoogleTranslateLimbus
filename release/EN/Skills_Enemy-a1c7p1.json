@@ -37,7 +37,7 @@
                 {
                   "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -118,7 +118,7 @@
         {
           "level": 1,
           "name": "Finely",
-          "desc": "[WhenUse] Target 4+ [Laceration]10% of the treatment of treatment increased",
+          "desc": "[WhenUse] Target 4+ [Laceration] 10% of the treatment of treatment increased",
           "coinlist": [
             {
               "coindescs": [
@@ -131,7 +131,7 @@
                 {
                   "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -225,7 +225,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }
@@ -238,7 +238,7 @@
         {
           "level": 1,
           "name": "We offer a program!",
-          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodScissor] Every 10 [BloodDinner] User\n[WhenUse] If this device cannot be used [BloodDinner] Get 5 with this technique [Laceration] 1 [HardenedBlood]Intersection\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodScissor] Every 10 [BloodDinner] User\n[WhenUse] If this device cannot be used [BloodDinner] Get 5 with this technique [Laceration] 1 [HardenedBlood] Intersection\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
           "coinlist": [
             {
               "coindescs": [
@@ -332,14 +332,14 @@
         {
           "level": 1,
           "name": "I will have more",
-          "desc": "[WhenUse] Target 4+ [Laceration]10% of the treatment of treatment increased",
+          "desc": "[WhenUse] Target 4+ [Laceration] 10% of the treatment of treatment increased",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }
@@ -352,7 +352,7 @@
         {
           "level": 1,
           "name": "The taste of heaven!",
-          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodScissor] Every 10 [BloodDinner] User\n[WhenUse] If this device cannot be used [BloodDinner] Get 5 with this technique [Laceration] 1 [HardenedBlood]Intersection\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodScissor] Every 10 [BloodDinner] User\n[WhenUse] If this device cannot be used [BloodDinner] Get 5 with this technique [Laceration] 1 [HardenedBlood] Intersection\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
           "coinlist": [
             {
               "coindescs": [
@@ -422,7 +422,7 @@
         {
           "level": 1,
           "name": "Roaming",
-          "desc": "The target is 5+ [Burst]10% of the treatment of treatment increased",
+          "desc": "The target is 5+ [Burst] 10% of the treatment of treatment increased",
           "coinlist": [
             {
               "coindescs": [
@@ -455,7 +455,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 1 [TakeHpHealReduce]"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Burst]1 apply [TakeHpHealReduce] High"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Burst] 1 apply [TakeHpHealReduce] High"
                 }
               ]
             }
@@ -547,7 +547,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 1 [TakeHpHealReduce]"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Burst]1 apply [TakeHpHealReduce] High"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Burst] 1 apply [TakeHpHealReduce] High"
                 }
               ]
             }
@@ -676,7 +676,7 @@
         {
           "level": 1,
           "name": "\"Ten Million:\"",
-          "desc": "The target is 5+ [Laceration]10% of the treatment of treatment increased",
+          "desc": "The target is 5+ [Laceration] 10% of the treatment of treatment increased",
           "coinlist": [
             {
               "coindescs": [

@@ -1,20 +1,18 @@
 import time
 import os
 import logging
-from typing import Tuple
+from typing import Tuple, List
 
 import googletrans as gt
 import json
 import re
 import shutil
 
-from const import WAIT_ON_SUCCESS, WAIT_ON_BIG_ERROR, WAIT_ON_ERROR, BUILD_PATH, NUM_RETRY
+from const import LANG_LIST, BUILD_PATH, WAIT_ON_ERROR, WAIT_ON_BIG_ERROR, WAIT_ON_SUCCESS, NUM_RETRY
 
 translator = gt.Translator(
     raise_exception=True
 )
-# english -> serbian -> marathi -> chinese -> dutch -> arabic -> korean -> polish -> hindi -> telugu -> punjabi -> english
-lang_list = ['en', 'sr', 'mr', 'zh-cn', 'nl', 'ar', 'ko', 'pl', 'hi', 'te', 'pa', 'en']
 
 
 def get_logger():
@@ -60,7 +58,8 @@ def writefile(filepath: str, data: dict) -> None:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]:
+def __translate_step(text: str, lang_index: int, lang_list: List[str], retry: int = NUM_RETRY) -> Tuple[str, bool]:
+    curr_try = 0
     trans_text = text
     while True:
         try:
@@ -71,20 +70,20 @@ def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]
             time.sleep(WAIT_ON_SUCCESS)
         except Exception as e:
             LOG.error(f'error on text at lang_index {lang_index} '
-                      f'{f"(retry {NUM_RETRY - retry + 1} of {NUM_RETRY})" if NUM_RETRY > 0 else ""}: {e}')
+                      f'{f"(retry {curr_try + 1} of {retry})" if retry > 0 else ""}: {e}')
             if "The block will expire shortly after those requests stop" in f'{e}':
                 time.sleep(WAIT_ON_BIG_ERROR)
             else:
                 time.sleep(WAIT_ON_ERROR)
-            retry -= 1
-            if retry == 0:
+            curr_try += 1
+            if curr_try >= retry:
                 return trans_text, False
             continue
         break
     return trans_text, True
 
 
-def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) -> str:
+def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1, lang_list=LANG_LIST) -> str:
     if cache is None:
         cache = {}
 
@@ -125,7 +124,7 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
             LOG.info(f'translating: {t}')
             translated = t
             for j in range(len(lang_list) - 1):
-                translated, success = __translate_step(translated, j, retry)
+                translated, success = __translate_step(translated, j, retry=retry, lang_list=lang_list)
                 if not success:
                     LOG.critical(f'failed translating in {filename}, skipping text: {t}')
                     translated = t
@@ -178,7 +177,15 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
     writefile(write_path, data)
 
 
-def scramble(dv: str | list | dict, filename: str = '', v: str = '', values=None, retry: int = -1, cache=None):
+def scramble(dv: str | list | dict,
+             filename: str = '',
+             v: str = '',
+             values=None,
+             retry: int = -1,
+             cache=None,
+             lang_list=None):
+    if lang_list is None:
+        lang_list = LANG_LIST
     if cache is None:
         cache = {}
     if values is None:
@@ -187,15 +194,27 @@ def scramble(dv: str | list | dict, filename: str = '', v: str = '', values=None
     if type(dv) == list:
         translated = []
         for e in dv:
-            translated.append(scramble(e, filename=filename, v=v, values=values, retry=retry, cache=cache))
+            translated.append(scramble(e,
+                                       filename=filename,
+                                       v=v,
+                                       values=values,
+                                       retry=retry,
+                                       cache=cache,
+                                       lang_list=lang_list))
         return translated
     elif type(dv) == str:
-        return scramble_single(dv, filename, v, cache=cache, retry=retry)
+        return scramble_single(dv, filename, v, cache=cache, retry=retry, lang_list=lang_list)
     elif type(dv) == dict:
         translated = dv
         for k in dv:
             if k in values:
-                translated[k] = scramble(translated[k], filename=filename, v=v, values=values, retry=retry, cache=cache)
+                translated[k] = scramble(translated[k],
+                                         filename=filename,
+                                         v=v,
+                                         values=values,
+                                         retry=retry,
+                                         cache=cache,
+                                         lang_list=lang_list)
         return translated
     else:
         LOG.warning(f'unknown type {dv}={type(dv)}, returning raw value (may be PM jank)')

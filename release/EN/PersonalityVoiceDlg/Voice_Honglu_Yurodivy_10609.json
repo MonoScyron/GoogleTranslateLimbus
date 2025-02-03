@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10609_1", "desc": "Identity Acquisition", "dlg": "Is this a dead visual?\nWell ... one of the couples ... they really go."}, {"id": "lobby_morning_10609_1", "desc": "Morning Greeting", "dlg": "Good morning ~ Numbness is a bit wise and I think it's here."}, {"id": "lobby_noon_10609_1", "desc": "Afternoon Greeting", "dlg": "This is an hour and the most famous sunlight."}, {"id": "lobby_night_10609_1", "desc": "Evening Greeting", "dlg": "Oh!"}, {"id": "smalltalk_10609_1", "desc": "Chatter #1", "dlg": "Hermadvi has spread so far."}, {"id": "smalltalk_10609_2", "desc": "Chatter #2", "dlg": "You ... our company is not complicated."}, {"id": "smalltalk_10609_3", "desc": "Chatter #3", "dlg": "Find it as a friend of our friend and work for the seminar."}, {"id": "smalltalk_10609_4", "desc": "Post-Uptie Chat 1", "dlg": "Well ... it's a sharp thing.\n... hey, this is the last perfect place for the victim."}, {"id": "smalltalk_10609_5", "desc": "Post-Uptie Chat 2", "dlg": "In this case, the socket or wing cannot be started.\nThe difference is compulsory."}, {"id": "neglect_10609_1", "desc": "Idle", "dlg": "Mm ~ hm ~ hm ~ o, my vampire disappeared."}, {"id": "gacksung_10609_1", "desc": "Uptying", "dlg": "Let's think, you fight?\n... Do you think he will find the truth soon?"}, {"id": "formation_10609_1", "desc": "Deployment", "dlg": "Can we continue?"}, {"id": "battleentry_10609_1", "desc": "Stage Entry", "dlg": "Against."}, {"id": "battle_select_10609_1", "desc": "Viewed in Battle", "dlg": "What do you want to know about it?"}, {"id": "battle_endcommand_10609_1", "desc": "Commencing Attack", "dlg": "We wear it with hand!"}, {"id": "battle_enemy_break_10609_1", "desc": "Enemy Stagger", "dlg": "Fight for large institutions ~"}, {"id": "battle_break_10609_1", "desc": "Staggered", "dlg": "You ... oh, dear."}, {"id": "battle_kill_10609_1", "desc": "Enemy Killed", "dlg": "Is that easier?"}, {"id": "battle_dead_10609_1", "desc": "Death", "dlg": "Hey ... well, this ... how much ..."}, {"id": "choice_success_p_10609_2", "desc": "Check Passed", "dlg": "Answer will always be displayed with the lens"}, {"id": "choice_fail_n_10609_1", "desc": "Check Failed", "dlg": "Oh ... you don't think?"}, {"id": "battle_clear_10609_1", "desc": "Victory Cry", "dlg": "Hey, it is very satisfactory."}, {"id": "battle_clear_ex_10609_1", "desc": "Extra Conditions Fulfilled", "dlg": "What happened to those who cancel a lot of reasons, what else do we do?"}, {"id": "battle_defeat_10609_1", "desc": "Defeat Wail", "dlg": "Good ... very nice."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10609_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Is this a dead visual?\nWell ... one of the couples ... they really go."
+    }, {
+      "id": "lobby_morning_10609_1",
+      "desc": "Morning Greeting",
+      "dlg": "Good morning ~ Numbness is a bit wise and I think it's here."
+    }, {
+      "id": "lobby_noon_10609_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "This is an hour and the most famous sunlight."
+    }, {
+      "id": "lobby_night_10609_1",
+      "desc": "Evening Greeting",
+      "dlg": "Oh!"
+    }, {
+      "id": "smalltalk_10609_1",
+      "desc": "Chatter #1",
+      "dlg": "Hermadvi has spread so far."
+    }, {
+      "id": "smalltalk_10609_2",
+      "desc": "Chatter #2",
+      "dlg": "You ... our company is not complicated."
+    }, {
+      "id": "smalltalk_10609_3",
+      "desc": "Chatter #3",
+      "dlg": "Find it as a friend of our friend and work for the seminar."
+    }, {
+      "id": "smalltalk_10609_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Well ... it's a sharp thing.\n... hey, this is the last perfect place for the victim."
+    }, {
+      "id": "smalltalk_10609_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "In this case, the socket or wing cannot be started.\nThe difference is compulsory."
+    }, {
+      "id": "neglect_10609_1",
+      "desc": "Idle",
+      "dlg": "Mm ~ hm ~ hm ~ o, my vampire disappeared."
+    }, {
+      "id": "gacksung_10609_1",
+      "desc": "Uptying",
+      "dlg": "Let's think, you fight?\n... Do you think he will find the truth soon?"
+    }, {
+      "id": "formation_10609_1",
+      "desc": "Deployment",
+      "dlg": "Can we continue?"
+    }, {
+      "id": "battleentry_10609_1",
+      "desc": "Stage Entry",
+      "dlg": "Against."
+    }, {
+      "id": "battle_select_10609_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What do you want to know about it?"
+    }, {
+      "id": "battle_endcommand_10609_1",
+      "desc": "Commencing Attack",
+      "dlg": "We wear it with hand!"
+    }, {
+      "id": "battle_enemy_break_10609_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Fight for large institutions ~"
+    }, {
+      "id": "battle_break_10609_1",
+      "desc": "Staggered",
+      "dlg": "You ... oh, dear."
+    }, {
+      "id": "battle_kill_10609_1",
+      "desc": "Enemy Killed",
+      "dlg": "Is that easier?"
+    }, {
+      "id": "battle_dead_10609_1",
+      "desc": "Death",
+      "dlg": "Hey ... well, this ... how much ..."
+    }, {
+      "id": "choice_success_p_10609_2",
+      "desc": "Check Passed",
+      "dlg": "Answer will always be displayed with the lens"
+    }, {
+      "id": "choice_fail_n_10609_1",
+      "desc": "Check Failed",
+      "dlg": "Oh ... you don't think?"
+    }, {
+      "id": "battle_clear_10609_1",
+      "desc": "Victory Cry",
+      "dlg": "Hey, it is very satisfactory."
+    }, {
+      "id": "battle_clear_ex_10609_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "What happened to those who cancel a lot of reasons, what else do we do?"
+    }, {
+      "id": "battle_defeat_10609_1",
+      "desc": "Defeat Wail",
+      "dlg": "Good ... very nice."
+    }
+  ]
+}

@@ -140,7 +140,7 @@
       "content": "If you agree with the above sentence\nEnter the letter shown in the field."
     }, {
       "id": "explain_secession_status",
-      "content": "The account is currently in the present day.\nFor the remaining time: {0} By {1} P. {2} Without\nIf you are enrolled now, you can restore your account.\nDo you want to restore your account?"
+      "content": "The account is currently in the present day.\nFor the remaining time: {0} by {1} p. {2} without\nIf you are enrolled now, you can restore your account.\nDo you want to restore your account?"
     }, {
       "id": "recover",
       "content": "Religion"

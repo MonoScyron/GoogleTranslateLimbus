@@ -2,16 +2,16 @@
   "dataList": [
     {
       "id": "mission_ui_condition_tags_103001001",
-      "content": "Previous classic, bright {0} History"
+      "content": "Previous classic, bright {0} history"
     }, {
       "id": "mission_ui_condition_tags_103002001",
-      "content": "Quick Lux {0} Time"
+      "content": "Quick Lux {0} time"
     }, {
       "id": "mission_ui_condition_tags_103003001",
-      "content": "Remove all the whole luxury line {0} Time"
+      "content": "Remove all the whole luxury line {0} time"
     }, {
       "id": "mission_ui_condition_tags_103004001",
-      "content": "Clearly. {0} Dark"
+      "content": "Clearly. {0} dark"
     }, {
       "id": "mission_ui_condition_tags_103004002",
       "content": "Clear the mirror after cleaning the soil (toughly strict) {0}"
@@ -20,28 +20,28 @@
       "content": "Clear the mirror after cleaning the soil (toughly strict) {0}"
     }, {
       "id": "mission_ui_condition_tags_103004004",
-      "content": "Indicates dark glass (usually or strict) {0} Time\n(Eventually, the President's struggle must be completed)"
+      "content": "Indicates dark glass (usually or strict) {0} time\n(Eventually, the President's struggle must be completed)"
     }, {
       "id": "mission_ui_condition_tags_103005001",
-      "content": "Pace {0} Level is estimated {1}"
+      "content": "Pace {0} level is estimated {1}"
     }, {
       "id": "mission_ui_condition_tags_103005002",
-      "content": "U 丿 丿 {0} Learn about the offers other than the LCB (identity) {1}"
+      "content": "U 丿 丿 {0} learn about the offers other than the LCB (identity) {1}"
     }, {
       "id": "mission_ui_condition_tags_103005003",
-      "content": "All gifts {0} Learn Opt Pi Tire {1}"
+      "content": "All gifts {0} learn Opt Pi Tire {1}"
     }, {
       "id": "mission_ui_condition_tags_103005004",
-      "content": "Still not about it {0} Eg -pine-up {1}"
+      "content": "Still not about it {0} eg -pine-up {1}"
     }, {
       "id": "mission_ui_condition_tags_103006001",
-      "content": "Clearly. {0} Little"
+      "content": "Clearly. {0} little"
     }, {
       "id": "mission_ui_condition_tags_103006002",
-      "content": "Clearly. {0} Weekly"
+      "content": "Clearly. {0} weekly"
     }, {
       "id": "mission_ui_condition_tags_103006002",
-      "content": "Clearly. {0} Weekly"
+      "content": "Clearly. {0} weekly"
     }, {
       "id": "mission_condition_ui_group_2",
       "content": "History"
@@ -101,10 +101,10 @@
       "content": "From the other side"
     }, {
       "id": "until_event_finish_date",
-      "content": "{0} By the end of the program"
+      "content": "{0} by the end of the program"
     }, {
       "id": "event_for_new_user_from_date",
-      "content": "Product: The next new account <color=#990000>{0}Were, and,,,,,,,,{1}</color>, 12:00 (k)"
+      "content": "Product: The next new account <color=#990000>{0} ... {1}</color>, 12:00 (k)"
     }, {
       "id": "mission_progress_rate",
       "content": "Work introduction"

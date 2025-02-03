@@ -517,7 +517,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Small 3) [Charge] Account (up to 9)"
+                  "desc": "[OnSucceedAttack] Gisk + (pads) [Charge] Small 3) [Charge] Account (up to 9)"
                 }
               ]
             }, {
@@ -542,7 +542,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Small 3) [Charge] Account (up to 9)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gisk + (pads) [Charge] Small 3) [Charge] Account (up to 9)<style=\"highlight\"></style>"
                 }
               ]
             }, {
@@ -622,7 +622,7 @@
         {
           "level": 1,
           "name": "Idol",
-          "desc": "[WhenUse] The target is 5+ [Sinking], Call ++ 1\n[EndSkill] If this is the device [NightPathfinding]Damage 10S",
+          "desc": "[WhenUse] The target is 5+ [Sinking], Call ++ 1\n[EndSkill] If this is the device [NightPathfinding] Damage 10S",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -643,7 +643,7 @@
         }, {
           "level": 2,
           "name": "Idol",
-          "desc": "[WhenUse] The target is 5+ [Sinking], Call ++ 1\n<style=\"highlight\">[WhenUse] 4+ [Coffin]Weights, 11\n[WhenUse] If this is the device [NightPathfinding]Weights, 11</style>\n[EndSkill] If this is the device [NightPathfinding]Damage 10S",
+          "desc": "[WhenUse] The target is 5+ [Sinking], Call ++ 1\n<style=\"highlight\">[WhenUse] 4+ [Coffin] Weights, 11\n[WhenUse] If this is the device [NightPathfinding] Weights, 11</style>\n[EndSkill] If this is the device [NightPathfinding] Damage 10S",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -664,7 +664,7 @@
         }, {
           "level": 4,
           "name": "Idol",
-          "desc": "[WhenUse] <style=\"highlight\">Douxing from +1 goals for five coins for each connection (up to 2)</style>\n[WhenUse] <style=\"highlight\">ATK +1 Weight on 4 [Coffin] Off (up to 2)</style>\n[WhenUse] If this is the device [NightPathfinding]Weights, 11\n[EndSkill] If this is the device [NightPathfinding]Damage 10S",
+          "desc": "[WhenUse] <style=\"highlight\">Douxing from +1 goals for five coins for each connection (up to 2)</style>\n[WhenUse] <style=\"highlight\">ATK +1 Weight on 4 [Coffin] Off (up to 2)</style>\n[WhenUse] If this is the device [NightPathfinding] Weights, 11\n[EndSkill] If this is the device [NightPathfinding] Damage 10S",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -690,7 +690,7 @@
         {
           "level": 3,
           "name": "I'm a buyer",
-          "desc": "[WinDuel] Treatment 10S.P.\n[BeforeUse] If this is the device [NightPathfinding]Instead, \"acute the\" langar, porn and laugh \".\n[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)\n[WhenUse] Everyone + 7% of the loss [Coffin] Self (up to 70%)\n[WhenUse] Get 1 [Coffin]\n[EndSkill] If you face technology, the goal will die when the object dies. [Coffin]",
+          "desc": "[WinDuel] Treatment 10S.P.\n[BeforeUse] If this is the device [NightPathfinding] Instead, \"acute the\" langar, porn and laugh \".\n[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)\n[WhenUse] Everyone + 7% of the loss [Coffin] Self (up to 70%)\n[WhenUse] Get 1 [Coffin]\n[EndSkill] If you face technology, the goal will die when the object dies. [Coffin]",
           "coinlist": [
             {
               "coindescs": [
@@ -713,7 +713,7 @@
         }, {
           "level": 4,
           "name": "I'm a buyer",
-          "desc": "[WinDuel] Treatment 10S.P.\n[BeforeUse] If this is the device [NightPathfinding]Instead, \"acute the\" langar, porn and laugh \".\n[WhenUse] Used for the Mungerathaet +1 <style=\"highlight\">Every 3</style> [Sinking] For purpose (maximum) <style=\"highlight\">4</style>…….\n[WhenUse] Talk to + 12% will [Coffin] Self (up to 120%)\n[WhenUse] Get 1 [Coffin]\n[EndSkill] If you face technology, the goal will die when the object dies. [Coffin]",
+          "desc": "[WinDuel] Treatment 10S.P.\n[BeforeUse] If this is the device [NightPathfinding] Instead, \"acute the\" langar, porn and laugh \".\n[WhenUse] Used for the Mungerathaet +1 <style=\"highlight\">Every 3</style> [Sinking] For purpose (maximum) <style=\"highlight\">4</style>…….\n[WhenUse] Talk to + 12% will [Coffin] Self (up to 120%)\n[WhenUse] Get 1 [Coffin]\n[EndSkill] If you face technology, the goal will die when the object dies. [Coffin]",
           "coinlist": [
             {
               "coindescs": [
@@ -741,7 +741,7 @@
         {
           "level": 1,
           "name": "Oh ...!",
-          "desc": "[DuelCounter]\n[StartBattle] If this is not a device [NightPathfinding]1, 1 [NightPathfinding] Next line (once once)\n[EndBattle] If this is the device [NightPathfinding]……. [NightPathfinding]",
+          "desc": "[DuelCounter]\n[StartBattle] If this is not a device [NightPathfinding] 1, 1 [NightPathfinding] Next line (once once)\n[EndBattle] If this is the device [NightPathfinding]……. [NightPathfinding]",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -754,7 +754,7 @@
         }, {
           "level": 3,
           "name": "Oh ...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] If this is the device [NightPathfinding] In 15 years, rent, anti-ant-a-antistic and sadness (once).</style>\n[StartBattle] If this is not a device [NightPathfinding]1, 1 [NightPathfinding] Next line (once once)\n<style=\"highlight\">[WhenUse] The target is 6+ [Sinking], Call ++ 1</style>\n[EndBattle] If this is the device [NightPathfinding]……. [NightPathfinding]",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] If this is the device [NightPathfinding] In 15 years, rent, anti-ant-a-antistic and sadness (once).</style>\n[StartBattle] If this is not a device [NightPathfinding] 1, 1 [NightPathfinding] Next line (once once)\n<style=\"highlight\">[WhenUse] The target is 6+ [Sinking], Call ++ 1</style>\n[EndBattle] If this is the device [NightPathfinding]……. [NightPathfinding]",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -767,7 +767,7 @@
         }, {
           "level": 4,
           "name": "Oh ...!",
-          "desc": "[DuelCounter]\n[BeforeUse] If this is the device [NightPathfinding] In 15 years, rent, anti-ant-a-antistic and sadness (once).\n[StartBattle] If this is not a device [NightPathfinding]1, 1 [NightPathfinding] Next line (once once)\n[WhenUse] <style=\"highlight\">Every 3 money power [Sinking] In the form of the target (up to 2)</style>\n<style=\"highlight\">[WinDuel] to get [AttackUp] Next line is the same (conflict or 3) (up to 3)</style>\n[EndBattle] If this is the device [NightPathfinding]……. [NightPathfinding]",
+          "desc": "[DuelCounter]\n[BeforeUse] If this is the device [NightPathfinding] In 15 years, rent, anti-ant-a-antistic and sadness (once).\n[StartBattle] If this is not a device [NightPathfinding] 1, 1 [NightPathfinding] Next line (once once)\n[WhenUse] <style=\"highlight\">Every 3 money power [Sinking] In the form of the target (up to 2)</style>\n<style=\"highlight\">[WinDuel] to get [AttackUp] Next line is the same (conflict or 3) (up to 3)</style>\n[EndBattle] If this is the device [NightPathfinding]……. [NightPathfinding]",
           "coinlist": [
             {}, {
               "coindescs": [

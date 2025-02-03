@@ -20,7 +20,7 @@
       "content": "<color=#ebcaa2>Win the battle for your next job!</color>"
     }, {
       "id": "GetConfirmedEgogiftOnWinBattle",
-      "content": "<color=#ebcaa2>Win in the next battle {reward}File!</color>"
+      "content": "<color=#ebcaa2>Win in the next battle {reward] file!</color>"
     }, {
       "id": "StartBattle",
       "content": "<color=#ff0000>Fight!</color>"
@@ -38,10 +38,10 @@
       "content": "<color=#ff0000>Floor</color>"
     }, {
       "id": "RecoverHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>{amount} Love.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>{amount] love.</color>"
     }, {
       "id": "RecoverMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#80c9ff>{amount} Stamp.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#80c9ff>{amount] stamp.</color>"
     }, {
       "id": "RecoverHpOnlyUntilMax",
       "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>All HP</color>"
@@ -50,34 +50,34 @@
       "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#80c9ff>The full price.</color>"
     }, {
       "id": "LoseHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Pick up</color> <color=#e30000>{amount} HP Loss!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Pick up</color> <color=#e30000>{amount] HP Loss!</color>"
     }, {
       "id": "LoseMpOnly",
       "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Lost</color> <color=#fe4b48>{amount} SB!</color>"
     }, {
       "id": "RecoverHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>{amount} Hard power</color> And and <color=#80c9ff>Stamp.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>{amount] hard power</color> And and <color=#80c9ff>Stamp.</color>"
     }, {
       "id": "RecoverHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>{amount} Hard power</color> And and <color=#80c9ff>{amount} Stamp.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Good</color> <color=#00ff9c>{amount] hard power</color> And and <color=#80c9ff>{amount] stamp.</color>"
     }, {
       "id": "LoseHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Pick up</color> <color=#e30000>{amount} Hard power</color> And and <color=#fe4b48>Damage SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Pick up</color> <color=#e30000>{amount} hard power</color> And and <color=#fe4b48>Damage SP!</color>"
     }, {
       "id": "LoseHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Pick up</color> <color=#e30000>{amount} Hard power</color> And and <color=#fe4b48>{amount} Damage SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Pick up</color> <color=#e30000>{amount} hard power</color> And and <color=#fe4b48>{amount} damage SP!</color>"
     }, {
       "id": "GetConfirmedEgogift",
-      "content": "<color=#ebcaa2>{reward} Benefit!</color>"
+      "content": "<color=#ebcaa2>{reward} benefit!</color>"
     }, {
       "id": "GetBuff_OnStageStart",
-      "content": "<color=#ebcaa2>{target} {conditional} The following hunting hunting flap {stack} {buffName}Intersection</color>"
+      "content": "<color=#ebcaa2>{target} {conditional} the following hunting hunting flap {stack} {buffName} intersection</color>"
     }, {
       "id": "UnlockHiddenRoute",
       "content": "<color=#ebcaa2>The card is a new way!</color>"
     }, {
       "id": "ReduceEnemyWave",
-      "content": "<color=#ebcaa2>Reduce the waves {waveNum} The next fight.</color>"
+      "content": "<color=#ebcaa2>Reduce the waves {waveNum} the next fight.</color>"
     }, {
       "id": "DestroyEgogift",
       "content": "<color=#ebcaa2>{reward}</color> <color=#e30000>Extension!</color>"
@@ -230,7 +230,7 @@
       "content": "<color=#ebcaa2>Cost {amount} to get</color>"
     }, {
       "id": "MirrorDungeonLossCost",
-      "content": "<color=#ebcaa2>Cost {amount} Lost</color>"
+      "content": "<color=#ebcaa2>Cost {amount} lost</color>"
     }, {
       "id": "Choice_90104001",
       "content": "<color=#ebcaa2>Start the next war</color> <color=#f8c200>Shows +2</color> <color=#ebcaa2>All relationships</color>"

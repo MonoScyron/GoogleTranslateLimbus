@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10903_1", "desc": "Identity Acquisition", "dlg": "Oh you?"}, {"id": "lobby_morning_10903_1", "desc": "Morning Greeting", "dlg": "Will you really get up?"}, {"id": "lobby_noon_10903_1", "desc": "Afternoon Greeting", "dlg": "I have time to exercise."}, {"id": "lobby_night_10903_1", "desc": "Evening Greeting", "dlg": "Small rent."}, {"id": "smalltalk_10903_1", "desc": "Chatter #1", "dlg": "Thank you for coming."}, {"id": "smalltalk_10903_2", "desc": "Chatter #2", "dlg": "Here you have to say employees belong to my class."}, {"id": "smalltalk_10903_3", "desc": "Chatter #3", "dlg": "A long time."}, {"id": "smalltalk_10903_4", "desc": "Post-Uptie Chat 1", "dlg": "First I didn't know ... I need it."}, {"id": "smalltalk_10903_5", "desc": "Post-Uptie Chat 2", "dlg": "If we are true, the most important monitoring department is threatening for the entire army."}, {"id": "neglect_10903_1", "desc": "Idle", "dlg": "Do you have a lot of free time in your hand?"}, {"id": "gacksung_10903_1", "desc": "Uptying", "dlg": "Finally, who is?"}, {"id": "formation_10903_1", "desc": "Deployment", "dlg": "Hey, geez.inzvir ~"}, {"id": "battleentry_10903_1", "desc": "Stage Entry", "dlg": "Yes, return to the mission area!"}, {"id": "battle_select_10903_1", "desc": "Viewed in Battle", "dlg": "And and."}, {"id": "battle_endcommand_10903_1", "desc": "Commencing Attack", "dlg": "Roadia, the enemy of the enemy!"}, {"id": "battle_enemy_break_10903_1", "desc": "Enemy Stagger", "dlg": "The goal is to stop the work."}, {"id": "battle_break_10903_1", "desc": "Staggered", "dlg": "See ...!"}, {"id": "battle_kill_10903_1", "desc": "Enemy Killed", "dlg": "Check the neutral goals!"}, {"id": "battle_allydead_10903_1", "desc": "Ally Death", "dlg": "Our Imaging Unit!"}, {"id": "choice_success_p_10903_1", "desc": "Check Passed", "dlg": "If it's a red line, it's a chapter!"}, {"id": "choice_fail_n_10903_1", "desc": "Check Failed", "dlg": "Ok ... do you have a red line ...?"}, {"id": "battle_clear_10903_1", "desc": "Victory Cry", "dlg": "Hi."}, {"id": "battle_clear_ex_10903_1", "desc": "Extra Conditions Fulfilled", "dlg": "All important goals!"}, {"id": "battle_defeat_10903_1", "desc": "Defeat Wail", "dlg": "Bar ... no mission."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10903_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Oh you?"
+    }, {
+      "id": "lobby_morning_10903_1",
+      "desc": "Morning Greeting",
+      "dlg": "Will you really get up?"
+    }, {
+      "id": "lobby_noon_10903_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I have time to exercise."
+    }, {
+      "id": "lobby_night_10903_1",
+      "desc": "Evening Greeting",
+      "dlg": "Small rent."
+    }, {
+      "id": "smalltalk_10903_1",
+      "desc": "Chatter #1",
+      "dlg": "Thank you for coming."
+    }, {
+      "id": "smalltalk_10903_2",
+      "desc": "Chatter #2",
+      "dlg": "Here you have to say employees belong to my class."
+    }, {
+      "id": "smalltalk_10903_3",
+      "desc": "Chatter #3",
+      "dlg": "A long time."
+    }, {
+      "id": "smalltalk_10903_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "First I didn't know ... I need it."
+    }, {
+      "id": "smalltalk_10903_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "If we are true, the most important monitoring department is threatening for the entire army."
+    }, {
+      "id": "neglect_10903_1",
+      "desc": "Idle",
+      "dlg": "Do you have a lot of free time in your hand?"
+    }, {
+      "id": "gacksung_10903_1",
+      "desc": "Uptying",
+      "dlg": "Finally, who is?"
+    }, {
+      "id": "formation_10903_1",
+      "desc": "Deployment",
+      "dlg": "Hey, geez.inzvir ~"
+    }, {
+      "id": "battleentry_10903_1",
+      "desc": "Stage Entry",
+      "dlg": "Yes, return to the mission area!"
+    }, {
+      "id": "battle_select_10903_1",
+      "desc": "Viewed in Battle",
+      "dlg": "And and."
+    }, {
+      "id": "battle_endcommand_10903_1",
+      "desc": "Commencing Attack",
+      "dlg": "Roadia, the enemy of the enemy!"
+    }, {
+      "id": "battle_enemy_break_10903_1",
+      "desc": "Enemy Stagger",
+      "dlg": "The goal is to stop the work."
+    }, {
+      "id": "battle_break_10903_1",
+      "desc": "Staggered",
+      "dlg": "See ...!"
+    }, {
+      "id": "battle_kill_10903_1",
+      "desc": "Enemy Killed",
+      "dlg": "Check the neutral goals!"
+    }, {
+      "id": "battle_allydead_10903_1",
+      "desc": "Ally Death",
+      "dlg": "Our Imaging Unit!"
+    }, {
+      "id": "choice_success_p_10903_1",
+      "desc": "Check Passed",
+      "dlg": "If it's a red line, it's a chapter!"
+    }, {
+      "id": "choice_fail_n_10903_1",
+      "desc": "Check Failed",
+      "dlg": "Ok ... do you have a red line ...?"
+    }, {
+      "id": "battle_clear_10903_1",
+      "desc": "Victory Cry",
+      "dlg": "Hi."
+    }, {
+      "id": "battle_clear_ex_10903_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "All important goals!"
+    }, {
+      "id": "battle_defeat_10903_1",
+      "desc": "Defeat Wail",
+      "dlg": "Bar ... no mission."
+    }
+  ]
+}

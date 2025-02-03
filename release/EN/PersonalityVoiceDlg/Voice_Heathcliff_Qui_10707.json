@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10707_1", "desc": "Identity Acquisition", "dlg": "You know this rope."}, {"id": "lobby_morning_10707_1", "desc": "Morning Greeting", "dlg": "Start the sunrise."}, {"id": "lobby_noon_10707_1", "desc": "Afternoon Greeting", "dlg": "Is this manufactured finacho, is that enough?"}, {"id": "lobby_night_10707_1", "desc": "Evening Greeting", "dlg": "Good night before reaching."}, {"id": "smalltalk_10707_1", "desc": "Chatter #1", "dlg": "It is very attractive for my skin."}, {"id": "smalltalk_10707_2", "desc": "Chatter #2", "dlg": "There is a center in my language."}, {"id": "smalltalk_10707_3", "desc": "Chatter #3", "dlg": "This intersection is called disappointment."}, {"id": "smalltalk_10707_4", "desc": "Post-Uptie Chat 1", "dlg": "Fish fork removes and removes all groups."}, {"id": "smalltalk_10707_5", "desc": "Post-Uptie Chat 2", "dlg": "He never denied."}, {"id": "neglect_10707_1", "desc": "Idle", "dlg": "(Fish fork fork and line)"}, {"id": "gacksung_10707_1", "desc": "Uptying", "dlg": "A set of time."}, {"id": "formation_10707_1", "desc": "Deployment", "dlg": "Pregnancy."}, {"id": "battleentry_10707_1", "desc": "Stage Entry", "dlg": "let's go."}, {"id": "battle_select_10707_1", "desc": "Viewed in Battle", "dlg": "Do you want to connect?"}, {"id": "battle_endcommand_10707_1", "desc": "Commencing Attack", "dlg": "Stagigi depth."}, {"id": "battle_enemy_break_10707_1", "desc": "Enemy Stagger", "dlg": "come on."}, {"id": "battle_break_10707_1", "desc": "Staggered", "dlg": "What was ..."}, {"id": "battle_kill_10707_1", "desc": "Enemy Killed", "dlg": "The end of the trip."}, {"id": "battle_dead_10707_1", "desc": "Death", "dlg": "Miss Sun Mall ... Hobbies ... ski ..."}, {"id": "choice_success_p_10707_2", "desc": "Check Passed", "dlg": "He did."}, {"id": "choice_fail_n_10707_1", "desc": "Check Failed", "dlg": "I'm disappearing"}, {"id": "battle_clear_10707_1", "desc": "Victory Cry", "dlg": "Everyone is anxious."}, {"id": "battle_clear_ex_10707_1", "desc": "Extra Conditions Fulfilled", "dlg": "I didn't touch the door now."}, {"id": "battle_defeat_10707_1", "desc": "Defeat Wail", "dlg": "Place a tachkat."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10707_1",
+      "desc": "Identity Acquisition",
+      "dlg": "You know this rope."
+    }, {
+      "id": "lobby_morning_10707_1",
+      "desc": "Morning Greeting",
+      "dlg": "Start the sunrise."
+    }, {
+      "id": "lobby_noon_10707_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Is this manufactured finacho, is that enough?"
+    }, {
+      "id": "lobby_night_10707_1",
+      "desc": "Evening Greeting",
+      "dlg": "Good night before reaching."
+    }, {
+      "id": "smalltalk_10707_1",
+      "desc": "Chatter #1",
+      "dlg": "It is very attractive for my skin."
+    }, {
+      "id": "smalltalk_10707_2",
+      "desc": "Chatter #2",
+      "dlg": "There is a center in my language."
+    }, {
+      "id": "smalltalk_10707_3",
+      "desc": "Chatter #3",
+      "dlg": "This intersection is called disappointment."
+    }, {
+      "id": "smalltalk_10707_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Fish fork removes and removes all groups."
+    }, {
+      "id": "smalltalk_10707_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "He never denied."
+    }, {
+      "id": "neglect_10707_1",
+      "desc": "Idle",
+      "dlg": "(Fish fork fork and line)"
+    }, {
+      "id": "gacksung_10707_1",
+      "desc": "Uptying",
+      "dlg": "A set of time."
+    }, {
+      "id": "formation_10707_1",
+      "desc": "Deployment",
+      "dlg": "Pregnancy."
+    }, {
+      "id": "battleentry_10707_1",
+      "desc": "Stage Entry",
+      "dlg": "let's go."
+    }, {
+      "id": "battle_select_10707_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Do you want to connect?"
+    }, {
+      "id": "battle_endcommand_10707_1",
+      "desc": "Commencing Attack",
+      "dlg": "Stagigi depth."
+    }, {
+      "id": "battle_enemy_break_10707_1",
+      "desc": "Enemy Stagger",
+      "dlg": "come on."
+    }, {
+      "id": "battle_break_10707_1",
+      "desc": "Staggered",
+      "dlg": "What was ..."
+    }, {
+      "id": "battle_kill_10707_1",
+      "desc": "Enemy Killed",
+      "dlg": "The end of the trip."
+    }, {
+      "id": "battle_dead_10707_1",
+      "desc": "Death",
+      "dlg": "Miss Sun Mall ... Hobbies ... ski ..."
+    }, {
+      "id": "choice_success_p_10707_2",
+      "desc": "Check Passed",
+      "dlg": "He did."
+    }, {
+      "id": "choice_fail_n_10707_1",
+      "desc": "Check Failed",
+      "dlg": "I'm disappearing"
+    }, {
+      "id": "battle_clear_10707_1",
+      "desc": "Victory Cry",
+      "dlg": "Everyone is anxious."
+    }, {
+      "id": "battle_clear_ex_10707_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I didn't touch the door now."
+    }, {
+      "id": "battle_defeat_10707_1",
+      "desc": "Defeat Wail",
+      "dlg": "Place a tachkat."
+    }
+  ]
+}

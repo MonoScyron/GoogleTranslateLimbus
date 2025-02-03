@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Strict",
-          "desc": "[WhenUse] If this is the device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
+          "desc": "[WhenUse] If this is the device [HardenedBlood] If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
           "coinlist": [
             {
               "coindescs": [
@@ -30,7 +30,7 @@
         {
           "level": 1,
           "name": "Arrogant",
-          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood]If you use this eligible minute effect [Burst], Anxiety 2 [Laceration] High",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood] If you use this eligible minute effect [Burst], Anxiety 2 [Laceration] High",
           "coinlist": [
             {
               "coindescs": [
@@ -49,7 +49,7 @@
                 {
                   "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }
@@ -89,7 +89,7 @@
                 {
                   "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]Processing 20% ​​damaged and increased."
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration] Processing 20% ​​damaged and increased."
                 }
               ]
             }
@@ -102,7 +102,7 @@
         {
           "level": 1,
           "name": "Water",
-          "desc": "[WhenUse] If your goal is. [Laceration]1, 1 [HardenedBlood]",
+          "desc": "[WhenUse] If your goal is. [Laceration] 1, 1 [HardenedBlood]",
           "coinlist": [
             {
               "coindescs": [
@@ -120,7 +120,7 @@
         {
           "level": 1,
           "name": "Strict",
-          "desc": "[WhenUse] If this is the device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
+          "desc": "[WhenUse] If this is the device [HardenedBlood] If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "Arrogant",
-          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood]If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
+          "desc": "[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] 3+ on this device [HardenedBlood] If you use this eligible minute effect [Burst], Application +1 [Laceration] Spoon",
           "coinlist": [
             {
               "coindescs": [
@@ -163,7 +163,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }
@@ -203,7 +203,7 @@
                 {
                   "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration]Processing 20% ​​damaged and increased."
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Laceration] Processing 20% ​​damaged and increased."
                 }
               ]
             }
@@ -216,7 +216,7 @@
         {
           "level": 1,
           "name": "Water",
-          "desc": "[WhenUse] If your goal is. [Laceration]1, 1 [HardenedBlood]",
+          "desc": "[WhenUse] If your goal is. [Laceration] 1, 1 [HardenedBlood]",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
                 {
                   "desc": "[OnSucceedAttack] 2 Anxiety [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -352,7 +352,7 @@
         {
           "level": 1,
           "name": "Reference",
-          "desc": "[WhenUse] Target 4+ [Laceration]10% of the treatment of treatment increased",
+          "desc": "[WhenUse] Target 4+ [Laceration] 10% of the treatment of treatment increased",
           "coinlist": [
             {
               "coindescs": [
@@ -365,7 +365,7 @@
                 {
                   "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -461,7 +461,7 @@
                 {
                   "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration] 1, 1 [BloodyHand]"
                 }
               ]
             }
@@ -474,7 +474,7 @@
         {
           "level": 1,
           "name": "Reduces the courage",
-          "desc": "[WhenUse] Usually used as 50 [BloodDinner]……. [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
+          "desc": "[WhenUse] Usually used as 50 [BloodDinner] ……. [BloodyHand] Every 10 [BloodDinner] User\n[WhenUse] The target is 5+ [Laceration], Call ++ 1",
           "coinlist": [
             {
               "coindescs": [
@@ -485,7 +485,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"
+                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand] Intersection"
                 }
               ]
             }
@@ -581,7 +581,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application +3 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration]1, 1 [BloodyHand]"
+                  "desc": "[OnSucceedAttack] The target is 5+ [Laceration] 1, 1 [BloodyHand]"
                 }
               ]
             }
@@ -605,7 +605,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand]Intersection"
+                  "desc": "[EndSkill] If this device cannot be used [BloodDinner] 10 with this technique 10 [Laceration] 1 [BloodyHand] Intersection"
                 }
               ]
             }
@@ -690,12 +690,12 @@
         {
           "level": 1,
           "name": "HARD BOOP -KARE",
-          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration]Start early and put yourself [Laceration] Phone 1",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration] Start early and put yourself [Laceration] Phone 1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -727,7 +727,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] X 2.5% HP (up to 20%)"
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] x 2.5% HP (up to 20%)"
                 }
               ]
             }, {
@@ -776,12 +776,12 @@
         {
           "level": 1,
           "name": "A strong wild world",
-          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration]Start early and put yourself [Laceration] Phone 1",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] In the form of the target (up to 2)\n[WhenUse] Interest 15 [Laceration] Start early and put yourself [Laceration] Phone 1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration]1, 1 [HardenedBlood]"
+                  "desc": "[OnSucceedAttack] The target is 6+ [Laceration] 1, 1 [HardenedBlood]"
                 }
               ]
             }, {
@@ -813,7 +813,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] X 2.5% HP (up to 20%)"
+                  "desc": "[OnSucceedAttack] Treatment (treatment (treatment ([FestivalFever] x 2.5% HP (up to 20%)"
                 }
               ]
             }, {
@@ -862,7 +862,7 @@
         {
           "level": 1,
           "name": "Participate in the rubbing of good procession!",
-          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner] Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -914,7 +914,7 @@
         {
           "level": 1,
           "name": "Continuous Happiness, No Mann Land!",
-          "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "desc": "[WhenUse] In 40 years [BloodDinner] Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
@@ -972,7 +972,7 @@
         {
           "level": 1,
           "name": "We will answer your stage, dance!",
-          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner]Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
+          "desc": "[WhenUse] Last Power 5 [FestivalFever] 6 every time [Laceration] For purpose (up to 3)\n[WhenUse] Less than 20 [BloodDinner] Receives 20 [Laceration] Then start and set [Laceration] Phone 1\n[EndSkill] Consumption 20 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -1024,7 +1024,7 @@
         {
           "level": 1,
           "name": "Continuous Happiness, No Mann Land!",
-          "desc": "[WhenUse] In 40 years [BloodDinner]Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
+          "desc": "[WhenUse] In 40 years [BloodDinner] Receives 20 [Laceration] And +2 [Laceration] Dimensions, rapid moves and reduce [Laceration] Numbers 2\n[EndSkill] Use 40 [BloodDinner]\n[EndBattle] Remove everything [HardenedBlood] And and [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [

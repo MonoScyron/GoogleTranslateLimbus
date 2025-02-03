@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11005_1", "desc": "Identity Acquisition", "dlg": "Everything-I paid everything."}, {"id": "lobby_morning_11005_1", "desc": "Morning Greeting", "dlg": "So you."}, {"id": "lobby_noon_11005_1", "desc": "Afternoon Greeting", "dlg": "I don't want to eat."}, {"id": "lobby_night_11005_1", "desc": "Evening Greeting", "dlg": "Are you afraid of dreams?"}, {"id": "smalltalk_11005_1", "desc": "Chatter #1", "dlg": "I realize that every memory continues for a dream because my life is full of unpleasant animals."}, {"id": "smalltalk_11005_2", "desc": "Chatter #2", "dlg": "I burned them and saved them ... how I changed my eyes and turned it into my eyes, but it hurts me."}, {"id": "smalltalk_11005_3", "desc": "Chatter #3", "dlg": "... Yes-I have to clear ... it will definitely be clearly clean in the future."}, {"id": "smalltalk_11005_4", "desc": "Post-Uptie Chat 1", "dlg": "I am 16 years old today."}, {"id": "smalltalk_11005_5", "desc": "Post-Uptie Chat 2", "dlg": "The fire is advised to hear the power to clear the soil."}, {"id": "neglect_11005_1", "desc": "Idle", "dlg": "... if you don't want to say anything, can you be one now?"}, {"id": "gacksung_11005_1", "desc": "Uptying", "dlg": "It doesn't take special."}, {"id": "formation_11005_1", "desc": "Deployment", "dlg": "I usually give them fat."}, {"id": "battleentry_11005_1", "desc": "Stage Entry", "dlg": "It was a reason to produce fire and again a clear world."}, {"id": "battle_select_11005_1", "desc": "Viewed in Battle", "dlg": "I'm busy now"}, {"id": "battle_endcommand_11005_1", "desc": "Commencing Attack", "dlg": "According to the fire."}, {"id": "battle_enemy_break_11005_1", "desc": "Enemy Stagger", "dlg": "... yes."}, {"id": "battle_break_11005_1", "desc": "Staggered", "dlg": "Holding!"}, {"id": "battle_kill_11005_1", "desc": "Enemy Killed", "dlg": "... from the bottom fire."}, {"id": "battle_dead_11005_1", "desc": "Death", "dlg": "This ... answer ...?"}, {"id": "choice_success_p_11005_1", "desc": "Check Passed", "dlg": "This is not a problem."}, {"id": "choice_fail_n_11005_1", "desc": "Check Failed", "dlg": "Tsk, I know it is not effective."}, {"id": "battle_clear_11005_1", "desc": "Victory Cry", "dlg": "I ... I think you can do good, I think you can accept."}, {"id": "battle_clear_ex_11005_1", "desc": "Extra Conditions Fulfilled", "dlg": "This is perfect."}, {"id": "battle_defeat_11005_1", "desc": "Defeat Wail", "dlg": "Shi, how much money?"}]}
+{
+  "dataList": [
+    {
+      "id": "get_11005_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Everything-I paid everything."
+    }, {
+      "id": "lobby_morning_11005_1",
+      "desc": "Morning Greeting",
+      "dlg": "So you."
+    }, {
+      "id": "lobby_noon_11005_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I don't want to eat."
+    }, {
+      "id": "lobby_night_11005_1",
+      "desc": "Evening Greeting",
+      "dlg": "Are you afraid of dreams?"
+    }, {
+      "id": "smalltalk_11005_1",
+      "desc": "Chatter #1",
+      "dlg": "I realize that every memory continues for a dream because my life is full of unpleasant animals."
+    }, {
+      "id": "smalltalk_11005_2",
+      "desc": "Chatter #2",
+      "dlg": "I burned them and saved them ... how I changed my eyes and turned it into my eyes, but it hurts me."
+    }, {
+      "id": "smalltalk_11005_3",
+      "desc": "Chatter #3",
+      "dlg": "... Yes-I have to clear ... it will definitely be clearly clean in the future."
+    }, {
+      "id": "smalltalk_11005_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I am 16 years old today."
+    }, {
+      "id": "smalltalk_11005_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "The fire is advised to hear the power to clear the soil."
+    }, {
+      "id": "neglect_11005_1",
+      "desc": "Idle",
+      "dlg": "... if you don't want to say anything, can you be one now?"
+    }, {
+      "id": "gacksung_11005_1",
+      "desc": "Uptying",
+      "dlg": "It doesn't take special."
+    }, {
+      "id": "formation_11005_1",
+      "desc": "Deployment",
+      "dlg": "I usually give them fat."
+    }, {
+      "id": "battleentry_11005_1",
+      "desc": "Stage Entry",
+      "dlg": "It was a reason to produce fire and again a clear world."
+    }, {
+      "id": "battle_select_11005_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I'm busy now"
+    }, {
+      "id": "battle_endcommand_11005_1",
+      "desc": "Commencing Attack",
+      "dlg": "According to the fire."
+    }, {
+      "id": "battle_enemy_break_11005_1",
+      "desc": "Enemy Stagger",
+      "dlg": "... yes."
+    }, {
+      "id": "battle_break_11005_1",
+      "desc": "Staggered",
+      "dlg": "Holding!"
+    }, {
+      "id": "battle_kill_11005_1",
+      "desc": "Enemy Killed",
+      "dlg": "... from the bottom fire."
+    }, {
+      "id": "battle_dead_11005_1",
+      "desc": "Death",
+      "dlg": "This ... answer ...?"
+    }, {
+      "id": "choice_success_p_11005_1",
+      "desc": "Check Passed",
+      "dlg": "This is not a problem."
+    }, {
+      "id": "choice_fail_n_11005_1",
+      "desc": "Check Failed",
+      "dlg": "Tsk, I know it is not effective."
+    }, {
+      "id": "battle_clear_11005_1",
+      "desc": "Victory Cry",
+      "dlg": "I ... I think you can do good, I think you can accept."
+    }, {
+      "id": "battle_clear_ex_11005_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This is perfect."
+    }, {
+      "id": "battle_defeat_11005_1",
+      "desc": "Defeat Wail",
+      "dlg": "Shi, how much money?"
+    }
+  ]
+}

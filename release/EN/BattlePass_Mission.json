@@ -2,46 +2,46 @@
   "dataList": [
     {
       "id": "CLEAR_STAGE",
-      "content": "See any steps {0} Time"
+      "content": "See any steps {0} time"
     }, {
       "id": "KILL_ENEMY_ANY",
-      "content": "Defeat {0} The enemy"
+      "content": "Defeat {0} the enemy"
     }, {
       "id": "KILL_ENEMY_ABNORMALITY",
-      "content": "Denial {0} Disorder"
+      "content": "Denial {0} disorder"
     }, {
       "id": "SOMEONE_PARTICIPATED_IN_BATTLE",
-      "content": "Yes {1} In the battle {0} Time"
+      "content": "Yes {1} in the battle {0} time"
     }, {
       "id": "MIRROR_DUNGEON_TRY",
-      "content": "The introduction of the dark glass {0} Time"
+      "content": "The introduction of the dark glass {0} time"
     }, {
       "id": "MIRROR_DUNGEON_CLEAR",
-      "content": "Wipe the mirror {0} Time"
+      "content": "Wipe the mirror {0} time"
     }, {
       "id": "BATTLEPASS_LEVELUP",
       "content": "come on {0}"
     }, {
       "id": "USE_EGO_20402",
-      "content": "Book {0} Time"
+      "content": "Book {0} time"
     }, {
       "id": "USE_ANNOUNCER_2",
-      "content": "Get Greyrger as described {0} Time"
+      "content": "Get Greyrger as described {0} time"
     }, {
       "id": "LOGIN_ONCE",
-      "content": "{0} Log in to 3 years"
+      "content": "{0} log in to 3 years"
     }, {
       "id": "LOGIN_MULTIPLE",
-      "content": "{0} Mineral every day"
+      "content": "{0} mineral every day"
     }, {
       "id": "EXPDUNGEON_CLEAR",
-      "content": "Bright {0} Time"
+      "content": "Bright {0} time"
     }, {
       "id": "THREADDENGEON_CLEAR",
-      "content": "Great front {0} Time"
+      "content": "Great front {0} time"
     }, {
       "id": "PURCHASE_ENKEPHALIN_MODULE",
-      "content": "I've been together {0} Wrapped up"
+      "content": "I've been together {0} wrapped up"
     }
   ]
 }

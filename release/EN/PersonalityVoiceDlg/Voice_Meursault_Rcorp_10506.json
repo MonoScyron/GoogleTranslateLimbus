@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10506_1", "desc": "Identity Acquisition", "dlg": "I'm ready"}, {"id": "lobby_morning_10506_1", "desc": "Morning Greeting", "dlg": "Every morning I will wear a new one."}, {"id": "lobby_noon_10506_1", "desc": "Afternoon Greeting", "dlg": "Training."}, {"id": "lobby_night_10506_1", "desc": "Evening Greeting", "dlg": "As I choose the night."}, {"id": "smalltalk_10506_1", "desc": "Chatter #1", "dlg": "This is the situation ... forgive me, but only renete syndrome can use this phenomenon.\nInstead of finding organic energy, you can pick up your fingers and complete the case."}, {"id": "smalltalk_10506_2", "desc": "Chatter #2", "dlg": "We are going to the station on the battlefield."}, {"id": "smalltalk_10506_3", "desc": "Chatter #3", "dlg": "Training is more, but it always knows.\n... many of them show hobbies."}, {"id": "smalltalk_10506_4", "desc": "Post-Uptie Chat 1", "dlg": "It was clear that there were many companies.\nBut I don't want to lose them."}, {"id": "smalltalk_10506_5", "desc": "Post-Uptie Chat 2", "dlg": "Breaks and shooting is very unsaper unsclit experience.\nI believe you will never work."}, {"id": "neglect_10506_1", "desc": "Idle", "dlg": "It's time to practice ugly."}, {"id": "gacksung_10506_1", "desc": "Uptying", "dlg": "Understand."}, {"id": "formation_10506_1", "desc": "Deployment", "dlg": "Used."}, {"id": "battleentry_10506_1", "desc": "Entry", "dlg": "Start the test."}, {"id": "battle_select_10506_1", "desc": "Viewed in Battle", "dlg": "It's not safe."}, {"id": "battle_endcommand_10506_1", "desc": "Commencing Attack", "dlg": "Haha!"}, {"id": "battle_enemy_break_10506_1", "desc": "Enemy Stagger", "dlg": "Their lines were broken."}, {"id": "battle_break_10506_1", "desc": "Staggered", "dlg": "Hunn Girl:"}, {"id": "battle_kill_10506_1", "desc": "Enemy Killed", "dlg": "Look at the end of biological activities."}, {"id": "battle_dead_10506_1", "desc": "Death", "dlg": "Hey ... I want to repeat this process ...?"}, {"id": "choice_success_p_10506_2", "desc": "Check Passed", "dlg": "Choose me for success."}, {"id": "choice_fail_n_10506_1", "desc": "Check Failed", "dlg": "I did not answer ... this result."}, {"id": "battle_clear_10506_1", "desc": "Victory Cry", "dlg": "We make mistakes by additional education."}, {"id": "battle_clear_ex_10506_1", "desc": "Extra Conditions Fulfilled", "dlg": "Innocent results."}, {"id": "battle_defeat_10506_1", "desc": "Defeat Wail", "dlg": "I remembered ... Fishermen experience ... I'll come back to the nursery."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10506_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I'm ready"
+    }, {
+      "id": "lobby_morning_10506_1",
+      "desc": "Morning Greeting",
+      "dlg": "Every morning I will wear a new one."
+    }, {
+      "id": "lobby_noon_10506_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Training."
+    }, {
+      "id": "lobby_night_10506_1",
+      "desc": "Evening Greeting",
+      "dlg": "As I choose the night."
+    }, {
+      "id": "smalltalk_10506_1",
+      "desc": "Chatter #1",
+      "dlg": "This is the situation ... forgive me, but only renete syndrome can use this phenomenon.\nInstead of finding organic energy, you can pick up your fingers and complete the case."
+    }, {
+      "id": "smalltalk_10506_2",
+      "desc": "Chatter #2",
+      "dlg": "We are going to the station on the battlefield."
+    }, {
+      "id": "smalltalk_10506_3",
+      "desc": "Chatter #3",
+      "dlg": "Training is more, but it always knows.\n... many of them show hobbies."
+    }, {
+      "id": "smalltalk_10506_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "It was clear that there were many companies.\nBut I don't want to lose them."
+    }, {
+      "id": "smalltalk_10506_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Breaks and shooting is very unsaper unsclit experience.\nI believe you will never work."
+    }, {
+      "id": "neglect_10506_1",
+      "desc": "Idle",
+      "dlg": "It's time to practice ugly."
+    }, {
+      "id": "gacksung_10506_1",
+      "desc": "Uptying",
+      "dlg": "Understand."
+    }, {
+      "id": "formation_10506_1",
+      "desc": "Deployment",
+      "dlg": "Used."
+    }, {
+      "id": "battleentry_10506_1",
+      "desc": "Entry",
+      "dlg": "Start the test."
+    }, {
+      "id": "battle_select_10506_1",
+      "desc": "Viewed in Battle",
+      "dlg": "It's not safe."
+    }, {
+      "id": "battle_endcommand_10506_1",
+      "desc": "Commencing Attack",
+      "dlg": "Haha!"
+    }, {
+      "id": "battle_enemy_break_10506_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Their lines were broken."
+    }, {
+      "id": "battle_break_10506_1",
+      "desc": "Staggered",
+      "dlg": "Hunn Girl:"
+    }, {
+      "id": "battle_kill_10506_1",
+      "desc": "Enemy Killed",
+      "dlg": "Look at the end of biological activities."
+    }, {
+      "id": "battle_dead_10506_1",
+      "desc": "Death",
+      "dlg": "Hey ... I want to repeat this process ...?"
+    }, {
+      "id": "choice_success_p_10506_2",
+      "desc": "Check Passed",
+      "dlg": "Choose me for success."
+    }, {
+      "id": "choice_fail_n_10506_1",
+      "desc": "Check Failed",
+      "dlg": "I did not answer ... this result."
+    }, {
+      "id": "battle_clear_10506_1",
+      "desc": "Victory Cry",
+      "dlg": "We make mistakes by additional education."
+    }, {
+      "id": "battle_clear_ex_10506_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Innocent results."
+    }, {
+      "id": "battle_defeat_10506_1",
+      "desc": "Defeat Wail",
+      "dlg": "I remembered ... Fishermen experience ... I'll come back to the nursery."
+    }
+  ]
+}

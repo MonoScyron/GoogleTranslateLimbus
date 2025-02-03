@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10911_1", "desc": "Identity Acquisition", "dlg": "Welcome to Manzan in April ... Will you be a member of the parade forever?"}, {"id": "lobby_morning_10911_1", "desc": "Morning Greeting", "dlg": "Well ... I saw a little hard morning.\n... Let's talk about this plan for a moment."}, {"id": "lobby_noon_10911_1", "desc": "Afternoon Greeting", "dlg": "Yes, it's time to start this program ... no, I'll see lunch."}, {"id": "lobby_night_10911_1", "desc": "Evening Greeting", "dlg": "Gaurav (Gaurav) are eligible for more heat on central platforms.\nBut as soon as I turn into a criminal ... this endless process is lost."}, {"id": "smalltalk_10911_1", "desc": "Chatter #1", "dlg": "Sorry for ਓ sorry. \nPerhaps his father filled everything and safely returned to hell."}, {"id": "smalltalk_10911_2", "desc": "Chatter #2", "dlg": "Before bleeding ... okay, now I don't know what my life is.\nI don't know that everyone can do sweet things."}, {"id": "smalltalk_10911_3", "desc": "Chatter #3", "dlg": "My fear, the most terrible fear ... I have lost the fool of terrible and ugly poles.\nI agree with the need for providing all kinds of toys."}, {"id": "smalltalk_10911_4", "desc": "Post-Uptie Chat 1", "dlg": "The rain.\n... my Father gave us strength, but now everyone is happy."}, {"id": "smalltalk_10911_5", "desc": "Post-Uptie Chat 2", "dlg": "The priest always says he continues the quality of pain, but my quality is beautiful.\nSo ... I stop now."}, {"id": "neglect_10911_1", "desc": "Idle", "dlg": "At the end of this last ..."}, {"id": "gacksung_10911_1", "desc": "Uptying", "dlg": "This proposal is different tonight."}, {"id": "formation_10911_1", "desc": "Deployment", "dlg": "... do what you need to do."}, {"id": "battleentry_10911_1", "desc": "Stage Entry", "dlg": "Time to remove blood."}, {"id": "battle_select_10911_1", "desc": "Viewed in Battle", "dlg": "Let me know that the series is not very friendly."}, {"id": "battle_endcommand_10911_1", "desc": "Commencing Attack", "dlg": "With kindness."}, {"id": "battle_enemy_break_10911_1", "desc": "Enemy Stagger", "dlg": "... bad."}, {"id": "battle_break_10911_1", "desc": "Staggered", "dlg": "Hey ... haha."}, {"id": "battle_kill_10911_1", "desc": "Enemy Killed", "dlg": "Your blood words ... How beautiful are you?"}, {"id": "battle_dead_10911_1", "desc": "Death", "dlg": "What is the last station ...?"}, {"id": "choice_success_p_10911_2", "desc": "Check Passed", "dlg": "Ask the gruel's hero."}, {"id": "choice_fail_n_10911_1", "desc": "Check Failed", "dlg": "... I have to wait."}, {"id": "battle_clear_10911_1", "desc": "Victory Cry", "dlg": "It runs the next day."}, {"id": "battle_clear_ex_10911_1", "desc": "Extra Conditions Fulfilled", "dlg": "Increase the height of the air."}, {"id": "battle_defeat_10911_1", "desc": "Defeat Wail", "dlg": "... Perhaps this kind of blessing is no longer."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10911_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Welcome to Manzan in April ... Will you be a member of the parade forever?"
+    }, {
+      "id": "lobby_morning_10911_1",
+      "desc": "Morning Greeting",
+      "dlg": "Well ... I saw a little hard morning.\n... Let's talk about this plan for a moment."
+    }, {
+      "id": "lobby_noon_10911_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Yes, it's time to start this program ... no, I'll see lunch."
+    }, {
+      "id": "lobby_night_10911_1",
+      "desc": "Evening Greeting",
+      "dlg": "Gaurav (Gaurav) are eligible for more heat on central platforms.\nBut as soon as I turn into a criminal ... this endless process is lost."
+    }, {
+      "id": "smalltalk_10911_1",
+      "desc": "Chatter #1",
+      "dlg": "Sorry for ਓ sorry. \nPerhaps his father filled everything and safely returned to hell."
+    }, {
+      "id": "smalltalk_10911_2",
+      "desc": "Chatter #2",
+      "dlg": "Before bleeding ... okay, now I don't know what my life is.\nI don't know that everyone can do sweet things."
+    }, {
+      "id": "smalltalk_10911_3",
+      "desc": "Chatter #3",
+      "dlg": "My fear, the most terrible fear ... I have lost the fool of terrible and ugly poles.\nI agree with the need for providing all kinds of toys."
+    }, {
+      "id": "smalltalk_10911_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "The rain.\n... my Father gave us strength, but now everyone is happy."
+    }, {
+      "id": "smalltalk_10911_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "The priest always says he continues the quality of pain, but my quality is beautiful.\nSo ... I stop now."
+    }, {
+      "id": "neglect_10911_1",
+      "desc": "Idle",
+      "dlg": "At the end of this last ..."
+    }, {
+      "id": "gacksung_10911_1",
+      "desc": "Uptying",
+      "dlg": "This proposal is different tonight."
+    }, {
+      "id": "formation_10911_1",
+      "desc": "Deployment",
+      "dlg": "... do what you need to do."
+    }, {
+      "id": "battleentry_10911_1",
+      "desc": "Stage Entry",
+      "dlg": "Time to remove blood."
+    }, {
+      "id": "battle_select_10911_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Let me know that the series is not very friendly."
+    }, {
+      "id": "battle_endcommand_10911_1",
+      "desc": "Commencing Attack",
+      "dlg": "With kindness."
+    }, {
+      "id": "battle_enemy_break_10911_1",
+      "desc": "Enemy Stagger",
+      "dlg": "... bad."
+    }, {
+      "id": "battle_break_10911_1",
+      "desc": "Staggered",
+      "dlg": "Hey ... haha."
+    }, {
+      "id": "battle_kill_10911_1",
+      "desc": "Enemy Killed",
+      "dlg": "Your blood words ... How beautiful are you?"
+    }, {
+      "id": "battle_dead_10911_1",
+      "desc": "Death",
+      "dlg": "What is the last station ...?"
+    }, {
+      "id": "choice_success_p_10911_2",
+      "desc": "Check Passed",
+      "dlg": "Ask the gruel's hero."
+    }, {
+      "id": "choice_fail_n_10911_1",
+      "desc": "Check Failed",
+      "dlg": "... I have to wait."
+    }, {
+      "id": "battle_clear_10911_1",
+      "desc": "Victory Cry",
+      "dlg": "It runs the next day."
+    }, {
+      "id": "battle_clear_ex_10911_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Increase the height of the air."
+    }, {
+      "id": "battle_defeat_10911_1",
+      "desc": "Defeat Wail",
+      "dlg": "... Perhaps this kind of blessing is no longer."
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10808_1", "desc": "Identity Acquisition", "dlg": "Hello, green horn!"}, {"id": "lobby_morning_10808_1", "desc": "Morning Greeting", "dlg": "Double children!"}, {"id": "lobby_noon_10808_1", "desc": "Afternoon Greeting", "dlg": "What do you think about the taste of the urine chest?"}, {"id": "lobby_night_10808_1", "desc": "Evening Greeting", "dlg": "The clock may be too late, but the rainbow can be at any time or night."}, {"id": "smalltalk_10808_1", "desc": "Chatter #1", "dlg": "We are afraid of the terrible things that don't stop at the sea!"}, {"id": "smalltalk_10808_2", "desc": "Chatter #2", "dlg": "No fourth captain come!"}, {"id": "smalltalk_10808_3", "desc": "Chatter #3", "dlg": "There is a whale ... take care of a great mysterious monster.\nWell, I dare to keep the whale stable!"}, {"id": "smalltalk_10808_4", "desc": "Post-Uptie Chat 1", "dlg": "Fish fork!"}, {"id": "smalltalk_10808_5", "desc": "Post-Uptie Chat 2", "dlg": "Look at all your hands, my company!\nToday we are looking for a dark red whale for all!"}, {"id": "gacksung_10808_1", "desc": "Uptying", "dlg": "Brain ... yes, the battle of life depends on you!"}, {"id": "neglect_10808_1", "desc": "Idle", "dlg": "Good ... good wind."}, {"id": "formation_10808_1", "desc": "Deployment", "dlg": "Keep Wales's route."}, {"id": "battleentry_10808_1", "desc": "Stage Entry", "dlg": "Light truck!"}, {"id": "battle_select_10808_1", "desc": "Viewed in Battle", "dlg": "If you have time to change your gums, take care of the whale!"}, {"id": "battle_endcommand_10808_1", "desc": "Commencing Attack", "dlg": "All!"}, {"id": "battle_enemy_break_10808_1", "desc": "Enemy Stagger", "dlg": "Our enemies!"}, {"id": "battle_break_10808_1", "desc": "Staggered", "dlg": "It is possible ...!"}, {"id": "battle_kill_10808_1", "desc": "Enemy Killed", "dlg": "Ok, don't wait until all this is killed!"}, {"id": "battle_dead_10808_1", "desc": "Death", "dlg": "I Captain Ishpal Yes!"}, {"id": "choice_success_p_10808_2", "desc": "Check Passed", "dlg": "Has it been completely done?"}, {"id": "choice_fail_n_10808_1", "desc": "Check Failed", "dlg": "Oh ... Admin, you are with you!"}, {"id": "battle_clear_10808_1", "desc": "Victory Cry", "dlg": "This important proposal is not the result of greeting!"}, {"id": "battle_clear_ex_10808_1", "desc": "Extra Conditions Fulfilled", "dlg": "It's not bad at all, but it is still gas turbine!"}, {"id": "battle_defeat_10808_1", "desc": "Defeat Wail", "dlg": "Widnins are useless!"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10808_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Hello, green horn!"
+    }, {
+      "id": "lobby_morning_10808_1",
+      "desc": "Morning Greeting",
+      "dlg": "Double children!"
+    }, {
+      "id": "lobby_noon_10808_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "What do you think about the taste of the urine chest?"
+    }, {
+      "id": "lobby_night_10808_1",
+      "desc": "Evening Greeting",
+      "dlg": "The clock may be too late, but the rainbow can be at any time or night."
+    }, {
+      "id": "smalltalk_10808_1",
+      "desc": "Chatter #1",
+      "dlg": "We are afraid of the terrible things that don't stop at the sea!"
+    }, {
+      "id": "smalltalk_10808_2",
+      "desc": "Chatter #2",
+      "dlg": "No fourth captain come!"
+    }, {
+      "id": "smalltalk_10808_3",
+      "desc": "Chatter #3",
+      "dlg": "There is a whale ... take care of a great mysterious monster.\nWell, I dare to keep the whale stable!"
+    }, {
+      "id": "smalltalk_10808_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Fish fork!"
+    }, {
+      "id": "smalltalk_10808_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Look at all your hands, my company!\nToday we are looking for a dark red whale for all!"
+    }, {
+      "id": "gacksung_10808_1",
+      "desc": "Uptying",
+      "dlg": "Brain ... yes, the battle of life depends on you!"
+    }, {
+      "id": "neglect_10808_1",
+      "desc": "Idle",
+      "dlg": "Good ... good wind."
+    }, {
+      "id": "formation_10808_1",
+      "desc": "Deployment",
+      "dlg": "Keep Wales's route."
+    }, {
+      "id": "battleentry_10808_1",
+      "desc": "Stage Entry",
+      "dlg": "Light truck!"
+    }, {
+      "id": "battle_select_10808_1",
+      "desc": "Viewed in Battle",
+      "dlg": "If you have time to change your gums, take care of the whale!"
+    }, {
+      "id": "battle_endcommand_10808_1",
+      "desc": "Commencing Attack",
+      "dlg": "All!"
+    }, {
+      "id": "battle_enemy_break_10808_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Our enemies!"
+    }, {
+      "id": "battle_break_10808_1",
+      "desc": "Staggered",
+      "dlg": "It is possible ...!"
+    }, {
+      "id": "battle_kill_10808_1",
+      "desc": "Enemy Killed",
+      "dlg": "Ok, don't wait until all this is killed!"
+    }, {
+      "id": "battle_dead_10808_1",
+      "desc": "Death",
+      "dlg": "I Captain Ishpal Yes!"
+    }, {
+      "id": "choice_success_p_10808_2",
+      "desc": "Check Passed",
+      "dlg": "Has it been completely done?"
+    }, {
+      "id": "choice_fail_n_10808_1",
+      "desc": "Check Failed",
+      "dlg": "Oh ... Admin, you are with you!"
+    }, {
+      "id": "battle_clear_10808_1",
+      "desc": "Victory Cry",
+      "dlg": "This important proposal is not the result of greeting!"
+    }, {
+      "id": "battle_clear_ex_10808_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "It's not bad at all, but it is still gas turbine!"
+    }, {
+      "id": "battle_defeat_10808_1",
+      "desc": "Defeat Wail",
+      "dlg": "Widnins are useless!"
+    }
+  ]
+}

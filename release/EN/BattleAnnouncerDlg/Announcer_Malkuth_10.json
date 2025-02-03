@@ -1,1 +1,101 @@
-{"dataList": [{"id": "announcer_cheer_10_1", "dlg": "good day?"}, {"id": "announcer_cheer_10_2", "dlg": "You focus on my throat!"}, {"id": "announcer_specialcheer_10_1", "dlg": "It's not good ... do I see many injuries."}, {"id": "announcer_specialcheer_10_2", "dlg": "I'm convinced that everyone is in the difficult situation."}, {"id": "announcer_enemy_break_10_1", "dlg": "The purpose of the harassment is a barrier."}, {"id": "announcer_enemy_break_10_2", "dlg": "Trouble."}, {"id": "announcer_ally_break_10_1", "dlg": "Great, I always make mistakes."}, {"id": "announcer_ally_break_10_2", "dlg": "If he sees his employees, he cannot accept it ... do you know Limla?"}, {"id": "announcer_killenemy_10_1", "dlg": "Wow, we will be successful!"}, {"id": "announcer_ally_dead_10_1", "dlg": "Employees do not go forward."}, {"id": "announcer_enemy_adv_10_1", "dlg": "The enemy is prominent."}, {"id": "announcer_ally_adv_10_1", "dlg": "Our goal."}, {"id": "announcer_danger_10_1", "dlg": "It doesn't matter."}, {"id": "announcer_enemy_specialskill_10_1", "dlg": "It leads to tough attacks."}, {"id": "announcer_enemy_specialgimmick_10_1", "dlg": "They are preparing for special attacks."}, {"id": "announcer_advatk_physical_10_1", "dlg": "This attack is effective."}, {"id": "announcer_disadvatk_physical_10_1", "dlg": "It is not very effective."}, {"id": "announcer_advatk_attr_10_1", "dlg": "This is an impressive attack."}, {"id": "announcer_disadvatk_attr_10_1", "dlg": "This is not the right attack."}, {"id": "announcer_enemy_specialbuff_10_1", "dlg": "The content has little performance."}, {"id": "announcer_enemy_specialdebuff_10_1", "dlg": "They are small."}, {"id": "announcer_ally_specialbuff_10_1", "dlg": "we have"}, {"id": "announcer_ally_specialdebuff_10_1", "dlg": "Employees feel like something hurt."}, {"id": "announcer_enemy_destroy_10_1", "dlg": "Some have been destroyed."}, {"id": "announcer_enemy_destroy_10_2", "dlg": "If you see schedule and sections, you should give any time."}, {"id": "announcer_enemy_destroy_10_3", "dlg": "I have violated this element."}, {"id": "announcer_round_takebigdmg_10_1", "dlg": "You see, this is very painful."}, {"id": "announcer_round_takebigdmg_10_2", "dlg": "I've seen how many employees are painful."}, {"id": "announcer_round_givebigdmg_10_1", "dlg": "The element must suffer."}, {"id": "announcer_round_givebigdmg_10_2", "dlg": "This can affect the target."}, {"id": "announcer_multikillenemy_10_1", "dlg": "Wow, this is an impressive attack!"}, {"id": "announcer_equip_10_1", "dlg": "As I said, I'm glad you know you'll be successful!"}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_10_1",
+      "dlg": "good day?"
+    }, {
+      "id": "announcer_cheer_10_2",
+      "dlg": "You focus on my throat!"
+    }, {
+      "id": "announcer_specialcheer_10_1",
+      "dlg": "It's not good ... do I see many injuries."
+    }, {
+      "id": "announcer_specialcheer_10_2",
+      "dlg": "I'm convinced that everyone is in the difficult situation."
+    }, {
+      "id": "announcer_enemy_break_10_1",
+      "dlg": "The purpose of the harassment is a barrier."
+    }, {
+      "id": "announcer_enemy_break_10_2",
+      "dlg": "Trouble."
+    }, {
+      "id": "announcer_ally_break_10_1",
+      "dlg": "Great, I always make mistakes."
+    }, {
+      "id": "announcer_ally_break_10_2",
+      "dlg": "If he sees his employees, he cannot accept it ... do you know Limla?"
+    }, {
+      "id": "announcer_killenemy_10_1",
+      "dlg": "Wow, we will be successful!"
+    }, {
+      "id": "announcer_ally_dead_10_1",
+      "dlg": "Employees do not go forward."
+    }, {
+      "id": "announcer_enemy_adv_10_1",
+      "dlg": "The enemy is prominent."
+    }, {
+      "id": "announcer_ally_adv_10_1",
+      "dlg": "Our goal."
+    }, {
+      "id": "announcer_danger_10_1",
+      "dlg": "It doesn't matter."
+    }, {
+      "id": "announcer_enemy_specialskill_10_1",
+      "dlg": "It leads to tough attacks."
+    }, {
+      "id": "announcer_enemy_specialgimmick_10_1",
+      "dlg": "They are preparing for special attacks."
+    }, {
+      "id": "announcer_advatk_physical_10_1",
+      "dlg": "This attack is effective."
+    }, {
+      "id": "announcer_disadvatk_physical_10_1",
+      "dlg": "It is not very effective."
+    }, {
+      "id": "announcer_advatk_attr_10_1",
+      "dlg": "This is an impressive attack."
+    }, {
+      "id": "announcer_disadvatk_attr_10_1",
+      "dlg": "This is not the right attack."
+    }, {
+      "id": "announcer_enemy_specialbuff_10_1",
+      "dlg": "The content has little performance."
+    }, {
+      "id": "announcer_enemy_specialdebuff_10_1",
+      "dlg": "They are small."
+    }, {
+      "id": "announcer_ally_specialbuff_10_1",
+      "dlg": "we have"
+    }, {
+      "id": "announcer_ally_specialdebuff_10_1",
+      "dlg": "Employees feel like something hurt."
+    }, {
+      "id": "announcer_enemy_destroy_10_1",
+      "dlg": "Some have been destroyed."
+    }, {
+      "id": "announcer_enemy_destroy_10_2",
+      "dlg": "If you see schedule and sections, you should give any time."
+    }, {
+      "id": "announcer_enemy_destroy_10_3",
+      "dlg": "I have violated this element."
+    }, {
+      "id": "announcer_round_takebigdmg_10_1",
+      "dlg": "You see, this is very painful."
+    }, {
+      "id": "announcer_round_takebigdmg_10_2",
+      "dlg": "I've seen how many employees are painful."
+    }, {
+      "id": "announcer_round_givebigdmg_10_1",
+      "dlg": "The element must suffer."
+    }, {
+      "id": "announcer_round_givebigdmg_10_2",
+      "dlg": "This can affect the target."
+    }, {
+      "id": "announcer_multikillenemy_10_1",
+      "dlg": "Wow, this is an impressive attack!"
+    }, {
+      "id": "announcer_equip_10_1",
+      "dlg": "As I said, I'm glad you know you'll be successful!"
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10108_1", "desc": "Identity Acquisition", "dlg": "I will sing"}, {"id": "lobby_morning_10108_1", "desc": "Morning Greeting", "dlg": "Hey, the sun is full ... I think it's tired."}, {"id": "lobby_noon_10108_1", "desc": "Afternoon Greeting", "dlg": "Balanced innovation ... eating this room is prohibited."}, {"id": "lobby_night_10108_1", "desc": "Evening Greeting", "dlg": "Mimi Jet, I see the sun here."}, {"id": "smalltalk_10108_1", "desc": "Chatter #1", "dlg": "Wisdom should always follow all skills."}, {"id": "smalltalk_10108_2", "desc": "Chatter #2", "dlg": "This is a feeling of knowledge of thousands of years."}, {"id": "smalltalk_10108_3", "desc": "Chatter #3", "dlg": "Binding in the spare time."}, {"id": "smalltalk_10108_4", "desc": "Post-Uptie Chat 1", "dlg": "Am I some members of straight?"}, {"id": "smalltalk_10108_5", "desc": "Post-Uptie Chat 2", "dlg": "My strengths use my knowledge about the anus ... I haven't interested yet."}, {"id": "neglect_10108_1", "desc": "Idle", "dlg": "Everyone ..."}, {"id": "gacksung_10108_1", "desc": "Uptying", "dlg": "All of this ... so I'm not worthless for science."}, {"id": "formation_10108_1", "desc": "Deployment", "dlg": "Let's collect utility."}, {"id": "battleentry_10108_1", "desc": "Stage Entry", "dlg": "I know the understanding of knowledge."}, {"id": "battle_select_10108_1", "desc": "Viewed in Battle", "dlg": "You want to ask"}, {"id": "battle_endcommand_10108_1", "desc": "Commencing Attack", "dlg": "Pull the pain method!"}, {"id": "battle_enemy_break_10108_1", "desc": "Enemy Stagger", "dlg": "The way of knowledge is too high."}, {"id": "battle_break_10108_1", "desc": "Staggered", "dlg": "Item"}, {"id": "battle_kill_10108_1", "desc": "Enemy Killed", "dlg": "Let's do it."}, {"id": "battle_dead_10108_1", "desc": "Death", "dlg": "I have to forget ... I know this is my death of death ..."}, {"id": "choice_success_p_10108_2", "desc": "Check Passed", "dlg": "I also read in this book."}, {"id": "choice_fail_n_10108_1", "desc": "Check Failed", "dlg": "You have to see my content."}, {"id": "battle_clear_10108_1", "desc": "Victory Cry", "dlg": "We have won."}, {"id": "battle_clear_ex_10108_1", "desc": "Extra Conditions Fulfilled", "dlg": "The hand is stronger than the key."}, {"id": "battle_defeat_10108_1", "desc": "Defeat Wail", "dlg": "It seems that you are desperate."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10108_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I will sing"
+    }, {
+      "id": "lobby_morning_10108_1",
+      "desc": "Morning Greeting",
+      "dlg": "Hey, the sun is full ... I think it's tired."
+    }, {
+      "id": "lobby_noon_10108_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Balanced innovation ... eating this room is prohibited."
+    }, {
+      "id": "lobby_night_10108_1",
+      "desc": "Evening Greeting",
+      "dlg": "Mimi Jet, I see the sun here."
+    }, {
+      "id": "smalltalk_10108_1",
+      "desc": "Chatter #1",
+      "dlg": "Wisdom should always follow all skills."
+    }, {
+      "id": "smalltalk_10108_2",
+      "desc": "Chatter #2",
+      "dlg": "This is a feeling of knowledge of thousands of years."
+    }, {
+      "id": "smalltalk_10108_3",
+      "desc": "Chatter #3",
+      "dlg": "Binding in the spare time."
+    }, {
+      "id": "smalltalk_10108_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Am I some members of straight?"
+    }, {
+      "id": "smalltalk_10108_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "My strengths use my knowledge about the anus ... I haven't interested yet."
+    }, {
+      "id": "neglect_10108_1",
+      "desc": "Idle",
+      "dlg": "Everyone ..."
+    }, {
+      "id": "gacksung_10108_1",
+      "desc": "Uptying",
+      "dlg": "All of this ... so I'm not worthless for science."
+    }, {
+      "id": "formation_10108_1",
+      "desc": "Deployment",
+      "dlg": "Let's collect utility."
+    }, {
+      "id": "battleentry_10108_1",
+      "desc": "Stage Entry",
+      "dlg": "I know the understanding of knowledge."
+    }, {
+      "id": "battle_select_10108_1",
+      "desc": "Viewed in Battle",
+      "dlg": "You want to ask"
+    }, {
+      "id": "battle_endcommand_10108_1",
+      "desc": "Commencing Attack",
+      "dlg": "Pull the pain method!"
+    }, {
+      "id": "battle_enemy_break_10108_1",
+      "desc": "Enemy Stagger",
+      "dlg": "The way of knowledge is too high."
+    }, {
+      "id": "battle_break_10108_1",
+      "desc": "Staggered",
+      "dlg": "Item"
+    }, {
+      "id": "battle_kill_10108_1",
+      "desc": "Enemy Killed",
+      "dlg": "Let's do it."
+    }, {
+      "id": "battle_dead_10108_1",
+      "desc": "Death",
+      "dlg": "I have to forget ... I know this is my death of death ..."
+    }, {
+      "id": "choice_success_p_10108_2",
+      "desc": "Check Passed",
+      "dlg": "I also read in this book."
+    }, {
+      "id": "choice_fail_n_10108_1",
+      "desc": "Check Failed",
+      "dlg": "You have to see my content."
+    }, {
+      "id": "battle_clear_10108_1",
+      "desc": "Victory Cry",
+      "dlg": "We have won."
+    }, {
+      "id": "battle_clear_ex_10108_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "The hand is stronger than the key."
+    }, {
+      "id": "battle_defeat_10108_1",
+      "desc": "Defeat Wail",
+      "dlg": "It seems that you are desperate."
+    }
+  ]
+}

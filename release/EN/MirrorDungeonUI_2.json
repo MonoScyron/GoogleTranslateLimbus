@@ -50,13 +50,13 @@
       "content": "Choose expensive shades."
     }, {
       "id": "dungeon_shop_heal_desc_one_hp_perc_mp_int",
-      "content": "Good treatment good {0}% HPI {1} Ticket sales"
+      "content": "Good treatment good {0}% HPI {1} ticket sales"
     }, {
       "id": "dungeon_shop_heal_title_all",
       "content": "Choose an energy drink."
     }, {
       "id": "dungeon_shop_heal_desc_all_hp_perc_mp_int",
-      "content": "He will solve all sinners {0}% HPI {1} Ticket sales"
+      "content": "He will solve all sinners {0}% HPI {1} ticket sales"
     }, {
       "id": "dungeon_shop_purchase_title",
       "content": "I bought it"
@@ -74,7 +74,7 @@
       "content": "Team"
     }, {
       "id": "dungeon_shop_upgrade_personality",
-      "content": "Change {0} Celebration"
+      "content": "Change {0} celebration"
     }, {
       "id": "dungeon_shop_upgrade_personality_0_title",
       "content": "Give average price."
@@ -86,7 +86,7 @@
       "content": "Provide a higher price."
     }, {
       "id": "dungeon_shop_upgrade_personality_desc",
-      "content": "[Replacement of identity technology {2} Numbers {0}] They are [technological {3} Numbers {1}]"
+      "content": "[Replacement of identity technology {2} numbers {0}] They are [technological {3} numbers {1}]"
     }, {
       "id": "dungeon_shop_out",
       "content": "Manage"
@@ -191,10 +191,10 @@
       "content": "Offenders"
     }, {
       "id": "mirrordungeon_resting_heal_desc_1",
-      "content": "Good treatment good {0} Percentage"
+      "content": "Good treatment good {0} percentage"
     }, {
       "id": "mirrordungeon_resting_heal_desc_2",
-      "content": "He will solve all sinners {0} Percentage"
+      "content": "He will solve all sinners {0} percentage"
     }, {
       "id": "mirrordungeon_resting_change_formation_title",
       "content": "Put bread on the table."

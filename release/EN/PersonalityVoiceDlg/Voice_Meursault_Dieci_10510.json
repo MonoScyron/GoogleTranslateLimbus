@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10510_1", "desc": "Identity Acquisition", "dlg": "Well is very nice.\nRemember that you include new knowledge without all the burns."}, {"id": "lobby_morning_10510_1", "desc": "Morning Greeting", "dlg": "in the morning.\nIf you awake in your body and mind, it will come out and decrease."}, {"id": "lobby_noon_10510_1", "desc": "Afternoon Greeting", "dlg": "Are you eating lunch?\nTake care of the hunger level."}, {"id": "lobby_night_10510_1", "desc": "Evening Greeting", "dlg": "Children need to sleep at the beginning."}, {"id": "smalltalk_10510_1", "desc": "Chatter #1", "dlg": "Go to the area you see."}, {"id": "smalltalk_10510_2", "desc": "Chatter #2", "dlg": "When DC connect, the search page of the Goose Association is a continuous effect of the knowledge tests by adding a search page.\nIt makes your knowledge better and moves forward."}, {"id": "smalltalk_10510_3", "desc": "Chatter #3", "dlg": "The record says that we should protect our holy artifests in our lives and restrict them in Cultural Trophy of Arma -way.\nMost north of the world, in the east or behavior."}, {"id": "smalltalk_10510_4", "desc": "Post-Uptie Chat 1", "dlg": "that's cool.\nMm, I know I don't know the right approach."}, {"id": "smalltalk_10510_5", "desc": "Post-Uptie Chat 2", "dlg": "In the group of knowledge, these are very mobile nutrients.\nI told my child how to learn."}, {"id": "neglect_10510_1", "desc": "Idle", "dlg": "Why did you forget why he came here?"}, {"id": "gacksung_10510_1", "desc": "Uptying", "dlg": "Therefore, from this wonderful material, the membrane shines in the layer of knowledge."}, {"id": "formation_10510_1", "desc": "Deployment", "dlg": "My throat is my knowledge."}, {"id": "battleentry_10510_1", "desc": "Stage Entry", "dlg": "I still worked unless I decide the stubborn problem."}, {"id": "battle_select_10510_1", "desc": "Viewed in Battle", "dlg": "It is important to wait for this difficulty until it is done."}, {"id": "battle_endcommand_10510_1", "desc": "Commencing Attack", "dlg": "Leave your knowledge."}, {"id": "battle_enemy_break_10510_1", "desc": "Enemy Stagger", "dlg": "It knows that it is not eternal."}, {"id": "battle_break_10510_1", "desc": "Staggered", "dlg": "Melmers ..."}, {"id": "battle_kill_10510_1", "desc": "Enemy Killed", "dlg": "... Stay away from ignorance."}, {"id": "battle_dead_10510_1", "desc": "Death", "dlg": "I need to be strong ... um ..."}, {"id": "choice_success_p_10510_2", "desc": "Check Passed", "dlg": "This is a flexible option."}, {"id": "choice_fail_n_10510_1", "desc": "Check Failed", "dlg": "You can lose your knowledge."}, {"id": "battle_clear_10510_1", "desc": "Victory Cry", "dlg": "In this struggle I have to ignore my knowledge."}, {"id": "battle_clear_ex_10510_1", "desc": "Extra Conditions Fulfilled", "dlg": "I learned in this battle."}, {"id": "battle_defeat_10510_1", "desc": "Defeat Wail", "dlg": "This failure gives us new knowledge."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10510_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Well is very nice.\nRemember that you include new knowledge without all the burns."
+    }, {
+      "id": "lobby_morning_10510_1",
+      "desc": "Morning Greeting",
+      "dlg": "in the morning.\nIf you awake in your body and mind, it will come out and decrease."
+    }, {
+      "id": "lobby_noon_10510_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Are you eating lunch?\nTake care of the hunger level."
+    }, {
+      "id": "lobby_night_10510_1",
+      "desc": "Evening Greeting",
+      "dlg": "Children need to sleep at the beginning."
+    }, {
+      "id": "smalltalk_10510_1",
+      "desc": "Chatter #1",
+      "dlg": "Go to the area you see."
+    }, {
+      "id": "smalltalk_10510_2",
+      "desc": "Chatter #2",
+      "dlg": "When DC connect, the search page of the Goose Association is a continuous effect of the knowledge tests by adding a search page.\nIt makes your knowledge better and moves forward."
+    }, {
+      "id": "smalltalk_10510_3",
+      "desc": "Chatter #3",
+      "dlg": "The record says that we should protect our holy artifests in our lives and restrict them in Cultural Trophy of Arma -way.\nMost north of the world, in the east or behavior."
+    }, {
+      "id": "smalltalk_10510_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "that's cool.\nMm, I know I don't know the right approach."
+    }, {
+      "id": "smalltalk_10510_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "In the group of knowledge, these are very mobile nutrients.\nI told my child how to learn."
+    }, {
+      "id": "neglect_10510_1",
+      "desc": "Idle",
+      "dlg": "Why did you forget why he came here?"
+    }, {
+      "id": "gacksung_10510_1",
+      "desc": "Uptying",
+      "dlg": "Therefore, from this wonderful material, the membrane shines in the layer of knowledge."
+    }, {
+      "id": "formation_10510_1",
+      "desc": "Deployment",
+      "dlg": "My throat is my knowledge."
+    }, {
+      "id": "battleentry_10510_1",
+      "desc": "Stage Entry",
+      "dlg": "I still worked unless I decide the stubborn problem."
+    }, {
+      "id": "battle_select_10510_1",
+      "desc": "Viewed in Battle",
+      "dlg": "It is important to wait for this difficulty until it is done."
+    }, {
+      "id": "battle_endcommand_10510_1",
+      "desc": "Commencing Attack",
+      "dlg": "Leave your knowledge."
+    }, {
+      "id": "battle_enemy_break_10510_1",
+      "desc": "Enemy Stagger",
+      "dlg": "It knows that it is not eternal."
+    }, {
+      "id": "battle_break_10510_1",
+      "desc": "Staggered",
+      "dlg": "Melmers ..."
+    }, {
+      "id": "battle_kill_10510_1",
+      "desc": "Enemy Killed",
+      "dlg": "... Stay away from ignorance."
+    }, {
+      "id": "battle_dead_10510_1",
+      "desc": "Death",
+      "dlg": "I need to be strong ... um ..."
+    }, {
+      "id": "choice_success_p_10510_2",
+      "desc": "Check Passed",
+      "dlg": "This is a flexible option."
+    }, {
+      "id": "choice_fail_n_10510_1",
+      "desc": "Check Failed",
+      "dlg": "You can lose your knowledge."
+    }, {
+      "id": "battle_clear_10510_1",
+      "desc": "Victory Cry",
+      "dlg": "In this struggle I have to ignore my knowledge."
+    }, {
+      "id": "battle_clear_ex_10510_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I learned in this battle."
+    }, {
+      "id": "battle_defeat_10510_1",
+      "desc": "Defeat Wail",
+      "dlg": "This failure gives us new knowledge."
+    }
+  ]
+}

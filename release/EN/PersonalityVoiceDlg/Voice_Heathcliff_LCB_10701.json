@@ -1,1 +1,89 @@
-{"dataList": [{"id": "get_10701_1", "desc": "Identity Acquisition", "dlg": "Hepackliffe is a name."}, {"id": "lobby_morning_10701_1", "desc": "Morning Greeting", "dlg": "Put on your face ..."}, {"id": "lobby_noon_10701_1", "desc": "Afternoon Greeting", "dlg": "What is it?"}, {"id": "lobby_night_10701_1", "desc": "Evening Greeting", "dlg": "Stop immediately."}, {"id": "smalltalk_10701_1", "desc": "Chatter #1", "dlg": "This does not mean that you are admin."}, {"id": "smalltalk_10701_2", "desc": "Chatter #2", "dlg": "Don't worry on the other side of time on my shoulder."}, {"id": "smalltalk_10701_3", "desc": "Chatter #3", "dlg": "We don't need much distance."}, {"id": "neglect_10701_1", "desc": "Idle", "dlg": "He actually hit him and wanted to be there."}, {"id": "formation_10701_1", "desc": "Deployment", "dlg": "I am complaining about my training."}, {"id": "battleentry_10701_1", "desc": "Stage Entry", "dlg": "I'll come here soon!"}, {"id": "battle_select_10701_1", "desc": "Viewed in Battle", "dlg": "What is?"}, {"id": "battle_endcommand_10701_1", "desc": "Commencing Attack", "dlg": "Really there!"}, {"id": "battle_enemy_break_10701_1", "desc": "Enemy Stagger", "dlg": "Ha, what are you doing the best?"}, {"id": "battle_break_10701_1", "desc": "Staggered", "dlg": "I'm doing h ...!"}, {"id": "battle_kill_10701_1", "desc": "Enemy Killed", "dlg": "Normal PI"}, {"id": "battle_allydead_10701_1", "desc": "Ally Death", "dlg": "What is?"}, {"id": "choice_success_p_10701_1", "desc": "Check Passed", "dlg": "What is this pride?"}, {"id": "choice_fail_n_10701_1", "desc": "Check Failed", "dlg": "... it's really nervous."}, {"id": "battle_clear_10701_1", "desc": "Victory Cry", "dlg": "Well, I don't want to win a little."}, {"id": "battle_clear_ex_10701_1", "desc": "Extra Conditions Fulfilled", "dlg": "Is that?"}, {"id": "battle_defeat_10701_1", "desc": "Defeat Wail", "dlg": "All the bags are rude!"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10701_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Hepackliffe is a name."
+    }, {
+      "id": "lobby_morning_10701_1",
+      "desc": "Morning Greeting",
+      "dlg": "Put on your face ..."
+    }, {
+      "id": "lobby_noon_10701_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "What is it?"
+    }, {
+      "id": "lobby_night_10701_1",
+      "desc": "Evening Greeting",
+      "dlg": "Stop immediately."
+    }, {
+      "id": "smalltalk_10701_1",
+      "desc": "Chatter #1",
+      "dlg": "This does not mean that you are admin."
+    }, {
+      "id": "smalltalk_10701_2",
+      "desc": "Chatter #2",
+      "dlg": "Don't worry on the other side of time on my shoulder."
+    }, {
+      "id": "smalltalk_10701_3",
+      "desc": "Chatter #3",
+      "dlg": "We don't need much distance."
+    }, {
+      "id": "neglect_10701_1",
+      "desc": "Idle",
+      "dlg": "He actually hit him and wanted to be there."
+    }, {
+      "id": "formation_10701_1",
+      "desc": "Deployment",
+      "dlg": "I am complaining about my training."
+    }, {
+      "id": "battleentry_10701_1",
+      "desc": "Stage Entry",
+      "dlg": "I'll come here soon!"
+    }, {
+      "id": "battle_select_10701_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What is?"
+    }, {
+      "id": "battle_endcommand_10701_1",
+      "desc": "Commencing Attack",
+      "dlg": "Really there!"
+    }, {
+      "id": "battle_enemy_break_10701_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Ha, what are you doing the best?"
+    }, {
+      "id": "battle_break_10701_1",
+      "desc": "Staggered",
+      "dlg": "I'm doing h ...!"
+    }, {
+      "id": "battle_kill_10701_1",
+      "desc": "Enemy Killed",
+      "dlg": "Normal PI"
+    }, {
+      "id": "battle_allydead_10701_1",
+      "desc": "Ally Death",
+      "dlg": "What is?"
+    }, {
+      "id": "choice_success_p_10701_1",
+      "desc": "Check Passed",
+      "dlg": "What is this pride?"
+    }, {
+      "id": "choice_fail_n_10701_1",
+      "desc": "Check Failed",
+      "dlg": "... it's really nervous."
+    }, {
+      "id": "battle_clear_10701_1",
+      "desc": "Victory Cry",
+      "dlg": "Well, I don't want to win a little."
+    }, {
+      "id": "battle_clear_ex_10701_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Is that?"
+    }, {
+      "id": "battle_defeat_10701_1",
+      "desc": "Defeat Wail",
+      "dlg": "All the bags are rude!"
+    }
+  ]
+}

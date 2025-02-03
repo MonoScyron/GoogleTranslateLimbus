@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10404_1", "desc": "Identity Acquisition", "dlg": "Do you want to ask here?"}, {"id": "lobby_morning_10404_1", "desc": "Morning Greeting", "dlg": "Name."}, {"id": "lobby_noon_10404_1", "desc": "Afternoon Greeting", "dlg": "This is the most important working hours."}, {"id": "lobby_night_10404_1", "desc": "Evening Greeting", "dlg": "Sorry, they ask ... OK, you can hold your hand."}, {"id": "smalltalk_10404_1", "desc": "Chatter #1", "dlg": "Stanny.n ... place."}, {"id": "smalltalk_10404_2", "desc": "Chatter #2", "dlg": "I can't repeat the basic taste of all traditional service organizations, but I can try sure."}, {"id": "smalltalk_10404_3", "desc": "Chatter #3", "dlg": "Gregor ... he always saw his head ... how much."}, {"id": "smalltalk_10404_4", "desc": "Post-Uptie Chat 1", "dlg": "I tried to emphasize it in another parinova restaurant."}, {"id": "smalltalk_10404_5", "desc": "Post-Uptie Chat 2", "dlg": "Sorry, stop grinding front.\n... tsk, why is it new?"}, {"id": "neglect_10404_1", "desc": "Idle", "dlg": "... if you don't want to speak anything, if you want one of eight chefs, I will miss it."}, {"id": "gacksung_10404_1", "desc": "Uptying", "dlg": "Finally, I am eight members."}, {"id": "formation_10404_1", "desc": "Deployment", "dlg": "I will coperate you that will tell you that to expose you."}, {"id": "battleentry_10404_1", "desc": "Stage Entry", "dlg": "We are interested in treatment."}, {"id": "battle_select_10404_1", "desc": "Viewed in Battle", "dlg": "Downloaded or request?"}, {"id": "battle_endcommand_10404_1", "desc": "Commencing Attack", "dlg": "What is your taste?"}, {"id": "battle_enemy_break_10404_1", "desc": "Enemy Stagger", "dlg": "I believe in every blood slopes."}, {"id": "battle_break_10404_1", "desc": "Staggered", "dlg": "E ..."}, {"id": "battle_kill_10404_1", "desc": "Enemy Killed", "dlg": "Now it is useful."}, {"id": "battle_dead_10404_1", "desc": "Death", "dlg": "I didn't think ... it will be an employee ..."}, {"id": "choice_success_p_10404_1", "desc": "Check Passed", "dlg": "MHM.t.Oth Good Recipe."}, {"id": "choice_fail_n_10404_1", "desc": "Check Failed", "dlg": "Sorry for me."}, {"id": "battle_clear_10404_1", "desc": "Victory Cry", "dlg": "A set of parts."}, {"id": "battle_clear_ex_10404_1", "desc": "Extra Conditions Fulfilled", "dlg": "All these projects ... I don't have to worry about me."}, {"id": "battle_defeat_10404_1", "desc": "Defeat Wail", "dlg": "Teach ... I don't care."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10404_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Do you want to ask here?"
+    }, {
+      "id": "lobby_morning_10404_1",
+      "desc": "Morning Greeting",
+      "dlg": "Name."
+    }, {
+      "id": "lobby_noon_10404_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "This is the most important working hours."
+    }, {
+      "id": "lobby_night_10404_1",
+      "desc": "Evening Greeting",
+      "dlg": "Sorry, they ask ... OK, you can hold your hand."
+    }, {
+      "id": "smalltalk_10404_1",
+      "desc": "Chatter #1",
+      "dlg": "Stanny.n ... place."
+    }, {
+      "id": "smalltalk_10404_2",
+      "desc": "Chatter #2",
+      "dlg": "I can't repeat the basic taste of all traditional service organizations, but I can try sure."
+    }, {
+      "id": "smalltalk_10404_3",
+      "desc": "Chatter #3",
+      "dlg": "Gregor ... he always saw his head ... how much."
+    }, {
+      "id": "smalltalk_10404_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I tried to emphasize it in another parinova restaurant."
+    }, {
+      "id": "smalltalk_10404_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Sorry, stop grinding front.\n... tsk, why is it new?"
+    }, {
+      "id": "neglect_10404_1",
+      "desc": "Idle",
+      "dlg": "... if you don't want to speak anything, if you want one of eight chefs, I will miss it."
+    }, {
+      "id": "gacksung_10404_1",
+      "desc": "Uptying",
+      "dlg": "Finally, I am eight members."
+    }, {
+      "id": "formation_10404_1",
+      "desc": "Deployment",
+      "dlg": "I will coperate you that will tell you that to expose you."
+    }, {
+      "id": "battleentry_10404_1",
+      "desc": "Stage Entry",
+      "dlg": "We are interested in treatment."
+    }, {
+      "id": "battle_select_10404_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Downloaded or request?"
+    }, {
+      "id": "battle_endcommand_10404_1",
+      "desc": "Commencing Attack",
+      "dlg": "What is your taste?"
+    }, {
+      "id": "battle_enemy_break_10404_1",
+      "desc": "Enemy Stagger",
+      "dlg": "I believe in every blood slopes."
+    }, {
+      "id": "battle_break_10404_1",
+      "desc": "Staggered",
+      "dlg": "E ..."
+    }, {
+      "id": "battle_kill_10404_1",
+      "desc": "Enemy Killed",
+      "dlg": "Now it is useful."
+    }, {
+      "id": "battle_dead_10404_1",
+      "desc": "Death",
+      "dlg": "I didn't think ... it will be an employee ..."
+    }, {
+      "id": "choice_success_p_10404_1",
+      "desc": "Check Passed",
+      "dlg": "MHM.t.Oth Good Recipe."
+    }, {
+      "id": "choice_fail_n_10404_1",
+      "desc": "Check Failed",
+      "dlg": "Sorry for me."
+    }, {
+      "id": "battle_clear_10404_1",
+      "desc": "Victory Cry",
+      "dlg": "A set of parts."
+    }, {
+      "id": "battle_clear_ex_10404_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "All these projects ... I don't have to worry about me."
+    }, {
+      "id": "battle_defeat_10404_1",
+      "desc": "Defeat Wail",
+      "dlg": "Teach ... I don't care."
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "announcer_cheer_16_1", "dlg": "Have you finished your special staff test?"}, {"id": "announcer_cheer_16_2", "dlg": "\"Long Live\" is a plant that is looking for a bad desire."}, {"id": "announcer_specialcheer_16_1", "dlg": "I know most employees are under stress."}, {"id": "announcer_specialcheer_16_2", "dlg": "It does not matter because it is \"happiness\" and there is no other manifestation that doesn't appear to be like that."}, {"id": "announcer_enemy_break_16_1", "dlg": "The goal of the harassment is that you can achieve very effective results in the right effect."}, {"id": "announcer_enemy_break_16_2", "dlg": "You wait for our assessment."}, {"id": "announcer_ally_break_16_1", "dlg": "Yes, I know that the injurious employee will almost represent your date."}, {"id": "announcer_ally_break_16_2", "dlg": "The staff lost the cold."}, {"id": "announcer_killenemy_16_1", "dlg": "The goal is the goal of the harassment."}, {"id": "announcer_ally_dead_16_1", "dlg": "Has damaged our actions to our employees."}, {"id": "announcer_enemy_adv_16_1", "dlg": "We are advantages in the current organization."}, {"id": "announcer_ally_adv_16_1", "dlg": "We have advantages."}, {"id": "announcer_danger_16_1", "dlg": "Employees are the risk of dying."}, {"id": "announcer_enemy_specialskill_16_1", "dlg": "They are serious under the influence of employees."}, {"id": "announcer_enemy_specialgimmick_16_1", "dlg": "It is difficult to read the current strategy."}, {"id": "announcer_advatk_physical_16_1", "dlg": "This is the right way to kill this part."}, {"id": "announcer_disadvatk_physical_16_1", "dlg": "This is a disabled goal."}, {"id": "announcer_advatk_attr_16_1", "dlg": "Their weaknesses are actually their weaknesses."}, {"id": "announcer_disadvatk_attr_16_1", "dlg": "This is not the effective type of element."}, {"id": "announcer_enemy_specialbuff_16_1", "dlg": "There seems to be a special purpose."}, {"id": "announcer_enemy_specialdebuff_16_1", "dlg": "It can be in some damage."}, {"id": "announcer_ally_specialbuff_16_1", "dlg": "Our goal."}, {"id": "announcer_ally_specialdebuff_16_1", "dlg": "The element is created ... Part."}, {"id": "announcer_enemy_destroy_16_1", "dlg": "The existence broke."}, {"id": "announcer_enemy_destroy_16_2", "dlg": "This is a break-up company."}, {"id": "announcer_enemy_destroy_16_3", "dlg": "This subject is a broken part."}, {"id": "announcer_round_takebigdmg_16_1", "dlg": "An employee was injured."}, {"id": "announcer_round_takebigdmg_16_2", "dlg": "Employees are important."}, {"id": "announcer_round_givebigdmg_16_1", "dlg": "He had to face a fatal attack on the subject successfully."}, {"id": "announcer_round_givebigdmg_16_2", "dlg": "Reach the same deadly end in the element."}, {"id": "announcer_multikillenemy_16_1", "dlg": "Hey, I am a good example of my employees."}, {"id": "announcer_equip_16_1", "dlg": "I'm a group of information"}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_16_1",
+      "dlg": "Have you finished your special staff test?"
+    }, {
+      "id": "announcer_cheer_16_2",
+      "dlg": "\"Long Live\" is a plant that is looking for a bad desire."
+    }, {
+      "id": "announcer_specialcheer_16_1",
+      "dlg": "I know most employees are under stress."
+    }, {
+      "id": "announcer_specialcheer_16_2",
+      "dlg": "It does not matter because it is \"happiness\" and there is no other manifestation that doesn't appear to be like that."
+    }, {
+      "id": "announcer_enemy_break_16_1",
+      "dlg": "The goal of the harassment is that you can achieve very effective results in the right effect."
+    }, {
+      "id": "announcer_enemy_break_16_2",
+      "dlg": "You wait for our assessment."
+    }, {
+      "id": "announcer_ally_break_16_1",
+      "dlg": "Yes, I know that the injurious employee will almost represent your date."
+    }, {
+      "id": "announcer_ally_break_16_2",
+      "dlg": "The staff lost the cold."
+    }, {
+      "id": "announcer_killenemy_16_1",
+      "dlg": "The goal is the goal of the harassment."
+    }, {
+      "id": "announcer_ally_dead_16_1",
+      "dlg": "Has damaged our actions to our employees."
+    }, {
+      "id": "announcer_enemy_adv_16_1",
+      "dlg": "We are advantages in the current organization."
+    }, {
+      "id": "announcer_ally_adv_16_1",
+      "dlg": "We have advantages."
+    }, {
+      "id": "announcer_danger_16_1",
+      "dlg": "Employees are the risk of dying."
+    }, {
+      "id": "announcer_enemy_specialskill_16_1",
+      "dlg": "They are serious under the influence of employees."
+    }, {
+      "id": "announcer_enemy_specialgimmick_16_1",
+      "dlg": "It is difficult to read the current strategy."
+    }, {
+      "id": "announcer_advatk_physical_16_1",
+      "dlg": "This is the right way to kill this part."
+    }, {
+      "id": "announcer_disadvatk_physical_16_1",
+      "dlg": "This is a disabled goal."
+    }, {
+      "id": "announcer_advatk_attr_16_1",
+      "dlg": "Their weaknesses are actually their weaknesses."
+    }, {
+      "id": "announcer_disadvatk_attr_16_1",
+      "dlg": "This is not the effective type of element."
+    }, {
+      "id": "announcer_enemy_specialbuff_16_1",
+      "dlg": "There seems to be a special purpose."
+    }, {
+      "id": "announcer_enemy_specialdebuff_16_1",
+      "dlg": "It can be in some damage."
+    }, {
+      "id": "announcer_ally_specialbuff_16_1",
+      "dlg": "Our goal."
+    }, {
+      "id": "announcer_ally_specialdebuff_16_1",
+      "dlg": "The element is created ... Part."
+    }, {
+      "id": "announcer_enemy_destroy_16_1",
+      "dlg": "The existence broke."
+    }, {
+      "id": "announcer_enemy_destroy_16_2",
+      "dlg": "This is a break-up company."
+    }, {
+      "id": "announcer_enemy_destroy_16_3",
+      "dlg": "This subject is a broken part."
+    }, {
+      "id": "announcer_round_takebigdmg_16_1",
+      "dlg": "An employee was injured."
+    }, {
+      "id": "announcer_round_takebigdmg_16_2",
+      "dlg": "Employees are important."
+    }, {
+      "id": "announcer_round_givebigdmg_16_1",
+      "dlg": "He had to face a fatal attack on the subject successfully."
+    }, {
+      "id": "announcer_round_givebigdmg_16_2",
+      "dlg": "Reach the same deadly end in the element."
+    }, {
+      "id": "announcer_multikillenemy_16_1",
+      "dlg": "Hey, I am a good example of my employees."
+    }, {
+      "id": "announcer_equip_16_1",
+      "dlg": "I'm a group of information"
+    }
+  ]
+}

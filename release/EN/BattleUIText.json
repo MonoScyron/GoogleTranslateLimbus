@@ -35,34 +35,34 @@
       "content": "Rex."
     }, {
       "id": "battle_log_atk_hp",
-      "content": "{0} Distribution {2} Epidemic {1}File!"
+      "content": "{0} distribution {2} epidemic {1} file!"
     }, {
       "id": "battle_log_atk_mp",
-      "content": "{0} Distribution {2} Epidemic {1}Known!"
+      "content": "{0} distribution {2} epidemic {1} known!"
     }, {
       "id": "battle_log_recover_hp",
-      "content": "{0} Good {2} HP is used {1}Intersection"
+      "content": "{0} good {2} HP is used {1} intersection"
     }, {
       "id": "battle_log_guard",
-      "content": "{0} He had guardians."
+      "content": "{0} he had guardians."
     }, {
       "id": "battle_log_buf_to_other",
-      "content": "{0} Application {3} {2} Copy {1}Intersection"
+      "content": "{0} application {3} {2} copy {1} intersection"
     }, {
       "id": "battle_log_buf_to_self",
-      "content": "{0} Application {2} {1} This is the same."
+      "content": "{0} application {2} {1} this is the same."
     }, {
       "id": "battle_log_use_ego",
-      "content": "{0} I get up {1}To go"
+      "content": "{0} i get up {1} to go"
     }, {
       "id": "battle_log_use_ego_corrosion",
-      "content": "{1} An electrical weather {0}To go"
+      "content": "{1} an electrical weather {0} to go"
     }, {
       "id": "battle_log_personality_corrosion",
-      "content": "{0} Is failure!"
+      "content": "{0} is failure!"
     }, {
       "id": "battle_log_low_morale",
-      "content": "{0}Ethics is low!"
+      "content": "{0} ethics is low!"
     }, {
       "id": "battle_log_panic",
       "content": "{0} I am afraid!"
@@ -233,7 +233,7 @@
       "content": "Help yourself"
     }, {
       "id": "crime_state_judgment",
-      "content": "{0} Account"
+      "content": "{0} account"
     }, {
       "id": "choice_personality",
       "content": "Select the character to check it."
@@ -251,16 +251,16 @@
       "content": "Chance"
     }, {
       "id": "skill_expectition_value",
-      "content": "Predictive-Class: {0}Electrical bulb{1}"
+      "content": "Predictive-Class: {0} electrical bulb{1}"
     }, {
       "id": "skill_expectition_or_value",
       "content": "Target Value: {0} ……. {1}"
     }, {
       "id": "skill_correction_value",
-      "content": "{0} Effects: {1}"
+      "content": "{0} effects: {1}"
     }, {
       "id": "correction_based_on_association",
-      "content": "{0} The result is: {1}……."
+      "content": "{0} the result is: {1}……."
     }, {
       "id": "action_choice_event_result_example_battle",
       "content": "Exchange"
@@ -371,7 +371,7 @@
       "content": "Dark thunder."
     }, {
       "id": "Lack_Buff",
-      "content": "Numbers {0}File!"
+      "content": "Numbers {0} file!"
     }, {
       "id": "received_the_golden_bough",
       "content": "Thief"
@@ -392,7 +392,7 @@
       "content": "Automatic"
     }, {
       "id": "babayaga_alert",
-      "content": "Before you {0} They are a great opportunity."
+      "content": "Before you {0} they are a great opportunity."
     }, {
       "id": "battle_operation_offset",
       "content": "Collect"
@@ -488,7 +488,7 @@
       "content": "All people"
     }, {
       "id": "applying_buff_format",
-      "content": "{0} Active"
+      "content": "{0} active"
     }, {
       "id": "level_number_UNDEF",
       "content": "United Nations."
@@ -527,7 +527,7 @@
       "content": "There is no development limit"
     }, {
       "id": "correction_based_on_unit_keyword",
-      "content": "{0} Id version: {1}……."
+      "content": "{0} id version: {1}……."
     }, {
       "id": "battle_operation_counter",
       "content": "Hommer"

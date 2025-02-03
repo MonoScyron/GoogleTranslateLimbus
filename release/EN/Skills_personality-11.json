@@ -67,7 +67,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] A beautiful trigger was explored to 6+."
+                  "desc": "[OnSucceedAttack] a beautiful trigger was explored to 6+."
                 }
               ]
             }
@@ -92,7 +92,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] A beautiful trigger was explored to 6+."
+                  "desc": "[OnSucceedAttack] a beautiful trigger was explored to 6+."
                 }
               ]
             }
@@ -117,7 +117,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] A beautiful trigger was explored to 6+."
+                  "desc": "[OnSucceedAttack] a beautiful trigger was explored to 6+."
                 }
               ]
             }
@@ -461,7 +461,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
+                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount] 1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
                 }
               ]
             }, {
@@ -480,7 +480,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
+                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount] 1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
                 }
               ]
             }, {
@@ -499,7 +499,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
+                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount] 1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
                 }
               ]
             }, {
@@ -518,7 +518,7 @@
         {
           "level": 3,
           "name": "Rumor",
-          "desc": "Loss of every person + 0.5% [Combustion] For purpose (up to 15%)\n\n[BeforeAttack] Get 1 [FreischutzShotCount]\n-No ([FreischutzShotCount] -1) can be sold\n-Tactic -Slebration is the same [FreischutzShotCount] Price\n-10% confusing-10 or less, 50% confusing attacks\n\n[EndSkill] 7 [FreischutzShotCount]Reset on 0",
+          "desc": "Loss of every person + 0.5% [Combustion] For purpose (up to 15%)\n\n[BeforeAttack] Get 1 [FreischutzShotCount]\n-No ([FreischutzShotCount] -1) can be sold\n-Tactic -Slebration is the same [FreischutzShotCount] Price\n-10% confusing-10 or less, 50% confusing attacks\n\n[EndSkill] 7 [FreischutzShotCount] Reset on 0",
           "coinlist": [
             {
               "coindescs": [
@@ -531,7 +531,7 @@
         }, {
           "level": 4,
           "name": "Rumor",
-          "desc": "<style=\"highlight\">All + 1% have been entered. [Combustion] Goal (up to 30%)</style>\n\n[BeforeAttack] Get 1 [FreischutzShotCount]\n-No ([FreischutzShotCount] -1) can be sold\n-Tactic -Slebration is the same [FreischutzShotCount] Price\n-10% confusing-10 or less, 50% confusing attacks\n\n[EndSkill] 7 [FreischutzShotCount]Reset on 0",
+          "desc": "<style=\"highlight\">All + 1% have been entered. [Combustion] Goal (up to 30%)</style>\n\n[BeforeAttack] Get 1 [FreischutzShotCount]\n-No ([FreischutzShotCount] -1) can be sold\n-Tactic -Slebration is the same [FreischutzShotCount] Price\n-10% confusing-10 or less, 50% confusing attacks\n\n[EndSkill] 7 [FreischutzShotCount] Reset on 0",
           "coinlist": [
             {
               "coindescs": [
@@ -554,7 +554,7 @@
         }, {
           "level": 4,
           "name": "The ball",
-          "desc": "[WhenUse] Get 1 [FreischutzShotCount] (After the Wiser)\n[WhenUse] The last power is the same (?[FreischutzShotCount] Puck)\n[EndSkillAll] Centers together [FreischutzShotCount]",
+          "desc": "[WhenUse] Get 1 [FreischutzShotCount] (After the Wiser)\n[WhenUse] The last power is the same ([FreischutzShotCount] Puck)\n[EndSkillAll] Centers together [FreischutzShotCount]",
           "coinlist": [{}]
         }
       ]
@@ -677,7 +677,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 3 [EchoOfMansion] Valley"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [EchoOfMansion]Dark relationships that overcome the roots are more than half of the dark relations. [Sinking] Target button (up to 20)"
+                  "desc": "[OnSucceedAttack] If your goal is. [EchoOfMansion] Dark relationships that overcome the roots are more than half of the dark relations. [Sinking] Target button (up to 20)"
                 }
               ]
             }
@@ -1283,7 +1283,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 10+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] X 2) more (up to 38%)\n-20+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] X3) instead of a big loss (up to 90%)"
+                  "desc": "[OnSucceedAttack] 10+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] x 2) more (up to 38%)\n-20+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] X3) instead of a big loss (up to 90%)"
                 }
               ]
             }

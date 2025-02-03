@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_8_1", "dlg": "What you said is true."}, {"id": "announcer_cheer_8_2", "dlg": "I would like to say that there is no rapid air."}, {"id": "announcer_specialcheer_8_1", "dlg": "We have destroyed ourselves."}, {"id": "announcer_specialcheer_8_2", "dlg": "You ... I know that it is not what I say, but we will improve."}, {"id": "announcer_enemy_break_8_1", "dlg": "Thus, the turn of the storm."}, {"id": "announcer_ally_break_8_1", "dlg": "Oh ... Admin, some friends should be careful."}, {"id": "announcer_killenemy_8_1", "dlg": "This is a successful food."}, {"id": "announcer_ally_dead_8_1", "dlg": "Hack Administrator, now time has come time."}, {"id": "announcer_enemy_adv_8_1", "dlg": "If we do this yet, we like everything!"}, {"id": "announcer_ally_adv_8_1", "dlg": "Yes"}, {"id": "announcer_danger_8_1", "dlg": "The last chance."}, {"id": "announcer_enemy_specialskill_8_1", "dlg": "The earth is shaking ... when the waves are collecting previous strength ..."}, {"id": "announcer_enemy_specialgimmick_8_1", "dlg": "Before the waves come it smells."}, {"id": "announcer_advatk_physical_8_1", "dlg": "This is impressive."}, {"id": "announcer_disadvatk_physical_8_1", "dlg": "... Yes, yes ... H."}, {"id": "announcer_advatk_attr_8_1", "dlg": "Right content ... you read enemies like free book."}, {"id": "announcer_disadvatk_attr_8_1", "dlg": "Good ... I'm sure you have a reason for you, but you don't know what we do ..."}, {"id": "announcer_enemy_specialbuff_8_1", "dlg": "Maybe they can come back."}, {"id": "announcer_enemy_specialdebuff_8_1", "dlg": "... they are their faces."}, {"id": "announcer_ally_specialbuff_8_1", "dlg": "They are very strong."}, {"id": "announcer_ally_specialdebuff_8_1", "dlg": "Oh ... I don't know what they are doing, but everyone is corrupt."}, {"id": "announcer_enemy_destroy_8_1", "dlg": "Part of the broken part!"}, {"id": "announcer_enemy_destroy_8_2", "dlg": "Now the character is easy to break."}, {"id": "announcer_round_takebigdmg_8_1", "dlg": "Warehouse ...!"}, {"id": "announcer_round_takebigdmg_8_2", "dlg": "The movement is now made our friend."}, {"id": "announcer_round_givebigdmg_8_1", "dlg": "Oh ...!"}, {"id": "announcer_round_givebigdmg_8_2", "dlg": "This is an impressive fight."}, {"id": "announcer_multikillenemy_8_1", "dlg": "It's all ... at one end ...?"}, {"id": "announcer_equip_8_1", "dlg": "Immediately after work?"}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_8_1",
+      "dlg": "What you said is true."
+    }, {
+      "id": "announcer_cheer_8_2",
+      "dlg": "I would like to say that there is no rapid air."
+    }, {
+      "id": "announcer_specialcheer_8_1",
+      "dlg": "We have destroyed ourselves."
+    }, {
+      "id": "announcer_specialcheer_8_2",
+      "dlg": "You ... I know that it is not what I say, but we will improve."
+    }, {
+      "id": "announcer_enemy_break_8_1",
+      "dlg": "Thus, the turn of the storm."
+    }, {
+      "id": "announcer_ally_break_8_1",
+      "dlg": "Oh ... Admin, some friends should be careful."
+    }, {
+      "id": "announcer_killenemy_8_1",
+      "dlg": "This is a successful food."
+    }, {
+      "id": "announcer_ally_dead_8_1",
+      "dlg": "Hack Administrator, now time has come time."
+    }, {
+      "id": "announcer_enemy_adv_8_1",
+      "dlg": "If we do this yet, we like everything!"
+    }, {
+      "id": "announcer_ally_adv_8_1",
+      "dlg": "Yes"
+    }, {
+      "id": "announcer_danger_8_1",
+      "dlg": "The last chance."
+    }, {
+      "id": "announcer_enemy_specialskill_8_1",
+      "dlg": "The earth is shaking ... when the waves are collecting previous strength ..."
+    }, {
+      "id": "announcer_enemy_specialgimmick_8_1",
+      "dlg": "Before the waves come it smells."
+    }, {
+      "id": "announcer_advatk_physical_8_1",
+      "dlg": "This is impressive."
+    }, {
+      "id": "announcer_disadvatk_physical_8_1",
+      "dlg": "... Yes, yes ... H."
+    }, {
+      "id": "announcer_advatk_attr_8_1",
+      "dlg": "Right content ... you read enemies like free book."
+    }, {
+      "id": "announcer_disadvatk_attr_8_1",
+      "dlg": "Good ... I'm sure you have a reason for you, but you don't know what we do ..."
+    }, {
+      "id": "announcer_enemy_specialbuff_8_1",
+      "dlg": "Maybe they can come back."
+    }, {
+      "id": "announcer_enemy_specialdebuff_8_1",
+      "dlg": "... they are their faces."
+    }, {
+      "id": "announcer_ally_specialbuff_8_1",
+      "dlg": "They are very strong."
+    }, {
+      "id": "announcer_ally_specialdebuff_8_1",
+      "dlg": "Oh ... I don't know what they are doing, but everyone is corrupt."
+    }, {
+      "id": "announcer_enemy_destroy_8_1",
+      "dlg": "Part of the broken part!"
+    }, {
+      "id": "announcer_enemy_destroy_8_2",
+      "dlg": "Now the character is easy to break."
+    }, {
+      "id": "announcer_round_takebigdmg_8_1",
+      "dlg": "Warehouse ...!"
+    }, {
+      "id": "announcer_round_takebigdmg_8_2",
+      "dlg": "The movement is now made our friend."
+    }, {
+      "id": "announcer_round_givebigdmg_8_1",
+      "dlg": "Oh ...!"
+    }, {
+      "id": "announcer_round_givebigdmg_8_2",
+      "dlg": "This is an impressive fight."
+    }, {
+      "id": "announcer_multikillenemy_8_1",
+      "dlg": "It's all ... at one end ...?"
+    }, {
+      "id": "announcer_equip_8_1",
+      "dlg": "Immediately after work?"
+    }
+  ]
+}

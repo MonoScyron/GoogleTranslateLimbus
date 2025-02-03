@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10408_1", "desc": "Identity Acquisition", "dlg": "The SPDV is called the mixture."}, {"id": "lobby_morning_10408_1", "desc": "Morning Greeting", "dlg": "The Barley must start in front of the morning owner."}, {"id": "lobby_noon_10408_1", "desc": "Afternoon Greeting", "dlg": "Our employer was delayed five minutes."}, {"id": "lobby_night_10408_1", "desc": "Evening Greeting", "dlg": "Check thorns and swords \"in the\" inspection clock \"mission."}, {"id": "smalltalk_10408_1", "desc": "Chatter #1", "dlg": "Personally, I would like to tell me more, but this sour taste is in the right water.\nYes ... Chef flour is very tired work."}, {"id": "smalltalk_10408_2", "desc": "Chatter #2", "dlg": "See this illusion in your case.\nI have the seventh performance to fulfill the seventh performance."}, {"id": "smalltalk_10408_3", "desc": "Chatter #3", "dlg": "The victim is near.\nSnuggly ticks by GregR."}, {"id": "smalltalk_10408_4", "desc": "Post-Uptie Chat 1", "dlg": "Tugs!\n... I will take care of it."}, {"id": "smalltalk_10408_5", "desc": "Post-Uptie Chat 2", "dlg": "So we see each other again ... I don't have March.\nI still give you an interesting hell."}, {"id": "neglect_10408_1", "desc": "Idle", "dlg": "Stop sharing and move the sword."}, {"id": "gacksung_10408_1", "desc": "Uptying", "dlg": "Darling."}, {"id": "formation_10408_1", "desc": "Deployment", "dlg": "Based on the construction of this stupid people."}, {"id": "battleentry_10408_1", "desc": "Stage Entry", "dlg": "The hunter is ready."}, {"id": "battle_select_10408_1", "desc": "Viewed in Battle", "dlg": "Stop intelligent courage, move me fools behind and god behind."}, {"id": "battle_endcommand_10408_1", "desc": "Commencing Attack", "dlg": "Eliminate your battle."}, {"id": "battle_enemy_break_10408_1", "desc": "Enemy Stagger", "dlg": "Ready to close the eyes ..."}, {"id": "battle_break_10408_1", "desc": "Staggered", "dlg": "E ..."}, {"id": "battle_kill_10408_1", "desc": "Enemy Killed", "dlg": "Now enjoy your dreams."}, {"id": "battle_dead_10408_1", "desc": "Death", "dlg": "Cough ... you should secure the owner ..."}, {"id": "choice_success_p_10408_2", "desc": "Check Passed", "dlg": "Homer, the whole family."}, {"id": "choice_fail_n_10408_1", "desc": "Check Failed", "dlg": "Well, this is my responsibility."}, {"id": "battle_clear_10408_1", "desc": "Victory Cry", "dlg": "\"In the house\" ... Let's look back as soon as possible."}, {"id": "battle_clear_ex_10408_1", "desc": "Extra Conditions Fulfilled", "dlg": "This is a successful party."}, {"id": "battle_defeat_10408_1", "desc": "Defeat Wail", "dlg": "This boat failed ... the hostess can only fix it."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10408_1",
+      "desc": "Identity Acquisition",
+      "dlg": "The SPDV is called the mixture."
+    }, {
+      "id": "lobby_morning_10408_1",
+      "desc": "Morning Greeting",
+      "dlg": "The Barley must start in front of the morning owner."
+    }, {
+      "id": "lobby_noon_10408_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Our employer was delayed five minutes."
+    }, {
+      "id": "lobby_night_10408_1",
+      "desc": "Evening Greeting",
+      "dlg": "Check thorns and swords \"in the\" inspection clock \"mission."
+    }, {
+      "id": "smalltalk_10408_1",
+      "desc": "Chatter #1",
+      "dlg": "Personally, I would like to tell me more, but this sour taste is in the right water.\nYes ... Chef flour is very tired work."
+    }, {
+      "id": "smalltalk_10408_2",
+      "desc": "Chatter #2",
+      "dlg": "See this illusion in your case.\nI have the seventh performance to fulfill the seventh performance."
+    }, {
+      "id": "smalltalk_10408_3",
+      "desc": "Chatter #3",
+      "dlg": "The victim is near.\nSnuggly ticks by GregR."
+    }, {
+      "id": "smalltalk_10408_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Tugs!\n... I will take care of it."
+    }, {
+      "id": "smalltalk_10408_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "So we see each other again ... I don't have March.\nI still give you an interesting hell."
+    }, {
+      "id": "neglect_10408_1",
+      "desc": "Idle",
+      "dlg": "Stop sharing and move the sword."
+    }, {
+      "id": "gacksung_10408_1",
+      "desc": "Uptying",
+      "dlg": "Darling."
+    }, {
+      "id": "formation_10408_1",
+      "desc": "Deployment",
+      "dlg": "Based on the construction of this stupid people."
+    }, {
+      "id": "battleentry_10408_1",
+      "desc": "Stage Entry",
+      "dlg": "The hunter is ready."
+    }, {
+      "id": "battle_select_10408_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Stop intelligent courage, move me fools behind and god behind."
+    }, {
+      "id": "battle_endcommand_10408_1",
+      "desc": "Commencing Attack",
+      "dlg": "Eliminate your battle."
+    }, {
+      "id": "battle_enemy_break_10408_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Ready to close the eyes ..."
+    }, {
+      "id": "battle_break_10408_1",
+      "desc": "Staggered",
+      "dlg": "E ..."
+    }, {
+      "id": "battle_kill_10408_1",
+      "desc": "Enemy Killed",
+      "dlg": "Now enjoy your dreams."
+    }, {
+      "id": "battle_dead_10408_1",
+      "desc": "Death",
+      "dlg": "Cough ... you should secure the owner ..."
+    }, {
+      "id": "choice_success_p_10408_2",
+      "desc": "Check Passed",
+      "dlg": "Homer, the whole family."
+    }, {
+      "id": "choice_fail_n_10408_1",
+      "desc": "Check Failed",
+      "dlg": "Well, this is my responsibility."
+    }, {
+      "id": "battle_clear_10408_1",
+      "desc": "Victory Cry",
+      "dlg": "\"In the house\" ... Let's look back as soon as possible."
+    }, {
+      "id": "battle_clear_ex_10408_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This is a successful party."
+    }, {
+      "id": "battle_defeat_10408_1",
+      "desc": "Defeat Wail",
+      "dlg": "This boat failed ... the hostess can only fix it."
+    }
+  ]
+}

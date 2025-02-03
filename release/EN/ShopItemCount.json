@@ -2,13 +2,13 @@
   "dataList": [
     {
       "id": "item_count_basic",
-      "content": "{1} By{0}"
+      "content": "{1} by{0}"
     }, {
       "id": "item_count_page",
-      "content": "{0} {1}that's it"
+      "content": "{0} {1} that's it"
     }, {
       "id": "item_count_lunacy_free",
-      "content": "Crisis {0} Crazy with the free award"
+      "content": "Crisis {0} crazy with the free award"
     }
   ]
 }

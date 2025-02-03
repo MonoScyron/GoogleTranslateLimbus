@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10809_1", "desc": "Identity Acquisition", "dlg": "Oh, there is a dust here."}, {"id": "lobby_morning_10809_1", "desc": "Morning Greeting", "dlg": "Good morning, I hope you can rest."}, {"id": "lobby_noon_10809_1", "desc": "Afternoon Greeting", "dlg": "According to your request, we will focus on the guests to clear the entrance.\nOh, the red spots of Levi means they focus on it last night and face unknown streets."}, {"id": "lobby_night_10809_1", "desc": "Evening Greeting", "dlg": "I was at night"}, {"id": "smalltalk_10809_1", "desc": "Chatter #1", "dlg": "You will be able to maintain balance ... When Mrs. Ryan finds it, he has stood a bottle weed in his fort.\nIf you have a problem, send a message to cooking workers to eat breakfast."}, {"id": "smalltalk_10809_2", "desc": "Chatter #2", "dlg": "Mrs. Renu, at the last stage outside, can be found very quickly."}, {"id": "smalltalk_10809_3", "desc": "Chatter #3", "dlg": "I know it was cold, but when the wind was very tighted, I open the window.\n... if possible, would it take a while for the reception?"}, {"id": "smalltalk_10809_4", "desc": "Post-Uptie Chat 1", "dlg": "There is no time to see the brave cross from our teacher's DNA ... I clean it and hold it as a beautiful piece."}, {"id": "smalltalk_10809_5", "desc": "Post-Uptie Chat 2", "dlg": "In fact, we will join the defense of successful research ...\nI finally saw my goal."}, {"id": "gacksung_10809_1", "desc": "Uptying", "dlg": "You translate the butter through the home.\nI cleared the foolish nature of your illness."}, {"id": "neglect_10809_1", "desc": "Idle", "dlg": "... can you think about it?"}, {"id": "formation_10809_1", "desc": "Deployment", "dlg": "Family time."}, {"id": "battleentry_10809_1", "desc": "Stage Entry", "dlg": "Bottle case is ready."}, {"id": "battle_select_10809_1", "desc": "Viewed in Battle", "dlg": "Yes can I help you?"}, {"id": "battle_endcommand_10809_1", "desc": "Commencing Attack", "dlg": "I will be strongly."}, {"id": "battle_enemy_break_10809_1", "desc": "Enemy Stagger", "dlg": "Old soil is crisp ..."}, {"id": "battle_break_10809_1", "desc": "Staggered", "dlg": "Yes ...!"}, {"id": "battle_kill_10809_1", "desc": "Enemy Killed", "dlg": "... finally dust."}, {"id": "battle_dead_10809_1", "desc": "Death", "dlg": "Idy ... jazz ... master."}, {"id": "choice_success_p_10809_2", "desc": "Check Passed", "dlg": "Of course I'm a special blend."}, {"id": "choice_fail_n_10809_1", "desc": "Check Failed", "dlg": "T -... excuse."}, {"id": "battle_clear_10809_1", "desc": "Victory Cry", "dlg": "We rarely do this, but we all find it on the bucket."}, {"id": "battle_clear_ex_10809_1", "desc": "Extra Conditions Fulfilled", "dlg": "I didn't leave dust."}, {"id": "battle_defeat_10809_1", "desc": "Defeat Wail", "dlg": "Do I still need a circle for the cycle?"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10809_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Oh, there is a dust here."
+    }, {
+      "id": "lobby_morning_10809_1",
+      "desc": "Morning Greeting",
+      "dlg": "Good morning, I hope you can rest."
+    }, {
+      "id": "lobby_noon_10809_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "According to your request, we will focus on the guests to clear the entrance.\nOh, the red spots of Levi means they focus on it last night and face unknown streets."
+    }, {
+      "id": "lobby_night_10809_1",
+      "desc": "Evening Greeting",
+      "dlg": "I was at night"
+    }, {
+      "id": "smalltalk_10809_1",
+      "desc": "Chatter #1",
+      "dlg": "You will be able to maintain balance ... When Mrs. Ryan finds it, he has stood a bottle weed in his fort.\nIf you have a problem, send a message to cooking workers to eat breakfast."
+    }, {
+      "id": "smalltalk_10809_2",
+      "desc": "Chatter #2",
+      "dlg": "Mrs. Renu, at the last stage outside, can be found very quickly."
+    }, {
+      "id": "smalltalk_10809_3",
+      "desc": "Chatter #3",
+      "dlg": "I know it was cold, but when the wind was very tighted, I open the window.\n... if possible, would it take a while for the reception?"
+    }, {
+      "id": "smalltalk_10809_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "There is no time to see the brave cross from our teacher's DNA ... I clean it and hold it as a beautiful piece."
+    }, {
+      "id": "smalltalk_10809_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "In fact, we will join the defense of successful research ...\nI finally saw my goal."
+    }, {
+      "id": "gacksung_10809_1",
+      "desc": "Uptying",
+      "dlg": "You translate the butter through the home.\nI cleared the foolish nature of your illness."
+    }, {
+      "id": "neglect_10809_1",
+      "desc": "Idle",
+      "dlg": "... can you think about it?"
+    }, {
+      "id": "formation_10809_1",
+      "desc": "Deployment",
+      "dlg": "Family time."
+    }, {
+      "id": "battleentry_10809_1",
+      "desc": "Stage Entry",
+      "dlg": "Bottle case is ready."
+    }, {
+      "id": "battle_select_10809_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Yes can I help you?"
+    }, {
+      "id": "battle_endcommand_10809_1",
+      "desc": "Commencing Attack",
+      "dlg": "I will be strongly."
+    }, {
+      "id": "battle_enemy_break_10809_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Old soil is crisp ..."
+    }, {
+      "id": "battle_break_10809_1",
+      "desc": "Staggered",
+      "dlg": "Yes ...!"
+    }, {
+      "id": "battle_kill_10809_1",
+      "desc": "Enemy Killed",
+      "dlg": "... finally dust."
+    }, {
+      "id": "battle_dead_10809_1",
+      "desc": "Death",
+      "dlg": "Idy ... jazz ... master."
+    }, {
+      "id": "choice_success_p_10809_2",
+      "desc": "Check Passed",
+      "dlg": "Of course I'm a special blend."
+    }, {
+      "id": "choice_fail_n_10809_1",
+      "desc": "Check Failed",
+      "dlg": "T -... excuse."
+    }, {
+      "id": "battle_clear_10809_1",
+      "desc": "Victory Cry",
+      "dlg": "We rarely do this, but we all find it on the bucket."
+    }, {
+      "id": "battle_clear_ex_10809_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I didn't leave dust."
+    }, {
+      "id": "battle_defeat_10809_1",
+      "desc": "Defeat Wail",
+      "dlg": "Do I still need a circle for the cycle?"
+    }
+  ]
+}

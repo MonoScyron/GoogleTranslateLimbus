@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10702_1", "desc": "Identity Acquisition", "dlg": "The same death ... destroy the things here."}, {"id": "lobby_morning_10702_1", "desc": "Morning Greeting", "dlg": "Who will sleep after the Pollock ...?"}, {"id": "lobby_noon_10702_1", "desc": "Afternoon Greeting", "dlg": "Lunch ... I want to get married"}, {"id": "lobby_night_10702_1", "desc": "Evening Greeting", "dlg": "Did you see my friend Hongwio?"}, {"id": "smalltalk_10702_1", "desc": "Chatter #1", "dlg": "... Are you worried about my wounds?"}, {"id": "smalltalk_10702_2", "desc": "Chatter #2", "dlg": "If you have no Witnesses, you can live in your hands."}, {"id": "smalltalk_10702_3", "desc": "Chatter #3", "dlg": "Honesty and bored."}, {"id": "smalltalk_10702_4", "desc": "Post-Uptie Chat 1", "dlg": "My friends still say that star is useless, quiet or meaningless, and everyone to find."}, {"id": "smalltalk_10702_5", "desc": "Post-Uptie Chat 2", "dlg": "I think your clock has delayed without grief."}, {"id": "neglect_10702_1", "desc": "Idle", "dlg": "Where are you '?"}, {"id": "gacksung_10702_1", "desc": "Uptying", "dlg": "When I stopped, I left out!"}, {"id": "formation_10702_1", "desc": "Deployment", "dlg": "I won't forgive you!"}, {"id": "battleentry_10702_1", "desc": "Stage Entry", "dlg": "It should collapse collapse."}, {"id": "battle_select_10702_1", "desc": "Viewed in Battle", "dlg": "Ok, who do I shoot?"}, {"id": "battle_endcommand_10702_1", "desc": "Commencing Attack", "dlg": "Hey, I want to cut it!"}, {"id": "battle_enemy_break_10702_1", "desc": "Enemy Stagger", "dlg": "What about it?"}, {"id": "battle_break_10702_1", "desc": "Staggered", "dlg": "See ...!"}, {"id": "battle_kill_10702_1", "desc": "Enemy Killed", "dlg": "Remove objects ~"}, {"id": "battle_allydead_10702_1", "desc": "Ally Death", "dlg": "If you do not restore the technology, you will not give up the room."}, {"id": "choice_success_p_10702_1", "desc": "Check Passed", "dlg": "See it."}, {"id": "choice_fail_n_10702_1", "desc": "Check Failed", "dlg": "I did not send him the first time."}, {"id": "battle_clear_10702_1", "desc": "Victory Cry", "dlg": "It's easy."}, {"id": "battle_clear_ex_10702_1", "desc": "Extra Conditions Fulfilled", "dlg": "Everyone has draft."}, {"id": "battle_defeat_10702_1", "desc": "Defeat Wail", "dlg": "My black is not yet!"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10702_1",
+      "desc": "Identity Acquisition",
+      "dlg": "The same death ... destroy the things here."
+    }, {
+      "id": "lobby_morning_10702_1",
+      "desc": "Morning Greeting",
+      "dlg": "Who will sleep after the Pollock ...?"
+    }, {
+      "id": "lobby_noon_10702_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Lunch ... I want to get married"
+    }, {
+      "id": "lobby_night_10702_1",
+      "desc": "Evening Greeting",
+      "dlg": "Did you see my friend Hongwio?"
+    }, {
+      "id": "smalltalk_10702_1",
+      "desc": "Chatter #1",
+      "dlg": "... Are you worried about my wounds?"
+    }, {
+      "id": "smalltalk_10702_2",
+      "desc": "Chatter #2",
+      "dlg": "If you have no Witnesses, you can live in your hands."
+    }, {
+      "id": "smalltalk_10702_3",
+      "desc": "Chatter #3",
+      "dlg": "Honesty and bored."
+    }, {
+      "id": "smalltalk_10702_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "My friends still say that star is useless, quiet or meaningless, and everyone to find."
+    }, {
+      "id": "smalltalk_10702_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I think your clock has delayed without grief."
+    }, {
+      "id": "neglect_10702_1",
+      "desc": "Idle",
+      "dlg": "Where are you '?"
+    }, {
+      "id": "gacksung_10702_1",
+      "desc": "Uptying",
+      "dlg": "When I stopped, I left out!"
+    }, {
+      "id": "formation_10702_1",
+      "desc": "Deployment",
+      "dlg": "I won't forgive you!"
+    }, {
+      "id": "battleentry_10702_1",
+      "desc": "Stage Entry",
+      "dlg": "It should collapse collapse."
+    }, {
+      "id": "battle_select_10702_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Ok, who do I shoot?"
+    }, {
+      "id": "battle_endcommand_10702_1",
+      "desc": "Commencing Attack",
+      "dlg": "Hey, I want to cut it!"
+    }, {
+      "id": "battle_enemy_break_10702_1",
+      "desc": "Enemy Stagger",
+      "dlg": "What about it?"
+    }, {
+      "id": "battle_break_10702_1",
+      "desc": "Staggered",
+      "dlg": "See ...!"
+    }, {
+      "id": "battle_kill_10702_1",
+      "desc": "Enemy Killed",
+      "dlg": "Remove objects ~"
+    }, {
+      "id": "battle_allydead_10702_1",
+      "desc": "Ally Death",
+      "dlg": "If you do not restore the technology, you will not give up the room."
+    }, {
+      "id": "choice_success_p_10702_1",
+      "desc": "Check Passed",
+      "dlg": "See it."
+    }, {
+      "id": "choice_fail_n_10702_1",
+      "desc": "Check Failed",
+      "dlg": "I did not send him the first time."
+    }, {
+      "id": "battle_clear_10702_1",
+      "desc": "Victory Cry",
+      "dlg": "It's easy."
+    }, {
+      "id": "battle_clear_ex_10702_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Everyone has draft."
+    }, {
+      "id": "battle_defeat_10702_1",
+      "desc": "Defeat Wail",
+      "dlg": "My black is not yet!"
+    }
+  ]
+}

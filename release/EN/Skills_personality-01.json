@@ -548,7 +548,7 @@
         {
           "level": 1,
           "name": "Business",
-          "desc": "\"'\" (' '[KnowledgeExplored] Up to 2.\n[WhenUse] Drop skill in the highest rankings in this technique in this technique",
+          "desc": "[KnowledgeExplored] Up to 2.\n[WhenUse] Drop skill in the highest rankings in this technique in this technique",
           "coinlist": [
             {
               "coindescs": [
@@ -567,7 +567,7 @@
         }, {
           "level": 2,
           "name": "Business",
-          "desc": "\"'\" (' '[KnowledgeExplored] × 3% MAXPLON HP) If this technique is rejected\n[WhenUse] Drop skill in the highest rankings in this technique in this technique",
+          "desc": "[KnowledgeExplored] × 3% MAXPLON HP) If this technique is rejected\n[WhenUse] Drop skill in the highest rankings in this technique in this technique",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
         }, {
           "level": 4,
           "name": "Business",
-          "desc": "\"'\" (' '[KnowledgeExplored] × 3% MAXPLON HP) If this technique is rejected\n[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] The target is 5+ [Sinking], Call ++ 1",
+          "desc": "[KnowledgeExplored] × 3% MAXPLON HP) If this technique is rejected\n[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] The target is 5+ [Sinking], Call ++ 1",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
         {
           "level": 1,
           "name": "Prison",
-          "desc": "\"'\" (' '[KnowledgeExplored] Up to 4%.\n[WhenUse] Drop skill in the highest rankings in this technique in this technique",
+          "desc": "[KnowledgeExplored] Up to 4%.\n[WhenUse] Drop skill in the highest rankings in this technique in this technique",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -629,7 +629,7 @@
         }, {
           "level": 2,
           "name": "Prison",
-          "desc": "\"'\" (' '[KnowledgeExplored] Up to 5\n[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] Get +3 Get +3 to prevent this procedure",
+          "desc": "[KnowledgeExplored] Up to 5\n[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] Get +3 Get +3 to prevent this procedure",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -648,7 +648,7 @@
         }, {
           "level": 4,
           "name": "Prison",
-          "desc": "\"'\" (' '[KnowledgeExplored] Up to 6%.\n[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] The target is 5+ [Sinking], Call ++ 1\n[WhenUse] Get +3 Get +3 to prevent this procedure",
+          "desc": "[KnowledgeExplored] Up to 6%.\n[WhenUse] Drop skill in the highest rankings in this technique in this technique\n[WhenUse] The target is 5+ [Sinking], Call ++ 1\n[WhenUse] Get +3 Get +3 to prevent this procedure",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -672,7 +672,7 @@
         {
           "level": 3,
           "name": "Knowledge celebrity",
-          "desc": "\"'\" (' '[KnowledgeExplored] Up to 9%.\n[WhenUse] Get +8 AEG with this technique",
+          "desc": "[KnowledgeExplored] Up to 9%.\n[WhenUse] Get +8 AEG with this technique",
           "coinlist": [
             {}, {}, {}, {
               "coindescs": [
@@ -685,7 +685,7 @@
         }, {
           "level": 4,
           "name": "Knowledge celebrity",
-          "desc": "\"'\" (' '[KnowledgeExplored] Up to 12%.\n[WhenUse] Get +10 eggs with this technique\n[WhenUse] Up to 50%, metal currency +1",
+          "desc": "[KnowledgeExplored] Up to 12%.\n[WhenUse] Get +10 eggs with this technique\n[WhenUse] Up to 50%, metal currency +1",
           "coinlist": [
             {}, {}, {}, {
               "coindescs": [
@@ -739,7 +739,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -758,7 +758,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -777,7 +777,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -805,7 +805,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }
@@ -822,7 +822,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }
@@ -839,7 +839,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }
@@ -859,15 +859,15 @@
                 {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Name. [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Application 1 [Laceration]Jiv [Laceration]"
+                  "desc": "[OnSucceedAttack] Application 1 [Laceration] Jiv [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -890,15 +890,15 @@
                 {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Goal 3 seconds negative effects, + 2 additional apps [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Application 1 [Laceration]Jiv [Laceration]"
+                  "desc": "[OnSucceedAttack] Application 1 [Laceration] Jiv [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]……. [Laceration]……. [Vibration]……. [Burst] Or [Sinking].Pore random selection."
                 }
               ]
             }, {

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10502_1", "desc": "Identity Acquisition", "dlg": "If it looks fire, if you need it, I will give it."}, {"id": "lobby_morning_10502_1", "desc": "Morning Greeting", "dlg": "It was time to wake up because I opened the eyes."}, {"id": "lobby_noon_10502_1", "desc": "Afternoon Greeting", "dlg": "In the empty time, others helped the train."}, {"id": "lobby_night_10502_1", "desc": "Evening Greeting", "dlg": "If you don't like dark things, I will shine with light in my area."}, {"id": "smalltalk_10502_1", "desc": "Chatter #1", "dlg": "If the situation is not good ... check the problem carefully."}, {"id": "smalltalk_10502_2", "desc": "Chatter #2", "dlg": "More often the rare noises are evaluated."}, {"id": "smalltalk_10502_3", "desc": "Chatter #3", "dlg": "I have time to meet you because ... when the right moment comes, we will find a set of gold groups."}, {"id": "smalltalk_10502_4", "desc": "Post-Uptie Chat 1", "dlg": "So far, you must be one of the care experiences you get ready when you are ready."}, {"id": "smalltalk_10502_5", "desc": "Post-Uptie Chat 2", "dlg": "Don't miss your memory."}, {"id": "neglect_10502_1", "desc": "Idle", "dlg": "If you need it immediately, you can leave me."}, {"id": "gacksung_10502_1", "desc": "Uptying", "dlg": "I keep trying to be genetic lots."}, {"id": "formation_10502_1", "desc": "Deployment", "dlg": "if you want"}, {"id": "battleentry_10502_1", "desc": "Stage Entry", "dlg": "If you want to do so."}, {"id": "battle_select_10502_1", "desc": "Viewed in Battle", "dlg": "Is that better?"}, {"id": "battle_endcommand_10502_1", "desc": "Commencing Attack", "dlg": "Follow the fire."}, {"id": "battle_enemy_break_10502_1", "desc": "Enemy Stagger", "dlg": "I like it."}, {"id": "battle_break_10502_1", "desc": "Staggered", "dlg": "The dry river!"}, {"id": "battle_kill_10502_1", "desc": "Enemy Killed", "dlg": "Solving."}, {"id": "battle_allydead_10502_1", "desc": "Ally Death", "dlg": "As long as the fire is more serious ..."}, {"id": "choice_success_p_10502_2", "desc": "Check Passed", "dlg": "If necessary, it fell to the road."}, {"id": "choice_fail_n_10502_1", "desc": "Check Failed", "dlg": "The fire was suddenly crowded."}, {"id": "battle_clear_10502_1", "desc": "Victory Cry", "dlg": "You can see where to kill."}, {"id": "battle_clear_ex_10502_1", "desc": "Extra Conditions Fulfilled", "dlg": "Yes, I love the fire I was now fired."}, {"id": "battle_defeat_10502_1", "desc": "Defeat Wail", "dlg": "It doesn't matter."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10502_1",
+      "desc": "Identity Acquisition",
+      "dlg": "If it looks fire, if you need it, I will give it."
+    }, {
+      "id": "lobby_morning_10502_1",
+      "desc": "Morning Greeting",
+      "dlg": "It was time to wake up because I opened the eyes."
+    }, {
+      "id": "lobby_noon_10502_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "In the empty time, others helped the train."
+    }, {
+      "id": "lobby_night_10502_1",
+      "desc": "Evening Greeting",
+      "dlg": "If you don't like dark things, I will shine with light in my area."
+    }, {
+      "id": "smalltalk_10502_1",
+      "desc": "Chatter #1",
+      "dlg": "If the situation is not good ... check the problem carefully."
+    }, {
+      "id": "smalltalk_10502_2",
+      "desc": "Chatter #2",
+      "dlg": "More often the rare noises are evaluated."
+    }, {
+      "id": "smalltalk_10502_3",
+      "desc": "Chatter #3",
+      "dlg": "I have time to meet you because ... when the right moment comes, we will find a set of gold groups."
+    }, {
+      "id": "smalltalk_10502_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "So far, you must be one of the care experiences you get ready when you are ready."
+    }, {
+      "id": "smalltalk_10502_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Don't miss your memory."
+    }, {
+      "id": "neglect_10502_1",
+      "desc": "Idle",
+      "dlg": "If you need it immediately, you can leave me."
+    }, {
+      "id": "gacksung_10502_1",
+      "desc": "Uptying",
+      "dlg": "I keep trying to be genetic lots."
+    }, {
+      "id": "formation_10502_1",
+      "desc": "Deployment",
+      "dlg": "if you want"
+    }, {
+      "id": "battleentry_10502_1",
+      "desc": "Stage Entry",
+      "dlg": "If you want to do so."
+    }, {
+      "id": "battle_select_10502_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Is that better?"
+    }, {
+      "id": "battle_endcommand_10502_1",
+      "desc": "Commencing Attack",
+      "dlg": "Follow the fire."
+    }, {
+      "id": "battle_enemy_break_10502_1",
+      "desc": "Enemy Stagger",
+      "dlg": "I like it."
+    }, {
+      "id": "battle_break_10502_1",
+      "desc": "Staggered",
+      "dlg": "The dry river!"
+    }, {
+      "id": "battle_kill_10502_1",
+      "desc": "Enemy Killed",
+      "dlg": "Solving."
+    }, {
+      "id": "battle_allydead_10502_1",
+      "desc": "Ally Death",
+      "dlg": "As long as the fire is more serious ..."
+    }, {
+      "id": "choice_success_p_10502_2",
+      "desc": "Check Passed",
+      "dlg": "If necessary, it fell to the road."
+    }, {
+      "id": "choice_fail_n_10502_1",
+      "desc": "Check Failed",
+      "dlg": "The fire was suddenly crowded."
+    }, {
+      "id": "battle_clear_10502_1",
+      "desc": "Victory Cry",
+      "dlg": "You can see where to kill."
+    }, {
+      "id": "battle_clear_ex_10502_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Yes, I love the fire I was now fired."
+    }, {
+      "id": "battle_defeat_10502_1",
+      "desc": "Defeat Wail",
+      "dlg": "It doesn't matter."
+    }
+  ]
+}

@@ -5,7 +5,7 @@
       "content": "Maintain unique identity please"
     }, {
       "id": "HealHpPercentageForAll",
-      "content": "Correct the whole identity {0}Percentage"
+      "content": "Correct the whole identity {0} percentage"
     }, {
       "id": "ResurrectForSelected",
       "content": "Restore your identity with full HP treatment"

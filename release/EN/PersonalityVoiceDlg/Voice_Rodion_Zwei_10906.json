@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10906_1", "desc": "Identity Acquisition", "dlg": "What is the weather like?"}, {"id": "lobby_morning_10906_1", "desc": "Morning Greeting", "dlg": "Waking up early in the morning is not easy ... but it can live with time."}, {"id": "lobby_noon_10906_1", "desc": "Afternoon Greeting", "dlg": "Lunch ... Let's see cake and simple coffee."}, {"id": "lobby_night_10906_1", "desc": "Evening Greeting", "dlg": "Hey, apologize ... buy snugs?"}, {"id": "smalltalk_10906_1", "desc": "Chatter #1", "dlg": "My work is to protect the candidate."}, {"id": "smalltalk_10906_2", "desc": "Chatter #2", "dlg": "... I really care about the others."}, {"id": "smalltalk_10906_3", "desc": "Chatter #3", "dlg": "Seriously ... boring ... okay?"}, {"id": "smalltalk_10906_4", "desc": "Post-Uptie Chat 1", "dlg": "Hey, do you usually put the layer of associations?"}, {"id": "smalltalk_10906_5", "desc": "Post-Uptie Chat 2", "dlg": "It's not very close.\nIt's all ... Is it good?"}, {"id": "neglect_10906_1", "desc": "Idle", "dlg": "Hnnnnnnnnnnnng ~ Phe.vevel LI Master ~"}, {"id": "gacksung_10906_1", "desc": "Uptying", "dlg": "I'm glad I can accept HM."}, {"id": "formation_10906_1", "desc": "Deployment", "dlg": "……."}, {"id": "battleentry_10906_1", "desc": "Stage Entry", "dlg": "The work begins."}, {"id": "battle_select_10906_1", "desc": "Viewed in Battle", "dlg": "Come to me!"}, {"id": "battle_endcommand_10906_1", "desc": "Commencing Attack", "dlg": "Spring cells!"}, {"id": "battle_enemy_break_10906_1", "desc": "Enemy Stagger", "dlg": "Did they break them?"}, {"id": "battle_break_10906_1", "desc": "Staggered", "dlg": "Hey guys"}, {"id": "battle_kill_10906_1", "desc": "Enemy Killed", "dlg": "Threat"}, {"id": "battle_dead_10906_1", "desc": "Death", "dlg": "Hey ... but ... his actress ..."}, {"id": "choice_success_p_10906_2", "desc": "Check Passed", "dlg": "It is normal ~"}, {"id": "choice_fail_n_10906_1", "desc": "Check Failed", "dlg": "T-topis is not my job."}, {"id": "battle_clear_10906_1", "desc": "Victory Cry", "dlg": "Wow ~ Here is a soft honey boat!"}, {"id": "battle_clear_ex_10906_1", "desc": "Extra Conditions Fulfilled", "dlg": "Javi rent the right thing again!"}, {"id": "battle_defeat_10906_1", "desc": "Defeat Wail", "dlg": "Hobbies ... I have a message to write message now ... ice."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10906_1",
+      "desc": "Identity Acquisition",
+      "dlg": "What is the weather like?"
+    }, {
+      "id": "lobby_morning_10906_1",
+      "desc": "Morning Greeting",
+      "dlg": "Waking up early in the morning is not easy ... but it can live with time."
+    }, {
+      "id": "lobby_noon_10906_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Lunch ... Let's see cake and simple coffee."
+    }, {
+      "id": "lobby_night_10906_1",
+      "desc": "Evening Greeting",
+      "dlg": "Hey, apologize ... buy snugs?"
+    }, {
+      "id": "smalltalk_10906_1",
+      "desc": "Chatter #1",
+      "dlg": "My work is to protect the candidate."
+    }, {
+      "id": "smalltalk_10906_2",
+      "desc": "Chatter #2",
+      "dlg": "... I really care about the others."
+    }, {
+      "id": "smalltalk_10906_3",
+      "desc": "Chatter #3",
+      "dlg": "Seriously ... boring ... okay?"
+    }, {
+      "id": "smalltalk_10906_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Hey, do you usually put the layer of associations?"
+    }, {
+      "id": "smalltalk_10906_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "It's not very close.\nIt's all ... Is it good?"
+    }, {
+      "id": "neglect_10906_1",
+      "desc": "Idle",
+      "dlg": "Hnnnnnnnnnnnng ~ Phe.vevel LI Master ~"
+    }, {
+      "id": "gacksung_10906_1",
+      "desc": "Uptying",
+      "dlg": "I'm glad I can accept HM."
+    }, {
+      "id": "formation_10906_1",
+      "desc": "Deployment",
+      "dlg": "……."
+    }, {
+      "id": "battleentry_10906_1",
+      "desc": "Stage Entry",
+      "dlg": "The work begins."
+    }, {
+      "id": "battle_select_10906_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Come to me!"
+    }, {
+      "id": "battle_endcommand_10906_1",
+      "desc": "Commencing Attack",
+      "dlg": "Spring cells!"
+    }, {
+      "id": "battle_enemy_break_10906_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Did they break them?"
+    }, {
+      "id": "battle_break_10906_1",
+      "desc": "Staggered",
+      "dlg": "Hey guys"
+    }, {
+      "id": "battle_kill_10906_1",
+      "desc": "Enemy Killed",
+      "dlg": "Threat"
+    }, {
+      "id": "battle_dead_10906_1",
+      "desc": "Death",
+      "dlg": "Hey ... but ... his actress ..."
+    }, {
+      "id": "choice_success_p_10906_2",
+      "desc": "Check Passed",
+      "dlg": "It is normal ~"
+    }, {
+      "id": "choice_fail_n_10906_1",
+      "desc": "Check Failed",
+      "dlg": "T-topis is not my job."
+    }, {
+      "id": "battle_clear_10906_1",
+      "desc": "Victory Cry",
+      "dlg": "Wow ~ Here is a soft honey boat!"
+    }, {
+      "id": "battle_clear_ex_10906_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Javi rent the right thing again!"
+    }, {
+      "id": "battle_defeat_10906_1",
+      "desc": "Defeat Wail",
+      "dlg": "Hobbies ... I have a message to write message now ... ice."
+    }
+  ]
+}

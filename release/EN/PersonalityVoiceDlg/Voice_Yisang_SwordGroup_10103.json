@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10103_1", "desc": "Identity Acquisition", "dlg": "I know how to reduce the wishes of spirits and high squares."}, {"id": "lobby_morning_10103_1", "desc": "Morning Greeting", "dlg": "It's time to get the sword night."}, {"id": "lobby_noon_10103_1", "desc": "Afternoon Greeting", "dlg": "The manifestation of the misunderstanding are a lot of smiles and smiles."}, {"id": "lobby_night_10103_1", "desc": "Evening Greeting", "dlg": "I don't like the moon."}, {"id": "smalltalk_10103_1", "desc": "Chatter #1", "dlg": "This sign is found."}, {"id": "smalltalk_10103_2", "desc": "Chatter #2", "dlg": "A strong knife does not mean that it is used."}, {"id": "smalltalk_10103_3", "desc": "Chatter #3", "dlg": "You are curious for my past ... everyone has been cut off long time."}, {"id": "smalltalk_10103_4", "desc": "Post-Uptie Chat 1", "dlg": "I secretly say I can kill the enemies and turn off the eyes and ears ... I'm in the nest."}, {"id": "smalltalk_10103_5", "desc": "Post-Uptie Chat 2", "dlg": "My watch is not useful yet."}, {"id": "neglect_10103_1", "desc": "Idle", "dlg": "You are very cold and when the conversation dies, you will open it."}, {"id": "gacksung_10103_1", "desc": "Uptying", "dlg": "I will be to break your son with you."}, {"id": "formation_10103_1", "desc": "Deployment", "dlg": "Now it increases floods in the blood."}, {"id": "battleentry_10103_1", "desc": "Stage Entry", "dlg": "Do you need this sword?"}, {"id": "battle_select_10103_1", "desc": "Viewed in Battle", "dlg": "The sword is still very fast."}, {"id": "battle_endcommand_10103_1", "desc": "Commencing Attack", "dlg": "I will tell you sin."}, {"id": "battle_enemy_break_10103_1", "desc": "Enemy Stagger", "dlg": "It's Sketch."}, {"id": "battle_break_10103_1", "desc": "Staggered", "dlg": "Everyone ..."}, {"id": "battle_kill_10103_1", "desc": "Enemy Killed", "dlg": "The result of the brand."}, {"id": "battle_allydead_10103_1", "desc": "Ally Death", "dlg": "It leaves a scar."}, {"id": "choice_success_p_10103_1", "desc": "Check Passed", "dlg": "The experience of the rock."}, {"id": "choice_fail_n_10103_1", "desc": "Check Failed", "dlg": "I will sell a grave."}, {"id": "battle_clear_10103_1", "desc": "Victory Cry", "dlg": "I can easily see what they believe."}, {"id": "battle_clear_ex_10103_1", "desc": "Extra Conditions Fulfilled", "dlg": "I cut them into pieces."}, {"id": "battle_defeat_10103_1", "desc": "Defeat Wail", "dlg": "My black reduces his partnership."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10103_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I know how to reduce the wishes of spirits and high squares."
+    }, {
+      "id": "lobby_morning_10103_1",
+      "desc": "Morning Greeting",
+      "dlg": "It's time to get the sword night."
+    }, {
+      "id": "lobby_noon_10103_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "The manifestation of the misunderstanding are a lot of smiles and smiles."
+    }, {
+      "id": "lobby_night_10103_1",
+      "desc": "Evening Greeting",
+      "dlg": "I don't like the moon."
+    }, {
+      "id": "smalltalk_10103_1",
+      "desc": "Chatter #1",
+      "dlg": "This sign is found."
+    }, {
+      "id": "smalltalk_10103_2",
+      "desc": "Chatter #2",
+      "dlg": "A strong knife does not mean that it is used."
+    }, {
+      "id": "smalltalk_10103_3",
+      "desc": "Chatter #3",
+      "dlg": "You are curious for my past ... everyone has been cut off long time."
+    }, {
+      "id": "smalltalk_10103_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I secretly say I can kill the enemies and turn off the eyes and ears ... I'm in the nest."
+    }, {
+      "id": "smalltalk_10103_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "My watch is not useful yet."
+    }, {
+      "id": "neglect_10103_1",
+      "desc": "Idle",
+      "dlg": "You are very cold and when the conversation dies, you will open it."
+    }, {
+      "id": "gacksung_10103_1",
+      "desc": "Uptying",
+      "dlg": "I will be to break your son with you."
+    }, {
+      "id": "formation_10103_1",
+      "desc": "Deployment",
+      "dlg": "Now it increases floods in the blood."
+    }, {
+      "id": "battleentry_10103_1",
+      "desc": "Stage Entry",
+      "dlg": "Do you need this sword?"
+    }, {
+      "id": "battle_select_10103_1",
+      "desc": "Viewed in Battle",
+      "dlg": "The sword is still very fast."
+    }, {
+      "id": "battle_endcommand_10103_1",
+      "desc": "Commencing Attack",
+      "dlg": "I will tell you sin."
+    }, {
+      "id": "battle_enemy_break_10103_1",
+      "desc": "Enemy Stagger",
+      "dlg": "It's Sketch."
+    }, {
+      "id": "battle_break_10103_1",
+      "desc": "Staggered",
+      "dlg": "Everyone ..."
+    }, {
+      "id": "battle_kill_10103_1",
+      "desc": "Enemy Killed",
+      "dlg": "The result of the brand."
+    }, {
+      "id": "battle_allydead_10103_1",
+      "desc": "Ally Death",
+      "dlg": "It leaves a scar."
+    }, {
+      "id": "choice_success_p_10103_1",
+      "desc": "Check Passed",
+      "dlg": "The experience of the rock."
+    }, {
+      "id": "choice_fail_n_10103_1",
+      "desc": "Check Failed",
+      "dlg": "I will sell a grave."
+    }, {
+      "id": "battle_clear_10103_1",
+      "desc": "Victory Cry",
+      "dlg": "I can easily see what they believe."
+    }, {
+      "id": "battle_clear_ex_10103_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I cut them into pieces."
+    }, {
+      "id": "battle_defeat_10103_1",
+      "desc": "Defeat Wail",
+      "dlg": "My black reduces his partnership."
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10902_1", "desc": "Identity Acquisition", "dlg": "I want to separate here"}, {"id": "lobby_morning_10902_1", "desc": "Morning Greeting", "dlg": "My day at night starts -nifinite words ... don't grow."}, {"id": "lobby_noon_10902_1", "desc": "Afternoon Greeting", "dlg": "Soup, teeth!"}, {"id": "lobby_night_10902_1", "desc": "Evening Greeting", "dlg": "We're causing a ko-up-where are you?"}, {"id": "smalltalk_10902_1", "desc": "Chatter #1", "dlg": "Very fast sword."}, {"id": "smalltalk_10902_2", "desc": "Chatter #2", "dlg": "How ... kid does not prevent me."}, {"id": "smalltalk_10902_3", "desc": "Chatter #3", "dlg": "When I was bored, I went out here."}, {"id": "smalltalk_10902_4", "desc": "Post-Uptie Chat 1", "dlg": "I like the background."}, {"id": "smalltalk_10902_5", "desc": "Post-Uptie Chat 2", "dlg": "There is no knight quyina in the world."}, {"id": "neglect_10902_1", "desc": "Idle", "dlg": "Keep them ~, I think it will be an important price."}, {"id": "gacksung_10902_1", "desc": "Uptying", "dlg": "Work on gay roads does not matter."}, {"id": "formation_10902_1", "desc": "Deployment", "dlg": "Payment"}, {"id": "battleentry_10902_1", "desc": "Stage Entry", "dlg": "Data, what did it do now?"}, {"id": "battle_select_10902_1", "desc": "Viewed in Battle", "dlg": "I don't want to interfere with me ~"}, {"id": "battle_endcommand_10902_1", "desc": "Commencing Attack", "dlg": "I like to eat something under the victim."}, {"id": "battle_enemy_break_10902_1", "desc": "Enemy Stagger", "dlg": "Aren't you soft?"}, {"id": "battle_break_10902_1", "desc": "Staggered", "dlg": "It is very sad"}, {"id": "battle_kill_10902_1", "desc": "Enemy Killed", "dlg": "Fine is completed."}, {"id": "battle_allydead_10902_1", "desc": "Ally Death", "dlg": "Jesus."}, {"id": "choice_success_p_10902_1", "desc": "Check Passed", "dlg": "Don't lower such tasks!"}, {"id": "choice_fail_n_10902_1", "desc": "Check Failed", "dlg": "Nih is the spill of the flu."}, {"id": "battle_clear_10902_1", "desc": "Victory Cry", "dlg": "This is a beautiful, dense store."}, {"id": "battle_clear_ex_10902_1", "desc": "Extra Conditions Fulfilled", "dlg": "As you can see, I don't bite anything."}, {"id": "battle_defeat_10902_1", "desc": "Defeat Wail", "dlg": "I'm not black, sometimes it works."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10902_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I want to separate here"
+    }, {
+      "id": "lobby_morning_10902_1",
+      "desc": "Morning Greeting",
+      "dlg": "My day at night starts -nifinite words ... don't grow."
+    }, {
+      "id": "lobby_noon_10902_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Soup, teeth!"
+    }, {
+      "id": "lobby_night_10902_1",
+      "desc": "Evening Greeting",
+      "dlg": "We're causing a ko-up-where are you?"
+    }, {
+      "id": "smalltalk_10902_1",
+      "desc": "Chatter #1",
+      "dlg": "Very fast sword."
+    }, {
+      "id": "smalltalk_10902_2",
+      "desc": "Chatter #2",
+      "dlg": "How ... kid does not prevent me."
+    }, {
+      "id": "smalltalk_10902_3",
+      "desc": "Chatter #3",
+      "dlg": "When I was bored, I went out here."
+    }, {
+      "id": "smalltalk_10902_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I like the background."
+    }, {
+      "id": "smalltalk_10902_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "There is no knight quyina in the world."
+    }, {
+      "id": "neglect_10902_1",
+      "desc": "Idle",
+      "dlg": "Keep them ~, I think it will be an important price."
+    }, {
+      "id": "gacksung_10902_1",
+      "desc": "Uptying",
+      "dlg": "Work on gay roads does not matter."
+    }, {
+      "id": "formation_10902_1",
+      "desc": "Deployment",
+      "dlg": "Payment"
+    }, {
+      "id": "battleentry_10902_1",
+      "desc": "Stage Entry",
+      "dlg": "Data, what did it do now?"
+    }, {
+      "id": "battle_select_10902_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I don't want to interfere with me ~"
+    }, {
+      "id": "battle_endcommand_10902_1",
+      "desc": "Commencing Attack",
+      "dlg": "I like to eat something under the victim."
+    }, {
+      "id": "battle_enemy_break_10902_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Aren't you soft?"
+    }, {
+      "id": "battle_break_10902_1",
+      "desc": "Staggered",
+      "dlg": "It is very sad"
+    }, {
+      "id": "battle_kill_10902_1",
+      "desc": "Enemy Killed",
+      "dlg": "Fine is completed."
+    }, {
+      "id": "battle_allydead_10902_1",
+      "desc": "Ally Death",
+      "dlg": "Jesus."
+    }, {
+      "id": "choice_success_p_10902_1",
+      "desc": "Check Passed",
+      "dlg": "Don't lower such tasks!"
+    }, {
+      "id": "choice_fail_n_10902_1",
+      "desc": "Check Failed",
+      "dlg": "Nih is the spill of the flu."
+    }, {
+      "id": "battle_clear_10902_1",
+      "desc": "Victory Cry",
+      "dlg": "This is a beautiful, dense store."
+    }, {
+      "id": "battle_clear_ex_10902_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "As you can see, I don't bite anything."
+    }, {
+      "id": "battle_defeat_10902_1",
+      "desc": "Defeat Wail",
+      "dlg": "I'm not black, sometimes it works."
+    }
+  ]
+}

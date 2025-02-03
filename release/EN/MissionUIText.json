@@ -5,10 +5,10 @@
       "content": "Option"
     }, {
       "id": "ask_acquire_personality",
-      "content": "In the elections {1} A part [{0}] Recognition?"
+      "content": "In the elections {1} a part [{0}] Recognition?"
     }, {
       "id": "ask_use_item_for_acquire_personality",
-      "content": "User {0} Intersection"
+      "content": "User {0} intersection"
     }, {
       "id": "tip_able_to_check_personality_by_longclick",
       "content": "Detailed management and memory of public information."
@@ -17,16 +17,16 @@
       "content": "Bonus is active"
     }, {
       "id": "ask_acquire_personality_already_owned",
-      "content": "In the elections {1} A part [{0}] Recognition?\nChoose a pre-bread identifier."
+      "content": "In the elections {1} a part [{0}] Recognition?\nChoose a pre-bread identifier."
     }, {
       "id": "acquire_ego_title",
       "content": "Choose like X"
     }, {
       "id": "ask_acquire_ego",
-      "content": "In the elections {1} A part [{0}] For example, oops?"
+      "content": "In the elections {1} a part [{0}] For example, oops?"
     }, {
       "id": "ask_acquire_ego_already_owned",
-      "content": "In the elections {1} A part [{0}] For example, oops?\nOptions are already the same."
+      "content": "In the elections {1} a part [{0}] For example, oops?\nOptions are already the same."
     }
   ]
 }

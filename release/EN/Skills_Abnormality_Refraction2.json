@@ -660,7 +660,7 @@
         {
           "level": 1,
           "name": "Bring in",
-          "desc": "[StartBattle] The next typical grass screams.\n[DefeatDuel] A special alfalfa was born 50% HP.",
+          "desc": "[StartBattle] The next typical grass screams.\n[DefeatDuel] a special alfalfa was born 50% HP.",
           "coinlist": [
             {
               "coindescs": [

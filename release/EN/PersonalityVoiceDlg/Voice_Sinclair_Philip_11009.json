@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11009_1", "desc": "Identity Acquisition", "dlg": "Sometimes I find the arm ... I hope it is not scary."}, {"id": "lobby_morning_11009_1", "desc": "Morning Greeting", "dlg": "Oops, count quickly."}, {"id": "lobby_noon_11009_1", "desc": "Afternoon Greeting", "dlg": "We have to work as soon as possible."}, {"id": "lobby_night_11009_1", "desc": "Evening Greeting", "dlg": "Was very cold to tonight."}, {"id": "smalltalk_11009_1", "desc": "Chatter #1", "dlg": "Do you ever listen to music?\nOne day I hope to make music in my hand."}, {"id": "smalltalk_11009_2", "desc": "Chatter #2", "dlg": "Unique Pirnaley \"Strap\" is weapon."}, {"id": "smalltalk_11009_3", "desc": "Chatter #3", "dlg": "Oh, do you like a god?"}, {"id": "smalltalk_11009_4", "desc": "Post-Uptie Chat 1", "dlg": "The people of the city ... do they do something on behalf of others?"}, {"id": "smalltalk_11009_5", "desc": "Post-Uptie Chat 2", "dlg": "More."}, {"id": "neglect_11009_1", "desc": "Idle", "dlg": "Everyone else needs time to collect ideas."}, {"id": "gacksung_11009_1", "desc": "Uptying", "dlg": "No one is from my regret."}, {"id": "formation_11009_1", "desc": "Deployment", "dlg": "We ... okay, I have to prepare."}, {"id": "battleentry_11009_1", "desc": "Stage Entry", "dlg": "I will try my turn to get you back."}, {"id": "battle_select_11009_1", "desc": "Viewed in Battle", "dlg": "Give me the courage to go with something ..."}, {"id": "battle_endcommand_11009_1", "desc": "Commencing Attack", "dlg": "I will follow your decision."}, {"id": "battle_enemy_break_11009_1", "desc": "Enemy Stagger", "dlg": "I don't hesitate ..."}, {"id": "battle_break_11009_1", "desc": "Staggered", "dlg": "I think it's because I'm afraid ..."}, {"id": "battle_kill_11009_1", "desc": "Enemy Killed", "dlg": "... I want to be brave!"}, {"id": "battle_dead_11009_1", "desc": "Death", "dlg": "I thought ... I was there for you ..."}, {"id": "choice_success_p_11009_2", "desc": "Check Passed", "dlg": "This is everyone."}, {"id": "choice_fail_n_11009_1", "desc": "Check Failed", "dlg": "I'm not talking about all things ..."}, {"id": "battle_clear_11009_1", "desc": "Victory Cry", "dlg": "We did minor damage, but in the end they decided."}, {"id": "battle_clear_ex_11009_1", "desc": "Extra Conditions Fulfilled", "dlg": "This is an ideal success."}, {"id": "battle_defeat_11009_1", "desc": "Defeat Wail", "dlg": "No ... you need to get help ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11009_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Sometimes I find the arm ... I hope it is not scary."
+    }, {
+      "id": "lobby_morning_11009_1",
+      "desc": "Morning Greeting",
+      "dlg": "Oops, count quickly."
+    }, {
+      "id": "lobby_noon_11009_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "We have to work as soon as possible."
+    }, {
+      "id": "lobby_night_11009_1",
+      "desc": "Evening Greeting",
+      "dlg": "Was very cold to tonight."
+    }, {
+      "id": "smalltalk_11009_1",
+      "desc": "Chatter #1",
+      "dlg": "Do you ever listen to music?\nOne day I hope to make music in my hand."
+    }, {
+      "id": "smalltalk_11009_2",
+      "desc": "Chatter #2",
+      "dlg": "Unique Pirnaley \"Strap\" is weapon."
+    }, {
+      "id": "smalltalk_11009_3",
+      "desc": "Chatter #3",
+      "dlg": "Oh, do you like a god?"
+    }, {
+      "id": "smalltalk_11009_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "The people of the city ... do they do something on behalf of others?"
+    }, {
+      "id": "smalltalk_11009_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "More."
+    }, {
+      "id": "neglect_11009_1",
+      "desc": "Idle",
+      "dlg": "Everyone else needs time to collect ideas."
+    }, {
+      "id": "gacksung_11009_1",
+      "desc": "Uptying",
+      "dlg": "No one is from my regret."
+    }, {
+      "id": "formation_11009_1",
+      "desc": "Deployment",
+      "dlg": "We ... okay, I have to prepare."
+    }, {
+      "id": "battleentry_11009_1",
+      "desc": "Stage Entry",
+      "dlg": "I will try my turn to get you back."
+    }, {
+      "id": "battle_select_11009_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Give me the courage to go with something ..."
+    }, {
+      "id": "battle_endcommand_11009_1",
+      "desc": "Commencing Attack",
+      "dlg": "I will follow your decision."
+    }, {
+      "id": "battle_enemy_break_11009_1",
+      "desc": "Enemy Stagger",
+      "dlg": "I don't hesitate ..."
+    }, {
+      "id": "battle_break_11009_1",
+      "desc": "Staggered",
+      "dlg": "I think it's because I'm afraid ..."
+    }, {
+      "id": "battle_kill_11009_1",
+      "desc": "Enemy Killed",
+      "dlg": "... I want to be brave!"
+    }, {
+      "id": "battle_dead_11009_1",
+      "desc": "Death",
+      "dlg": "I thought ... I was there for you ..."
+    }, {
+      "id": "choice_success_p_11009_2",
+      "desc": "Check Passed",
+      "dlg": "This is everyone."
+    }, {
+      "id": "choice_fail_n_11009_1",
+      "desc": "Check Failed",
+      "dlg": "I'm not talking about all things ..."
+    }, {
+      "id": "battle_clear_11009_1",
+      "desc": "Victory Cry",
+      "dlg": "We did minor damage, but in the end they decided."
+    }, {
+      "id": "battle_clear_ex_11009_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This is an ideal success."
+    }, {
+      "id": "battle_defeat_11009_1",
+      "desc": "Defeat Wail",
+      "dlg": "No ... you need to get help ..."
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10110_1", "desc": "Identity Acquisition", "dlg": "So I know the feeling of your death."}, {"id": "lobby_morning_10110_1", "desc": "Morning Greeting", "dlg": "In the early morning, I apologize for annoying."}, {"id": "lobby_noon_10110_1", "desc": "Afternoon Greeting", "dlg": "I spent a lot of time in the previous conversation because I didn't eat lunch.\nI think you will do the same with others."}, {"id": "lobby_night_10110_1", "desc": "Evening Greeting", "dlg": "This is the final care of today's work."}, {"id": "smalltalk_10110_1", "desc": "Chatter #1", "dlg": "People think about the last life in a public place."}, {"id": "smalltalk_10110_2", "desc": "Chatter #2", "dlg": "When I was thine, I can't help him, but I didn't think he had published his attention.\nThere is a good thing for those who complain about my paragraphs, but the memories of those who die in the hearts of the people are not the place."}, {"id": "smalltalk_10110_3", "desc": "Chatter #3", "dlg": "The weapon does not wear the butterfly."}, {"id": "smalltalk_10110_4", "desc": "Post-Uptie Chat 1", "dlg": "The building gave me a gift me for my shoulder - I came to the people who can't rest.\nI am afraid that this complaint will be the most wife."}, {"id": "smalltalk_10110_5", "desc": "Post-Uptie Chat 2", "dlg": "The purple beamnie does not need to reveal the same soul.\n... I'm just on my feet."}, {"id": "neglect_10110_1", "desc": "Idle", "dlg": "When I realize my failure, I will try to close the voice hole at the top of the window."}, {"id": "gacksung_10110_1", "desc": "Uptying", "dlg": "This is a giant gift that can be treated for any rest and can retain.\nWhere is our goal?"}, {"id": "formation_10110_1", "desc": "Deployment", "dlg": "Is it forgiven or forgive?"}, {"id": "battleentry_10110_1", "desc": "Stage Entry", "dlg": "Dead."}, {"id": "battle_select_10110_1", "desc": "Viewed in Battle", "dlg": "It is recommended to speak in bed of mourning."}, {"id": "battle_endcommand_10110_1", "desc": "Commencing Attack", "dlg": "Please contact us."}, {"id": "battle_enemy_break_10110_1", "desc": "Enemy Stagger", "dlg": "Don't worry at night."}, {"id": "battle_break_10110_1", "desc": "Staggered", "dlg": "Melmers ..."}, {"id": "battle_kill_10110_1", "desc": "Enemy Killed", "dlg": "This is mine when you sleep in your memory."}, {"id": "battle_dead_10110_1", "desc": "Death", "dlg": "A small apartment ... butterfly ... Post before that vibration ...?"}, {"id": "choice_success_p_10110_2", "desc": "Check Passed", "dlg": "The result of clicking work is more appropriate."}, {"id": "choice_fail_n_10110_1", "desc": "Check Failed", "dlg": "Most attached works ... enough options."}, {"id": "battle_clear_10110_1", "desc": "Victory Cry", "dlg": "Flower, the flow of butterfly."}, {"id": "battle_clear_ex_10110_1", "desc": "Extra Conditions Fulfilled", "dlg": "Pistol and Libin appealed to the deceased."}, {"id": "battle_defeat_10110_1", "desc": "Defeat Wail", "dlg": "Between the broken glass I saw a pale pink butterfly."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10110_1",
+      "desc": "Identity Acquisition",
+      "dlg": "So I know the feeling of your death."
+    }, {
+      "id": "lobby_morning_10110_1",
+      "desc": "Morning Greeting",
+      "dlg": "In the early morning, I apologize for annoying."
+    }, {
+      "id": "lobby_noon_10110_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I spent a lot of time in the previous conversation because I didn't eat lunch.\nI think you will do the same with others."
+    }, {
+      "id": "lobby_night_10110_1",
+      "desc": "Evening Greeting",
+      "dlg": "This is the final care of today's work."
+    }, {
+      "id": "smalltalk_10110_1",
+      "desc": "Chatter #1",
+      "dlg": "People think about the last life in a public place."
+    }, {
+      "id": "smalltalk_10110_2",
+      "desc": "Chatter #2",
+      "dlg": "When I was thine, I can't help him, but I didn't think he had published his attention.\nThere is a good thing for those who complain about my paragraphs, but the memories of those who die in the hearts of the people are not the place."
+    }, {
+      "id": "smalltalk_10110_3",
+      "desc": "Chatter #3",
+      "dlg": "The weapon does not wear the butterfly."
+    }, {
+      "id": "smalltalk_10110_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "The building gave me a gift me for my shoulder - I came to the people who can't rest.\nI am afraid that this complaint will be the most wife."
+    }, {
+      "id": "smalltalk_10110_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "The purple beamnie does not need to reveal the same soul.\n... I'm just on my feet."
+    }, {
+      "id": "neglect_10110_1",
+      "desc": "Idle",
+      "dlg": "When I realize my failure, I will try to close the voice hole at the top of the window."
+    }, {
+      "id": "gacksung_10110_1",
+      "desc": "Uptying",
+      "dlg": "This is a giant gift that can be treated for any rest and can retain.\nWhere is our goal?"
+    }, {
+      "id": "formation_10110_1",
+      "desc": "Deployment",
+      "dlg": "Is it forgiven or forgive?"
+    }, {
+      "id": "battleentry_10110_1",
+      "desc": "Stage Entry",
+      "dlg": "Dead."
+    }, {
+      "id": "battle_select_10110_1",
+      "desc": "Viewed in Battle",
+      "dlg": "It is recommended to speak in bed of mourning."
+    }, {
+      "id": "battle_endcommand_10110_1",
+      "desc": "Commencing Attack",
+      "dlg": "Please contact us."
+    }, {
+      "id": "battle_enemy_break_10110_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Don't worry at night."
+    }, {
+      "id": "battle_break_10110_1",
+      "desc": "Staggered",
+      "dlg": "Melmers ..."
+    }, {
+      "id": "battle_kill_10110_1",
+      "desc": "Enemy Killed",
+      "dlg": "This is mine when you sleep in your memory."
+    }, {
+      "id": "battle_dead_10110_1",
+      "desc": "Death",
+      "dlg": "A small apartment ... butterfly ... Post before that vibration ...?"
+    }, {
+      "id": "choice_success_p_10110_2",
+      "desc": "Check Passed",
+      "dlg": "The result of clicking work is more appropriate."
+    }, {
+      "id": "choice_fail_n_10110_1",
+      "desc": "Check Failed",
+      "dlg": "Most attached works ... enough options."
+    }, {
+      "id": "battle_clear_10110_1",
+      "desc": "Victory Cry",
+      "dlg": "Flower, the flow of butterfly."
+    }, {
+      "id": "battle_clear_ex_10110_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Pistol and Libin appealed to the deceased."
+    }, {
+      "id": "battle_defeat_10110_1",
+      "desc": "Defeat Wail",
+      "dlg": "Between the broken glass I saw a pale pink butterfly."
+    }
+  ]
+}

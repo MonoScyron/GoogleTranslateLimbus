@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "LoseRatioHpOnly",
-      "content": "<color=#ebcaa2>{conditions}{targets}</color> I need it <color=#e30000>{amount}Percentage</color> <color=#ebcaa2>Epidemic!</color>"
+      "content": "<color=#ebcaa2>{conditions}{targets}</color> I need it <color=#e30000>{amount} percentage</color> <color=#ebcaa2>Epidemic!</color>"
     }, {
       "id": "Choice_901070401",
       "content": "to get <color=#f8c200>Source like 2 whara</color>\nto get <color=#f8c200>I'm proud of 2 resources</color>"

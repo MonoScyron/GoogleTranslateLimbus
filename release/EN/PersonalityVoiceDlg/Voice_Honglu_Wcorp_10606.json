@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10606_1", "desc": "Identity Acquisition", "dlg": "This car is red."}, {"id": "lobby_morning_10606_1", "desc": "Morning Greeting", "dlg": "When I woke up in the morning, I didn't have a big problem, but I worked after a day."}, {"id": "lobby_noon_10606_1", "desc": "Afternoon Greeting", "dlg": "Mother ~ I have a great drink today ... I have to come back to clear other cars."}, {"id": "lobby_night_10606_1", "desc": "Evening Greeting", "dlg": "As you know, sometimes I work this evening at midnight."}, {"id": "smalltalk_10606_1", "desc": "Chatter #1", "dlg": "My grandmother told me to work here, but he was boring."}, {"id": "smalltalk_10606_2", "desc": "Chatter #2", "dlg": "Would you like to know if you have a business trip?"}, {"id": "smalltalk_10606_3", "desc": "Chatter #3", "dlg": "Honesty and more calm development."}, {"id": "smalltalk_10606_4", "desc": "Post-Uptie Chat 1", "dlg": "Wow ... everyone broke again."}, {"id": "smalltalk_10606_5", "desc": "Post-Uptie Chat 2", "dlg": "Is it attempt to train?\nOh, do you think it's mental?"}, {"id": "neglect_10606_1", "desc": "Idle", "dlg": "Ok, if you don't like you I will check my family talk ~"}, {"id": "gacksung_10606_1", "desc": "Uptying", "dlg": "Oh, which new category?"}, {"id": "formation_10606_1", "desc": "Deployment", "dlg": "Everything can happen"}, {"id": "battleentry_10606_1", "desc": "Stage Entry", "dlg": "The cleaning time."}, {"id": "battle_select_10606_1", "desc": "Viewed in Battle", "dlg": "Oh, dear ~ we should not come to clean."}, {"id": "battle_endcommand_10606_1", "desc": "Commencing Attack", "dlg": "Given the traveler."}, {"id": "battle_enemy_break_10606_1", "desc": "Enemy Stagger", "dlg": "Calm and despair"}, {"id": "battle_break_10606_1", "desc": "Staggered", "dlg": "Float!"}, {"id": "battle_kill_10606_1", "desc": "Enemy Killed", "dlg": "Okay, let's take a lesson on your sides."}, {"id": "battle_dead_10606_1", "desc": "Death", "dlg": "Hey ... easy to clear ...?"}, {"id": "choice_success_p_10606_2", "desc": "Check Passed", "dlg": "Hum."}, {"id": "choice_fail_n_10606_1", "desc": "Check Failed", "dlg": "Funny ... a guide teaches me."}, {"id": "battle_clear_10606_1", "desc": "Victory Cry", "dlg": "Well, it's over, I have to go to a short rest cafe."}, {"id": "battle_clear_ex_10606_1", "desc": "Extra Conditions Fulfilled", "dlg": "Hello, we fastened much more than usual."}, {"id": "battle_defeat_10606_1", "desc": "Defeat Wail", "dlg": "Currently, there is a small arise ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10606_1",
+      "desc": "Identity Acquisition",
+      "dlg": "This car is red."
+    }, {
+      "id": "lobby_morning_10606_1",
+      "desc": "Morning Greeting",
+      "dlg": "When I woke up in the morning, I didn't have a big problem, but I worked after a day."
+    }, {
+      "id": "lobby_noon_10606_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Mother ~ I have a great drink today ... I have to come back to clear other cars."
+    }, {
+      "id": "lobby_night_10606_1",
+      "desc": "Evening Greeting",
+      "dlg": "As you know, sometimes I work this evening at midnight."
+    }, {
+      "id": "smalltalk_10606_1",
+      "desc": "Chatter #1",
+      "dlg": "My grandmother told me to work here, but he was boring."
+    }, {
+      "id": "smalltalk_10606_2",
+      "desc": "Chatter #2",
+      "dlg": "Would you like to know if you have a business trip?"
+    }, {
+      "id": "smalltalk_10606_3",
+      "desc": "Chatter #3",
+      "dlg": "Honesty and more calm development."
+    }, {
+      "id": "smalltalk_10606_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Wow ... everyone broke again."
+    }, {
+      "id": "smalltalk_10606_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Is it attempt to train?\nOh, do you think it's mental?"
+    }, {
+      "id": "neglect_10606_1",
+      "desc": "Idle",
+      "dlg": "Ok, if you don't like you I will check my family talk ~"
+    }, {
+      "id": "gacksung_10606_1",
+      "desc": "Uptying",
+      "dlg": "Oh, which new category?"
+    }, {
+      "id": "formation_10606_1",
+      "desc": "Deployment",
+      "dlg": "Everything can happen"
+    }, {
+      "id": "battleentry_10606_1",
+      "desc": "Stage Entry",
+      "dlg": "The cleaning time."
+    }, {
+      "id": "battle_select_10606_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Oh, dear ~ we should not come to clean."
+    }, {
+      "id": "battle_endcommand_10606_1",
+      "desc": "Commencing Attack",
+      "dlg": "Given the traveler."
+    }, {
+      "id": "battle_enemy_break_10606_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Calm and despair"
+    }, {
+      "id": "battle_break_10606_1",
+      "desc": "Staggered",
+      "dlg": "Float!"
+    }, {
+      "id": "battle_kill_10606_1",
+      "desc": "Enemy Killed",
+      "dlg": "Okay, let's take a lesson on your sides."
+    }, {
+      "id": "battle_dead_10606_1",
+      "desc": "Death",
+      "dlg": "Hey ... easy to clear ...?"
+    }, {
+      "id": "choice_success_p_10606_2",
+      "desc": "Check Passed",
+      "dlg": "Hum."
+    }, {
+      "id": "choice_fail_n_10606_1",
+      "desc": "Check Failed",
+      "dlg": "Funny ... a guide teaches me."
+    }, {
+      "id": "battle_clear_10606_1",
+      "desc": "Victory Cry",
+      "dlg": "Well, it's over, I have to go to a short rest cafe."
+    }, {
+      "id": "battle_clear_ex_10606_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Hello, we fastened much more than usual."
+    }, {
+      "id": "battle_defeat_10606_1",
+      "desc": "Defeat Wail",
+      "dlg": "Currently, there is a small arise ..."
+    }
+  ]
+}

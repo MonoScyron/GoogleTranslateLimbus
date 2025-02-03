@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10704_1", "desc": "Identity Acquisition", "dlg": "Yes, I ... wait, you're not good ... what?"}, {"id": "lobby_morning_10704_1", "desc": "Morning Greeting", "dlg": "I will do this today"}, {"id": "lobby_noon_10704_1", "desc": "Afternoon Greeting", "dlg": "Ice cream dressed a snake"}, {"id": "lobby_night_10704_1", "desc": "Evening Greeting", "dlg": "You were amazed that I can sleep today ... you need to sleep as much as possible."}, {"id": "smalltalk_10704_1", "desc": "Chatter #1", "dlg": "I am very gurg."}, {"id": "smalltalk_10704_2", "desc": "Chatter #2", "dlg": "I hope you eat real food."}, {"id": "smalltalk_10704_3", "desc": "Chatter #3", "dlg": "Freight and killer ... you don't draw my mask?"}, {"id": "smalltalk_10704_4", "desc": "Post-Uptie Chat 1", "dlg": "My eyes settled ... yes, I didn't understand."}, {"id": "smalltalk_10704_5", "desc": "Post-Uptie Chat 2", "dlg": "I'm affected ... Deaded soil ..."}, {"id": "neglect_10704_1", "desc": "Idle", "dlg": "... Is there anything near?"}, {"id": "gacksung_10704_1", "desc": "Uptying", "dlg": "I ... no, I don't want to take everything ... if you want, I will not be canceled."}, {"id": "formation_10704_1", "desc": "Deployment", "dlg": "Yes!"}, {"id": "battleentry_10704_1", "desc": "Stage Entry", "dlg": "This is the time."}, {"id": "battle_select_10704_1", "desc": "Viewed in Battle", "dlg": "Now ..."}, {"id": "battle_endcommand_10704_1", "desc": "Commencing Attack", "dlg": "\"Barri ... phi\"."}, {"id": "battle_enemy_break_10704_1", "desc": "Enemy Stagger", "dlg": "Disadvantages ..."}, {"id": "battle_break_10704_1", "desc": "Staggered", "dlg": "... 尕 尕!"}, {"id": "battle_kill_10704_1", "desc": "Enemy Killed", "dlg": "... later."}, {"id": "battle_dead_10704_1", "desc": "Death", "dlg": "If you buy ... Catherine ..."}, {"id": "choice_success_p_10704_2", "desc": "Check Passed", "dlg": "They told me."}, {"id": "choice_fail_n_10704_1", "desc": "Check Failed", "dlg": "They tell me, but ..."}, {"id": "battle_clear_10704_1", "desc": "Victory Cry", "dlg": "Are we coming back now?"}, {"id": "battle_clear_ex_10704_1", "desc": "Extra Conditions Fulfilled", "dlg": "If you are in the course ... can you come back on a day?"}, {"id": "battle_defeat_10704_1", "desc": "Defeat Wail", "dlg": "No, he can't do it!"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10704_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Yes, I ... wait, you're not good ... what?"
+    }, {
+      "id": "lobby_morning_10704_1",
+      "desc": "Morning Greeting",
+      "dlg": "I will do this today"
+    }, {
+      "id": "lobby_noon_10704_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Ice cream dressed a snake"
+    }, {
+      "id": "lobby_night_10704_1",
+      "desc": "Evening Greeting",
+      "dlg": "You were amazed that I can sleep today ... you need to sleep as much as possible."
+    }, {
+      "id": "smalltalk_10704_1",
+      "desc": "Chatter #1",
+      "dlg": "I am very gurg."
+    }, {
+      "id": "smalltalk_10704_2",
+      "desc": "Chatter #2",
+      "dlg": "I hope you eat real food."
+    }, {
+      "id": "smalltalk_10704_3",
+      "desc": "Chatter #3",
+      "dlg": "Freight and killer ... you don't draw my mask?"
+    }, {
+      "id": "smalltalk_10704_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "My eyes settled ... yes, I didn't understand."
+    }, {
+      "id": "smalltalk_10704_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I'm affected ... Deaded soil ..."
+    }, {
+      "id": "neglect_10704_1",
+      "desc": "Idle",
+      "dlg": "... Is there anything near?"
+    }, {
+      "id": "gacksung_10704_1",
+      "desc": "Uptying",
+      "dlg": "I ... no, I don't want to take everything ... if you want, I will not be canceled."
+    }, {
+      "id": "formation_10704_1",
+      "desc": "Deployment",
+      "dlg": "Yes!"
+    }, {
+      "id": "battleentry_10704_1",
+      "desc": "Stage Entry",
+      "dlg": "This is the time."
+    }, {
+      "id": "battle_select_10704_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Now ..."
+    }, {
+      "id": "battle_endcommand_10704_1",
+      "desc": "Commencing Attack",
+      "dlg": "\"Barri ... phi\"."
+    }, {
+      "id": "battle_enemy_break_10704_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Disadvantages ..."
+    }, {
+      "id": "battle_break_10704_1",
+      "desc": "Staggered",
+      "dlg": "... 尕 尕!"
+    }, {
+      "id": "battle_kill_10704_1",
+      "desc": "Enemy Killed",
+      "dlg": "... later."
+    }, {
+      "id": "battle_dead_10704_1",
+      "desc": "Death",
+      "dlg": "If you buy ... Catherine ..."
+    }, {
+      "id": "choice_success_p_10704_2",
+      "desc": "Check Passed",
+      "dlg": "They told me."
+    }, {
+      "id": "choice_fail_n_10704_1",
+      "desc": "Check Failed",
+      "dlg": "They tell me, but ..."
+    }, {
+      "id": "battle_clear_10704_1",
+      "desc": "Victory Cry",
+      "dlg": "Are we coming back now?"
+    }, {
+      "id": "battle_clear_ex_10704_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "If you are in the course ... can you come back on a day?"
+    }, {
+      "id": "battle_defeat_10704_1",
+      "desc": "Defeat Wail",
+      "dlg": "No, he can't do it!"
+    }
+  ]
+}

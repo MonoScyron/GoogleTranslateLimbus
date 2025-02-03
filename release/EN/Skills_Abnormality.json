@@ -4494,7 +4494,7 @@
         {
           "level": 1,
           "name": "Owner",
-          "desc": "[CantIdentify]\nLine [PreparedMeat]\nTarget 5[Laceration], Call ++ 1\nIf your goal is. [PreparedMeat]Page +10 disabled\nCall every broken weapon-5 coins call coins\n[TargetKill] Gets all the components 2 [Enhancement] Clash",
+          "desc": "[CantIdentify]\nLine [PreparedMeat]\nTarget 5 [Laceration], Call ++ 1\nIf your goal is. [PreparedMeat] Page +10 disabled\nCall every broken weapon-5 coins call coins\n[TargetKill] Gets all the components 2 [Enhancement] Clash",
           "coinlist": [
             {
               "coindescs": [

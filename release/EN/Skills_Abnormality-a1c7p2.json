@@ -156,7 +156,7 @@
         {
           "level": 1,
           "name": "There is no end",
-          "desc": "[WhenUse] Half [BloodDinner]\n[WinDuel] Treatment + ()[BloodDinner] Technology (up to 150%) (up to 150%)\n[DefeatDuel] Employment -50% less damage, this technical loss does not contaminate the target.\n[EndSkill] I lost the same spa song [BloodDinner] Uses technology",
+          "desc": "[WhenUse] Half [BloodDinner]\n[WinDuel] Treatment + [BloodDinner] Technology (up to 150%) (up to 150%)\n[DefeatDuel] Employment -50% less damage, this technical loss does not contaminate the target.\n[EndSkill] I lost the same spa song [BloodDinner] Uses technology",
           "coinlist": [
             {
               "coindescs": [

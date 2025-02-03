@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11004_1", "desc": "Identity Acquisition", "dlg": "Love ... I hear ... I'll replace me with fun."}, {"id": "lobby_morning_11004_1", "desc": "Morning Greeting", "dlg": "New morning"}, {"id": "lobby_noon_11004_1", "desc": "Afternoon Greeting", "dlg": "This was lazy, and when I was asleep, the instrument went to all the pills in my hands."}, {"id": "lobby_night_11004_1", "desc": "Evening Greeting", "dlg": "My favorite clock for the deceased ... you're sleeping?"}, {"id": "smalltalk_11004_1", "desc": "Chatter #1", "dlg": "Oh ... you want to hear my music?"}, {"id": "smalltalk_11004_2", "desc": "Chatter #2", "dlg": "You must be summarized in battle."}, {"id": "smalltalk_11004_3", "desc": "Chatter #3", "dlg": "What happens if your ideas are provided?"}, {"id": "smalltalk_11004_4", "desc": "Post-Uptie Chat 1", "dlg": "I will always do it"}, {"id": "smalltalk_11004_5", "desc": "Post-Uptie Chat 2", "dlg": "I understand the difficulties, fear, fear, fear and more."}, {"id": "neglect_11004_1", "desc": "Idle", "dlg": "... don't you like my performance?"}, {"id": "gacksung_11004_1", "desc": "Uptying", "dlg": "In this way I go back to music."}, {"id": "formation_11004_1", "desc": "Deployment", "dlg": "We will go away."}, {"id": "battleentry_11004_1", "desc": "Stage Entry", "dlg": "Is this the correct choice?"}, {"id": "battle_select_11004_1", "desc": "Viewed in Battle", "dlg": "This is, tooth ...?"}, {"id": "battle_endcommand_11004_1", "desc": "Commencing Attack", "dlg": "I'll keep your head"}, {"id": "battle_enemy_break_11004_1", "desc": "Enemy Stagger", "dlg": "Then I want your head."}, {"id": "battle_break_11004_1", "desc": "Staggered", "dlg": "Special!"}, {"id": "battle_kill_11004_1", "desc": "Enemy Killed", "dlg": "Easy."}, {"id": "battle_allydead_11004_1", "desc": "Ally Death", "dlg": "Who is he?"}, {"id": "choice_success_p_11004_1", "desc": "Check Passed", "dlg": "Thinking is easy."}, {"id": "choice_fail_n_11004_1", "desc": "Check Failed", "dlg": "I want to do ..."}, {"id": "battle_clear_11004_1", "desc": "Victory Cry", "dlg": "I also thought I was excited ... it was over."}, {"id": "battle_clear_ex_11004_1", "desc": "Extra Conditions Fulfilled", "dlg": "Today's performance."}, {"id": "battle_defeat_11004_1", "desc": "Defeat Wail", "dlg": "We can try at any time."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11004_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Love ... I hear ... I'll replace me with fun."
+    }, {
+      "id": "lobby_morning_11004_1",
+      "desc": "Morning Greeting",
+      "dlg": "New morning"
+    }, {
+      "id": "lobby_noon_11004_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "This was lazy, and when I was asleep, the instrument went to all the pills in my hands."
+    }, {
+      "id": "lobby_night_11004_1",
+      "desc": "Evening Greeting",
+      "dlg": "My favorite clock for the deceased ... you're sleeping?"
+    }, {
+      "id": "smalltalk_11004_1",
+      "desc": "Chatter #1",
+      "dlg": "Oh ... you want to hear my music?"
+    }, {
+      "id": "smalltalk_11004_2",
+      "desc": "Chatter #2",
+      "dlg": "You must be summarized in battle."
+    }, {
+      "id": "smalltalk_11004_3",
+      "desc": "Chatter #3",
+      "dlg": "What happens if your ideas are provided?"
+    }, {
+      "id": "smalltalk_11004_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I will always do it"
+    }, {
+      "id": "smalltalk_11004_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I understand the difficulties, fear, fear, fear and more."
+    }, {
+      "id": "neglect_11004_1",
+      "desc": "Idle",
+      "dlg": "... don't you like my performance?"
+    }, {
+      "id": "gacksung_11004_1",
+      "desc": "Uptying",
+      "dlg": "In this way I go back to music."
+    }, {
+      "id": "formation_11004_1",
+      "desc": "Deployment",
+      "dlg": "We will go away."
+    }, {
+      "id": "battleentry_11004_1",
+      "desc": "Stage Entry",
+      "dlg": "Is this the correct choice?"
+    }, {
+      "id": "battle_select_11004_1",
+      "desc": "Viewed in Battle",
+      "dlg": "This is, tooth ...?"
+    }, {
+      "id": "battle_endcommand_11004_1",
+      "desc": "Commencing Attack",
+      "dlg": "I'll keep your head"
+    }, {
+      "id": "battle_enemy_break_11004_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Then I want your head."
+    }, {
+      "id": "battle_break_11004_1",
+      "desc": "Staggered",
+      "dlg": "Special!"
+    }, {
+      "id": "battle_kill_11004_1",
+      "desc": "Enemy Killed",
+      "dlg": "Easy."
+    }, {
+      "id": "battle_allydead_11004_1",
+      "desc": "Ally Death",
+      "dlg": "Who is he?"
+    }, {
+      "id": "choice_success_p_11004_1",
+      "desc": "Check Passed",
+      "dlg": "Thinking is easy."
+    }, {
+      "id": "choice_fail_n_11004_1",
+      "desc": "Check Failed",
+      "dlg": "I want to do ..."
+    }, {
+      "id": "battle_clear_11004_1",
+      "desc": "Victory Cry",
+      "dlg": "I also thought I was excited ... it was over."
+    }, {
+      "id": "battle_clear_ex_11004_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Today's performance."
+    }, {
+      "id": "battle_defeat_11004_1",
+      "desc": "Defeat Wail",
+      "dlg": "We can try at any time."
+    }
+  ]
+}

@@ -38,7 +38,7 @@
     }, {
       "id": "SinkingWhite",
       "name": "Butterfly",
-      "desc": "Drinkage\nPrice: 0, Connection Value: 15\nWhen he was killed, the attacker recovered. {2} Stamp.\n-You are affected, it is less than the SP0 units. {3} Thin loss.\nFinally: Reset the effect 0.\nThe effect is over, life is zero, and 0.",
+      "desc": "Drinkage\nPrice: 0, Connection Value: 15\nWhen he was killed, the attacker recovered. {2} stamp.\n-You are affected, it is less than the SP0 units. {3} thin loss.\nFinally: Reset the effect 0.\nThe effect is over, life is zero, and 0.",
       "summary": ""
     }, {
       "id": "SinkingBlack",

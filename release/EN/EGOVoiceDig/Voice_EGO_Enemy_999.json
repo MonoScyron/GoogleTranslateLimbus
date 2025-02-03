@@ -1,1 +1,145 @@
-{"dataList": [{"id": "battle_8099_s4_1-02", "desc": "Skill Activation", "dlg": "Quite sports."}, {"id": "battle_8099_s2_2-01", "desc": "Skill Activation", "dlg": "Complete, usually ..."}, {"id": "battle_8099_s2_2-02", "desc": "Skill Activation", "dlg": "Disaster!"}, {"id": "battle_ak_8105_1-02", "desc": "Skill Activation", "dlg": "I am the leader of the lake ... the city ...\nI use this monster to remove evil!"}, {"id": "battle_selection1_8105_1", "desc": "Skill Activation", "dlg": "Yes ... open my heart, monar!"}, {"id": "battle_selection2_8105_1", "desc": "Skill Activation", "dlg": "Once ... it would always be a jub ...!"}, {"id": "battle_sacrifice_8106_1", "desc": "Phase Start", "dlg": "Now go to my place!"}, {"id": "battle_sacrifice_8106_2", "desc": "Phase Start", "dlg": "This is the last time, staff!"}, {"id": "battle_order_attack_8106", "desc": "Assist Attack", "dlg": "Cover me!"}, {"id": "battle_order_defence_8106", "desc": "Assist Defense", "dlg": "I'll get me now!"}, {"id": "battle_entry_10001_1", "desc": "Skill Activation", "dlg": "If you lose your feedback on the road\nIf you don't know what to do ..."}, {"id": "battle_entry_10001_2", "desc": "Skill Activation", "dlg": "The guide shows you the way."}, {"id": "battle_entry_10001_3", "desc": "Skill Activation", "dlg": "that's it."}, {"id": "battle_8173_phaseclear_2", "desc": "", "dlg": "How to rebel."}, {"id": "battle_8173_phaseclear_3", "desc": "", "dlg": "Don't wait"}, {"id": "battle_8173_kill_1", "desc": "", "dlg": "No. You have to hurt again!"}, {"id": "battle_8173_kill_2", "desc": "", "dlg": "We cannot breathe the hell of this air."}, {"id": "battle_8173_kill_3", "desc": "", "dlg": "Accept the death of the accident."}, {"id": "battle_8173_skill_1", "desc": "", "dlg": "The night destruction of the night."}, {"id": "battle_8173_skill_2", "desc": "", "dlg": "Everyone is very sad!"}, {"id": "battle_8173_phase_1_1", "desc": "", "dlg": "Where are you ... Catherine!"}, {"id": "battle_8173_phase_1_2", "desc": "", "dlg": "Ezac Clip!"}, {"id": "battle_8173_phase_1_3", "desc": "", "dlg": "Where ... I hear your throat ..."}, {"id": "battle_8173_phase_2", "desc": "", "dlg": "The best storm of the ruinter, you can start discomfort."}, {"id": "battle_8173_phase_3", "desc": "", "dlg": "Catherine, please.\nI got up and saw your eyes."}, {"id": "7SV-016", "desc": "", "dlg": "It doesn't walk anymore."}, {"id": "7SV-017", "desc": "", "dlg": "What can you do with this weak feeling?"}, {"id": "S703V-1312", "desc": "", "dlg": "My name ... I have a dog!"}, {"id": "S703V-1313", "desc": "", "dlg": "I decided to dawn my balcony: This series is empty, accessory!"}, {"id": "S703V-1314", "desc": "", "dlg": "My name is sore!"}, {"id": "S703V-1314-1", "desc": "", "dlg": "Sasan declares my balcony, this series was damaged and fell asleep!"}, {"id": "7SV-104-01", "desc": "", "dlg": "It doesn't matter how impossible it is ..."}, {"id": "7SV-104-02", "desc": "", "dlg": "Unless I realize my dreams ..."}, {"id": "7SV-104-03", "desc": "", "dlg": "I will continue to push"}, {"id": "7SV-104-04", "desc": "", "dlg": "No ... I always think that it's hard to end all the time!"}]}
+{
+  "dataList": [
+    {
+      "id": "battle_8099_s4_1-02",
+      "desc": "Skill Activation",
+      "dlg": "Quite sports."
+    }, {
+      "id": "battle_8099_s2_2-01",
+      "desc": "Skill Activation",
+      "dlg": "Complete, usually ..."
+    }, {
+      "id": "battle_8099_s2_2-02",
+      "desc": "Skill Activation",
+      "dlg": "Disaster!"
+    }, {
+      "id": "battle_ak_8105_1-02",
+      "desc": "Skill Activation",
+      "dlg": "I am the leader of the lake ... the city ...\nI use this monster to remove evil!"
+    }, {
+      "id": "battle_selection1_8105_1",
+      "desc": "Skill Activation",
+      "dlg": "Yes ... open my heart, monar!"
+    }, {
+      "id": "battle_selection2_8105_1",
+      "desc": "Skill Activation",
+      "dlg": "Once ... it would always be a jub ...!"
+    }, {
+      "id": "battle_sacrifice_8106_1",
+      "desc": "Phase Start",
+      "dlg": "Now go to my place!"
+    }, {
+      "id": "battle_sacrifice_8106_2",
+      "desc": "Phase Start",
+      "dlg": "This is the last time, staff!"
+    }, {
+      "id": "battle_order_attack_8106",
+      "desc": "Assist Attack",
+      "dlg": "Cover me!"
+    }, {
+      "id": "battle_order_defence_8106",
+      "desc": "Assist Defense",
+      "dlg": "I'll get me now!"
+    }, {
+      "id": "battle_entry_10001_1",
+      "desc": "Skill Activation",
+      "dlg": "If you lose your feedback on the road\nIf you don't know what to do ..."
+    }, {
+      "id": "battle_entry_10001_2",
+      "desc": "Skill Activation",
+      "dlg": "The guide shows you the way."
+    }, {
+      "id": "battle_entry_10001_3",
+      "desc": "Skill Activation",
+      "dlg": "that's it."
+    }, {
+      "id": "battle_8173_phaseclear_2",
+      "desc": "",
+      "dlg": "How to rebel."
+    }, {
+      "id": "battle_8173_phaseclear_3",
+      "desc": "",
+      "dlg": "Don't wait"
+    }, {
+      "id": "battle_8173_kill_1",
+      "desc": "",
+      "dlg": "No. You have to hurt again!"
+    }, {
+      "id": "battle_8173_kill_2",
+      "desc": "",
+      "dlg": "We cannot breathe the hell of this air."
+    }, {
+      "id": "battle_8173_kill_3",
+      "desc": "",
+      "dlg": "Accept the death of the accident."
+    }, {
+      "id": "battle_8173_skill_1",
+      "desc": "",
+      "dlg": "The night destruction of the night."
+    }, {
+      "id": "battle_8173_skill_2",
+      "desc": "",
+      "dlg": "Everyone is very sad!"
+    }, {
+      "id": "battle_8173_phase_1_1",
+      "desc": "",
+      "dlg": "Where are you ... Catherine!"
+    }, {
+      "id": "battle_8173_phase_1_2",
+      "desc": "",
+      "dlg": "Ezac Clip!"
+    }, {
+      "id": "battle_8173_phase_1_3",
+      "desc": "",
+      "dlg": "Where ... I hear your throat ..."
+    }, {
+      "id": "battle_8173_phase_2",
+      "desc": "",
+      "dlg": "The best storm of the ruinter, you can start discomfort."
+    }, {
+      "id": "battle_8173_phase_3",
+      "desc": "",
+      "dlg": "Catherine, please.\nI got up and saw your eyes."
+    }, {
+      "id": "7SV-016",
+      "desc": "",
+      "dlg": "It doesn't walk anymore."
+    }, {
+      "id": "7SV-017",
+      "desc": "",
+      "dlg": "What can you do with this weak feeling?"
+    }, {
+      "id": "S703V-1312",
+      "desc": "",
+      "dlg": "My name ... I have a dog!"
+    }, {
+      "id": "S703V-1313",
+      "desc": "",
+      "dlg": "I decided to dawn my balcony: This series is empty, accessory!"
+    }, {
+      "id": "S703V-1314",
+      "desc": "",
+      "dlg": "My name is sore!"
+    }, {
+      "id": "S703V-1314-1",
+      "desc": "",
+      "dlg": "Sasan declares my balcony, this series was damaged and fell asleep!"
+    }, {
+      "id": "7SV-104-01",
+      "desc": "",
+      "dlg": "It doesn't matter how impossible it is ..."
+    }, {
+      "id": "7SV-104-02",
+      "desc": "",
+      "dlg": "Unless I realize my dreams ..."
+    }, {
+      "id": "7SV-104-03",
+      "desc": "",
+      "dlg": "I will continue to push"
+    }, {
+      "id": "7SV-104-04",
+      "desc": "",
+      "dlg": "No ... I always think that it's hard to end all the time!"
+    }
+  ]
+}

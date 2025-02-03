@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10203_1", "desc": "Identity Acquisition", "dlg": "It is treated and I am glad to know you."}, {"id": "lobby_morning_10203_1", "desc": "Morning Greeting", "dlg": "I carefully see."}, {"id": "lobby_noon_10203_1", "desc": "Afternoon Greeting", "dlg": "We can rest that day."}, {"id": "lobby_night_10203_1", "desc": "Evening Greeting", "dlg": "I will usually be dark."}, {"id": "smalltalk_10203_1", "desc": "Chatter #1", "dlg": "My old work is underground."}, {"id": "smalltalk_10203_2", "desc": "Chatter #2", "dlg": "When I try to understand a lot of laws and destroy the world ... some things understand each other."}, {"id": "smalltalk_10203_3", "desc": "Chatter #3", "dlg": "... I have the opportunity to talk directly to the old things."}, {"id": "smalltalk_10203_4", "desc": "Post-Uptie Chat 1", "dlg": "I often need to clean the body of my peers."}, {"id": "smalltalk_10203_5", "desc": "Post-Uptie Chat 2", "dlg": "Pain, unknown ghosts, die ... I die ... I'm not afraid of me."}, {"id": "neglect_10203_1", "desc": "Idle", "dlg": "Suddenly he disappeared and he often saw it."}, {"id": "gacksung_10203_1", "desc": "Uptying", "dlg": "I think I will try again."}, {"id": "formation_10203_1", "desc": "Deployment", "dlg": "I'm ready"}, {"id": "battleentry_10203_1", "desc": "Stage Entry", "dlg": "I hope everything is fine."}, {"id": "battle_select_10203_1", "desc": "Viewed in Battle", "dlg": "What is an error?"}, {"id": "battle_endcommand_10203_1", "desc": "Commencing Attack", "dlg": "There is no fear right now."}, {"id": "battle_enemy_break_10203_1", "desc": "Enemy Stagger", "dlg": "So you."}, {"id": "battle_break_10203_1", "desc": "Staggered", "dlg": "Sri Akal!"}, {"id": "battle_kill_10203_1", "desc": "Enemy Killed", "dlg": "They are not terrible."}, {"id": "battle_allydead_10203_1", "desc": "Ally Death", "dlg": "At least the best."}, {"id": "choice_success_p_10203_1", "desc": "Check Passed", "dlg": "Easy to prepare things."}, {"id": "choice_fail_n_10203_1", "desc": "Check Failed", "dlg": "Usually everything."}, {"id": "battle_clear_10203_1", "desc": "Victory Cry", "dlg": "I am very difficult from the fight."}, {"id": "battle_clear_ex_10203_1", "desc": "Extra Conditions Fulfilled", "dlg": "Posters are always possible."}, {"id": "battle_defeat_10203_1", "desc": "Defeat Wail", "dlg": "Another opportunity for you."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10203_1",
+      "desc": "Identity Acquisition",
+      "dlg": "It is treated and I am glad to know you."
+    }, {
+      "id": "lobby_morning_10203_1",
+      "desc": "Morning Greeting",
+      "dlg": "I carefully see."
+    }, {
+      "id": "lobby_noon_10203_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "We can rest that day."
+    }, {
+      "id": "lobby_night_10203_1",
+      "desc": "Evening Greeting",
+      "dlg": "I will usually be dark."
+    }, {
+      "id": "smalltalk_10203_1",
+      "desc": "Chatter #1",
+      "dlg": "My old work is underground."
+    }, {
+      "id": "smalltalk_10203_2",
+      "desc": "Chatter #2",
+      "dlg": "When I try to understand a lot of laws and destroy the world ... some things understand each other."
+    }, {
+      "id": "smalltalk_10203_3",
+      "desc": "Chatter #3",
+      "dlg": "... I have the opportunity to talk directly to the old things."
+    }, {
+      "id": "smalltalk_10203_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I often need to clean the body of my peers."
+    }, {
+      "id": "smalltalk_10203_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Pain, unknown ghosts, die ... I die ... I'm not afraid of me."
+    }, {
+      "id": "neglect_10203_1",
+      "desc": "Idle",
+      "dlg": "Suddenly he disappeared and he often saw it."
+    }, {
+      "id": "gacksung_10203_1",
+      "desc": "Uptying",
+      "dlg": "I think I will try again."
+    }, {
+      "id": "formation_10203_1",
+      "desc": "Deployment",
+      "dlg": "I'm ready"
+    }, {
+      "id": "battleentry_10203_1",
+      "desc": "Stage Entry",
+      "dlg": "I hope everything is fine."
+    }, {
+      "id": "battle_select_10203_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What is an error?"
+    }, {
+      "id": "battle_endcommand_10203_1",
+      "desc": "Commencing Attack",
+      "dlg": "There is no fear right now."
+    }, {
+      "id": "battle_enemy_break_10203_1",
+      "desc": "Enemy Stagger",
+      "dlg": "So you."
+    }, {
+      "id": "battle_break_10203_1",
+      "desc": "Staggered",
+      "dlg": "Sri Akal!"
+    }, {
+      "id": "battle_kill_10203_1",
+      "desc": "Enemy Killed",
+      "dlg": "They are not terrible."
+    }, {
+      "id": "battle_allydead_10203_1",
+      "desc": "Ally Death",
+      "dlg": "At least the best."
+    }, {
+      "id": "choice_success_p_10203_1",
+      "desc": "Check Passed",
+      "dlg": "Easy to prepare things."
+    }, {
+      "id": "choice_fail_n_10203_1",
+      "desc": "Check Failed",
+      "dlg": "Usually everything."
+    }, {
+      "id": "battle_clear_10203_1",
+      "desc": "Victory Cry",
+      "dlg": "I am very difficult from the fight."
+    }, {
+      "id": "battle_clear_ex_10203_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Posters are always possible."
+    }, {
+      "id": "battle_defeat_10203_1",
+      "desc": "Defeat Wail",
+      "dlg": "Another opportunity for you."
+    }
+  ]
+}

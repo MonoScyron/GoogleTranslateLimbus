@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11208_1", "desc": "Identity Acquisition", "dlg": "Yes, it's good wine bottle."}, {"id": "lobby_morning_11208_1", "desc": "Morning Greeting", "dlg": "What is Myruruk?"}, {"id": "lobby_noon_11208_1", "desc": "Afternoon Greeting", "dlg": "Come, what should I do my duty today?"}, {"id": "lobby_night_11208_1", "desc": "Evening Greeting", "dlg": "NHH ... Do you have a lot of battle at night?\nOh, is everything better?"}, {"id": "smalltalk_11208_1", "desc": "Chatter #1", "dlg": "As you mentioned, you and you can, there is nothing to participate in the relationship."}, {"id": "smalltalk_11208_2", "desc": "Chatter #2", "dlg": "Oh, so ... the mess ... not ....\nOkay, are we attacking them tonight?"}, {"id": "smalltalk_11208_3", "desc": "Chatter #3", "dlg": "Hello, have you ever joined the battle?"}, {"id": "smalltalk_11208_4", "desc": "Post-Uptie Chat 1", "dlg": "Receive, did he betrayed them by C-Sepeanese?\nAre children ready?"}, {"id": "smalltalk_11208_5", "desc": "Post-Uptie Chat 2", "dlg": "What are you talking about?\nWell ... it's doubled as always."}, {"id": "neglect_11208_1", "desc": "Idle", "dlg": "MMHM ~ I started starting the third."}, {"id": "gacksung_11208_1", "desc": "Uptying", "dlg": "Oh, this delicious visley is obvious when I ever see it ...\nI want to say I'm in a beautiful body."}, {"id": "formation_11208_1", "desc": "Deployment", "dlg": "Yes?"}, {"id": "battleentry_11208_1", "desc": "Stage Entry", "dlg": "Goals, Oh!"}, {"id": "battle_select_11208_1", "desc": "Viewed in Battle", "dlg": "I'll talk to you"}, {"id": "battle_endcommand_11208_1", "desc": "Commencing Attack", "dlg": "Try before!"}, {"id": "battle_enemy_break_11208_1", "desc": "Enemy Stagger", "dlg": "What is it?"}, {"id": "battle_break_11208_1", "desc": "Staggered", "dlg": "Sat Sri Akal ..."}, {"id": "battle_kill_11208_1", "desc": "Enemy Killed", "dlg": "The body is actually the Insurance H."}, {"id": "battle_dead_11208_1", "desc": "Death", "dlg": "My last idea ... really ... o ... are I going home ...?"}, {"id": "choice_success_p_11208_2", "desc": "Check Passed", "dlg": "Uh, can you get the award?"}, {"id": "choice_fail_n_11208_1", "desc": "Check Failed", "dlg": "Come, come, my embarrassed hands, you know ~"}, {"id": "battle_clear_11208_1", "desc": "Victory Cry", "dlg": "Well, at least it's not full tribulation ...\nMy mother, everyone."}, {"id": "battle_clear_ex_11208_1", "desc": "Extra Conditions Fulfilled", "dlg": "They now call it satisfactory outcome.\nYou don't sit?"}, {"id": "battle_defeat_11208_1", "desc": "Defeat Wail", "dlg": "... it's not in the evening."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11208_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Yes, it's good wine bottle."
+    }, {
+      "id": "lobby_morning_11208_1",
+      "desc": "Morning Greeting",
+      "dlg": "What is Myruruk?"
+    }, {
+      "id": "lobby_noon_11208_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Come, what should I do my duty today?"
+    }, {
+      "id": "lobby_night_11208_1",
+      "desc": "Evening Greeting",
+      "dlg": "NHH ... Do you have a lot of battle at night?\nOh, is everything better?"
+    }, {
+      "id": "smalltalk_11208_1",
+      "desc": "Chatter #1",
+      "dlg": "As you mentioned, you and you can, there is nothing to participate in the relationship."
+    }, {
+      "id": "smalltalk_11208_2",
+      "desc": "Chatter #2",
+      "dlg": "Oh, so ... the mess ... not ....\nOkay, are we attacking them tonight?"
+    }, {
+      "id": "smalltalk_11208_3",
+      "desc": "Chatter #3",
+      "dlg": "Hello, have you ever joined the battle?"
+    }, {
+      "id": "smalltalk_11208_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Receive, did he betrayed them by C-Sepeanese?\nAre children ready?"
+    }, {
+      "id": "smalltalk_11208_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "What are you talking about?\nWell ... it's doubled as always."
+    }, {
+      "id": "neglect_11208_1",
+      "desc": "Idle",
+      "dlg": "MMHM ~ I started starting the third."
+    }, {
+      "id": "gacksung_11208_1",
+      "desc": "Uptying",
+      "dlg": "Oh, this delicious visley is obvious when I ever see it ...\nI want to say I'm in a beautiful body."
+    }, {
+      "id": "formation_11208_1",
+      "desc": "Deployment",
+      "dlg": "Yes?"
+    }, {
+      "id": "battleentry_11208_1",
+      "desc": "Stage Entry",
+      "dlg": "Goals, Oh!"
+    }, {
+      "id": "battle_select_11208_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I'll talk to you"
+    }, {
+      "id": "battle_endcommand_11208_1",
+      "desc": "Commencing Attack",
+      "dlg": "Try before!"
+    }, {
+      "id": "battle_enemy_break_11208_1",
+      "desc": "Enemy Stagger",
+      "dlg": "What is it?"
+    }, {
+      "id": "battle_break_11208_1",
+      "desc": "Staggered",
+      "dlg": "Sat Sri Akal ..."
+    }, {
+      "id": "battle_kill_11208_1",
+      "desc": "Enemy Killed",
+      "dlg": "The body is actually the Insurance H."
+    }, {
+      "id": "battle_dead_11208_1",
+      "desc": "Death",
+      "dlg": "My last idea ... really ... o ... are I going home ...?"
+    }, {
+      "id": "choice_success_p_11208_2",
+      "desc": "Check Passed",
+      "dlg": "Uh, can you get the award?"
+    }, {
+      "id": "choice_fail_n_11208_1",
+      "desc": "Check Failed",
+      "dlg": "Come, come, my embarrassed hands, you know ~"
+    }, {
+      "id": "battle_clear_11208_1",
+      "desc": "Victory Cry",
+      "dlg": "Well, at least it's not full tribulation ...\nMy mother, everyone."
+    }, {
+      "id": "battle_clear_ex_11208_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "They now call it satisfactory outcome.\nYou don't sit?"
+    }, {
+      "id": "battle_defeat_11208_1",
+      "desc": "Defeat Wail",
+      "dlg": "... it's not in the evening."
+    }
+  ]
+}

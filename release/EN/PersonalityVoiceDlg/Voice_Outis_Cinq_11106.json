@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11106_1", "desc": "Identity Acquisition", "dlg": "Now accept the battle."}, {"id": "lobby_morning_11106_1", "desc": "Morning Greeting", "dlg": "I wish you very good night."}, {"id": "lobby_noon_11106_1", "desc": "Afternoon Greeting", "dlg": "Yes, I am thinking of eating here."}, {"id": "lobby_night_11106_1", "desc": "Evening Greeting", "dlg": "I want to go overnight"}, {"id": "smalltalk_11106_1", "desc": "Chatter #1", "dlg": "I demand it to patrol ... not."}, {"id": "smalltalk_11106_2", "desc": "Chatter #2", "dlg": "All the methods of battle are very dangerous, but are very important.\nIf confirm the decision of the controversy, then addicted to drug addiction."}, {"id": "smalltalk_11106_3", "desc": "Chatter #3", "dlg": "The sudden way to measure the fight with other enemies.\nBut if we protect them on a narrow road, I face difficulties in sunlight and small activities."}, {"id": "smalltalk_11106_4", "desc": "Post-Uptie Chat 1", "dlg": "It cannot be removed from the fight.\nIn this case, I have to put my technology in my sleeve."}, {"id": "smalltalk_11106_5", "desc": "Post-Uptie Chat 2", "dlg": "There is no greatest opportunity when trying to provide competitive information from the competition.\nI am the ability to resist them without competing them."}, {"id": "neglect_11106_1", "desc": "Idle", "dlg": "If you don't have a job, you can talk to you."}, {"id": "gacksung_11106_1", "desc": "Uptying", "dlg": "Yes, you will not be disappointed."}, {"id": "formation_11106_1", "desc": "Deployment", "dlg": "I'm always ready."}, {"id": "battleentry_11106_1", "desc": "Stage Entry", "dlg": "Avoid, opponents!"}, {"id": "battle_select_11106_1", "desc": "Viewed in Battle", "dlg": "... I'm a little busy now."}, {"id": "battle_endcommand_11106_1", "desc": "Commencing Attack", "dlg": "The right distance."}, {"id": "battle_enemy_break_11106_1", "desc": "Enemy Stagger", "dlg": "HMPH, estimate."}, {"id": "battle_break_11106_1", "desc": "Staggered", "dlg": "Sat Sri Akal ..."}, {"id": "battle_kill_11106_1", "desc": "Enemy Killed", "dlg": "Hey, the product."}, {"id": "battle_dead_11106_1", "desc": "Death", "dlg": "Jobra ... What article"}, {"id": "choice_success_p_11106_2", "desc": "Check Passed", "dlg": "Oh, easy."}, {"id": "choice_fail_n_11106_1", "desc": "Check Failed", "dlg": "... I did not die on such a fight ..."}, {"id": "battle_clear_11106_1", "desc": "Victory Cry", "dlg": "The sword is called double-breath."}, {"id": "battle_clear_ex_11106_1", "desc": "Extra Conditions Fulfilled", "dlg": "In fact, I can say that the image of this battle is less than the best of the best."}, {"id": "battle_defeat_11106_1", "desc": "Defeat Wail", "dlg": "In my opinion, they have to accept the true battle after they beaten."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11106_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Now accept the battle."
+    }, {
+      "id": "lobby_morning_11106_1",
+      "desc": "Morning Greeting",
+      "dlg": "I wish you very good night."
+    }, {
+      "id": "lobby_noon_11106_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Yes, I am thinking of eating here."
+    }, {
+      "id": "lobby_night_11106_1",
+      "desc": "Evening Greeting",
+      "dlg": "I want to go overnight"
+    }, {
+      "id": "smalltalk_11106_1",
+      "desc": "Chatter #1",
+      "dlg": "I demand it to patrol ... not."
+    }, {
+      "id": "smalltalk_11106_2",
+      "desc": "Chatter #2",
+      "dlg": "All the methods of battle are very dangerous, but are very important.\nIf confirm the decision of the controversy, then addicted to drug addiction."
+    }, {
+      "id": "smalltalk_11106_3",
+      "desc": "Chatter #3",
+      "dlg": "The sudden way to measure the fight with other enemies.\nBut if we protect them on a narrow road, I face difficulties in sunlight and small activities."
+    }, {
+      "id": "smalltalk_11106_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "It cannot be removed from the fight.\nIn this case, I have to put my technology in my sleeve."
+    }, {
+      "id": "smalltalk_11106_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "There is no greatest opportunity when trying to provide competitive information from the competition.\nI am the ability to resist them without competing them."
+    }, {
+      "id": "neglect_11106_1",
+      "desc": "Idle",
+      "dlg": "If you don't have a job, you can talk to you."
+    }, {
+      "id": "gacksung_11106_1",
+      "desc": "Uptying",
+      "dlg": "Yes, you will not be disappointed."
+    }, {
+      "id": "formation_11106_1",
+      "desc": "Deployment",
+      "dlg": "I'm always ready."
+    }, {
+      "id": "battleentry_11106_1",
+      "desc": "Stage Entry",
+      "dlg": "Avoid, opponents!"
+    }, {
+      "id": "battle_select_11106_1",
+      "desc": "Viewed in Battle",
+      "dlg": "... I'm a little busy now."
+    }, {
+      "id": "battle_endcommand_11106_1",
+      "desc": "Commencing Attack",
+      "dlg": "The right distance."
+    }, {
+      "id": "battle_enemy_break_11106_1",
+      "desc": "Enemy Stagger",
+      "dlg": "HMPH, estimate."
+    }, {
+      "id": "battle_break_11106_1",
+      "desc": "Staggered",
+      "dlg": "Sat Sri Akal ..."
+    }, {
+      "id": "battle_kill_11106_1",
+      "desc": "Enemy Killed",
+      "dlg": "Hey, the product."
+    }, {
+      "id": "battle_dead_11106_1",
+      "desc": "Death",
+      "dlg": "Jobra ... What article"
+    }, {
+      "id": "choice_success_p_11106_2",
+      "desc": "Check Passed",
+      "dlg": "Oh, easy."
+    }, {
+      "id": "choice_fail_n_11106_1",
+      "desc": "Check Failed",
+      "dlg": "... I did not die on such a fight ..."
+    }, {
+      "id": "battle_clear_11106_1",
+      "desc": "Victory Cry",
+      "dlg": "The sword is called double-breath."
+    }, {
+      "id": "battle_clear_ex_11106_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "In fact, I can say that the image of this battle is less than the best of the best."
+    }, {
+      "id": "battle_defeat_11106_1",
+      "desc": "Defeat Wail",
+      "dlg": "In my opinion, they have to accept the true battle after they beaten."
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"dataList": [{"id": "battle_awaken_21001_1", "desc": "E.G.O Activation", "dlg": "If I could interfere with my hands ..."}, {"id": "battle_awaken_21002_1", "desc": "E.G.O Activation", "dlg": "You are disappointed ..."}, {"id": "battle_erosion_21002_1", "desc": "E.G.O Corrosion", "dlg": "You have quoted in life."}, {"id": "battle_awaken_21003_1", "desc": "E.G.O Activation", "dlg": "It's from you ...!"}, {"id": "battle_erosion_21003_1", "desc": "E.G.O Corrosion", "dlg": "Five ... everything ..."}, {"id": "battle_awaken_21004_1", "desc": "E.G.O Activation", "dlg": "I will do the wood loss."}, {"id": "battle_erosion_21004_1", "desc": "E.G.O Corrosion", "dlg": "You have to see wild stairs ...!"}, {"id": "battle_awaken_21005_1", "desc": "E.G.O Activation", "dlg": "Your weakness is here ... here!"}, {"id": "battle_erosion_21005_1", "desc": "E.G.O Corrosion", "dlg": "Disaster, destruction ..."}, {"id": "battle_awaken_21006_1", "desc": "E.G.O Activation", "dlg": "I will wear only all tears and ..."}, {"id": "battle_erosion_21006_1", "desc": "E.G.O Corrosion", "dlg": ""}, {"id": "battle_awaken_21007_1", "desc": "E.G.O Activation", "dlg": "So why don't try to collect it?\nI know what to do ..."}, {"id": "battle_erosion_21007_1", "desc": "E.G.O Corrosion", "dlg": "Now you have been burst."}]}
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_21001_1",
+      "desc": "E.G.O Activation",
+      "dlg": "If I could interfere with my hands ..."
+    }, {
+      "id": "battle_awaken_21002_1",
+      "desc": "E.G.O Activation",
+      "dlg": "You are disappointed ..."
+    }, {
+      "id": "battle_erosion_21002_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "You have quoted in life."
+    }, {
+      "id": "battle_awaken_21003_1",
+      "desc": "E.G.O Activation",
+      "dlg": "It's from you ...!"
+    }, {
+      "id": "battle_erosion_21003_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Five ... everything ..."
+    }, {
+      "id": "battle_awaken_21004_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I will do the wood loss."
+    }, {
+      "id": "battle_erosion_21004_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "You have to see wild stairs ...!"
+    }, {
+      "id": "battle_awaken_21005_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Your weakness is here ... here!"
+    }, {
+      "id": "battle_erosion_21005_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Disaster, destruction ..."
+    }, {
+      "id": "battle_awaken_21006_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I will wear only all tears and ..."
+    }, {
+      "id": "battle_erosion_21006_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    }, {
+      "id": "battle_awaken_21007_1",
+      "desc": "E.G.O Activation",
+      "dlg": "So why don't try to collect it?\nI know what to do ..."
+    }, {
+      "id": "battle_erosion_21007_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Now you have been burst."
+    }
+  ]
+}

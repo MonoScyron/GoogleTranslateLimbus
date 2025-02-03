@@ -445,7 +445,7 @@
     }, {
       "id": 826301,
       "name": "Current session",
-      "desc": "If you have an ally [PreparedMeat] 1 HP, failure; [Vulnerable]……. [Reduction]And and [Disarming]Intersection"
+      "desc": "If you have an ally [PreparedMeat] 1 HP, failure; [Vulnerable]……. [Reduction] And and [Disarming] Intersection"
     }, {
       "id": 826302,
       "name": "Owner",
@@ -469,19 +469,19 @@
     }, {
       "id": 826503,
       "name": "Migration",
-      "desc": "In turn: If you do not remove meat and friends [Hunger]75% -hp 75% -hp, 2.50% 2. Kilm, Benefit 3.\nStarting the garment: If the device is defeated and beat the meat, it is over. [Hunger]Intersection"
+      "desc": "In turn: If you do not remove meat and friends [Hunger] 75% -hp 75% -hp, 2.50% 2. Kilm, Benefit 3.\nStarting the garment: If the device is defeated and beat the meat, it is over. [Hunger] Intersection"
     }, {
       "id": 826504,
       "name": "Current session",
-      "desc": "Finally [Hunger]Jean (all Country Cooperative X3 lost) [AttackDown] And and [DefenseDown]Intersection"
+      "desc": "Finally [Hunger] Jean (all Country Cooperative X3 lost) [AttackDown] And and [DefenseDown] Intersection"
     }, {
       "id": 826505,
       "name": "Owner",
-      "desc": "The end of the time of 4 [Hunger]Get a powerful model."
+      "desc": "The end of the time of 4 [Hunger] Get a powerful model."
     }, {
       "id": 811801,
       "name": "He returned to the past",
-      "desc": "If you are more than 50 years [AccumulatedPastMirror]If the HP core is 80% or less, cooking equipment is 200 horsur and 50 costs. [AccumulatedPastMirror] At the end of"
+      "desc": "If you are more than 50 years [AccumulatedPastMirror] If the HP core is 80% or less, cooking equipment is 200 horsur and 50 costs. [AccumulatedPastMirror] At the end of"
     }, {
       "id": 811802,
       "name": "It was bad in the past",
@@ -489,7 +489,7 @@
     }, {
       "id": 811808,
       "name": "Screen",
-      "desc": "Against [AccumulatedPastMirror] A odd number [Vulnerable] And and [AttackDmgUp]\nIf you have a vapor number, you will get 3. [Protection] And and [AttackDmgDown]"
+      "desc": "Against [AccumulatedPastMirror] a odd number [Vulnerable] And and [AttackDmgUp]\nIf you have a vapor number, you will get 3. [Protection] And and [AttackDmgDown]"
     }, {
       "id": 826401,
       "name": "Their",

@@ -1,1 +1,107 @@
-{"dataList": [{"id": "announcer_cheer_12_1", "dlg": "I am the best in my work, but \"fans\" takes a lot of time."}, {"id": "announcer_cheer_12_2", "dlg": "Sachyot Babybiquing provides such functions, but it is effective in different tasks, so the best artificial intellect."}, {"id": "announcer_cheer_12_3", "dlg": "I see encouraging lines for the managers and unknown places."}, {"id": "announcer_specialcheer_12_1", "dlg": "Employee health is dangerous."}, {"id": "announcer_specialcheer_12_2", "dlg": "Employees are on the banks of death."}, {"id": "announcer_enemy_break_12_1", "dlg": "The matter is clear and completely secure."}, {"id": "announcer_enemy_break_12_2", "dlg": "I made enemies with the flat legs."}, {"id": "announcer_ally_break_12_1", "dlg": "Employees were injured."}, {"id": "announcer_ally_break_12_2", "dlg": "I realized the injured employee."}, {"id": "announcer_killenemy_12_1", "dlg": "The signs of life has stopped."}, {"id": "announcer_ally_dead_12_1", "dlg": "I realized the dead employee."}, {"id": "announcer_enemy_adv_12_1", "dlg": "The enemy dominated."}, {"id": "announcer_ally_adv_12_1", "dlg": "This is clear evidence of \"belief\" for employees."}, {"id": "announcer_danger_12_1", "dlg": "Employees don't have much time."}, {"id": "announcer_enemy_specialskill_12_1", "dlg": "I hope the enemy will be attacked."}, {"id": "announcer_enemy_specialgimmick_12_1", "dlg": "The element indicates odd behavior."}, {"id": "announcer_advatk_physical_12_1", "dlg": "You will break an impressive enemy attack."}, {"id": "announcer_disadvatk_physical_12_1", "dlg": "I remember he remember the physical attack I remember."}, {"id": "announcer_advatk_attr_12_1", "dlg": "It carefully reading the weaknesses of our enemies."}, {"id": "announcer_disadvatk_attr_12_1", "dlg": "I decided to extend control of control for the low attack attacks."}, {"id": "announcer_enemy_specialbuff_12_1", "dlg": "The enemy is ready to press them."}, {"id": "announcer_enemy_specialdebuff_12_1", "dlg": "It is hostile."}, {"id": "announcer_ally_specialbuff_12_1", "dlg": "The employee is good."}, {"id": "announcer_ally_specialdebuff_12_1", "dlg": "Employees are not compatible."}, {"id": "announcer_enemy_destroy_12_1", "dlg": "Part of the enemy is destroyed."}, {"id": "announcer_enemy_destroy_12_2", "dlg": "Some materials destroys for the most performance to attack and fight enemies."}, {"id": "announcer_enemy_destroy_12_3", "dlg": "This element is very difficult and damaged, but thanks if it is not."}, {"id": "announcer_round_takebigdmg_12_1", "dlg": "He was badly surprised by employees."}, {"id": "announcer_round_takebigdmg_12_2", "dlg": "More than one person was injured, but they do not lose their hearts besides death."}, {"id": "announcer_round_givebigdmg_12_1", "dlg": "Take a deadly jerk to the enemy."}, {"id": "announcer_round_givebigdmg_12_2", "dlg": "A successful end."}, {"id": "announcer_multikillenemy_12_1", "dlg": "Employees made significant contributions in these troubles."}, {"id": "announcer_equip_12_1", "dlg": "I am generous, your violence and help."}, {"id": "announcer_neglect_12_1", "dlg": "I have to reduce the irrational silence of my Hua Magazine.\n... this is a joke."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_12_1",
+      "dlg": "I am the best in my work, but \"fans\" takes a lot of time."
+    }, {
+      "id": "announcer_cheer_12_2",
+      "dlg": "Sachyot Babybiquing provides such functions, but it is effective in different tasks, so the best artificial intellect."
+    }, {
+      "id": "announcer_cheer_12_3",
+      "dlg": "I see encouraging lines for the managers and unknown places."
+    }, {
+      "id": "announcer_specialcheer_12_1",
+      "dlg": "Employee health is dangerous."
+    }, {
+      "id": "announcer_specialcheer_12_2",
+      "dlg": "Employees are on the banks of death."
+    }, {
+      "id": "announcer_enemy_break_12_1",
+      "dlg": "The matter is clear and completely secure."
+    }, {
+      "id": "announcer_enemy_break_12_2",
+      "dlg": "I made enemies with the flat legs."
+    }, {
+      "id": "announcer_ally_break_12_1",
+      "dlg": "Employees were injured."
+    }, {
+      "id": "announcer_ally_break_12_2",
+      "dlg": "I realized the injured employee."
+    }, {
+      "id": "announcer_killenemy_12_1",
+      "dlg": "The signs of life has stopped."
+    }, {
+      "id": "announcer_ally_dead_12_1",
+      "dlg": "I realized the dead employee."
+    }, {
+      "id": "announcer_enemy_adv_12_1",
+      "dlg": "The enemy dominated."
+    }, {
+      "id": "announcer_ally_adv_12_1",
+      "dlg": "This is clear evidence of \"belief\" for employees."
+    }, {
+      "id": "announcer_danger_12_1",
+      "dlg": "Employees don't have much time."
+    }, {
+      "id": "announcer_enemy_specialskill_12_1",
+      "dlg": "I hope the enemy will be attacked."
+    }, {
+      "id": "announcer_enemy_specialgimmick_12_1",
+      "dlg": "The element indicates odd behavior."
+    }, {
+      "id": "announcer_advatk_physical_12_1",
+      "dlg": "You will break an impressive enemy attack."
+    }, {
+      "id": "announcer_disadvatk_physical_12_1",
+      "dlg": "I remember he remember the physical attack I remember."
+    }, {
+      "id": "announcer_advatk_attr_12_1",
+      "dlg": "It carefully reading the weaknesses of our enemies."
+    }, {
+      "id": "announcer_disadvatk_attr_12_1",
+      "dlg": "I decided to extend control of control for the low attack attacks."
+    }, {
+      "id": "announcer_enemy_specialbuff_12_1",
+      "dlg": "The enemy is ready to press them."
+    }, {
+      "id": "announcer_enemy_specialdebuff_12_1",
+      "dlg": "It is hostile."
+    }, {
+      "id": "announcer_ally_specialbuff_12_1",
+      "dlg": "The employee is good."
+    }, {
+      "id": "announcer_ally_specialdebuff_12_1",
+      "dlg": "Employees are not compatible."
+    }, {
+      "id": "announcer_enemy_destroy_12_1",
+      "dlg": "Part of the enemy is destroyed."
+    }, {
+      "id": "announcer_enemy_destroy_12_2",
+      "dlg": "Some materials destroys for the most performance to attack and fight enemies."
+    }, {
+      "id": "announcer_enemy_destroy_12_3",
+      "dlg": "This element is very difficult and damaged, but thanks if it is not."
+    }, {
+      "id": "announcer_round_takebigdmg_12_1",
+      "dlg": "He was badly surprised by employees."
+    }, {
+      "id": "announcer_round_takebigdmg_12_2",
+      "dlg": "More than one person was injured, but they do not lose their hearts besides death."
+    }, {
+      "id": "announcer_round_givebigdmg_12_1",
+      "dlg": "Take a deadly jerk to the enemy."
+    }, {
+      "id": "announcer_round_givebigdmg_12_2",
+      "dlg": "A successful end."
+    }, {
+      "id": "announcer_multikillenemy_12_1",
+      "dlg": "Employees made significant contributions in these troubles."
+    }, {
+      "id": "announcer_equip_12_1",
+      "dlg": "I am generous, your violence and help."
+    }, {
+      "id": "announcer_neglect_12_1",
+      "dlg": "I have to reduce the irrational silence of my Hua Magazine.\n... this is a joke."
+    }
+  ]
+}

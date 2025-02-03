@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11102_1", "desc": "Identity Acquisition", "dlg": "I will follow the power of this place and reduce everything that corrupts it."}, {"id": "lobby_morning_11102_1", "desc": "Morning Greeting", "dlg": "I usually thank you in the morning."}, {"id": "lobby_noon_11102_1", "desc": "Afternoon Greeting", "dlg": "Rodian ... I still encourage me to take me to the restaurant."}, {"id": "lobby_night_11102_1", "desc": "Evening Greeting", "dlg": "If you want to clear your thoughts, you can help the moonlight."}, {"id": "smalltalk_11102_1", "desc": "Chatter #1", "dlg": "You have to press it to cut it."}, {"id": "smalltalk_11102_2", "desc": "Chatter #2", "dlg": "I don't like chat for a long time."}, {"id": "smalltalk_11102_3", "desc": "Chatter #3", "dlg": "Having a sword naturally can harm the process."}, {"id": "smalltalk_11102_4", "desc": "Post-Uptie Chat 1", "dlg": "Jigi became a leader."}, {"id": "smalltalk_11102_5", "desc": "Post-Uptie Chat 2", "dlg": "What funds do you charge for CEO?"}, {"id": "neglect_11102_1", "desc": "Idle", "dlg": "Today's Basy Technology can be used to forget the death which can eliminate blood functions."}, {"id": "gacksung_11102_1", "desc": "Uptying", "dlg": "If you are ready ... I will serve."}, {"id": "formation_11102_1", "desc": "Deployment", "dlg": "Download"}, {"id": "battleentry_11102_1", "desc": "Stage Entry", "dlg": "Time to meet."}, {"id": "battle_select_11102_1", "desc": "Viewed in Battle", "dlg": "If I could be lighter, I will be very happy."}, {"id": "battle_endcommand_11102_1", "desc": "Commencing Attack", "dlg": "I can't break"}, {"id": "battle_enemy_break_11102_1", "desc": "Enemy Stagger", "dlg": "It is easier to keep."}, {"id": "battle_break_11102_1", "desc": "Staggered", "dlg": "Quietly quiet!"}, {"id": "battle_kill_11102_1", "desc": "Enemy Killed", "dlg": "The results were safely obtained."}, {"id": "battle_allydead_11102_1", "desc": "Ally Death", "dlg": "It is difficult to get care."}, {"id": "choice_success_p_11102_1", "desc": "Check Passed", "dlg": "I know the road around the sword."}, {"id": "choice_fail_n_11102_1", "desc": "Check Failed", "dlg": "I ignore the trainer and experience the user's graphic interface."}, {"id": "battle_clear_11102_1", "desc": "Victory Cry", "dlg": "I am after my way"}, {"id": "battle_clear_ex_11102_1", "desc": "Extra Conditions Fulfilled", "dlg": "I was tired of them and danced with the present."}, {"id": "battle_defeat_11102_1", "desc": "Defeat Wail", "dlg": "I'm not sad"}]}
+{
+  "dataList": [
+    {
+      "id": "get_11102_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I will follow the power of this place and reduce everything that corrupts it."
+    }, {
+      "id": "lobby_morning_11102_1",
+      "desc": "Morning Greeting",
+      "dlg": "I usually thank you in the morning."
+    }, {
+      "id": "lobby_noon_11102_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Rodian ... I still encourage me to take me to the restaurant."
+    }, {
+      "id": "lobby_night_11102_1",
+      "desc": "Evening Greeting",
+      "dlg": "If you want to clear your thoughts, you can help the moonlight."
+    }, {
+      "id": "smalltalk_11102_1",
+      "desc": "Chatter #1",
+      "dlg": "You have to press it to cut it."
+    }, {
+      "id": "smalltalk_11102_2",
+      "desc": "Chatter #2",
+      "dlg": "I don't like chat for a long time."
+    }, {
+      "id": "smalltalk_11102_3",
+      "desc": "Chatter #3",
+      "dlg": "Having a sword naturally can harm the process."
+    }, {
+      "id": "smalltalk_11102_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Jigi became a leader."
+    }, {
+      "id": "smalltalk_11102_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "What funds do you charge for CEO?"
+    }, {
+      "id": "neglect_11102_1",
+      "desc": "Idle",
+      "dlg": "Today's Basy Technology can be used to forget the death which can eliminate blood functions."
+    }, {
+      "id": "gacksung_11102_1",
+      "desc": "Uptying",
+      "dlg": "If you are ready ... I will serve."
+    }, {
+      "id": "formation_11102_1",
+      "desc": "Deployment",
+      "dlg": "Download"
+    }, {
+      "id": "battleentry_11102_1",
+      "desc": "Stage Entry",
+      "dlg": "Time to meet."
+    }, {
+      "id": "battle_select_11102_1",
+      "desc": "Viewed in Battle",
+      "dlg": "If I could be lighter, I will be very happy."
+    }, {
+      "id": "battle_endcommand_11102_1",
+      "desc": "Commencing Attack",
+      "dlg": "I can't break"
+    }, {
+      "id": "battle_enemy_break_11102_1",
+      "desc": "Enemy Stagger",
+      "dlg": "It is easier to keep."
+    }, {
+      "id": "battle_break_11102_1",
+      "desc": "Staggered",
+      "dlg": "Quietly quiet!"
+    }, {
+      "id": "battle_kill_11102_1",
+      "desc": "Enemy Killed",
+      "dlg": "The results were safely obtained."
+    }, {
+      "id": "battle_allydead_11102_1",
+      "desc": "Ally Death",
+      "dlg": "It is difficult to get care."
+    }, {
+      "id": "choice_success_p_11102_1",
+      "desc": "Check Passed",
+      "dlg": "I know the road around the sword."
+    }, {
+      "id": "choice_fail_n_11102_1",
+      "desc": "Check Failed",
+      "dlg": "I ignore the trainer and experience the user's graphic interface."
+    }, {
+      "id": "battle_clear_11102_1",
+      "desc": "Victory Cry",
+      "dlg": "I am after my way"
+    }, {
+      "id": "battle_clear_ex_11102_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I was tired of them and danced with the present."
+    }, {
+      "id": "battle_defeat_11102_1",
+      "desc": "Defeat Wail",
+      "dlg": "I'm not sad"
+    }
+  ]
+}

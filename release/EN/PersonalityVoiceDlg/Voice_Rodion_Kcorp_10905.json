@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10905_1", "desc": "Identity Acquisition", "dlg": "Hello, I Rhia ~"}, {"id": "lobby_morning_10905_1", "desc": "Morning Greeting", "dlg": "Ian ... if you slowly drink coffee."}, {"id": "lobby_noon_10905_1", "desc": "Afternoon Greeting", "dlg": "are you here?\n... nose."}, {"id": "lobby_night_10905_1", "desc": "Evening Greeting", "dlg": "What can I live for the first time?"}, {"id": "smalltalk_10905_1", "desc": "Chatter #1", "dlg": "We all need to use - oh, it's not so stupid ...\nHa, too - then we arrived all these."}, {"id": "smalltalk_10905_2", "desc": "Chatter #2", "dlg": "Oh ~ Vhzat, who is my job?"}, {"id": "smalltalk_10905_3", "desc": "Chatter #3", "dlg": "Isn't that good work?"}, {"id": "smalltalk_10905_4", "desc": "Post-Uptie Chat 1", "dlg": "What is!\nYou need to use your skills!"}, {"id": "smalltalk_10905_5", "desc": "Post-Uptie Chat 2", "dlg": "Okay, you're here ... yes!\n4 types?"}, {"id": "neglect_10905_1", "desc": "Idle", "dlg": "~ I think it's important"}, {"id": "gacksung_10905_1", "desc": "Uptying", "dlg": "Well ~ I have an actor, I can't see him"}, {"id": "formation_10905_1", "desc": "Deployment", "dlg": "Let's go well!"}, {"id": "battleentry_10905_1", "desc": "Stage Entry", "dlg": "Let's break this bread ~!"}, {"id": "battle_select_10905_1", "desc": "Viewed in Battle", "dlg": "MM is a little busy!"}, {"id": "battle_endcommand_10905_1", "desc": "Commencing Attack", "dlg": "We will go!"}, {"id": "battle_enemy_break_10905_1", "desc": "Enemy Stagger", "dlg": "Well, they caught them!"}, {"id": "battle_break_10905_1", "desc": "Staggered", "dlg": "The best honor ..."}, {"id": "battle_kill_10905_1", "desc": "Enemy Killed", "dlg": "Yes, what is it!"}, {"id": "battle_dead_10905_1", "desc": "Death", "dlg": "If you know ... go to the top next day."}, {"id": "choice_success_p_10905_1", "desc": "Check Passed", "dlg": "A piece of laong cake!"}, {"id": "choice_fail_n_10905_1", "desc": "Check Failed", "dlg": "PSH ... my equipment is not an answer."}, {"id": "battle_clear_10905_1", "desc": "Victory Cry", "dlg": "I know they are in our situation."}, {"id": "battle_clear_ex_10905_1", "desc": "Extra Conditions Fulfilled", "dlg": "Hey, it's a great success."}, {"id": "battle_defeat_10905_1", "desc": "Defeat Wail", "dlg": "This ... I can accept ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10905_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Hello, I Rhia ~"
+    }, {
+      "id": "lobby_morning_10905_1",
+      "desc": "Morning Greeting",
+      "dlg": "Ian ... if you slowly drink coffee."
+    }, {
+      "id": "lobby_noon_10905_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "are you here?\n... nose."
+    }, {
+      "id": "lobby_night_10905_1",
+      "desc": "Evening Greeting",
+      "dlg": "What can I live for the first time?"
+    }, {
+      "id": "smalltalk_10905_1",
+      "desc": "Chatter #1",
+      "dlg": "We all need to use - oh, it's not so stupid ...\nHa, too - then we arrived all these."
+    }, {
+      "id": "smalltalk_10905_2",
+      "desc": "Chatter #2",
+      "dlg": "Oh ~ Vhzat, who is my job?"
+    }, {
+      "id": "smalltalk_10905_3",
+      "desc": "Chatter #3",
+      "dlg": "Isn't that good work?"
+    }, {
+      "id": "smalltalk_10905_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "What is!\nYou need to use your skills!"
+    }, {
+      "id": "smalltalk_10905_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Okay, you're here ... yes!\n4 types?"
+    }, {
+      "id": "neglect_10905_1",
+      "desc": "Idle",
+      "dlg": "~ I think it's important"
+    }, {
+      "id": "gacksung_10905_1",
+      "desc": "Uptying",
+      "dlg": "Well ~ I have an actor, I can't see him"
+    }, {
+      "id": "formation_10905_1",
+      "desc": "Deployment",
+      "dlg": "Let's go well!"
+    }, {
+      "id": "battleentry_10905_1",
+      "desc": "Stage Entry",
+      "dlg": "Let's break this bread ~!"
+    }, {
+      "id": "battle_select_10905_1",
+      "desc": "Viewed in Battle",
+      "dlg": "MM is a little busy!"
+    }, {
+      "id": "battle_endcommand_10905_1",
+      "desc": "Commencing Attack",
+      "dlg": "We will go!"
+    }, {
+      "id": "battle_enemy_break_10905_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Well, they caught them!"
+    }, {
+      "id": "battle_break_10905_1",
+      "desc": "Staggered",
+      "dlg": "The best honor ..."
+    }, {
+      "id": "battle_kill_10905_1",
+      "desc": "Enemy Killed",
+      "dlg": "Yes, what is it!"
+    }, {
+      "id": "battle_dead_10905_1",
+      "desc": "Death",
+      "dlg": "If you know ... go to the top next day."
+    }, {
+      "id": "choice_success_p_10905_1",
+      "desc": "Check Passed",
+      "dlg": "A piece of laong cake!"
+    }, {
+      "id": "choice_fail_n_10905_1",
+      "desc": "Check Failed",
+      "dlg": "PSH ... my equipment is not an answer."
+    }, {
+      "id": "battle_clear_10905_1",
+      "desc": "Victory Cry",
+      "dlg": "I know they are in our situation."
+    }, {
+      "id": "battle_clear_ex_10905_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Hey, it's a great success."
+    }, {
+      "id": "battle_defeat_10905_1",
+      "desc": "Defeat Wail",
+      "dlg": "This ... I can accept ..."
+    }
+  ]
+}

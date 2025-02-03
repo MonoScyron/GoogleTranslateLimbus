@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11007_1", "desc": "Identity Acquisition", "dlg": "MM ... Can you fix the stomach here?"}, {"id": "lobby_morning_11007_1", "desc": "Morning Greeting", "dlg": "The store is not yet open ... oh, I take a chair with me so that you can rest and rest."}, {"id": "lobby_noon_11007_1", "desc": "Afternoon Greeting", "dlg": "MMGG ... I want to eat something again ... I'm boiled, steam, roasted, great and phone ... but it's not!"}, {"id": "lobby_night_11007_1", "desc": "Evening Greeting", "dlg": "Yes!"}, {"id": "smalltalk_11007_1", "desc": "Chatter #1", "dlg": "When I first got up and found here, I don't know what to do."}, {"id": "smalltalk_11007_2", "desc": "Chatter #2", "dlg": "I don't have too habits to deal with the device ... but if I want to go back to the place where I live, I have to work hard."}, {"id": "smalltalk_11007_3", "desc": "Chatter #3", "dlg": "I usually have generally, but I'm always very attractive for the company ... include the components when I fight from the scratch."}, {"id": "smalltalk_11007_4", "desc": "Post-Uptie Chat 1", "dlg": "In this weapon is the maintenance and technology of meaponical welding, but is it bad?"}, {"id": "smalltalk_11007_5", "desc": "Post-Uptie Chat 2", "dlg": "We can help everyone in other stores here.\n... even though it is no longer."}, {"id": "neglect_11007_1", "desc": "Idle", "dlg": "Well ... read my management books between me."}, {"id": "gacksung_11007_1", "desc": "Uptying", "dlg": "Improvements improves performance, but if you do more, it is not necessary."}, {"id": "formation_11007_1", "desc": "Deployment", "dlg": "Operating"}, {"id": "battleentry_11007_1", "desc": "Stage Entry", "dlg": "What is it?"}, {"id": "battle_select_11007_1", "desc": "Viewed in Battle", "dlg": "Do you clearly know?"}, {"id": "battle_endcommand_11007_1", "desc": "Commencing Attack", "dlg": "The exhaust is stable ... it's true!"}, {"id": "battle_enemy_break_11007_1", "desc": "Enemy Stagger", "dlg": "Very good ...!"}, {"id": "battle_break_11007_1", "desc": "Staggered", "dlg": "good night ..."}, {"id": "battle_kill_11007_1", "desc": "Enemy Killed", "dlg": "Fu, be careful."}, {"id": "battle_dead_11007_1", "desc": "Death", "dlg": "No ... they ... wait for me ... for me."}, {"id": "choice_success_p_11007_2", "desc": "Check Passed", "dlg": "This is the correct answer!"}, {"id": "choice_fail_n_11007_1", "desc": "Check Failed", "dlg": "It's not enough ..."}, {"id": "battle_clear_11007_1", "desc": "Victory Cry", "dlg": "You have to face the rest."}, {"id": "battle_clear_ex_11007_1", "desc": "Extra Conditions Fulfilled", "dlg": "This is very clear."}, {"id": "battle_defeat_11007_1", "desc": "Defeat Wail", "dlg": "No ... I don't think it's going ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11007_1",
+      "desc": "Identity Acquisition",
+      "dlg": "MM ... Can you fix the stomach here?"
+    }, {
+      "id": "lobby_morning_11007_1",
+      "desc": "Morning Greeting",
+      "dlg": "The store is not yet open ... oh, I take a chair with me so that you can rest and rest."
+    }, {
+      "id": "lobby_noon_11007_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "MMGG ... I want to eat something again ... I'm boiled, steam, roasted, great and phone ... but it's not!"
+    }, {
+      "id": "lobby_night_11007_1",
+      "desc": "Evening Greeting",
+      "dlg": "Yes!"
+    }, {
+      "id": "smalltalk_11007_1",
+      "desc": "Chatter #1",
+      "dlg": "When I first got up and found here, I don't know what to do."
+    }, {
+      "id": "smalltalk_11007_2",
+      "desc": "Chatter #2",
+      "dlg": "I don't have too habits to deal with the device ... but if I want to go back to the place where I live, I have to work hard."
+    }, {
+      "id": "smalltalk_11007_3",
+      "desc": "Chatter #3",
+      "dlg": "I usually have generally, but I'm always very attractive for the company ... include the components when I fight from the scratch."
+    }, {
+      "id": "smalltalk_11007_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "In this weapon is the maintenance and technology of meaponical welding, but is it bad?"
+    }, {
+      "id": "smalltalk_11007_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "We can help everyone in other stores here.\n... even though it is no longer."
+    }, {
+      "id": "neglect_11007_1",
+      "desc": "Idle",
+      "dlg": "Well ... read my management books between me."
+    }, {
+      "id": "gacksung_11007_1",
+      "desc": "Uptying",
+      "dlg": "Improvements improves performance, but if you do more, it is not necessary."
+    }, {
+      "id": "formation_11007_1",
+      "desc": "Deployment",
+      "dlg": "Operating"
+    }, {
+      "id": "battleentry_11007_1",
+      "desc": "Stage Entry",
+      "dlg": "What is it?"
+    }, {
+      "id": "battle_select_11007_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Do you clearly know?"
+    }, {
+      "id": "battle_endcommand_11007_1",
+      "desc": "Commencing Attack",
+      "dlg": "The exhaust is stable ... it's true!"
+    }, {
+      "id": "battle_enemy_break_11007_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Very good ...!"
+    }, {
+      "id": "battle_break_11007_1",
+      "desc": "Staggered",
+      "dlg": "good night ..."
+    }, {
+      "id": "battle_kill_11007_1",
+      "desc": "Enemy Killed",
+      "dlg": "Fu, be careful."
+    }, {
+      "id": "battle_dead_11007_1",
+      "desc": "Death",
+      "dlg": "No ... they ... wait for me ... for me."
+    }, {
+      "id": "choice_success_p_11007_2",
+      "desc": "Check Passed",
+      "dlg": "This is the correct answer!"
+    }, {
+      "id": "choice_fail_n_11007_1",
+      "desc": "Check Failed",
+      "dlg": "It's not enough ..."
+    }, {
+      "id": "battle_clear_11007_1",
+      "desc": "Victory Cry",
+      "dlg": "You have to face the rest."
+    }, {
+      "id": "battle_clear_ex_11007_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This is very clear."
+    }, {
+      "id": "battle_defeat_11007_1",
+      "desc": "Defeat Wail",
+      "dlg": "No ... I don't think it's going ..."
+    }
+  ]
+}

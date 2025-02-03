@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10508_1", "desc": "Identity Acquisition", "dlg": "We smiled here?"}, {"id": "lobby_morning_10508_1", "desc": "Morning Greeting", "dlg": "You have to start in the morning."}, {"id": "lobby_noon_10508_1", "desc": "Afternoon Greeting", "dlg": "If the schedule is empty or you are going to my friend?\nWe need to think about where you can find a new home."}, {"id": "lobby_night_10508_1", "desc": "Evening Greeting", "dlg": "Always cool below the clear moon."}, {"id": "smalltalk_10508_1", "desc": "Chatter #1", "dlg": "Don't blink them from throwing in the sword."}, {"id": "smalltalk_10508_2", "desc": "Chatter #2", "dlg": "You can learn to play with them.\nNext game remains, so you can easily read it as another person."}, {"id": "smalltalk_10508_3", "desc": "Chatter #3", "dlg": "I want to visit carrots \n... Anyway, I think my people should save him and lose their place in the company."}, {"id": "smalltalk_10508_4", "desc": "Post-Uptie Chat 1", "dlg": "When someone told me I would be in the vagina, I apologize for it ... I think I really have a wild life."}, {"id": "smalltalk_10508_5", "desc": "Post-Uptie Chat 2", "dlg": "Cut the meat and bonds."}, {"id": "neglect_10508_1", "desc": "Idle", "dlg": "... mm."}, {"id": "gacksung_10508_1", "desc": "Uptying", "dlg": "Despite the number of murderers, they have nothing to me, but they have rocks.\nMy cross is still bloom ... you want to respond?"}, {"id": "formation_10508_1", "desc": "Deployment", "dlg": "I put a table next to him."}, {"id": "battleentry_10508_1", "desc": "Stage Entry", "dlg": "My game"}, {"id": "battle_select_10508_1", "desc": "Viewed in Battle", "dlg": "I do not accept unnecessary proposals."}, {"id": "battle_endcommand_10508_1", "desc": "Commencing Attack", "dlg": "If you remember ... and apply your life."}, {"id": "battle_enemy_break_10508_1", "desc": "Enemy Stagger", "dlg": "They give meat."}, {"id": "battle_break_10508_1", "desc": "Staggered", "dlg": "Gailard Failure ..."}, {"id": "battle_kill_10508_1", "desc": "Enemy Killed", "dlg": "I'm looking for bones"}, {"id": "battle_dead_10508_1", "desc": "Death", "dlg": "Hey ... I ... man ..."}, {"id": "choice_success_p_10508_2", "desc": "Check Passed", "dlg": "Intellect."}, {"id": "choice_fail_n_10508_1", "desc": "Check Failed", "dlg": "Extension"}, {"id": "battle_clear_10508_1", "desc": "Victory Cry", "dlg": "The end of this game is like final."}, {"id": "battle_clear_ex_10508_1", "desc": "Extra Conditions Fulfilled", "dlg": "My strategy took place with this battle and fell in love with our love."}, {"id": "battle_defeat_10508_1", "desc": "Defeat Wail", "dlg": "Perhaps the exercise showed another meat mark."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10508_1",
+      "desc": "Identity Acquisition",
+      "dlg": "We smiled here?"
+    }, {
+      "id": "lobby_morning_10508_1",
+      "desc": "Morning Greeting",
+      "dlg": "You have to start in the morning."
+    }, {
+      "id": "lobby_noon_10508_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "If the schedule is empty or you are going to my friend?\nWe need to think about where you can find a new home."
+    }, {
+      "id": "lobby_night_10508_1",
+      "desc": "Evening Greeting",
+      "dlg": "Always cool below the clear moon."
+    }, {
+      "id": "smalltalk_10508_1",
+      "desc": "Chatter #1",
+      "dlg": "Don't blink them from throwing in the sword."
+    }, {
+      "id": "smalltalk_10508_2",
+      "desc": "Chatter #2",
+      "dlg": "You can learn to play with them.\nNext game remains, so you can easily read it as another person."
+    }, {
+      "id": "smalltalk_10508_3",
+      "desc": "Chatter #3",
+      "dlg": "I want to visit carrots \n... Anyway, I think my people should save him and lose their place in the company."
+    }, {
+      "id": "smalltalk_10508_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "When someone told me I would be in the vagina, I apologize for it ... I think I really have a wild life."
+    }, {
+      "id": "smalltalk_10508_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Cut the meat and bonds."
+    }, {
+      "id": "neglect_10508_1",
+      "desc": "Idle",
+      "dlg": "... mm."
+    }, {
+      "id": "gacksung_10508_1",
+      "desc": "Uptying",
+      "dlg": "Despite the number of murderers, they have nothing to me, but they have rocks.\nMy cross is still bloom ... you want to respond?"
+    }, {
+      "id": "formation_10508_1",
+      "desc": "Deployment",
+      "dlg": "I put a table next to him."
+    }, {
+      "id": "battleentry_10508_1",
+      "desc": "Stage Entry",
+      "dlg": "My game"
+    }, {
+      "id": "battle_select_10508_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I do not accept unnecessary proposals."
+    }, {
+      "id": "battle_endcommand_10508_1",
+      "desc": "Commencing Attack",
+      "dlg": "If you remember ... and apply your life."
+    }, {
+      "id": "battle_enemy_break_10508_1",
+      "desc": "Enemy Stagger",
+      "dlg": "They give meat."
+    }, {
+      "id": "battle_break_10508_1",
+      "desc": "Staggered",
+      "dlg": "Gailard Failure ..."
+    }, {
+      "id": "battle_kill_10508_1",
+      "desc": "Enemy Killed",
+      "dlg": "I'm looking for bones"
+    }, {
+      "id": "battle_dead_10508_1",
+      "desc": "Death",
+      "dlg": "Hey ... I ... man ..."
+    }, {
+      "id": "choice_success_p_10508_2",
+      "desc": "Check Passed",
+      "dlg": "Intellect."
+    }, {
+      "id": "choice_fail_n_10508_1",
+      "desc": "Check Failed",
+      "dlg": "Extension"
+    }, {
+      "id": "battle_clear_10508_1",
+      "desc": "Victory Cry",
+      "dlg": "The end of this game is like final."
+    }, {
+      "id": "battle_clear_ex_10508_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "My strategy took place with this battle and fell in love with our love."
+    }, {
+      "id": "battle_defeat_10508_1",
+      "desc": "Defeat Wail",
+      "dlg": "Perhaps the exercise showed another meat mark."
+    }
+  ]
+}

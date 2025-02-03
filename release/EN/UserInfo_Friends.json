@@ -50,7 +50,7 @@
       "content": "Entrance"
     }, {
       "id": "Last_Reload",
-      "content": "{0}After that!"
+      "content": "{0} after that!"
     }, {
       "id": "WaitCancle",
       "content": "To remove"
@@ -104,7 +104,7 @@
       "content": "Today!"
     }, {
       "id": "Ago",
-      "content": "{0}After this"
+      "content": "{0} after this"
     }, {
       "id": "Day_Ago",
       "content": "Uncle / Uncle"

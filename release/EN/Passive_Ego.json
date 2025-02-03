@@ -259,7 +259,7 @@
     }, {
       "id": 2050611,
       "name": "Cable",
-      "desc": "Start fighting: 4+ movements .. 2 has been received. [AttackUp] There is no way [DefenseUp]Intersection\nIf he was jealous."
+      "desc": "Start fighting: 4+ movements .. 2 has been received. [AttackUp] There is no way [DefenseUp] Intersection\nIf he was jealous."
     }, {
       "id": 2070611,
       "name": "Bond",
@@ -282,11 +282,11 @@
       "id": 2060611,
       "name": "Despair",
       "desc": "If this device uses activity technology [VibrationExplosion] For the enemy, 1 anxiety 1 [AttackDown] There is no way [DefenseDown] In the next round of the next enemy.",
-      "summary": "Activate [VibrationExplosion]1 apply [AttackDown] There is no way [DefenseDown] Valley"
+      "summary": "Activate [VibrationExplosion] 1 apply [AttackDown] There is no way [DefenseDown] Valley"
     }, {
       "id": 2100611,
       "name": "Rent",
-      "desc": "Initial Rotation: If this device has a vital and success in the success of this device [Protection]\nIf this device has decreased [ShieldManagerCryingToad]Shock, 1 additional 1 [Protection]",
+      "desc": "Initial Rotation: If this device has a vital and success in the success of this device [Protection]\nIf this device has decreased [ShieldManagerCryingToad] Shock, 1 additional 1 [Protection]",
       "summary": "If you have a shield on this device, get 1 [Protection]\nwhen? [ShieldManagerCryingToad] Is active [Protection]"
     }, {
       "id": 2020611,
@@ -300,11 +300,11 @@
     }, {
       "id": 2070711,
       "name": "Defeat",
-      "desc": "Borba Start: U 3 + the most result. [Breath]Intersection"
+      "desc": "Borba Start: U 3 + the most result. [Breath] Intersection"
     }, {
       "id": 2110711,
       "name": "Gredent",
-      "desc": "the best [Charge] Branch +5\nCelebration [Charge] Harm + 2% of each[Charge] -1) (up to 10%)",
+      "desc": "the best [Charge] Branch +5\nCelebration [Charge] Harm + 2% of each [Charge] -1) (up to 10%)",
       "summary": "Celebration [Charge] Measure more damage"
     }, {
       "id": 2120711,
@@ -340,7 +340,7 @@
     }, {
       "id": 2050711,
       "name": "Blood Page Party",
-      "desc": "When this device is served or performed [Laceration] Damage, HPS HP same [Laceration] Disadvantages (for a maximum of 10 people)\nAs a result of the activity of technology / implementing coins [Laceration]If something is [RoseWedge]1 apply [Laceration] Instead of target."
+      "desc": "When this device is served or performed [Laceration] Damage, HPS HP same [Laceration] Disadvantages (for a maximum of 10 people)\nAs a result of the activity of technology / implementing coins [Laceration] If something is [RoseWedge] 1 apply [Laceration] Instead of target."
     }, {
       "id": 2010711,
       "name": "After this",

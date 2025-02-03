@@ -2,49 +2,49 @@
   "dataList": [
     {
       "id": "810001_skinPredector_success_1_1",
-      "content": "{0} <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+      "content": "{0} <color=#fe4b48>Epidemic {1} ticket sales</color>"
     }, {
       "id": "810001_skinPredector_success_1_2",
-      "content": "{0} ……. {2} {1} End /%."
+      "content": "{0} ……. {2} {1} end /%."
     }, {
       "id": "810001_skinPredector_success_1_3",
-      "content": "{0} ……. {2} {1}/% And% {4} {3} End /%."
+      "content": "{0} ……. {2} {1}/% And% {4} {3} end /%."
     }, {
       "id": "810001_skinPredector_success_1_4",
-      "content": "HP error {0} And and<color=#ebcaa2>Very expensive 1 ~ 1</color>"
+      "content": "HP error {0} and and<color=#ebcaa2>Very expensive 1 ~ 1</color>"
     }, {
       "id": "810001_skinPredector_failure_1_1",
-      "content": "{0} ……. {2} {1}/% And% {4} {3} End /%."
+      "content": "{0} ……. {2} {1}/% And% {4} {3} end /%."
     }, {
       "id": "810001_skinPredector_failure_1_2",
       "content": "All% definitions% {1} {0}/% And% {3} {2} ……."
     }, {
       "id": "810201_nk_success_1_1",
-      "content": "1 {0} <color=#e30000>Epidemic {1} Hard power</color>"
+      "content": "1 {0} <color=#e30000>Epidemic {1} hard power</color>"
     }, {
       "id": "810201_nk_success_1_2",
       "content": "{0} ……. {2} {1} ……."
     }, {
       "id": "810201_nk_failure_1_1",
-      "content": "1 {0} <color=#e30000>Epidemic {1} Hard power</color>"
+      "content": "1 {0} <color=#e30000>Epidemic {1} hard power</color>"
     }, {
       "id": "810201_nk_failure_1_2",
-      "content": "{0} <color=#e30000>Epidemic {1} Hard power</color>"
+      "content": "{0} <color=#e30000>Epidemic {1} hard power</color>"
     }, {
       "id": "810101_walkingPearl_success_1_1",
-      "content": "{0} <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+      "content": "{0} <color=#fe4b48>Epidemic {1} ticket sales</color>"
     }, {
       "id": "810101_walkingPearl_success_1_2",
-      "content": "{0} <color=#e30000>Epidemic {1} Hard power</color>"
+      "content": "{0} <color=#e30000>Epidemic {1} hard power</color>"
     }, {
       "id": "810101_walkingPearl_success_1_3",
-      "content": "{0} By% {2} {1} ……."
+      "content": "{0} by% {2} {1} ……."
     }, {
       "id": "810101_walkingPearl_failure_1_1",
-      "content": "{0} <color=#fe4b48>Epidemic {1} Ticket sales</color>"
+      "content": "{0} <color=#fe4b48>Epidemic {1} ticket sales</color>"
     }, {
       "id": "810101_walkingPearl_failure_1_2",
-      "content": "{0} <color=#e30000>Epidemic {1} Hard power</color>"
+      "content": "{0} <color=#e30000>Epidemic {1} hard power</color>"
     }, {
       "id": "810602_success_1_1",
       "content": "{0} ……. {2} [{1}] /% And% {4} [{3}] ……."
@@ -56,7 +56,7 @@
       "content": "All friends {1} [{0}] ……."
     }, {
       "id": "810602_success_1_4",
-      "content": "All partners<color=#80c9ff>Good {0} Ticket sales</color>"
+      "content": "All partners<color=#80c9ff>Good {0} ticket sales</color>"
     }, {
       "id": "810602_success_1_5",
       "content": "{0} ……. {2} [{1}] ……."

@@ -198,10 +198,10 @@
       "prevDesc": "",
       "behaveDesc": "Who should go?",
       "successDesc": [
-        "{0} After some steps, go to the colon.\n\nWhatever you see, the tourists will be killed asks for you.\n\nWe hear something is falling.\n\nI am lost.\n\nMaybe we didn't ask him."
+        "{0} after some steps, go to the colon.\n\nWhatever you see, the tourists will be killed asks for you.\n\nWe hear something is falling.\n\nI am lost.\n\nMaybe we didn't ask him."
       ],
       "failureDesc": [
-        "{0} After some steps, go to the colon.\n\nAfter some time {0} Sometimes we start with the water.\n\nHe was standing there and a little confusion and slightly.\n\nIt left us."
+        "{0} after some steps, go to the colon.\n\nAfter some time {0} sometimes we start with the water.\n\nHe was standing there and a little confusion and slightly.\n\nIt left us."
       ]
     }, {
       "id": 90102201,
@@ -261,7 +261,7 @@
         "Smile with a smile.\n\nTake teeth and algae hands for any reason.\n\nSuddenly I feel lightly.\n\nIf you see al -hawal, remember that everyone seems to be the same.\n\nReturning back, it disappears before feeling the skull."
       ],
       "failureDesc": [
-        "Smile with a smile.\n\nWhen suddenly a weird word is empty it is empty.\n\nIt is surprising to find a problem.\n\n…….\n\nThe skull opens a lot of beards and some things. {0} Before disappearing."
+        "Smile with a smile.\n\nWhen suddenly a weird word is empty it is empty.\n\nIt is surprising to find a problem.\n\n…….\n\nThe skull opens a lot of beards and some things. {0} before disappearing."
       ]
     }, {
       "id": 90103002,
@@ -273,7 +273,7 @@
         "The smell of anger has ended.\n\nFor whatever the causes are aware, they try to cut something in the air.\n\nSuddenly my hands look light.\n\n\"It ...\"\n\nThe scalp disappeared from sensitive air, and the bright object was in his hand."
       ],
       "failureDesc": [
-        "The smell of anger has ended.\n\nWhen suddenly a weird word is empty it is empty.\n\nIt is surprising to find a problem.\n\n…….\n\nThe skull opens a lot of beards and some things. {0} Before disappearing."
+        "The smell of anger has ended.\n\nWhen suddenly a weird word is empty it is empty.\n\nIt is surprising to find a problem.\n\n…….\n\nThe skull opens a lot of beards and some things. {0} before disappearing."
       ]
     }, {
       "id": 90103003,
@@ -285,7 +285,7 @@
         "Improvements in the manifestation of the skull.\n\nHe was crazy, so he wrapped teeth without a song.\n\nWhen you start to do what you want, your hands are easy and lower your heads ...\n\nI got a little problem."
       ],
       "failureDesc": [
-        "Improvements in the manifestation of the skull.\n\nWhen suddenly a weird word is empty it is empty.\n\nIt is surprising to find a problem.\n\n…….\n\nThe skull opens a lot of beards and some things. {0} Before disappearing."
+        "Improvements in the manifestation of the skull.\n\nWhen suddenly a weird word is empty it is empty.\n\nIt is surprising to find a problem.\n\n…….\n\nThe skull opens a lot of beards and some things. {0} before disappearing."
       ]
     }, {
       "id": 90103701,

@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10209_1", "desc": "Identity Acquisition", "dlg": "Sorry for me.\nEnjoy here."}, {"id": "lobby_morning_10209_1", "desc": "Morning Greeting", "dlg": "We easily prepare breakfast for cream and mirror."}, {"id": "lobby_noon_10209_1", "desc": "Afternoon Greeting", "dlg": "This place rarely comes sunshine."}, {"id": "lobby_night_10209_1", "desc": "Evening Greeting", "dlg": "Perhaps expectations are made by a warm and dense duck bed.\nWe need to focus on participating in the meeting by meeting."}, {"id": "smalltalk_10209_1", "desc": "Chatter #1", "dlg": "Dough ODI signed deals with our myths during the night and night."}, {"id": "smalltalk_10209_2", "desc": "Chatter #2", "dlg": "You can hear something in the basement, but he is preparing to the victim."}, {"id": "smalltalk_10209_3", "desc": "Chatter #3", "dlg": "The differences of this type is disturbed from the Faculty Association submitted by the Faculty Association, which is displayed in this place and represents the largest difference in the generation of this type."}, {"id": "smalltalk_10209_4", "desc": "Post-Uptie Chat 1", "dlg": "Hey, noise you feel uncomfortable?\nPlease understand."}, {"id": "smalltalk_10209_5", "desc": "Post-Uptie Chat 2", "dlg": "Indeed, all damage or stains allow fabulous cleaning professionals to deal with unconditional guests.\nAll should not be worried first."}, {"id": "neglect_10209_1", "desc": "Idle", "dlg": "... If my existence hurts your thoughts, you don't only leave the room for you."}, {"id": "gacksung_10209_1", "desc": "Uptying", "dlg": "Dear Guest."}, {"id": "formation_10209_1", "desc": "Deployment", "dlg": "I am ready to call at any time."}, {"id": "battleentry_10209_1", "desc": "Stage Entry", "dlg": "The poster accepts guests."}, {"id": "battle_select_10209_1", "desc": "Viewed in Battle", "dlg": "You don't like something?"}, {"id": "battle_endcommand_10209_1", "desc": "Commencing Attack", "dlg": "... Please."}, {"id": "battle_enemy_break_10209_1", "desc": "Enemy Stagger", "dlg": "Some violence."}, {"id": "battle_break_10209_1", "desc": "Staggered", "dlg": "Amber ..."}, {"id": "battle_kill_10209_1", "desc": "Enemy Killed", "dlg": "Please trust your home."}, {"id": "battle_dead_10209_1", "desc": "Death", "dlg": "I'm sorry, Mrs. Audi, I didn't try to make my duties ..."}, {"id": "choice_success_p_10209_2", "desc": "Check Passed", "dlg": "Basic."}, {"id": "choice_fail_n_10209_1", "desc": "Check Failed", "dlg": "This loss is unbelievable ..."}, {"id": "battle_clear_10209_1", "desc": "Victory Cry", "dlg": "New guests must be careful."}, {"id": "battle_clear_ex_10209_1", "desc": "Extra Conditions Fulfilled", "dlg": "The correct answer."}, {"id": "battle_defeat_10209_1", "desc": "Defeat Wail", "dlg": "I am very realistic apology."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10209_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Sorry for me.\nEnjoy here."
+    }, {
+      "id": "lobby_morning_10209_1",
+      "desc": "Morning Greeting",
+      "dlg": "We easily prepare breakfast for cream and mirror."
+    }, {
+      "id": "lobby_noon_10209_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "This place rarely comes sunshine."
+    }, {
+      "id": "lobby_night_10209_1",
+      "desc": "Evening Greeting",
+      "dlg": "Perhaps expectations are made by a warm and dense duck bed.\nWe need to focus on participating in the meeting by meeting."
+    }, {
+      "id": "smalltalk_10209_1",
+      "desc": "Chatter #1",
+      "dlg": "Dough ODI signed deals with our myths during the night and night."
+    }, {
+      "id": "smalltalk_10209_2",
+      "desc": "Chatter #2",
+      "dlg": "You can hear something in the basement, but he is preparing to the victim."
+    }, {
+      "id": "smalltalk_10209_3",
+      "desc": "Chatter #3",
+      "dlg": "The differences of this type is disturbed from the Faculty Association submitted by the Faculty Association, which is displayed in this place and represents the largest difference in the generation of this type."
+    }, {
+      "id": "smalltalk_10209_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Hey, noise you feel uncomfortable?\nPlease understand."
+    }, {
+      "id": "smalltalk_10209_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Indeed, all damage or stains allow fabulous cleaning professionals to deal with unconditional guests.\nAll should not be worried first."
+    }, {
+      "id": "neglect_10209_1",
+      "desc": "Idle",
+      "dlg": "... If my existence hurts your thoughts, you don't only leave the room for you."
+    }, {
+      "id": "gacksung_10209_1",
+      "desc": "Uptying",
+      "dlg": "Dear Guest."
+    }, {
+      "id": "formation_10209_1",
+      "desc": "Deployment",
+      "dlg": "I am ready to call at any time."
+    }, {
+      "id": "battleentry_10209_1",
+      "desc": "Stage Entry",
+      "dlg": "The poster accepts guests."
+    }, {
+      "id": "battle_select_10209_1",
+      "desc": "Viewed in Battle",
+      "dlg": "You don't like something?"
+    }, {
+      "id": "battle_endcommand_10209_1",
+      "desc": "Commencing Attack",
+      "dlg": "... Please."
+    }, {
+      "id": "battle_enemy_break_10209_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Some violence."
+    }, {
+      "id": "battle_break_10209_1",
+      "desc": "Staggered",
+      "dlg": "Amber ..."
+    }, {
+      "id": "battle_kill_10209_1",
+      "desc": "Enemy Killed",
+      "dlg": "Please trust your home."
+    }, {
+      "id": "battle_dead_10209_1",
+      "desc": "Death",
+      "dlg": "I'm sorry, Mrs. Audi, I didn't try to make my duties ..."
+    }, {
+      "id": "choice_success_p_10209_2",
+      "desc": "Check Passed",
+      "dlg": "Basic."
+    }, {
+      "id": "choice_fail_n_10209_1",
+      "desc": "Check Failed",
+      "dlg": "This loss is unbelievable ..."
+    }, {
+      "id": "battle_clear_10209_1",
+      "desc": "Victory Cry",
+      "dlg": "New guests must be careful."
+    }, {
+      "id": "battle_clear_ex_10209_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "The correct answer."
+    }, {
+      "id": "battle_defeat_10209_1",
+      "desc": "Defeat Wail",
+      "dlg": "I am very realistic apology."
+    }
+  ]
+}

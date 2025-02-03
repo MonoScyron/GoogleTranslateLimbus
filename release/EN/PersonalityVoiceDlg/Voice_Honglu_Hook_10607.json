@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10607_1", "desc": "Identity Acquisition", "dlg": "Wow, when you live in this office, we can praise him?"}, {"id": "lobby_morning_10607_1", "desc": "Morning Greeting", "dlg": "The fridge broke because the fridge is broken."}, {"id": "lobby_noon_10607_1", "desc": "Afternoon Greeting", "dlg": "I think my muscle is a muscle yesterday."}, {"id": "lobby_night_10607_1", "desc": "Evening Greeting", "dlg": "I like this dark time."}, {"id": "smalltalk_10607_1", "desc": "Chatter #1", "dlg": "Who is the man who are men and people like us."}, {"id": "smalltalk_10607_2", "desc": "Chatter #2", "dlg": "Brider Office ... I don't know how long I do."}, {"id": "smalltalk_10607_3", "desc": "Chatter #3", "dlg": "I don't think our name is a mistake."}, {"id": "smalltalk_10607_4", "desc": "Post-Uptie Chat 1", "dlg": "Oh Ha"}, {"id": "smalltalk_10607_5", "desc": "Post-Uptie Chat 2", "dlg": "This boneine device from the seminar is really beautiful."}, {"id": "neglect_10607_1", "desc": "Idle", "dlg": "The time can't be destroyed."}, {"id": "gacksung_10607_1", "desc": "Uptying", "dlg": "I agree, I will give me more - I'll show you what I really do."}, {"id": "formation_10607_1", "desc": "Deployment", "dlg": "Is there a deal?"}, {"id": "battleentry_10607_1", "desc": "Stage Entry", "dlg": "How old are you today?"}, {"id": "battle_select_10607_1", "desc": "Viewed in Battle", "dlg": "Hey, can't I say that?"}, {"id": "battle_endcommand_10607_1", "desc": "Commencing Attack", "dlg": "Go here!"}, {"id": "battle_enemy_break_10607_1", "desc": "Enemy Stagger", "dlg": "Mother ~ useful cloud."}, {"id": "battle_break_10607_1", "desc": "Staggered", "dlg": "Damn ..."}, {"id": "battle_kill_10607_1", "desc": "Enemy Killed", "dlg": "Let's do well?"}, {"id": "battle_dead_10607_1", "desc": "Death", "dlg": "Oh ... it ... gus ... Gus ..."}, {"id": "choice_success_p_10607_2", "desc": "Check Passed", "dlg": "It's easy."}, {"id": "choice_fail_n_10607_1", "desc": "Check Failed", "dlg": "Give me something that you can enjoy."}, {"id": "battle_clear_10607_1", "desc": "Victory Cry", "dlg": "I do not like it."}, {"id": "battle_clear_ex_10607_1", "desc": "Extra Conditions Fulfilled", "dlg": "Mother eventually I think I mention my life!"}, {"id": "battle_defeat_10607_1", "desc": "Defeat Wail", "dlg": "Best ... not to kill ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10607_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Wow, when you live in this office, we can praise him?"
+    }, {
+      "id": "lobby_morning_10607_1",
+      "desc": "Morning Greeting",
+      "dlg": "The fridge broke because the fridge is broken."
+    }, {
+      "id": "lobby_noon_10607_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I think my muscle is a muscle yesterday."
+    }, {
+      "id": "lobby_night_10607_1",
+      "desc": "Evening Greeting",
+      "dlg": "I like this dark time."
+    }, {
+      "id": "smalltalk_10607_1",
+      "desc": "Chatter #1",
+      "dlg": "Who is the man who are men and people like us."
+    }, {
+      "id": "smalltalk_10607_2",
+      "desc": "Chatter #2",
+      "dlg": "Brider Office ... I don't know how long I do."
+    }, {
+      "id": "smalltalk_10607_3",
+      "desc": "Chatter #3",
+      "dlg": "I don't think our name is a mistake."
+    }, {
+      "id": "smalltalk_10607_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Oh Ha"
+    }, {
+      "id": "smalltalk_10607_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "This boneine device from the seminar is really beautiful."
+    }, {
+      "id": "neglect_10607_1",
+      "desc": "Idle",
+      "dlg": "The time can't be destroyed."
+    }, {
+      "id": "gacksung_10607_1",
+      "desc": "Uptying",
+      "dlg": "I agree, I will give me more - I'll show you what I really do."
+    }, {
+      "id": "formation_10607_1",
+      "desc": "Deployment",
+      "dlg": "Is there a deal?"
+    }, {
+      "id": "battleentry_10607_1",
+      "desc": "Stage Entry",
+      "dlg": "How old are you today?"
+    }, {
+      "id": "battle_select_10607_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Hey, can't I say that?"
+    }, {
+      "id": "battle_endcommand_10607_1",
+      "desc": "Commencing Attack",
+      "dlg": "Go here!"
+    }, {
+      "id": "battle_enemy_break_10607_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Mother ~ useful cloud."
+    }, {
+      "id": "battle_break_10607_1",
+      "desc": "Staggered",
+      "dlg": "Damn ..."
+    }, {
+      "id": "battle_kill_10607_1",
+      "desc": "Enemy Killed",
+      "dlg": "Let's do well?"
+    }, {
+      "id": "battle_dead_10607_1",
+      "desc": "Death",
+      "dlg": "Oh ... it ... gus ... Gus ..."
+    }, {
+      "id": "choice_success_p_10607_2",
+      "desc": "Check Passed",
+      "dlg": "It's easy."
+    }, {
+      "id": "choice_fail_n_10607_1",
+      "desc": "Check Failed",
+      "dlg": "Give me something that you can enjoy."
+    }, {
+      "id": "battle_clear_10607_1",
+      "desc": "Victory Cry",
+      "dlg": "I do not like it."
+    }, {
+      "id": "battle_clear_ex_10607_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Mother eventually I think I mention my life!"
+    }, {
+      "id": "battle_defeat_10607_1",
+      "desc": "Defeat Wail",
+      "dlg": "Best ... not to kill ..."
+    }
+  ]
+}

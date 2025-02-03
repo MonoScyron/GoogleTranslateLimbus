@@ -1,1 +1,73 @@
-{"dataList": [{"id": "battle_awaken_20801_1", "desc": "E.G.O Activation", "dlg": "At least ... he is still alive."}, {"id": "battle_awaken_20801_2", "desc": "E.G.O Activation", "dlg": "So I'm a branch ..."}, {"id": "battle_special_1", "desc": "E.G.O Activation", "dlg": "This will be a good trip."}, {"id": "battle_special_2", "desc": "E.G.O Activation", "dlg": "Graphics."}, {"id": "battle_awaken_20802_1", "desc": "E.G.O Activation", "dlg": "In front of you ..."}, {"id": "battle_erosion_20802_1", "desc": "E.G.O Corrosion", "dlg": "Almost ... install."}, {"id": "battle_awaken_20803_1", "desc": "E.G.O Activation", "dlg": "Even if I can't lead you ... I can accept a warm throat."}, {"id": "battle_erosion_20803_1", "desc": "E.G.O Corrosion", "dlg": "Hope to remove the world ..."}, {"id": "battle_awaken_20804_1", "desc": "E.G.O Activation", "dlg": "Wow ... it is!"}, {"id": "battle_erosion_20804_1", "desc": "E.G.O Corrosion", "dlg": "You should be here ... oh here?"}, {"id": "battle_awaken_20805_1", "desc": "E.G.O Activation", "dlg": "When the light is bright, all hands are maximum speed.\nWaves ... all your ways disappear."}, {"id": "battle_erosion_20805_1", "desc": "E.G.O Corrosion", "dlg": "Go to the sea and leave the boat with your hands."}, {"id": "battle_erosion_20805_3", "desc": "E.G.O Corrosion", "dlg": "Go to the sea and leave the boat with your hands."}, {"id": "battle_awaken_20806_1", "desc": "E.G.O Activation", "dlg": "Darling."}, {"id": "battle_erosion_20806_1", "desc": "E.G.O Corrosion", "dlg": "I suspect\nThe ass is one of a bad thoughts."}, {"id": "battle_awaken_20807_1", "desc": "E.G.O Activation", "dlg": "According to my request, you can clean it here."}, {"id": "battle_erosion_20807_1", "desc": "E.G.O Corrosion", "dlg": "It's not the end of this cleanliness ... you are in a country country!"}]}
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20801_1",
+      "desc": "E.G.O Activation",
+      "dlg": "At least ... he is still alive."
+    }, {
+      "id": "battle_awaken_20801_2",
+      "desc": "E.G.O Activation",
+      "dlg": "So I'm a branch ..."
+    }, {
+      "id": "battle_special_1",
+      "desc": "E.G.O Activation",
+      "dlg": "This will be a good trip."
+    }, {
+      "id": "battle_special_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Graphics."
+    }, {
+      "id": "battle_awaken_20802_1",
+      "desc": "E.G.O Activation",
+      "dlg": "In front of you ..."
+    }, {
+      "id": "battle_erosion_20802_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Almost ... install."
+    }, {
+      "id": "battle_awaken_20803_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Even if I can't lead you ... I can accept a warm throat."
+    }, {
+      "id": "battle_erosion_20803_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Hope to remove the world ..."
+    }, {
+      "id": "battle_awaken_20804_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wow ... it is!"
+    }, {
+      "id": "battle_erosion_20804_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "You should be here ... oh here?"
+    }, {
+      "id": "battle_awaken_20805_1",
+      "desc": "E.G.O Activation",
+      "dlg": "When the light is bright, all hands are maximum speed.\nWaves ... all your ways disappear."
+    }, {
+      "id": "battle_erosion_20805_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Go to the sea and leave the boat with your hands."
+    }, {
+      "id": "battle_erosion_20805_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Go to the sea and leave the boat with your hands."
+    }, {
+      "id": "battle_awaken_20806_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Darling."
+    }, {
+      "id": "battle_erosion_20806_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "I suspect\nThe ass is one of a bad thoughts."
+    }, {
+      "id": "battle_awaken_20807_1",
+      "desc": "E.G.O Activation",
+      "dlg": "According to my request, you can clean it here."
+    }, {
+      "id": "battle_erosion_20807_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "It's not the end of this cleanliness ... you are in a country country!"
+    }
+  ]
+}

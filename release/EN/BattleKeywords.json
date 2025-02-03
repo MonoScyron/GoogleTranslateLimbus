@@ -52,7 +52,7 @@
     }, {
       "id": "Target",
       "name": "Symptoms",
-      "desc": "Save responsibility [Sharp Edge]Intersection"
+      "desc": "Save responsibility [Sharp Edge] Intersection"
     }, {
       "id": "SelfHarm_LowMorale",
       "name": "Flexible",
@@ -310,7 +310,7 @@
       "desc": "Grow serious opposition based on the beam.\n(Each file of each file is 0.1)"
     }, {
       "id": "VioletResistDown",
-      "name": "Jealousy",
+      "name": "Invitation",
       "desc": "Depending on the frightening, protest against jealousy.\n(Each file of each file is 0.1)"
     }, {
       "id": "CrimsonResistUp",
@@ -414,7 +414,7 @@
       "desc": "When the refund begins, the power supply died three times from the power supply and security cycle."
     }, {
       "id": "Choice_90103301",
-      "name": "Clash",
+      "name": "Conversation",
       "desc": "This combat speed is +1.",
       "summary": "Fetus"
     }, {
@@ -613,7 +613,7 @@
     }, {
       "id": "Thirst",
       "name": "Migration",
-      "desc": "Increases negative treatment [Rustle Up]Intersection\nThe cost of negative active."
+      "desc": "Increases negative treatment [Rustle Up] Intersection\nThe cost of negative active."
     }, {
       "id": "GainSinStockAdder",
       "name": "For example, resources",
@@ -1200,7 +1200,7 @@
     }, {
       "id": "KnowledgeTraining",
       "name": "Known",
-      "desc": "Popular price: 6\n-I will throw the technology, it is used as Shield (ion X 1.5)% (after each round).\nIf the device cancelerate two or more, you will get the opposite force (at the same time a trip).\n-SP has been reduced to HP to 1 damage.\nBuddy",
+      "desc": "Popular price: 6\n-I will throw the technology, it is used as Shield (ion x 1.5)% (after each round).\nIf the device cancelerate two or more, you will get the opposite force (at the same time a trip).\n-SP has been reduced to HP to 1 damage.\nBuddy",
       "summary": ""
     }, {
       "id": "BoseProjektil",

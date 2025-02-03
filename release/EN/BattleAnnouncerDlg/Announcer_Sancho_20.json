@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_20_1", "dlg": "I think it's not your guts."}, {"id": "announcer_cheer_20_2", "dlg": "Nothing ... maybe we ever beat each other ... no, I want to leave, this line is interesting."}, {"id": "announcer_specialcheer_20_1", "dlg": "Ok, you want to be something?"}, {"id": "announcer_specialcheer_20_2", "dlg": "If we look at the family, everyone is very worried."}, {"id": "announcer_enemy_break_20_1", "dlg": "You don't try to leave them and don't do good things."}, {"id": "announcer_ally_break_20_1", "dlg": "You have to stop the game ... but I know we should try something else."}, {"id": "announcer_killenemy_20_1", "dlg": "The end of the struggle."}, {"id": "announcer_ally_dead_20_1", "dlg": "... I'll leave you in the eyes of the people, so I'll reset it soon and return to the battlefield."}, {"id": "announcer_enemy_adv_20_1", "dlg": "What is this unbelieving strategy?"}, {"id": "announcer_ally_adv_20_1", "dlg": "Don't worry because you need to win your success."}, {"id": "announcer_danger_20_1", "dlg": "We don't have too much time to complete the deal.\n... We're warning to sign another agreement."}, {"id": "announcer_enemy_specialskill_20_1", "dlg": "It is not common ... you don't give the odd time."}, {"id": "announcer_enemy_specialgimmick_20_1", "dlg": "Like a big battle."}, {"id": "announcer_advatk_physical_20_1", "dlg": "The effective end."}, {"id": "announcer_disadvatk_physical_20_1", "dlg": "Dad, this kind of weapon is not effective for this enemy ... Yes ..."}, {"id": "announcer_advatk_attr_20_1", "dlg": "Directions for their attack."}, {"id": "announcer_disadvatk_attr_20_1", "dlg": "... Don't try your reputation to keep your reputation ... at least I will see."}, {"id": "announcer_enemy_specialbuff_20_1", "dlg": "Maybe you tried hard ... it's serious."}, {"id": "announcer_enemy_specialdebuff_20_1", "dlg": "... your bid feels a daddy, in your interesting manner.\nThis means that the enemy heeded the loss of the senses."}, {"id": "announcer_ally_specialbuff_20_1", "dlg": "... I don't think you're using something now."}, {"id": "announcer_ally_specialdebuff_20_1", "dlg": "What is now?"}, {"id": "announcer_enemy_destroy_20_1", "dlg": "He is still cut."}, {"id": "announcer_enemy_destroy_20_2", "dlg": "You must be able to remove it in 3 seconds."}, {"id": "announcer_round_takebigdmg_20_1", "dlg": "I didn't warn you, are you going to leave the guard ...?"}, {"id": "announcer_round_takebigdmg_20_2", "dlg": "I can be a simple device that accepts your thoughts and removes these tests and problems."}, {"id": "announcer_round_givebigdmg_20_1", "dlg": "This is near our true power."}, {"id": "announcer_round_givebigdmg_20_2", "dlg": "He listens to his history and coffee master history.\nSharing with MMO barrell is a precious story."}, {"id": "announcer_multikillenemy_20_1", "dlg": "... This adventure is a good end."}, {"id": "announcer_equip_20_1", "dlg": "I asked more to convince the mother."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_20_1",
+      "dlg": "I think it's not your guts."
+    }, {
+      "id": "announcer_cheer_20_2",
+      "dlg": "Nothing ... maybe we ever beat each other ... no, I want to leave, this line is interesting."
+    }, {
+      "id": "announcer_specialcheer_20_1",
+      "dlg": "Ok, you want to be something?"
+    }, {
+      "id": "announcer_specialcheer_20_2",
+      "dlg": "If we look at the family, everyone is very worried."
+    }, {
+      "id": "announcer_enemy_break_20_1",
+      "dlg": "You don't try to leave them and don't do good things."
+    }, {
+      "id": "announcer_ally_break_20_1",
+      "dlg": "You have to stop the game ... but I know we should try something else."
+    }, {
+      "id": "announcer_killenemy_20_1",
+      "dlg": "The end of the struggle."
+    }, {
+      "id": "announcer_ally_dead_20_1",
+      "dlg": "... I'll leave you in the eyes of the people, so I'll reset it soon and return to the battlefield."
+    }, {
+      "id": "announcer_enemy_adv_20_1",
+      "dlg": "What is this unbelieving strategy?"
+    }, {
+      "id": "announcer_ally_adv_20_1",
+      "dlg": "Don't worry because you need to win your success."
+    }, {
+      "id": "announcer_danger_20_1",
+      "dlg": "We don't have too much time to complete the deal.\n... We're warning to sign another agreement."
+    }, {
+      "id": "announcer_enemy_specialskill_20_1",
+      "dlg": "It is not common ... you don't give the odd time."
+    }, {
+      "id": "announcer_enemy_specialgimmick_20_1",
+      "dlg": "Like a big battle."
+    }, {
+      "id": "announcer_advatk_physical_20_1",
+      "dlg": "The effective end."
+    }, {
+      "id": "announcer_disadvatk_physical_20_1",
+      "dlg": "Dad, this kind of weapon is not effective for this enemy ... Yes ..."
+    }, {
+      "id": "announcer_advatk_attr_20_1",
+      "dlg": "Directions for their attack."
+    }, {
+      "id": "announcer_disadvatk_attr_20_1",
+      "dlg": "... Don't try your reputation to keep your reputation ... at least I will see."
+    }, {
+      "id": "announcer_enemy_specialbuff_20_1",
+      "dlg": "Maybe you tried hard ... it's serious."
+    }, {
+      "id": "announcer_enemy_specialdebuff_20_1",
+      "dlg": "... your bid feels a daddy, in your interesting manner.\nThis means that the enemy heeded the loss of the senses."
+    }, {
+      "id": "announcer_ally_specialbuff_20_1",
+      "dlg": "... I don't think you're using something now."
+    }, {
+      "id": "announcer_ally_specialdebuff_20_1",
+      "dlg": "What is now?"
+    }, {
+      "id": "announcer_enemy_destroy_20_1",
+      "dlg": "He is still cut."
+    }, {
+      "id": "announcer_enemy_destroy_20_2",
+      "dlg": "You must be able to remove it in 3 seconds."
+    }, {
+      "id": "announcer_round_takebigdmg_20_1",
+      "dlg": "I didn't warn you, are you going to leave the guard ...?"
+    }, {
+      "id": "announcer_round_takebigdmg_20_2",
+      "dlg": "I can be a simple device that accepts your thoughts and removes these tests and problems."
+    }, {
+      "id": "announcer_round_givebigdmg_20_1",
+      "dlg": "This is near our true power."
+    }, {
+      "id": "announcer_round_givebigdmg_20_2",
+      "dlg": "He listens to his history and coffee master history.\nSharing with MMO barrell is a precious story."
+    }, {
+      "id": "announcer_multikillenemy_20_1",
+      "dlg": "... This adventure is a good end."
+    }, {
+      "id": "announcer_equip_20_1",
+      "dlg": "I asked more to convince the mother."
+    }
+  ]
+}

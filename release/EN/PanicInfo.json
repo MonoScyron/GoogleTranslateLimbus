@@ -78,18 +78,18 @@
     }, {
       "id": 1015,
       "panicName": "Holy",
-      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] mentally",
+      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] Mentally",
       "panicDescription": "Each end of the bar: Benefits <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Tahki</color></link></u>Intersection\nEach connection is the tail of the device."
     }, {
       "id": 1016,
       "panicName": "The fury",
-      "lowMoraleDescription": "Start: 2 [AttackDmgUp] Blood [DefenseDown]",
-      "panicDescription": "Start: 1 1 comes in [Enhancement] And 5 [DefenseDown]"
+      "lowMoraleDescription": "Start: 2 [AttackDmgUp] blood [DefenseDown]",
+      "panicDescription": "Start: 1 1 comes in [Enhancement] and 5 [DefenseDown]"
     }, {
       "id": 1026,
       "panicName": "Partition",
-      "lowMoraleDescription": "Benefits 3 [Sinking] The strength of layers of each round 1",
-      "panicDescription": "Benefits 5 [Sinking] And +3 [Sinking] Add both ends of the curve."
+      "lowMoraleDescription": "Benefits 3 [Sinking] the strength of layers of each round 1",
+      "panicDescription": "Benefits 5 [Sinking] and +3 [Sinking] add both ends of the curve."
     }
   ]
 }

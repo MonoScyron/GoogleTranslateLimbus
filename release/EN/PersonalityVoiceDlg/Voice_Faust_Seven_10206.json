@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10206_1", "desc": "Identity Acquisition", "dlg": "Maya Maya."}, {"id": "lobby_morning_10206_1", "desc": "Morning Greeting", "dlg": "Bafi Restaurant is always a crowded surname."}, {"id": "lobby_noon_10206_1", "desc": "Afternoon Greeting", "dlg": "Suitable for immediate height or time management to determine food."}, {"id": "lobby_night_10206_1", "desc": "Evening Greeting", "dlg": "We accept this request very late, so that bad dreams and extra work changes."}, {"id": "smalltalk_10206_1", "desc": "Chatter #1", "dlg": "Cafe was established by seven car partners instead of the world."}, {"id": "smalltalk_10206_2", "desc": "Chatter #2", "dlg": "Milk!"}, {"id": "smalltalk_10206_3", "desc": "Chatter #3", "dlg": "What do you want ... I'm sorry?\nCan I spend the highest black temperature if it doesn't matter?"}, {"id": "smalltalk_10206_4", "desc": "Post-Uptie Chat 1", "dlg": "Hey, I'm busy.\nI always want to talk about the car, but now I have to wait."}, {"id": "smalltalk_10206_5", "desc": "Post-Uptie Chat 2", "dlg": "Welding tea is clean and correct."}, {"id": "neglect_10206_1", "desc": "Idle", "dlg": "The car you have not clear the surface of the car left."}, {"id": "gacksung_10206_1", "desc": "Uptying", "dlg": "Yes, you can contact me if need."}, {"id": "formation_10206_1", "desc": "Deployment", "dlg": "Emergency command, is that true?"}, {"id": "battleentry_10206_1", "desc": "Stage Entry", "dlg": "I will see you in the field."}, {"id": "battle_select_10206_1", "desc": "Viewed in Battle", "dlg": "Before cooling the car."}, {"id": "battle_endcommand_10206_1", "desc": "Commencing Attack", "dlg": "Clean"}, {"id": "battle_enemy_break_10206_1", "desc": "Enemy Stagger", "dlg": "It's like a car break."}, {"id": "battle_break_10206_1", "desc": "Staggered", "dlg": "Sat Sri Akal ..."}, {"id": "battle_kill_10206_1", "desc": "Enemy Killed", "dlg": "I did not receive information."}, {"id": "battle_dead_10206_1", "desc": "Death", "dlg": "Hack ... but ... no ... cover the next service ..."}, {"id": "choice_success_p_10206_2", "desc": "Check Passed", "dlg": "Look at the results."}, {"id": "choice_fail_n_10206_1", "desc": "Check Failed", "dlg": "... carefully."}, {"id": "battle_clear_10206_1", "desc": "Victory Cry", "dlg": "This goal is to succeed and change the trend."}, {"id": "battle_clear_ex_10206_1", "desc": "Extra Conditions Fulfilled", "dlg": "Good for cooking after tea food and dinner after dinner."}, {"id": "battle_defeat_10206_1", "desc": "Defeat Wail", "dlg": "This is a risk."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10206_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Maya Maya."
+    }, {
+      "id": "lobby_morning_10206_1",
+      "desc": "Morning Greeting",
+      "dlg": "Bafi Restaurant is always a crowded surname."
+    }, {
+      "id": "lobby_noon_10206_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Suitable for immediate height or time management to determine food."
+    }, {
+      "id": "lobby_night_10206_1",
+      "desc": "Evening Greeting",
+      "dlg": "We accept this request very late, so that bad dreams and extra work changes."
+    }, {
+      "id": "smalltalk_10206_1",
+      "desc": "Chatter #1",
+      "dlg": "Cafe was established by seven car partners instead of the world."
+    }, {
+      "id": "smalltalk_10206_2",
+      "desc": "Chatter #2",
+      "dlg": "Milk!"
+    }, {
+      "id": "smalltalk_10206_3",
+      "desc": "Chatter #3",
+      "dlg": "What do you want ... I'm sorry?\nCan I spend the highest black temperature if it doesn't matter?"
+    }, {
+      "id": "smalltalk_10206_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Hey, I'm busy.\nI always want to talk about the car, but now I have to wait."
+    }, {
+      "id": "smalltalk_10206_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Welding tea is clean and correct."
+    }, {
+      "id": "neglect_10206_1",
+      "desc": "Idle",
+      "dlg": "The car you have not clear the surface of the car left."
+    }, {
+      "id": "gacksung_10206_1",
+      "desc": "Uptying",
+      "dlg": "Yes, you can contact me if need."
+    }, {
+      "id": "formation_10206_1",
+      "desc": "Deployment",
+      "dlg": "Emergency command, is that true?"
+    }, {
+      "id": "battleentry_10206_1",
+      "desc": "Stage Entry",
+      "dlg": "I will see you in the field."
+    }, {
+      "id": "battle_select_10206_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Before cooling the car."
+    }, {
+      "id": "battle_endcommand_10206_1",
+      "desc": "Commencing Attack",
+      "dlg": "Clean"
+    }, {
+      "id": "battle_enemy_break_10206_1",
+      "desc": "Enemy Stagger",
+      "dlg": "It's like a car break."
+    }, {
+      "id": "battle_break_10206_1",
+      "desc": "Staggered",
+      "dlg": "Sat Sri Akal ..."
+    }, {
+      "id": "battle_kill_10206_1",
+      "desc": "Enemy Killed",
+      "dlg": "I did not receive information."
+    }, {
+      "id": "battle_dead_10206_1",
+      "desc": "Death",
+      "dlg": "Hack ... but ... no ... cover the next service ..."
+    }, {
+      "id": "choice_success_p_10206_2",
+      "desc": "Check Passed",
+      "dlg": "Look at the results."
+    }, {
+      "id": "choice_fail_n_10206_1",
+      "desc": "Check Failed",
+      "dlg": "... carefully."
+    }, {
+      "id": "battle_clear_10206_1",
+      "desc": "Victory Cry",
+      "dlg": "This goal is to succeed and change the trend."
+    }, {
+      "id": "battle_clear_ex_10206_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Good for cooking after tea food and dinner after dinner."
+    }, {
+      "id": "battle_defeat_10206_1",
+      "desc": "Defeat Wail",
+      "dlg": "This is a risk."
+    }
+  ]
+}

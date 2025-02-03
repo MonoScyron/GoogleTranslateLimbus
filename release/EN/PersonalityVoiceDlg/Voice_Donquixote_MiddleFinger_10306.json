@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10306_1", "desc": "Identity Acquisition", "dlg": "Call me without early!"}, {"id": "lobby_morning_10306_1", "desc": "Morning Greeting", "dlg": "This is a beautiful morning!"}, {"id": "lobby_noon_10306_1", "desc": "Afternoon Greeting", "dlg": "My brother called me to lunch!"}, {"id": "lobby_night_10306_1", "desc": "Evening Greeting", "dlg": "\"It is important to eat at a party! Our night will always be involved as a sock-freeid party."}, {"id": "smalltalk_10306_1", "desc": "Chatter #1", "dlg": "The real negative thing is that keep the members between!"}, {"id": "smalltalk_10306_2", "desc": "Chatter #2", "dlg": "Our brothers accept car care."}, {"id": "smalltalk_10306_3", "desc": "Chatter #3", "dlg": "Although my brother is incomplete ... do you want it to be 10 times strong?"}, {"id": "smalltalk_10306_4", "desc": "Post-Uptie Chat 1", "dlg": "Yes!"}, {"id": "smalltalk_10306_5", "desc": "Post-Uptie Chat 2", "dlg": "Happens!\nThis is your name"}, {"id": "neglect_10306_1", "desc": "Idle", "dlg": "\"One day I became a sister and woke up to arrange a book."}, {"id": "gacksung_10306_1", "desc": "Uptying", "dlg": "He took the revenge of his brother and his book!"}, {"id": "formation_10306_1", "desc": "Deployment", "dlg": "Do you get revenge?"}, {"id": "battleentry_10306_1", "desc": "Stage Entry", "dlg": "give me!"}, {"id": "battle_select_10306_1", "desc": "Viewed in Battle", "dlg": "Yes!"}, {"id": "battle_endcommand_10306_1", "desc": "Commencing Attack", "dlg": "Haha!"}, {"id": "battle_enemy_break_10306_1", "desc": "Enemy Stagger", "dlg": "Solid curve should explain your death."}, {"id": "battle_break_10306_1", "desc": "Staggered", "dlg": "No ...!"}, {"id": "battle_kill_10306_1", "desc": "Enemy Killed", "dlg": "Revenge has been taken."}, {"id": "battle_dead_10306_1", "desc": "Death", "dlg": "Here ... no ... no."}, {"id": "choice_success_p_10306_2", "desc": "Check Passed", "dlg": "Yes!"}, {"id": "choice_fail_n_10306_1", "desc": "Check Failed", "dlg": "I should fail to fail ..."}, {"id": "battle_clear_10306_1", "desc": "Victory Cry", "dlg": "For this reason, it has changed tonight!"}, {"id": "battle_clear_ex_10306_1", "desc": "Extra Conditions Fulfilled", "dlg": "Let's see ... because it has played an important role in this study, you can really go to the full line!"}, {"id": "battle_defeat_10306_1", "desc": "Defeat Wail", "dlg": "You haven't forgotten ... the middle blood ... update the middle records and rain 10 times."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10306_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Call me without early!"
+    }, {
+      "id": "lobby_morning_10306_1",
+      "desc": "Morning Greeting",
+      "dlg": "This is a beautiful morning!"
+    }, {
+      "id": "lobby_noon_10306_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "My brother called me to lunch!"
+    }, {
+      "id": "lobby_night_10306_1",
+      "desc": "Evening Greeting",
+      "dlg": "\"It is important to eat at a party! Our night will always be involved as a sock-freeid party."
+    }, {
+      "id": "smalltalk_10306_1",
+      "desc": "Chatter #1",
+      "dlg": "The real negative thing is that keep the members between!"
+    }, {
+      "id": "smalltalk_10306_2",
+      "desc": "Chatter #2",
+      "dlg": "Our brothers accept car care."
+    }, {
+      "id": "smalltalk_10306_3",
+      "desc": "Chatter #3",
+      "dlg": "Although my brother is incomplete ... do you want it to be 10 times strong?"
+    }, {
+      "id": "smalltalk_10306_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Yes!"
+    }, {
+      "id": "smalltalk_10306_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Happens!\nThis is your name"
+    }, {
+      "id": "neglect_10306_1",
+      "desc": "Idle",
+      "dlg": "\"One day I became a sister and woke up to arrange a book."
+    }, {
+      "id": "gacksung_10306_1",
+      "desc": "Uptying",
+      "dlg": "He took the revenge of his brother and his book!"
+    }, {
+      "id": "formation_10306_1",
+      "desc": "Deployment",
+      "dlg": "Do you get revenge?"
+    }, {
+      "id": "battleentry_10306_1",
+      "desc": "Stage Entry",
+      "dlg": "give me!"
+    }, {
+      "id": "battle_select_10306_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Yes!"
+    }, {
+      "id": "battle_endcommand_10306_1",
+      "desc": "Commencing Attack",
+      "dlg": "Haha!"
+    }, {
+      "id": "battle_enemy_break_10306_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Solid curve should explain your death."
+    }, {
+      "id": "battle_break_10306_1",
+      "desc": "Staggered",
+      "dlg": "No ...!"
+    }, {
+      "id": "battle_kill_10306_1",
+      "desc": "Enemy Killed",
+      "dlg": "Revenge has been taken."
+    }, {
+      "id": "battle_dead_10306_1",
+      "desc": "Death",
+      "dlg": "Here ... no ... no."
+    }, {
+      "id": "choice_success_p_10306_2",
+      "desc": "Check Passed",
+      "dlg": "Yes!"
+    }, {
+      "id": "choice_fail_n_10306_1",
+      "desc": "Check Failed",
+      "dlg": "I should fail to fail ..."
+    }, {
+      "id": "battle_clear_10306_1",
+      "desc": "Victory Cry",
+      "dlg": "For this reason, it has changed tonight!"
+    }, {
+      "id": "battle_clear_ex_10306_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Let's see ... because it has played an important role in this study, you can really go to the full line!"
+    }, {
+      "id": "battle_defeat_10306_1",
+      "desc": "Defeat Wail",
+      "dlg": "You haven't forgotten ... the middle blood ... update the middle records and rain 10 times."
+    }
+  ]
+}

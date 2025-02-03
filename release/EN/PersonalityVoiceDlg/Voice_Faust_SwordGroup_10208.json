@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10208_1", "desc": "Identity Acquisition", "dlg": "There was always peace on the evening before battle."}, {"id": "lobby_morning_10208_1", "desc": "Morning Greeting", "dlg": "good Morning."}, {"id": "lobby_noon_10208_1", "desc": "Afternoon Greeting", "dlg": "I am planning to deal with the next afternoon training.\nI think there is nothing to evaluate my book method."}, {"id": "lobby_night_10208_1", "desc": "Evening Greeting", "dlg": "The bright pink moon is white."}, {"id": "smalltalk_10208_1", "desc": "Chatter #1", "dlg": "Red plum leaves trained in the air in the air.\nI will prove to be beauty and will continue many times."}, {"id": "smalltalk_10208_2", "desc": "Chatter #2", "dlg": "Blood flow practices are divided into this limit.\nBut I came to learn the memory of the muscle."}, {"id": "smalltalk_10208_3", "desc": "Chatter #3", "dlg": "A sword testified to the port.\nAlthough the skin was gathered, but was not upset, I lost it for a moment."}, {"id": "smalltalk_10208_4", "desc": "Post-Uptie Chat 1", "dlg": "After following the cap, Corromo kabene can accumulate anything."}, {"id": "smalltalk_10208_5", "desc": "Post-Uptie Chat 2", "dlg": "As they turned on, they do not understand the perception of the past, but the Red Gulkits fly in the air."}, {"id": "neglect_10208_1", "desc": "Idle", "dlg": "You can live all day."}, {"id": "gacksung_10208_1", "desc": "Uptying", "dlg": "Participation in the dance of Osterizi is a big evening."}, {"id": "formation_10208_1", "desc": "Deployment", "dlg": "For this reason we will walk."}, {"id": "battleentry_10208_1", "desc": "Stage Entry", "dlg": "Let him open flowers."}, {"id": "battle_select_10208_1", "desc": "Viewed in Battle", "dlg": "Love yourself?"}, {"id": "battle_endcommand_10208_1", "desc": "Commencing Attack", "dlg": "Army."}, {"id": "battle_enemy_break_10208_1", "desc": "Enemy Stagger", "dlg": "give me"}, {"id": "battle_break_10208_1", "desc": "Staggered", "dlg": "Millimeters"}, {"id": "battle_kill_10208_1", "desc": "Enemy Killed", "dlg": "Like a crime."}, {"id": "battle_dead_10208_1", "desc": "Death", "dlg": "How long ... Black Lee Joyou ... he plays the same game ..."}, {"id": "choice_success_p_10208_2", "desc": "Check Passed", "dlg": "There is no reason for murder."}, {"id": "choice_fail_n_10208_1", "desc": "Check Failed", "dlg": "He gets older, like him he will be killed."}, {"id": "battle_clear_10208_1", "desc": "Victory Cry", "dlg": "Here I left my way and I saw where I was now."}, {"id": "battle_clear_ex_10208_1", "desc": "Extra Conditions Fulfilled", "dlg": "When the flowers are stressful, the new trees are by default."}, {"id": "battle_defeat_10208_1", "desc": "Defeat Wail", "dlg": "Our goal is not a miracle."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10208_1",
+      "desc": "Identity Acquisition",
+      "dlg": "There was always peace on the evening before battle."
+    }, {
+      "id": "lobby_morning_10208_1",
+      "desc": "Morning Greeting",
+      "dlg": "good Morning."
+    }, {
+      "id": "lobby_noon_10208_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I am planning to deal with the next afternoon training.\nI think there is nothing to evaluate my book method."
+    }, {
+      "id": "lobby_night_10208_1",
+      "desc": "Evening Greeting",
+      "dlg": "The bright pink moon is white."
+    }, {
+      "id": "smalltalk_10208_1",
+      "desc": "Chatter #1",
+      "dlg": "Red plum leaves trained in the air in the air.\nI will prove to be beauty and will continue many times."
+    }, {
+      "id": "smalltalk_10208_2",
+      "desc": "Chatter #2",
+      "dlg": "Blood flow practices are divided into this limit.\nBut I came to learn the memory of the muscle."
+    }, {
+      "id": "smalltalk_10208_3",
+      "desc": "Chatter #3",
+      "dlg": "A sword testified to the port.\nAlthough the skin was gathered, but was not upset, I lost it for a moment."
+    }, {
+      "id": "smalltalk_10208_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "After following the cap, Corromo kabene can accumulate anything."
+    }, {
+      "id": "smalltalk_10208_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "As they turned on, they do not understand the perception of the past, but the Red Gulkits fly in the air."
+    }, {
+      "id": "neglect_10208_1",
+      "desc": "Idle",
+      "dlg": "You can live all day."
+    }, {
+      "id": "gacksung_10208_1",
+      "desc": "Uptying",
+      "dlg": "Participation in the dance of Osterizi is a big evening."
+    }, {
+      "id": "formation_10208_1",
+      "desc": "Deployment",
+      "dlg": "For this reason we will walk."
+    }, {
+      "id": "battleentry_10208_1",
+      "desc": "Stage Entry",
+      "dlg": "Let him open flowers."
+    }, {
+      "id": "battle_select_10208_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Love yourself?"
+    }, {
+      "id": "battle_endcommand_10208_1",
+      "desc": "Commencing Attack",
+      "dlg": "Army."
+    }, {
+      "id": "battle_enemy_break_10208_1",
+      "desc": "Enemy Stagger",
+      "dlg": "give me"
+    }, {
+      "id": "battle_break_10208_1",
+      "desc": "Staggered",
+      "dlg": "Millimeters"
+    }, {
+      "id": "battle_kill_10208_1",
+      "desc": "Enemy Killed",
+      "dlg": "Like a crime."
+    }, {
+      "id": "battle_dead_10208_1",
+      "desc": "Death",
+      "dlg": "How long ... Black Lee Joyou ... he plays the same game ..."
+    }, {
+      "id": "choice_success_p_10208_2",
+      "desc": "Check Passed",
+      "dlg": "There is no reason for murder."
+    }, {
+      "id": "choice_fail_n_10208_1",
+      "desc": "Check Failed",
+      "dlg": "He gets older, like him he will be killed."
+    }, {
+      "id": "battle_clear_10208_1",
+      "desc": "Victory Cry",
+      "dlg": "Here I left my way and I saw where I was now."
+    }, {
+      "id": "battle_clear_ex_10208_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "When the flowers are stressful, the new trees are by default."
+    }, {
+      "id": "battle_defeat_10208_1",
+      "desc": "Defeat Wail",
+      "dlg": "Our goal is not a miracle."
+    }
+  ]
+}

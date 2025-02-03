@@ -1,1 +1,89 @@
-{"dataList": [{"id": "get_10301_1", "desc": "Identity Acquisition", "dlg": "I'm here"}, {"id": "lobby_morning_10301_1", "desc": "Morning Greeting", "dlg": "IAUD ... you must be employees and administrators."}, {"id": "lobby_noon_10301_1", "desc": "Afternoon Greeting", "dlg": "What is today's dining plan?"}, {"id": "lobby_night_10301_1", "desc": "Evening Greeting", "dlg": "The stars shine tonight."}, {"id": "smalltalk_10301_1", "desc": "Chatter #1", "dlg": "Manager, do you care?"}, {"id": "smalltalk_10301_2", "desc": "Chatter #2", "dlg": "For me, he revealed the candidates on these matters to these matters to the candidates."}, {"id": "smalltalk_10301_3", "desc": "Chatter #3", "dlg": "Your favorite manager has also fixed you."}, {"id": "neglect_10301_1", "desc": "Idle", "dlg": "Warranty of Director !!!!!!"}, {"id": "formation_10301_1", "desc": "Deployment", "dlg": "His pink color!"}, {"id": "battleentry_10301_1", "desc": "Stage Entry", "dlg": "\"Now you have time to understand!"}, {"id": "battle_select_10301_1", "desc": "Viewed in Battle", "dlg": "Ali's eyes!"}, {"id": "battle_endcommand_10301_1", "desc": "Commencing Attack", "dlg": "In weapons!"}, {"id": "battle_enemy_break_10301_1", "desc": "Enemy Stagger", "dlg": ".As expected!"}, {"id": "battle_break_10301_1", "desc": "Staggered", "dlg": "International Amnhesia!"}, {"id": "battle_kill_10301_1", "desc": "Enemy Killed", "dlg": "Success!"}, {"id": "battle_allydead_10301_1", "desc": "Ally Death", "dlg": "Esquirey Manager, I hope to recover our support!"}, {"id": "choice_success_p_10301_1", "desc": "Check Passed", "dlg": "I can't emphasize!"}, {"id": "choice_fail_n_10301_1", "desc": "Check Failed", "dlg": "True heroes should now be able to overcome the problem."}, {"id": "battle_clear_10301_1", "desc": "Victory Cry", "dlg": "Basic!"}, {"id": "battle_clear_ex_10301_1", "desc": "Extra Conditions Fulfilled", "dlg": "I am happy to be able to improve!"}, {"id": "battle_defeat_10301_1", "desc": "Defeat Wail", "dlg": "Small barrel ... they to pay ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10301_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I'm here"
+    }, {
+      "id": "lobby_morning_10301_1",
+      "desc": "Morning Greeting",
+      "dlg": "IAUD ... you must be employees and administrators."
+    }, {
+      "id": "lobby_noon_10301_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "What is today's dining plan?"
+    }, {
+      "id": "lobby_night_10301_1",
+      "desc": "Evening Greeting",
+      "dlg": "The stars shine tonight."
+    }, {
+      "id": "smalltalk_10301_1",
+      "desc": "Chatter #1",
+      "dlg": "Manager, do you care?"
+    }, {
+      "id": "smalltalk_10301_2",
+      "desc": "Chatter #2",
+      "dlg": "For me, he revealed the candidates on these matters to these matters to the candidates."
+    }, {
+      "id": "smalltalk_10301_3",
+      "desc": "Chatter #3",
+      "dlg": "Your favorite manager has also fixed you."
+    }, {
+      "id": "neglect_10301_1",
+      "desc": "Idle",
+      "dlg": "Warranty of Director !!!!!!"
+    }, {
+      "id": "formation_10301_1",
+      "desc": "Deployment",
+      "dlg": "His pink color!"
+    }, {
+      "id": "battleentry_10301_1",
+      "desc": "Stage Entry",
+      "dlg": "\"Now you have time to understand!"
+    }, {
+      "id": "battle_select_10301_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Ali's eyes!"
+    }, {
+      "id": "battle_endcommand_10301_1",
+      "desc": "Commencing Attack",
+      "dlg": "In weapons!"
+    }, {
+      "id": "battle_enemy_break_10301_1",
+      "desc": "Enemy Stagger",
+      "dlg": ".As expected!"
+    }, {
+      "id": "battle_break_10301_1",
+      "desc": "Staggered",
+      "dlg": "International Amnhesia!"
+    }, {
+      "id": "battle_kill_10301_1",
+      "desc": "Enemy Killed",
+      "dlg": "Success!"
+    }, {
+      "id": "battle_allydead_10301_1",
+      "desc": "Ally Death",
+      "dlg": "Esquirey Manager, I hope to recover our support!"
+    }, {
+      "id": "choice_success_p_10301_1",
+      "desc": "Check Passed",
+      "dlg": "I can't emphasize!"
+    }, {
+      "id": "choice_fail_n_10301_1",
+      "desc": "Check Failed",
+      "dlg": "True heroes should now be able to overcome the problem."
+    }, {
+      "id": "battle_clear_10301_1",
+      "desc": "Victory Cry",
+      "dlg": "Basic!"
+    }, {
+      "id": "battle_clear_ex_10301_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I am happy to be able to improve!"
+    }, {
+      "id": "battle_defeat_10301_1",
+      "desc": "Defeat Wail",
+      "dlg": "Small barrel ... they to pay ..."
+    }
+  ]
+}

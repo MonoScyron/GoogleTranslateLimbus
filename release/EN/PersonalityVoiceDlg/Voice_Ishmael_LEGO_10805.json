@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10805_1", "desc": "Identity Acquisition", "dlg": "They made a smile."}, {"id": "lobby_morning_10805_1", "desc": "Morning Greeting", "dlg": "This morning I really feel asshole ... oh, forgive me."}, {"id": "lobby_noon_10805_1", "desc": "Afternoon Greeting", "dlg": "As you know, this adhesive thing is bad.\nHow can I know that?"}, {"id": "lobby_night_10805_1", "desc": "Evening Greeting", "dlg": "Difficulty."}, {"id": "smalltalk_10805_1", "desc": "Chatter #1", "dlg": "Surprisingly ... My mood under the barrel is frustrated and that is not difficult."}, {"id": "smalltalk_10805_2", "desc": "Chatter #2", "dlg": "Yes!"}, {"id": "smalltalk_10805_3", "desc": "Chatter #3", "dlg": "... How often do you ask?"}, {"id": "smalltalk_10805_4", "desc": "Post-Uptie Chat 1", "dlg": "They ... Villa glasses ... what are you talking about?"}, {"id": "smalltalk_10805_5", "desc": "Post-Uptie Chat 2", "dlg": "I still don't know why I use it, but I know well if I use it.\nNo, I'm not talking about this gel, especially about weapons!"}, {"id": "gacksung_10805_1", "desc": "Uptying", "dlg": "Oh, I'm really happy ... I agree to this stupid person ... I'm not sure if I think."}, {"id": "neglect_10805_1", "desc": "Idle", "dlg": "Well ... if I try to make a chair I don't want to sit ..."}, {"id": "formation_10805_1", "desc": "Deployment", "dlg": "Let's get started some of the ways."}, {"id": "battleentry_10805_1", "desc": "Stage Entry", "dlg": "OG ... it's easy."}, {"id": "battle_select_10805_1", "desc": "Viewed in Battle", "dlg": "Don't worry."}, {"id": "battle_endcommand_10805_1", "desc": "Commencing Attack", "dlg": "I'm here!"}, {"id": "battle_enemy_break_10805_1", "desc": "Enemy Stagger", "dlg": "Bread"}, {"id": "battle_break_10805_1", "desc": "Staggered", "dlg": "For example, BW ..."}, {"id": "battle_kill_10805_1", "desc": "Enemy Killed", "dlg": "I got tattoo"}, {"id": "battle_dead_10805_1", "desc": "Ally Death", "dlg": "Exitiate ... you ..."}, {"id": "choice_success_p_10805_2", "desc": "Check Passed", "dlg": "Complete management."}, {"id": "choice_fail_n_10805_1", "desc": "Check Failed", "dlg": "Oh, it is guilty to stop the road."}, {"id": "battle_clear_10805_1", "desc": "Victory Cry", "dlg": "To support."}, {"id": "battle_clear_ex_10805_1", "desc": "Extra Conditions Fulfilled", "dlg": "Oh, now it's over, let's drink a little angel ... oh, come back to double."}, {"id": "battle_defeat_10805_1", "desc": "Defeat Wail", "dlg": "I'm sorry ... we didn't try to start it."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10805_1",
+      "desc": "Identity Acquisition",
+      "dlg": "They made a smile."
+    }, {
+      "id": "lobby_morning_10805_1",
+      "desc": "Morning Greeting",
+      "dlg": "This morning I really feel asshole ... oh, forgive me."
+    }, {
+      "id": "lobby_noon_10805_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "As you know, this adhesive thing is bad.\nHow can I know that?"
+    }, {
+      "id": "lobby_night_10805_1",
+      "desc": "Evening Greeting",
+      "dlg": "Difficulty."
+    }, {
+      "id": "smalltalk_10805_1",
+      "desc": "Chatter #1",
+      "dlg": "Surprisingly ... My mood under the barrel is frustrated and that is not difficult."
+    }, {
+      "id": "smalltalk_10805_2",
+      "desc": "Chatter #2",
+      "dlg": "Yes!"
+    }, {
+      "id": "smalltalk_10805_3",
+      "desc": "Chatter #3",
+      "dlg": "... How often do you ask?"
+    }, {
+      "id": "smalltalk_10805_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "They ... Villa glasses ... what are you talking about?"
+    }, {
+      "id": "smalltalk_10805_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I still don't know why I use it, but I know well if I use it.\nNo, I'm not talking about this gel, especially about weapons!"
+    }, {
+      "id": "gacksung_10805_1",
+      "desc": "Uptying",
+      "dlg": "Oh, I'm really happy ... I agree to this stupid person ... I'm not sure if I think."
+    }, {
+      "id": "neglect_10805_1",
+      "desc": "Idle",
+      "dlg": "Well ... if I try to make a chair I don't want to sit ..."
+    }, {
+      "id": "formation_10805_1",
+      "desc": "Deployment",
+      "dlg": "Let's get started some of the ways."
+    }, {
+      "id": "battleentry_10805_1",
+      "desc": "Stage Entry",
+      "dlg": "OG ... it's easy."
+    }, {
+      "id": "battle_select_10805_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Don't worry."
+    }, {
+      "id": "battle_endcommand_10805_1",
+      "desc": "Commencing Attack",
+      "dlg": "I'm here!"
+    }, {
+      "id": "battle_enemy_break_10805_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Bread"
+    }, {
+      "id": "battle_break_10805_1",
+      "desc": "Staggered",
+      "dlg": "For example, BW ..."
+    }, {
+      "id": "battle_kill_10805_1",
+      "desc": "Enemy Killed",
+      "dlg": "I got tattoo"
+    }, {
+      "id": "battle_dead_10805_1",
+      "desc": "Ally Death",
+      "dlg": "Exitiate ... you ..."
+    }, {
+      "id": "choice_success_p_10805_2",
+      "desc": "Check Passed",
+      "dlg": "Complete management."
+    }, {
+      "id": "choice_fail_n_10805_1",
+      "desc": "Check Failed",
+      "dlg": "Oh, it is guilty to stop the road."
+    }, {
+      "id": "battle_clear_10805_1",
+      "desc": "Victory Cry",
+      "dlg": "To support."
+    }, {
+      "id": "battle_clear_ex_10805_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Oh, now it's over, let's drink a little angel ... oh, come back to double."
+    }, {
+      "id": "battle_defeat_10805_1",
+      "desc": "Defeat Wail",
+      "dlg": "I'm sorry ... we didn't try to start it."
+    }
+  ]
+}

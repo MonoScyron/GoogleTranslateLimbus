@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10207_1", "desc": "Identity Acquisition", "dlg": "Start the content of disease T -01-54."}, {"id": "lobby_morning_10207_1", "desc": "Morning Greeting", "dlg": "Good morning, manager."}, {"id": "lobby_noon_10207_1", "desc": "Afternoon Greeting", "dlg": "This is my opinion that the authorities have eaten the Americans."}, {"id": "lobby_night_10207_1", "desc": "Evening Greeting", "dlg": "95% of work progress."}, {"id": "smalltalk_10207_1", "desc": "Chatter #1", "dlg": "\"Fourth Killer\"?"}, {"id": "smalltalk_10207_2", "desc": "Chatter #2", "dlg": "If employees are soft, I will ask the question."}, {"id": "smalltalk_10207_3", "desc": "Chatter #3", "dlg": "For example, we see enough clothes."}, {"id": "smalltalk_10207_4", "desc": "Post-Uptie Chat 1", "dlg": "It is unknown about it and not set on gifts."}, {"id": "smalltalk_10207_5", "desc": "Post-Uptie Chat 2", "dlg": "I am interested in: How do I feel when the enemy hit the hut?"}, {"id": "neglect_10207_1", "desc": "Idle", "dlg": "Again landing again ..."}, {"id": "gacksung_10207_1", "desc": "Uptying", "dlg": "Control Team Commander, Agent Poster."}, {"id": "formation_10207_1", "desc": "Deployment", "dlg": "I'm ready"}, {"id": "battleentry_10207_1", "desc": "Stage Entry", "dlg": "Preparing for stress."}, {"id": "battle_select_10207_1", "desc": "Viewed in Battle", "dlg": "Do you need more jobs?"}, {"id": "battle_endcommand_10207_1", "desc": "Commencing Attack", "dlg": "The funds that are confirmed the border confirmed."}, {"id": "battle_enemy_break_10207_1", "desc": "Enemy Stagger", "dlg": "This is weak."}, {"id": "battle_break_10207_1", "desc": "Staggered", "dlg": "Oh ..."}, {"id": "battle_kill_10207_1", "desc": "Enemy Killed", "dlg": "Is still neutrality."}, {"id": "battle_dead_10207_1", "desc": "Death", "dlg": "The failure of the harassment ..."}, {"id": "choice_success_p_10207_2", "desc": "Check Passed", "dlg": "It's enough at work."}, {"id": "choice_fail_n_10207_1", "desc": "Check Failed", "dlg": "This is not according to my army ... I know he recorded it."}, {"id": "battle_clear_10207_1", "desc": "Victory Cry", "dlg": "Here we can end the oppression."}, {"id": "battle_clear_ex_10207_1", "desc": "Extra Conditions Fulfilled", "dlg": "Risk is pressed."}, {"id": "battle_defeat_10207_1", "desc": "Defeat Wail", "dlg": "The team does not want to check the team's work and wants to help other departments ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10207_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Start the content of disease T -01-54."
+    }, {
+      "id": "lobby_morning_10207_1",
+      "desc": "Morning Greeting",
+      "dlg": "Good morning, manager."
+    }, {
+      "id": "lobby_noon_10207_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "This is my opinion that the authorities have eaten the Americans."
+    }, {
+      "id": "lobby_night_10207_1",
+      "desc": "Evening Greeting",
+      "dlg": "95% of work progress."
+    }, {
+      "id": "smalltalk_10207_1",
+      "desc": "Chatter #1",
+      "dlg": "\"Fourth Killer\"?"
+    }, {
+      "id": "smalltalk_10207_2",
+      "desc": "Chatter #2",
+      "dlg": "If employees are soft, I will ask the question."
+    }, {
+      "id": "smalltalk_10207_3",
+      "desc": "Chatter #3",
+      "dlg": "For example, we see enough clothes."
+    }, {
+      "id": "smalltalk_10207_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "It is unknown about it and not set on gifts."
+    }, {
+      "id": "smalltalk_10207_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "I am interested in: How do I feel when the enemy hit the hut?"
+    }, {
+      "id": "neglect_10207_1",
+      "desc": "Idle",
+      "dlg": "Again landing again ..."
+    }, {
+      "id": "gacksung_10207_1",
+      "desc": "Uptying",
+      "dlg": "Control Team Commander, Agent Poster."
+    }, {
+      "id": "formation_10207_1",
+      "desc": "Deployment",
+      "dlg": "I'm ready"
+    }, {
+      "id": "battleentry_10207_1",
+      "desc": "Stage Entry",
+      "dlg": "Preparing for stress."
+    }, {
+      "id": "battle_select_10207_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Do you need more jobs?"
+    }, {
+      "id": "battle_endcommand_10207_1",
+      "desc": "Commencing Attack",
+      "dlg": "The funds that are confirmed the border confirmed."
+    }, {
+      "id": "battle_enemy_break_10207_1",
+      "desc": "Enemy Stagger",
+      "dlg": "This is weak."
+    }, {
+      "id": "battle_break_10207_1",
+      "desc": "Staggered",
+      "dlg": "Oh ..."
+    }, {
+      "id": "battle_kill_10207_1",
+      "desc": "Enemy Killed",
+      "dlg": "Is still neutrality."
+    }, {
+      "id": "battle_dead_10207_1",
+      "desc": "Death",
+      "dlg": "The failure of the harassment ..."
+    }, {
+      "id": "choice_success_p_10207_2",
+      "desc": "Check Passed",
+      "dlg": "It's enough at work."
+    }, {
+      "id": "choice_fail_n_10207_1",
+      "desc": "Check Failed",
+      "dlg": "This is not according to my army ... I know he recorded it."
+    }, {
+      "id": "battle_clear_10207_1",
+      "desc": "Victory Cry",
+      "dlg": "Here we can end the oppression."
+    }, {
+      "id": "battle_clear_ex_10207_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Risk is pressed."
+    }, {
+      "id": "battle_defeat_10207_1",
+      "desc": "Defeat Wail",
+      "dlg": "The team does not want to check the team's work and wants to help other departments ..."
+    }
+  ]
+}

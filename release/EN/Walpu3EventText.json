@@ -149,10 +149,10 @@
       "content": "Congratulations to the fairy story"
     }, {
       "id": "walpu_battle_result_win",
-      "content": "Denial {0} End"
+      "content": "Denial {0} end"
     }, {
       "id": "walpu_battle_result_lose",
-      "content": "Denial {0} Offensive"
+      "content": "Denial {0} offensive"
     }, {
       "id": "tutorial_mainui_27_walpu3_01_title",
       "content": "Third Night-Winth Library Book"
@@ -203,7 +203,7 @@
       "content": "Ask to fill this work [Missions] Toward them."
     }, {
       "id": "tutorial_mainui_27_walpu3_07_desc_01",
-      "content": "Even after the activity is complete, you can try a \"3, night of the night\" in a particular war, see the driver's story and try playing the game. [Detour Tales]Intersection"
+      "content": "Even after the activity is complete, you can try a \"3, night of the night\" in a particular war, see the driver's story and try playing the game. [Detour Tales] Intersection"
     }, {
       "id": "walpu3_not_progress_event_date",
       "content": "The program has been closed"

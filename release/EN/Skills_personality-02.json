@@ -520,7 +520,7 @@
                 {
                   "desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"
                 }, {
-                  "desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom]1 apply [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom] 1 apply [SlashTakeDamageUp]"
                 }
               ]
             }, {
@@ -528,7 +528,7 @@
                 {
                   "desc": "[CriticalOnSucceedAttack] 5 apps [RedApricotBlossom]"
                 }, {
-                  "desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom]1 apply [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Target 10 Although [RedApricotBlossom] 1 apply [SlashTakeDamageUp]"
                 }
               ]
             }
@@ -691,12 +691,12 @@
         {
           "level": 1,
           "name": "Phishing plan",
-          "desc": "[WhenUse] If the goal is 10+ [Sinking]Power C333",
+          "desc": "[WhenUse] If the goal is 10+ [Sinking] Power C333",
           "coinlist": [{}]
         }, {
           "level": 4,
           "name": "Phishing plan",
-          "desc": "[WhenUse] If the goal is 10+ [Sinking]Mantra +17",
+          "desc": "[WhenUse] If the goal is 10+ [Sinking] Mantra +17",
           "coinlist": [{}]
         }
       ]
@@ -768,7 +768,7 @@
             {}, {}, {
               "coindescs": [
                 {
-                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">…….[Charge] + Pl)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">120%</style>……."
+                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">……. [Charge] + Pl)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">120%</style>……."
                 }
               ]
             }
@@ -781,7 +781,7 @@
             {}, {}, {
               "coindescs": [
                 {
-                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">…….[Charge] + 4)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">180%</style>……."
+                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">……. [Charge] + 4)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">180%</style>……."
                 }
               ]
             }
@@ -794,18 +794,18 @@
         {
           "level": 3,
           "name": "Lie down with 40-3",
-          "desc": "2+ [Charge]Call strength + + +",
+          "desc": "2+ [Charge] Call strength + + +",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] + 4) [Charge] Account (up to 7)"
+                  "desc": "[OnSucceedAttack] Gisk + (pads) [Charge] + 4) [Charge] Account (up to 7)"
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] + 4) [Charge] Account (up to 7)"
+                  "desc": "[OnSucceedAttack] Gisk + (pads) [Charge] + 4) [Charge] Account (up to 7)"
                 }
               ]
             }, {}, {
@@ -824,13 +824,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] ……. <style=\"highlight\">My</style>……. [Charge] Maximum <style=\"highlight\">Yes</style>……."
+                  "desc": "[OnSucceedAttack] Gisk + (pads) [Charge] ……. <style=\"highlight\">My</style>……. [Charge] Maximum <style=\"highlight\">Yes</style>……."
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] ……. <style=\"highlight\">My</style>……. [Charge] Maximum <style=\"highlight\">Yes</style>……."
+                  "desc": "[OnSucceedAttack] Gisk + (pads) [Charge] ……. <style=\"highlight\">My</style>……. [Charge] Maximum <style=\"highlight\">Yes</style>……."
                 }
               ]
             }, {}, {
@@ -838,7 +838,7 @@
                 {
                   "desc": "Three + [Charge], Business <style=\"highlight\">+ 8%</style> Every wounds are high [Charge] the best <style=\"highlight\">40%</style>……."
                 }, {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Leave the difference in jealousy in the next round\n2 + -O [Charge]1 is currently in favor of jealousy</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Leave the difference in jealousy in the next round\n2 + -O [Charge] 1 is currently in favor of jealousy</style>"
                 }
               ]
             }

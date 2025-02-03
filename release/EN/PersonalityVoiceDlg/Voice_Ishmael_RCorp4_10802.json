@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10802_1", "desc": "Identity Acquisition", "dlg": "Hard, we cancel the model."}, {"id": "lobby_morning_10802_1", "desc": "Morning Greeting", "dlg": "I usually think so."}, {"id": "lobby_noon_10802_1", "desc": "Afternoon Greeting", "dlg": "Well why are they shouting many in the afternoon?"}, {"id": "lobby_night_10802_1", "desc": "Evening Greeting", "dlg": "I love ... I can plant peace and room."}, {"id": "smalltalk_10802_1", "desc": "Chatter #1", "dlg": "Kh ... give me a little bit."}, {"id": "smalltalk_10802_2", "desc": "Chatter #2", "dlg": "I have to pay attention at any time."}, {"id": "smalltalk_10802_3", "desc": "Chatter #3", "dlg": "Oh ... if you see the corner, please leave ..."}, {"id": "smalltalk_10802_4", "desc": "Post-Uptie Chat 1", "dlg": "Instructions for Director, Inventory H ... at least for the reasonable\nIf this happens ... Does the clock change?"}, {"id": "smalltalk_10802_5", "desc": "Post-Uptie Chat 2", "dlg": "Continue to continue my claim ... a dream conscious is maintaining.\nI don't remember deep sleep."}, {"id": "neglect_10802_1", "desc": "Idle", "dlg": "My favorite is one: I call and returned."}, {"id": "gacksung_10802_1", "desc": "Uptying", "dlg": "HNG ... I think it's a strong power, but ... scatters my detend ..."}, {"id": "formation_10802_1", "desc": "Deployment", "dlg": "NGH ... is ready."}, {"id": "battleentry_10802_1", "desc": "Stage Entry", "dlg": "Get rid of it."}, {"id": "battle_select_10802_1", "desc": "Viewed in Battle", "dlg": "I now have the right spirit."}, {"id": "battle_endcommand_10802_1", "desc": "Commencing Attack", "dlg": "Detecting ..."}, {"id": "battle_enemy_break_10802_1", "desc": "Enemy Stagger", "dlg": "Your opinion is easy to die."}, {"id": "battle_break_10802_1", "desc": "Staggered", "dlg": "ARZ!"}, {"id": "battle_kill_10802_1", "desc": "Enemy Killed", "dlg": "The noise fell a little bit."}, {"id": "battle_allydead_10802_1", "desc": "Ally Death", "dlg": "Power ... I have a lot of heads ..."}, {"id": "choice_success_p_10802_1", "desc": "Check Passed", "dlg": "The work is completed."}, {"id": "choice_fail_n_10802_1", "desc": "Check Failed", "dlg": "Our Apple ... NRH, my head is right."}, {"id": "battle_clear_10802_1", "desc": "Victory Cry", "dlg": "A very happy person ... I did it."}, {"id": "battle_clear_ex_10802_1", "desc": "Extra Conditions Fulfilled", "dlg": "Hnghh ... Electrical Exit is very serious."}, {"id": "battle_defeat_10802_1", "desc": "Defeat Wail", "dlg": "Horse ... my head ... the rest of the rest are good?"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10802_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Hard, we cancel the model."
+    }, {
+      "id": "lobby_morning_10802_1",
+      "desc": "Morning Greeting",
+      "dlg": "I usually think so."
+    }, {
+      "id": "lobby_noon_10802_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Well why are they shouting many in the afternoon?"
+    }, {
+      "id": "lobby_night_10802_1",
+      "desc": "Evening Greeting",
+      "dlg": "I love ... I can plant peace and room."
+    }, {
+      "id": "smalltalk_10802_1",
+      "desc": "Chatter #1",
+      "dlg": "Kh ... give me a little bit."
+    }, {
+      "id": "smalltalk_10802_2",
+      "desc": "Chatter #2",
+      "dlg": "I have to pay attention at any time."
+    }, {
+      "id": "smalltalk_10802_3",
+      "desc": "Chatter #3",
+      "dlg": "Oh ... if you see the corner, please leave ..."
+    }, {
+      "id": "smalltalk_10802_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Instructions for Director, Inventory H ... at least for the reasonable\nIf this happens ... Does the clock change?"
+    }, {
+      "id": "smalltalk_10802_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Continue to continue my claim ... a dream conscious is maintaining.\nI don't remember deep sleep."
+    }, {
+      "id": "neglect_10802_1",
+      "desc": "Idle",
+      "dlg": "My favorite is one: I call and returned."
+    }, {
+      "id": "gacksung_10802_1",
+      "desc": "Uptying",
+      "dlg": "HNG ... I think it's a strong power, but ... scatters my detend ..."
+    }, {
+      "id": "formation_10802_1",
+      "desc": "Deployment",
+      "dlg": "NGH ... is ready."
+    }, {
+      "id": "battleentry_10802_1",
+      "desc": "Stage Entry",
+      "dlg": "Get rid of it."
+    }, {
+      "id": "battle_select_10802_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I now have the right spirit."
+    }, {
+      "id": "battle_endcommand_10802_1",
+      "desc": "Commencing Attack",
+      "dlg": "Detecting ..."
+    }, {
+      "id": "battle_enemy_break_10802_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Your opinion is easy to die."
+    }, {
+      "id": "battle_break_10802_1",
+      "desc": "Staggered",
+      "dlg": "ARZ!"
+    }, {
+      "id": "battle_kill_10802_1",
+      "desc": "Enemy Killed",
+      "dlg": "The noise fell a little bit."
+    }, {
+      "id": "battle_allydead_10802_1",
+      "desc": "Ally Death",
+      "dlg": "Power ... I have a lot of heads ..."
+    }, {
+      "id": "choice_success_p_10802_1",
+      "desc": "Check Passed",
+      "dlg": "The work is completed."
+    }, {
+      "id": "choice_fail_n_10802_1",
+      "desc": "Check Failed",
+      "dlg": "Our Apple ... NRH, my head is right."
+    }, {
+      "id": "battle_clear_10802_1",
+      "desc": "Victory Cry",
+      "dlg": "A very happy person ... I did it."
+    }, {
+      "id": "battle_clear_ex_10802_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Hnghh ... Electrical Exit is very serious."
+    }, {
+      "id": "battle_defeat_10802_1",
+      "desc": "Defeat Wail",
+      "dlg": "Horse ... my head ... the rest of the rest are good?"
+    }
+  ]
+}

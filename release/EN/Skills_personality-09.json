@@ -507,7 +507,7 @@
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Application 1 [Binding] Valley</style>"
                 }, {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] The target is 6+ [Vibration]1 apply [Binding] Valley</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] The target is 6+ [Vibration] 1 apply [Binding] Valley</style>"
                 }
               ]
             }
@@ -582,7 +582,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] If this is the device [TimeRentalTwoPersonality] Position, 2 [TimeSuspend]<style=\"highlight\"></style>"
                 }, {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Phone 1</style>"
                 }
               ]
             }
@@ -645,12 +645,12 @@
         }, {
           "level": 2,
           "name": "The same-short messy express",
-          "desc": "<style=\"highlight\">10+ [DevyatDimensionalSack]Or 6+ [Burst], Call ++ 1</style>\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] GBroja: This technique does not use target [Burst] Expected trip, but not applicable [Burst] With this technique",
+          "desc": "<style=\"highlight\">10+ [DevyatDimensionalSack] Or 6+ [Burst], Call ++ 1</style>\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] GBroja: This technique does not use target [Burst] Expected trip, but not applicable [Burst] With this technique",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this device is smaller than 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]</style>"
+                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this device is smaller than 15 [DevyatDimensionalSack] Add more [DevyatDimensionalSack]</style>"
                 }
               ]
             }, {
@@ -669,7 +669,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n- If this device is smaller than 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n- If this device is smaller than 15 [DevyatDimensionalSack] Add more [DevyatDimensionalSack]<style=\"highlight\"></style>"
                 }
               ]
             }, {
@@ -688,7 +688,7 @@
         {
           "level": 1,
           "name": "Express -Lit Tools Lester Expressions",
-          "desc": "10+ [DevyatDimensionalSack]Or 6+ [Burst], Call ++ 1\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] GBroja: This technique does not use target [Burst] Hit",
+          "desc": "10+ [DevyatDimensionalSack] Or 6+ [Burst], Call ++ 1\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] GBroja: This technique does not use target [Burst] Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -718,7 +718,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this device is smaller than 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]</style>"
+                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this device is smaller than 15 [DevyatDimensionalSack] Add more [DevyatDimensionalSack]</style>"
                 }
               ]
             }, {
@@ -743,13 +743,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n- If this device is smaller than 15 [DevyatDimensionalSack]to get <style=\"highlight\">There is no way</style> High [DevyatDimensionalSack]"
+                  "desc": "[OnSucceedAttack] Get 1 [DevyatDimensionalSack]\n- If this device is smaller than 15 [DevyatDimensionalSack] to get <style=\"highlight\">There is no way</style> High [DevyatDimensionalSack]"
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Get 1 [Agility] Next line (once once)\n<style=\"highlight\">-15+ [DevyatDimensionalSack]Add more [Agility]</style>"
+                  "desc": "[OnSucceedAttackHead] Get 1 [Agility] Next line (once once)\n<style=\"highlight\">-15+ [DevyatDimensionalSack] Add more [Agility]</style>"
                 }
               ]
             }, {
@@ -815,12 +815,12 @@
         {
           "level": 1,
           "name": "Equation Support and Control -",
-          "desc": "[StartBattle] 15+ [DevyatDimensionalSack]\"It's only strategic time!\"\n[StartBattle] This technique can be obtained when it is active ([DevyatDimensionalSack]/ 2) The highest HP device is used as Shield (one time up to 15%)\n[WhenUse] Get 2 [DevyatDimensionalSack] (After the Wiser)\nAt least 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]",
+          "desc": "[StartBattle] 15+ [DevyatDimensionalSack]\"It's only strategic time!\"\n[StartBattle] This technique can be obtained when it is active ([DevyatDimensionalSack]/ 2) The highest HP device is used as Shield (one time up to 15%)\n[WhenUse] Get 2 [DevyatDimensionalSack] (After the Wiser)\nAt least 15 [DevyatDimensionalSack] Add more [DevyatDimensionalSack]",
           "coinlist": [{}]
         }, {
           "level": 4,
           "name": "Equation Support and Control -",
-          "desc": "[StartBattle] 15+ [DevyatDimensionalSack]\"It's only strategic time!\"\n[StartBattle] If this technique is active, it may be <style=\"highlight\">…….[DevyatDimensionalSack]By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[WhenUse] Get 2 [DevyatDimensionalSack] (After the Wiser)\nAt least 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]",
+          "desc": "[StartBattle] 15+ [DevyatDimensionalSack]\"It's only strategic time!\"\n[StartBattle] If this technique is active, it may be <style=\"highlight\">……. [DevyatDimensionalSack] By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[WhenUse] Get 2 [DevyatDimensionalSack] (After the Wiser)\nAt least 15 [DevyatDimensionalSack] Add more [DevyatDimensionalSack]",
           "coinlist": [{}]
         }
       ]
@@ -835,7 +835,7 @@
         }, {
           "level": 4,
           "name": "Just ... Strategic Time!",
-          "desc": "[StartBattle] If this technique is active, it may be <style=\"highlight\">…….[DevyatDimensionalSack]By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[EndBattle] Turn off travel [Retreat]",
+          "desc": "[StartBattle] If this technique is active, it may be <style=\"highlight\">……. [DevyatDimensionalSack] By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[EndBattle] Turn off travel [Retreat]",
           "coinlist": [{}]
         }
       ]
@@ -845,7 +845,7 @@
         {
           "level": 1,
           "name": "Start ...",
-          "desc": "[StartBattle] The largest and largest competition HP1: 20 pieces [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-Lap <Doodfin> If it seemed, it's device 1 worries 1. [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]",
+          "desc": "[StartBattle] The largest and largest competition HP1: 20 pieces [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-Lap <Doodfin> If it seemed, it's device 1 worries 1. [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner] Winning 5 [Laceration]",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -860,7 +860,7 @@
         }, {
           "level": 2,
           "name": "Start ...",
-          "desc": "[StartBattle] The largest and largest competition HP1: 20 pieces [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-Lap <Doodfin> If it seemed, it's device 1 worries 1. [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>",
+          "desc": "[StartBattle] The largest and largest competition HP1: 20 pieces [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-Lap <Doodfin> If it seemed, it's device 1 worries 1. [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner] Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -875,7 +875,7 @@
         }, {
           "level": 4,
           "name": "Start ...",
-          "desc": "[StartBattle] The largest and largest competition HP1: 20 pieces [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-Lap <Doodfin> If it seemed, it's device 1 worries 1. [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Laceration] In the form of the target (up to 2)</style>",
+          "desc": "[StartBattle] The largest and largest competition HP1: 20 pieces [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-Lap <Doodfin> If it seemed, it's device 1 worries 1. [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner] Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Laceration] In the form of the target (up to 2)</style>",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -895,7 +895,7 @@
         {
           "level": 1,
           "name": "In the best treatment",
-          "desc": "[StartBattle] 1 and 1 Federation HP: App 1 [Enhancement]Use 30 30 [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-A <nodifian> Effects with a friend additional app 1 [Enhancement] There is no way [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]",
+          "desc": "[StartBattle] 1 and 1 Federation HP: App 1 [Enhancement] Use 30 30 [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-A <nodifian> Effects with a friend additional app 1 [Enhancement] There is no way [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner] Winning 5 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -918,7 +918,7 @@
         }, {
           "level": 2,
           "name": "In the best treatment",
-          "desc": "[StartBattle] 1 and 1 Federation HP: App 1 [Enhancement]Use 30 30 [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-A <nodifian> Effects with a friend additional app 1 [Enhancement] There is no way [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>",
+          "desc": "[StartBattle] 1 and 1 Federation HP: App 1 [Enhancement] Use 30 30 [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-A <nodifian> Effects with a friend additional app 1 [Enhancement] There is no way [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner] Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -941,7 +941,7 @@
         }, {
           "level": 4,
           "name": "In the best treatment",
-          "desc": "[StartBattle] 1 and 1 Federation HP: App 1 [Enhancement]Use 30 30 [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-A <nodifian> Effects with a friend additional app 1 [Enhancement] There is no way [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner]Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Laceration] In the form of the target (up to 2)</style>",
+          "desc": "[StartBattle] 1 and 1 Federation HP: App 1 [Enhancement] Use 30 30 [BloodDinner] And record 1 [BloomingThornsRodionFirst] Every 10 [BloodDinner] This tool has been issued (twice on the trip)\nScholars <mambandofs>\n-A <nodifian> Effects with a friend additional app 1 [Enhancement] There is no way [BloomingThornsRodionFirst]\n- And if you can't eat this device [BloodDinner] Winning 5 [Laceration]\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Laceration] In the form of the target (up to 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -969,7 +969,7 @@
         {
           "level": 3,
           "name": "The festival ends",
-          "desc": "[BeforeUse] Age is over 25 years [BloomingThornsRodionFirst], \"Money Money Hard Hard Blood Arts - in Toast Place\n[WhenUse] A member (now). [FestivalFeverRodion] Rotation and first government (up to 10)\n[WhenUse] IELF I (most of the Razz) Advisor: 3 app 3 [BloomingThornsRodionFirst]",
+          "desc": "[BeforeUse] Age is over 25 years [BloomingThornsRodionFirst], \"Money Money Hard Hard Blood Arts - in Toast Place\n[WhenUse] a member (now). [FestivalFeverRodion] Rotation and first government (up to 10)\n[WhenUse] IELF I (most of the Razz) Advisor: 3 app 3 [BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1000,7 +1000,7 @@
         }, {
           "level": 4,
           "name": "The festival ends",
-          "desc": "[BeforeUse] Age is over 25 years [BloomingThornsRodionFirst], \"Money Money Hard Hard Blood Arts - in Toast Place\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>\n[WhenUse] A member (now). [FestivalFeverRodion] Rotation and first government (up to 10)\n[WhenUse] IELF I (most of the Razz) Advisor: 3 app 3 [BloomingThornsRodionFirst]",
+          "desc": "[BeforeUse] Age is over 25 years [BloomingThornsRodionFirst], \"Money Money Hard Hard Blood Arts - in Toast Place\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>\n[WhenUse] a member (now). [FestivalFeverRodion] Rotation and first government (up to 10)\n[WhenUse] IELF I (most of the Razz) Advisor: 3 app 3 [BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1036,7 +1036,7 @@
         {
           "level": 1,
           "name": "Don Kitty Hordo Art 15: Prom Ruth",
-          "desc": "[DuelCounter]\n[WhenUse] To reduce [Laceration] There are two more friends with three friends (most 2)[Laceration] ExteleX (values ​​and integrity buttons) [BloodDinner] ((Reservation) [Laceration] X is the number of bows)\n  - when this effect reduces, [Laceration] Measure 0, [Laceration] Expired\n[WinDuel] Benefits 4 [BloomingThornsRodionFirst]",
+          "desc": "[DuelCounter]\n[WhenUse] To reduce [Laceration] There are two more friends with three friends (most 2) [Laceration] ExteleX (values ​​and integrity buttons) [BloodDinner] ((Reservation) [Laceration] x is the number of bows)\n  - when this effect reduces, [Laceration] Measure 0, [Laceration] Expired\n[WinDuel] Benefits 4 [BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1055,7 +1055,7 @@
         }, {
           "level": 4,
           "name": "Don Kitty Hordo Art 15: Prom Ruth",
-          "desc": "[DuelCounter]\n[WhenUse] To reduce [Laceration] There are two more friends with three friends (most 2)[Laceration] ExteleX (values ​​and integrity buttons) [BloodDinner] ((Reservation) [Laceration] X is the number of bows)\n  - when this effect reduces, [Laceration] Measure 0, [Laceration] Expired\n<style=\"highlight\">  If the employee is effective [Laceration] Very 2</style>\n[WinDuel] Benefits 4 [BloomingThornsRodionFirst]",
+          "desc": "[DuelCounter]\n[WhenUse] To reduce [Laceration] There are two more friends with three friends (most 2) [Laceration] ExteleX (values ​​and integrity buttons) [BloodDinner] ((Reservation) [Laceration] x is the number of bows)\n  - when this effect reduces, [Laceration] Measure 0, [Laceration] Expired\n<style=\"highlight\">  If the employee is effective [Laceration] Very 2</style>\n[WinDuel] Benefits 4 [BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [

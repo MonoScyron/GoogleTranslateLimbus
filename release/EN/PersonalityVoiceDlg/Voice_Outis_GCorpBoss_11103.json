@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11103_1", "desc": "Identity Acquisition", "dlg": "Here, those who are not satisfied with me."}, {"id": "lobby_morning_11103_1", "desc": "Morning Greeting", "dlg": "I can't afford the clock."}, {"id": "lobby_noon_11103_1", "desc": "Afternoon Greeting", "dlg": "Looking at the palace, I'm ready to find a place to eat ... I suggest you are a part."}, {"id": "lobby_night_11103_1", "desc": "Evening Greeting", "dlg": "I don't sleep too much."}, {"id": "smalltalk_11103_1", "desc": "Chatter #1", "dlg": "I didn't die that we met a person here and disappeared the war of war ..."}, {"id": "smalltalk_11103_2", "desc": "Chatter #2", "dlg": "Rai (Roy) never know the stop plan."}, {"id": "smalltalk_11103_3", "desc": "Chatter #3", "dlg": "These are old days ... If there is no time to influence items, they are meeting with my gestures."}, {"id": "smalltalk_11103_4", "desc": "Post-Uptie Chat 1", "dlg": "I still have no blue sky and I can't breathe independently in the sky."}, {"id": "smalltalk_11103_5", "desc": "Post-Uptie Chat 2", "dlg": "It is important to receive the order with people who are pitiable in battle ... I know all the rules are an exception."}, {"id": "neglect_11103_1", "desc": "Idle", "dlg": "Sky rooms are widely useful for delivery ..."}, {"id": "gacksung_11103_1", "desc": "Uptying", "dlg": "Respect."}, {"id": "formation_11103_1", "desc": "Deployment", "dlg": "I've done this!"}, {"id": "battleentry_11103_1", "desc": "Stage Entry", "dlg": "I will count your request."}, {"id": "battle_select_11103_1", "desc": "Viewed in Battle", "dlg": "Do you need my advice?"}, {"id": "battle_endcommand_11103_1", "desc": "Commencing Attack", "dlg": "Charge."}, {"id": "battle_enemy_break_11103_1", "desc": "Enemy Stagger", "dlg": "I have seen concern."}, {"id": "battle_break_11103_1", "desc": "Staggered", "dlg": "Common!"}, {"id": "battle_kill_11103_1", "desc": "Enemy Killed", "dlg": "Where should I go?"}, {"id": "battle_allydead_11103_1", "desc": "Ally Death", "dlg": "Will be a complete call to scroll tonight."}, {"id": "choice_success_p_11103_2", "desc": "Check Passed", "dlg": "Good work."}, {"id": "choice_fail_n_11103_1", "desc": "Check Failed", "dlg": "I can't expect all kinds."}, {"id": "battle_clear_11103_1", "desc": "Victory Cry", "dlg": "You are worse than insects."}, {"id": "battle_clear_ex_11103_1", "desc": "Extra Conditions Fulfilled", "dlg": "I have to accept that your competition is named."}, {"id": "battle_defeat_11103_1", "desc": "Defeat Wail", "dlg": "It is only believed ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11103_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Here, those who are not satisfied with me."
+    }, {
+      "id": "lobby_morning_11103_1",
+      "desc": "Morning Greeting",
+      "dlg": "I can't afford the clock."
+    }, {
+      "id": "lobby_noon_11103_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Looking at the palace, I'm ready to find a place to eat ... I suggest you are a part."
+    }, {
+      "id": "lobby_night_11103_1",
+      "desc": "Evening Greeting",
+      "dlg": "I don't sleep too much."
+    }, {
+      "id": "smalltalk_11103_1",
+      "desc": "Chatter #1",
+      "dlg": "I didn't die that we met a person here and disappeared the war of war ..."
+    }, {
+      "id": "smalltalk_11103_2",
+      "desc": "Chatter #2",
+      "dlg": "Rai (Roy) never know the stop plan."
+    }, {
+      "id": "smalltalk_11103_3",
+      "desc": "Chatter #3",
+      "dlg": "These are old days ... If there is no time to influence items, they are meeting with my gestures."
+    }, {
+      "id": "smalltalk_11103_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I still have no blue sky and I can't breathe independently in the sky."
+    }, {
+      "id": "smalltalk_11103_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "It is important to receive the order with people who are pitiable in battle ... I know all the rules are an exception."
+    }, {
+      "id": "neglect_11103_1",
+      "desc": "Idle",
+      "dlg": "Sky rooms are widely useful for delivery ..."
+    }, {
+      "id": "gacksung_11103_1",
+      "desc": "Uptying",
+      "dlg": "Respect."
+    }, {
+      "id": "formation_11103_1",
+      "desc": "Deployment",
+      "dlg": "I've done this!"
+    }, {
+      "id": "battleentry_11103_1",
+      "desc": "Stage Entry",
+      "dlg": "I will count your request."
+    }, {
+      "id": "battle_select_11103_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Do you need my advice?"
+    }, {
+      "id": "battle_endcommand_11103_1",
+      "desc": "Commencing Attack",
+      "dlg": "Charge."
+    }, {
+      "id": "battle_enemy_break_11103_1",
+      "desc": "Enemy Stagger",
+      "dlg": "I have seen concern."
+    }, {
+      "id": "battle_break_11103_1",
+      "desc": "Staggered",
+      "dlg": "Common!"
+    }, {
+      "id": "battle_kill_11103_1",
+      "desc": "Enemy Killed",
+      "dlg": "Where should I go?"
+    }, {
+      "id": "battle_allydead_11103_1",
+      "desc": "Ally Death",
+      "dlg": "Will be a complete call to scroll tonight."
+    }, {
+      "id": "choice_success_p_11103_2",
+      "desc": "Check Passed",
+      "dlg": "Good work."
+    }, {
+      "id": "choice_fail_n_11103_1",
+      "desc": "Check Failed",
+      "dlg": "I can't expect all kinds."
+    }, {
+      "id": "battle_clear_11103_1",
+      "desc": "Victory Cry",
+      "dlg": "You are worse than insects."
+    }, {
+      "id": "battle_clear_ex_11103_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I have to accept that your competition is named."
+    }, {
+      "id": "battle_defeat_11103_1",
+      "desc": "Defeat Wail",
+      "dlg": "It is only believed ..."
+    }
+  ]
+}

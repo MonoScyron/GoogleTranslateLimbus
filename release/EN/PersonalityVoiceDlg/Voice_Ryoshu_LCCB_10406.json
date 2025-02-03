@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10406_1", "desc": "Identity Acquisition", "dlg": "Ryōshū. I.A.L. Hm? This isn't standard comms protocol?\nWhy Barry Paris?"}, {"id": "lobby_morning_10406_1", "desc": "Morning Greeting", "dlg": "You are in the morning?"}, {"id": "lobby_noon_10406_1", "desc": "Afternoon Greeting", "dlg": "I work with a full raider ... I like a cigarette taste."}, {"id": "lobby_night_10406_1", "desc": "Evening Greeting", "dlg": "If they have a new job salon every night ...?"}, {"id": "smalltalk_10406_1", "desc": "Chatter #1", "dlg": "\"The most important work for the team should be set up before cleaning.\""}, {"id": "smalltalk_10406_2", "desc": "Chatter #2", "dlg": "The following is the target company port."}, {"id": "smalltalk_10406_3", "desc": "Chatter #3", "dlg": "Fo"}, {"id": "smalltalk_10406_4", "desc": "Post-Uptie Chat 1", "dlg": "This whole shot is currently the most useful group."}, {"id": "smalltalk_10406_5", "desc": "Post-Uptie Chat 2", "dlg": "Quit everyone who reduces knowledge as knowledge."}, {"id": "neglect_10406_1", "desc": "Idle", "dlg": "Hack ... I was a floor ... Saji ..."}, {"id": "gacksung_10406_1", "desc": "Uptying", "dlg": "It is believed that it was a report that was destroyed by the administration."}, {"id": "formation_10406_1", "desc": "Deployment", "dlg": "Finally, are I really a real job?"}, {"id": "battleentry_10406_1", "desc": "Stage Entry", "dlg": "A bowl in the room."}, {"id": "battle_select_10406_1", "desc": "Viewed in Battle", "dlg": "Oh, did you get any suggestions?"}, {"id": "battle_endcommand_10406_1", "desc": "Commencing Attack", "dlg": "You explode and ruins are won."}, {"id": "battle_enemy_break_10406_1", "desc": "Enemy Stagger", "dlg": "In the future, I will verify your chapter through discrimination."}, {"id": "battle_break_10406_1", "desc": "Staggered", "dlg": "Toska ..."}, {"id": "battle_kill_10406_1", "desc": "Enemy Killed", "dlg": "My words ... the goal is fair."}, {"id": "battle_dead_10406_1", "desc": "Death", "dlg": "Cooking ... Still, I don't mean ... I'll follow them very soon ..."}, {"id": "choice_success_p_10406_2", "desc": "Check Passed", "dlg": "The shot is the main problem in Venice."}, {"id": "choice_fail_n_10406_1", "desc": "Check Failed", "dlg": "This is not my fault."}, {"id": "battle_clear_10406_1", "desc": "Victory Cry", "dlg": "The work is completed."}, {"id": "battle_clear_ex_10406_1", "desc": "Extra Conditions Fulfilled", "dlg": "Return to al-Kaiada by variable regulation."}, {"id": "battle_defeat_10406_1", "desc": "Defeat Wail", "dlg": "The mission failed and not failed."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10406_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Ryōshū. I.A.L. Hm? This isn't standard comms protocol?\nWhy Barry Paris?"
+    }, {
+      "id": "lobby_morning_10406_1",
+      "desc": "Morning Greeting",
+      "dlg": "You are in the morning?"
+    }, {
+      "id": "lobby_noon_10406_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I work with a full raider ... I like a cigarette taste."
+    }, {
+      "id": "lobby_night_10406_1",
+      "desc": "Evening Greeting",
+      "dlg": "If they have a new job salon every night ...?"
+    }, {
+      "id": "smalltalk_10406_1",
+      "desc": "Chatter #1",
+      "dlg": "\"The most important work for the team should be set up before cleaning.\""
+    }, {
+      "id": "smalltalk_10406_2",
+      "desc": "Chatter #2",
+      "dlg": "The following is the target company port."
+    }, {
+      "id": "smalltalk_10406_3",
+      "desc": "Chatter #3",
+      "dlg": "Fo"
+    }, {
+      "id": "smalltalk_10406_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "This whole shot is currently the most useful group."
+    }, {
+      "id": "smalltalk_10406_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Quit everyone who reduces knowledge as knowledge."
+    }, {
+      "id": "neglect_10406_1",
+      "desc": "Idle",
+      "dlg": "Hack ... I was a floor ... Saji ..."
+    }, {
+      "id": "gacksung_10406_1",
+      "desc": "Uptying",
+      "dlg": "It is believed that it was a report that was destroyed by the administration."
+    }, {
+      "id": "formation_10406_1",
+      "desc": "Deployment",
+      "dlg": "Finally, are I really a real job?"
+    }, {
+      "id": "battleentry_10406_1",
+      "desc": "Stage Entry",
+      "dlg": "A bowl in the room."
+    }, {
+      "id": "battle_select_10406_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Oh, did you get any suggestions?"
+    }, {
+      "id": "battle_endcommand_10406_1",
+      "desc": "Commencing Attack",
+      "dlg": "You explode and ruins are won."
+    }, {
+      "id": "battle_enemy_break_10406_1",
+      "desc": "Enemy Stagger",
+      "dlg": "In the future, I will verify your chapter through discrimination."
+    }, {
+      "id": "battle_break_10406_1",
+      "desc": "Staggered",
+      "dlg": "Toska ..."
+    }, {
+      "id": "battle_kill_10406_1",
+      "desc": "Enemy Killed",
+      "dlg": "My words ... the goal is fair."
+    }, {
+      "id": "battle_dead_10406_1",
+      "desc": "Death",
+      "dlg": "Cooking ... Still, I don't mean ... I'll follow them very soon ..."
+    }, {
+      "id": "choice_success_p_10406_2",
+      "desc": "Check Passed",
+      "dlg": "The shot is the main problem in Venice."
+    }, {
+      "id": "choice_fail_n_10406_1",
+      "desc": "Check Failed",
+      "dlg": "This is not my fault."
+    }, {
+      "id": "battle_clear_10406_1",
+      "desc": "Victory Cry",
+      "dlg": "The work is completed."
+    }, {
+      "id": "battle_clear_ex_10406_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Return to al-Kaiada by variable regulation."
+    }, {
+      "id": "battle_defeat_10406_1",
+      "desc": "Defeat Wail",
+      "dlg": "The mission failed and not failed."
+    }
+  ]
+}

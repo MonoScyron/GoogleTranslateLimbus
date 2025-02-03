@@ -642,7 +642,7 @@
     }, {
       "id": 1090701,
       "name": "Wisdom",
-      "desc": "<sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">DMM boring</link></u></color> The next round will be built in the next round after the device is over.\nJiv\nIf this is the device 3 [KnowledgeExplored] After the trip, it will eliminate the ideal negative effect for you."
+      "desc": "<sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">DMM boring</link></u></color> The next round will be built in the next round after the device is over.\nJiv\nIf this is the device 3 [KnowledgeExplored] after the trip, it will eliminate the ideal negative effect for you."
     }, {
       "id": 1090721,
       "name": "Missionary",
@@ -682,11 +682,11 @@
     }, {
       "id": 1120701,
       "name": "Bold is very expensive",
-      "desc": "-Mm is affected by name name <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u><sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u>(the best)\nDangerous equipment disappears when device disappears [Bullet] All <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Given by others <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Cost (loss of damage."
+      "desc": "-Mm is affected by name name <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u><sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u>(the best)\nDangerous equipment disappears when device disappears [Bullet] all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Given by others <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Cost (loss of damage."
     }, {
       "id": 1120702,
       "name": "Bold is very expensive",
-      "desc": "<style=\"highlight\">Activity: Start fighting with 7 ammunition</style>\n-Mm is affected by name name <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u><sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u>(the best)\n<style=\"highlight\"> When coin was killed during shooting <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> And the layout of others (25 x x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Cost indicators.</style>\nDangerous equipment disappears when device disappears [Bullet] Use all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Given by others <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Cost (loss of damage."
+      "desc": "<style=\"highlight\">Activity: Start fighting with 7 ammunition</style>\n-Mm is affected by name name <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Blood flow</color></link></u><sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u>(the best)\n<style=\"highlight\"> When coin was killed during shooting <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> And the layout of others (25 x x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Cost indicators.</style>\nDangerous equipment disappears when device disappears [Bullet] use all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Given by others <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">The safety of the injustice</color></link></u> Cost (loss of damage."
     }, {
       "id": 1120721,
       "name": "New breath",
@@ -710,7 +710,7 @@
     }, {
       "id": 1040631,
       "name": "Happy sign",
-      "desc": "<style=\"highlight\">-Mam at least one [Bullet] Price technology [Bullet] 3 workers (every appointment).</style>\nIf it is one or more ammunition, they use the last currency of injuries, and each target (FS) loses 50% loss."
+      "desc": "<style=\"highlight\">-Mam at least one [Bullet] price technology [Bullet] 3 workers (every appointment).</style>\nIf it is one or more ammunition, they use the last currency of injuries, and each target (FS) loses 50% loss."
     }, {
       "id": 1030601,
       "name": "Winzan Tattoos",
@@ -738,13 +738,13 @@
     }, {
       "id": 1070701,
       "name": "Tattoo",
-      "desc": "Get 1 [AttackUp] 1 [DefenseUp] Each attack (use this tool).\nSometimes it is weak than HP.\n-Hp 1% loss grows by 0.4%.",
-      "summary": "Get 1 [AttackUp] 1 [DefenseUp] Each device faces more damage every time."
+      "desc": "Get 1 [AttackUp] 1 [DefenseUp] each attack (use this tool).\nSometimes it is weak than HP.\n-Hp 1% loss grows by 0.4%.",
+      "summary": "Get 1 [AttackUp] 1 [DefenseUp] each device faces more damage every time."
     }, {
       "id": 1070711,
       "name": "Tattoo",
-      "desc": "Get 1 [AttackUp] 1 [DefenseUp] If there is a strange companion later, attack each time (use this device) (use this device).\nSometimes a small HP device can cause more risks.\nLoss of 1% to 1% to 1%",
-      "summary": "Get 1 [AttackUp] 1 [DefenseUp] Each device faces more damage every time."
+      "desc": "Get 1 [AttackUp] 1 [DefenseUp] if there is a strange companion later, attack each time (use this device) (use this device).\nSometimes a small HP device can cause more risks.\nLoss of 1% to 1% to 1%",
+      "summary": "Get 1 [AttackUp] 1 [DefenseUp] each device faces more damage every time."
     }, {
       "id": 1070721,
       "name": "Despair",
@@ -753,7 +753,7 @@
     }, {
       "id": 1070731,
       "name": "Despair",
-      "desc": "1 HP ~ HP Reduces the support of HP 1 HP 1 HP and large HP damage.\n--- 1% X 0.3% (up to 30%)",
+      "desc": "1 HP ~ HP Reduces the support of HP 1 HP 1 HP and large HP damage.\n--- 1% x 0.3% (up to 30%)",
       "summary": "1 HP ~ HP Reduces the support of HP 1 HP 1 HP and large HP damage."
     }, {
       "id": 1010701,
@@ -762,15 +762,15 @@
     }, {
       "id": 1010721,
       "name": "Enter Partner Ocoman",
-      "desc": "In constitutional tribunal, another friendly friend [Breath] Question 2 extra power (ie, Hamas) bleeding bleeding"
+      "desc": "In constitutional tribunal, another friendly friend [Breath] question 2 extra power (ie, Hamas) bleeding bleeding"
     }, {
       "id": 1110601,
       "name": "Denial",
-      "desc": "Avoid 1 [Agility] Next line (up to 3)"
+      "desc": "Avoid 1 [Agility] next line (up to 3)"
     }, {
       "id": 1110611,
       "name": "Denial",
-      "desc": "Avoid 1 [Agility] The next line will reduce the limit of this device (up to 3)"
+      "desc": "Avoid 1 [Agility] the next line will reduce the limit of this device (up to 3)"
     }, {
       "id": 1110621,
       "name": "Lawyer",
@@ -782,23 +782,23 @@
     }, {
       "id": 1100801,
       "name": "Blood",
-      "desc": "End Knowledge: Maximum Speed ​​+2. [Breath] Account (up to 6)"
+      "desc": "End Knowledge: Maximum Speed ​​+2. [Breath] account (up to 6)"
     }, {
       "id": 1100811,
       "name": "Blood",
-      "desc": "End Knowledge: Maximum Speed ​​+2. [Breath] Account (up to 6)\nBorba Start: If all friends 1 from all enemies 1 [PenetrateDamageUp]"
+      "desc": "End Knowledge: Maximum Speed ​​+2. [Breath] account (up to 6)\nBorba Start: If all friends 1 from all enemies 1 [PenetrateDamageUp]"
     }, {
       "id": 1100821,
       "name": "Very slowly",
-      "desc": "I get 1 for quick support [Agility] Next line (up to 5)"
+      "desc": "I get 1 for quick support [Agility] next line (up to 5)"
     }, {
       "id": 1110701,
       "name": "Macken acting",
-      "desc": "Currently, the main target security level 4 (receiver) (reciercher) (recipient) (recipient) (recipient) (recipient) (Receiver) (Receiver) (Receiver)To get (take) (pick) (pick) (receiver) receiving (receiver) [Combustion] PAndy / 2) [Breath] To attack (up to 20 in each round)"
+      "desc": "Currently, the main target security level 4 (receiver) (reciercher) (recipient) (recipient) (recipient) (recipient) (Receiver) (Receiver) (Receiver)To get (take) (pick) (pick) (receiver) receiving (receiver) [Combustion] PAndy / 2) [Breath] to attack (up to 20 in each round)"
     }, {
       "id": 1110711,
       "name": "Macken acting",
-      "desc": "Currently, the main target security level 4 (receiver) (reciercher) (recipient) (recipient) (recipient) (recipient) (Receiver) (Receiver) (Receiver)To get (take) (pick) (pick) (receiver) receiving (receiver) [Combustion] For the main purpose) [Breath] To attack (up to 20 in each round)"
+      "desc": "Currently, the main target security level 4 (receiver) (reciercher) (recipient) (recipient) (recipient) (recipient) (Receiver) (Receiver) (Receiver)To get (take) (pick) (pick) (receiver) receiving (receiver) [Combustion] for the main purpose) [Breath] to attack (up to 20 in each round)"
     }, {
       "id": 1110721,
       "name": "Job request",
@@ -818,11 +818,11 @@
     }, {
       "id": 1030721,
       "name": "Contact",
-      "desc": "The most co-worker [Aggro] Every time you touch the technological introduction of the enemy, you have 2 horses every time you have 2 horses for this device (without a reference tool. [Aggro] ……."
+      "desc": "The most co-worker [Aggro] every time you touch the technological introduction of the enemy, you have 2 horses every time you have 2 horses for this device (without a reference tool. [Aggro] ……."
     }, {
       "id": 1030731,
       "name": "Contact",
-      "desc": "The most co-worker [Aggro] For this purpose when 4 km 4 km is used for a device) [Aggro] ……."
+      "desc": "The most co-worker [Aggro] for this purpose when 4 km 4 km is used for a device) [Aggro] ……."
     }, {
       "id": 1060801,
       "name": "Agdive",
@@ -830,7 +830,7 @@
     }, {
       "id": 1060811,
       "name": "Agdive",
-      "desc": "If you throw the technique, you will hurt the level of technology.\nIf jobs are categorized than this unit when other employees cancel their skills [KnowledgeExplored] To get this device, this device + + + [KnowledgeExplored] Intersection"
+      "desc": "If you throw the technique, you will hurt the level of technology.\nIf jobs are categorized than this unit when other employees cancel their skills [KnowledgeExplored] to get this device, this device + + + [KnowledgeExplored] intersection"
     }, {
       "id": 1060821,
       "name": "Wisdom",
@@ -854,7 +854,7 @@
     }, {
       "id": 1080801,
       "name": "Hat",
-      "desc": "After the attack: If the enemy lost after attack\n-It [HeatedGasHarpoon] The next line.\nAt least seven SP.\n-You have the right to seal, then 5 fl."
+      "desc": "After the attack: If the enemy lost after attack\n-It [HeatedGasHarpoon] the next line.\nAt least seven SP.\n-You have the right to seal, then 5 fl."
     }, {
       "id": 1080802,
       "name": "Hunting",
@@ -862,7 +862,7 @@
     }, {
       "id": 1080811,
       "name": "Hat",
-      "desc": "After the attack: If the enemy after the attack,\n<style=\"highlight\">-4 position, + 2 account [OverHeatedGasHarpoon] The next line.</style>\n<style=\"highlight\">Two other friends, including the SPS, has recovered 7 pens.</style>\nIf the picoli co-worker is a friend, it's 5 flour.<style=\"highlight\">Then press each round 1 in the next poem.</style>"
+      "desc": "After the attack: If the enemy after the attack,\n<style=\"highlight\">-4 position, + 2 account [OverHeatedGasHarpoon] the next line.</style>\n<style=\"highlight\">Two other friends, including the SPS, has recovered 7 pens.</style>\nIf the picoli co-worker is a friend, it's 5 flour.<style=\"highlight\">Then press each round 1 in the next poem.</style>"
     }, {
       "id": 1080821,
       "name": "Captain",
@@ -874,7 +874,7 @@
     }, {
       "id": 1050801,
       "name": "Sword",
-      "desc": "In this meeting, the damage was canceled when the unit was rejected when the unit HP 0.\n\nWhen this device comes [Breath] Button / Technology or Cultivation of Monetary effects: 1 [Breath] Cut and + + + + [Breath] 2 Calculate various contacts [Breath] at least [Breath]\nIf this meeting has six or more employees, there are two or two people. [Breath] Call and + dish. [Breath] instead of"
+      "desc": "In this meeting, the damage was canceled when the unit was rejected when the unit HP 0.\n\nWhen this device comes [Breath] button / Technology or Cultivation of Monetary effects: 1 [Breath] cut and + + + + [Breath] 2 Calculate various contacts [Breath] at least [Breath]\nIf this meeting has six or more employees, there are two or two people. [Breath] Call and + dish. [Breath] instead of"
     }, {
       "id": 1050811,
       "name": "Sword",
@@ -1135,7 +1135,7 @@
       "id": 1100911,
       "name": "The smear",
       "desc": "This device is +11 [Combustion] Flexible<style=\"highlight\">Numbers</style> With their technology (active 6 times)\nIf it is unstable, for example, if it is in 0 ps, ​​the power of + (SP / 20) has been achieved.",
-      "summary": "More apps +1 [Combustion] A measure of technology and technology\nPartition Power"
+      "summary": "More apps +1 [Combustion] a measure of technology and technology\nPartition Power"
     }, {
       "id": 1100902,
       "name": "Unstable",
@@ -1245,12 +1245,12 @@
     }, {
       "id": 1021001,
       "name": "There is no diagnostic",
-      "desc": "Get 1 [Charge] Each time the device contains 10 cumulative sizes [Charge] Size in this meeting\n2+ [Charge], Business + ([Charge] X 3) high (up to 15%)\n\nAfter the murder, this unit and at least one friend [Charge] Account [Charge] Same account [Charge] (Most 3, use or receiving most of the priority societies [Charge] …….",
+      "desc": "Get 1 [Charge] Each time the device contains 10 cumulative sizes [Charge] Size in this meeting\n2+ [Charge], Business + ([Charge] x 3) high (up to 15%)\n\nAfter the murder, this unit and at least one friend [Charge] Account [Charge] Same account [Charge] (Most 3, use or receiving most of the priority societies [Charge] …….",
       "summary": "to get [Charge] Every 10 [Charge] Measurements and use\n2+ [Charge], Big risk\nThis item wins cooperative castle [Charge] Account"
     }, {
       "id": 1021011,
       "name": "There is no diagnostic",
-      "desc": "Get 1 [Charge] Each time the device contains 10 cumulative sizes [Charge] Size in this meeting\n2+ [Charge], Business + ([Charge] X 3) high (up to 15%)\n<style=\"highlight\">- If the goal is less than 50% ([Charge] X 5) More damage (up to 25%)</style>\n\nDeath that is loneliness and<style=\"highlight\">2 employees</style> And and [Charge] Account [Charge] Same account<style=\"highlight\">……. [Charge] + 1)</style> the best<style=\"highlight\">My</style>The preference of consumption or approval [Charge] …….",
+      "desc": "Get 1 [Charge] Each time the device contains 10 cumulative sizes [Charge] Size in this meeting\n2+ [Charge], Business + ([Charge] x 3) high (up to 15%)\n<style=\"highlight\">- If the goal is less than 50% ([Charge] x 5) More damage (up to 25%)</style>\n\nDeath that is loneliness and<style=\"highlight\">2 employees</style> And and [Charge] Account [Charge] Same account<style=\"highlight\">……. [Charge] + 1)</style> the best<style=\"highlight\">My</style>The preference of consumption or approval [Charge] …….",
       "summary": "to get [Charge] Every 10 [Charge] Measurements and use\n2+ [Charge], Big risk\nThis unit and two friends meet the palace [Charge] Account"
     }, {
       "id": 1021021,
@@ -1301,12 +1301,12 @@
     }, {
       "id": 1041001,
       "name": "Spider's head / Pain",
-      "desc": "When the connection enters the enemy [RedEyeFirst] that's it\nMaintenance + () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() ()) ) () () () () () () () () () () () () ) [RedEyeFirst]/ 1)% wound%\n- And if you have a goal [Laceration] 1, 1 [RedEyeFirst] (3) Number 3)\n\nWhen the connection enters the enemy [PenanceFirst] that's it\nMaintenance + () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() ()) ) () () () () () () () () () () () () ) [PenanceFirst]/ 1)% wound%\n20+ Spl-O, 1 Success [PenanceFirst] (3) Number 3)",
+      "desc": "When the connection enters the enemy [RedEyeFirst] that's it\nMaintenance + ([RedEyeFirst]/ 1)% wound%\n- And if you have a goal [Laceration] 1, 1 [RedEyeFirst] (3) Number 3)\n\nWhen the connection enters the enemy [PenanceFirst] that's it\nMaintenance + ([PenanceFirst]/ 1)% wound%\n20+ Spl-O, 1 Success [PenanceFirst] (3) Number 3)",
       "summary": "Mint that harms red eyes.\nMetal connection receives data from many damage from 20+ SPP."
     }, {
       "id": 1041011,
       "name": "Spider's head / Pain",
-      "desc": "When the connection enters the enemy [RedEyeFirst] that's it\nMaintenance + () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() ()) ) () () () () () () () () () () () () ) [RedEyeFirst]/ 1)% wound%\n<style=\"highlight\">- The speed of this device is 3 or faster if the target is 3 or more, enter 1 +. [RedEyeFirst]/ 1)% wound%</style>\n- And if you have a goal [Laceration] 1, 1 [RedEyeFirst] (3) Number 3)\n\nWhen the connection enters the enemy [PenanceFirst] that's it\nMaintenance + () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() ()) ) () () () () () () () () () () () () ) [PenanceFirst]/ 1)% wound%\n<style=\"highlight\">If target-3 is smaller than this device, enter 1 input ([PenanceFirst]/ 2) Other injuries (SP: 0 goal)</style>\n20+ Spl-O, 1 Success [PenanceFirst] (3) Number 3)\n\n<style=\"highlight\">If you kill the enemy, you get 1 [PenanceFirst] (Up to 3)</style>",
+      "desc": "When the connection enters the enemy [RedEyeFirst] that's it\nMaintenance + ([RedEyeFirst]/ 1)% wound%\n<style=\"highlight\">- The speed of this device is 3 or faster if the target is 3 or more, enter 1 +. [RedEyeFirst]/ 1)% wound%</style>\n- And if you have a goal [Laceration] 1, 1 [RedEyeFirst] (3) Number 3)\n\nWhen the connection enters the enemy [PenanceFirst] that's it\nMaintenance + ([PenanceFirst]/ 1)% wound%\n<style=\"highlight\">If target-3 is smaller than this device, enter 1 input ([PenanceFirst]/ 2) Other injuries (SP: 0 goal)</style>\n20+ Spl-O, 1 Success [PenanceFirst] (3) Number 3)\n\n<style=\"highlight\">If you kill the enemy, you get 1 [PenanceFirst] (Up to 3)</style>",
       "summary": "Mint that harms red eyes.\nMetal connection receives data from many damage from 20+ SPP.\nWhen the enemy was killed, he found an indicator (up to 3)"
     }, {
       "id": 1041002,
@@ -1342,12 +1342,12 @@
       "id": 1091001,
       "name": "Quick delivery",
       "desc": "Start: 6+ is a device or it is a device [Agility], With ('' ') [DevyatDimensionalSack]/ 2) the maximum HP dial unit (up to 15%)\n\nSave after returning [ParryingResultUp] 2 colleagues (the first priority unit, order)",
-      "summary": "\"'\" (' '[DevyatDimensionalSack]/ 2) is high in the percentage of HP ed.\nSave after returning [ParryingResultUp] 2 random friends"
+      "summary": "([DevyatDimensionalSack]/ 2) is high in the percentage of HP ed.\nSave after returning [ParryingResultUp] 2 random friends"
     }, {
       "id": 1091011,
       "name": "Quick delivery",
       "desc": "Start: 6+ is a device or it is a device [Agility] to get<style=\"highlight\">……. [DevyatDimensionalSack] By%</style> This HP device is used as Shield (maximum value)<style=\"highlight\">20%</style>…….\n\nSave after returning [ParryingResultUp] 2 colleagues (the first priority unit, order)\n<style=\"highlight\">-15 or more add-ons 1 [DevyatDimensionalSack] Self (up to two tires)</style>",
-      "summary": "\"'\" (' '[DevyatDimensionalSack] This HP device is used as Shield\nSave after returning [ParryingResultUp] 2 random friends"
+      "summary": "([DevyatDimensionalSack] This HP device is used as Shield\nSave after returning [ParryingResultUp] 2 random friends"
     }, {
       "id": 1091002,
       "name": "Take time for lame and marriageTook!",

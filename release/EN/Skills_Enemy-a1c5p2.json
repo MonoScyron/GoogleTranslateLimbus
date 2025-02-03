@@ -48,7 +48,7 @@
         {
           "level": 1,
           "name": "Fear",
-          "desc": "If the goal is less than 20%, this attack will be treated 20% X after the attack.",
+          "desc": "If the goal is less than 20%, this attack will be treated 20% x after the attack.",
           "coinlist": [
             {
               "coindescs": [

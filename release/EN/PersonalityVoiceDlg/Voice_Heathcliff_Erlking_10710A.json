@@ -1,1 +1,117 @@
-{"dataList": [{"id": "get_10710_1_A", "desc": "Identity Acquisition", "dlg": "What is the fireworks that burn me? \nJiv"}, {"id": "lobby_morning_10710_1_A", "desc": "Morning Greeting", "dlg": "Get up in the morning until the sun becomes in the sun."}, {"id": "lobby_noon_10710_1", "desc": "Afternoon Greeting", "dlg": "They should provide \"young master\" for the tea."}, {"id": "lobby_night_10710_1_A", "desc": "Evening Greeting", "dlg": "She never contacted me for my dinner because I didn't return back.\n... See if I get back can I laugh."}, {"id": "smalltalk_10710_1_A", "desc": "Chatter #1", "dlg": "Good ... if you forget about a person's importance, you're recently using?\nBut I think the \"promise\" is near. \""}, {"id": "smalltalk_10710_2_A", "desc": "Chatter #2", "dlg": "It's very quiet in the forest.\nRemember in this silence ... arise before going."}, {"id": "smalltalk_10710_3", "desc": "Chatter #3", "dlg": "A woman who took care of a child for me.\nBut this time I did it and I brought it."}, {"id": "smalltalk_10710_4", "desc": "Post-Uptie Chat 1", "dlg": "Do you have pressure when you are angry?\nIt's not the purpose of all rumors and you don't have yet.\nIf it was here, I was amazed."}, {"id": "smalltalk_10710_5_A", "desc": "Post-Uptie Chat 2", "dlg": "In some cases, I will solve this problem.\nIf you want to leave, I think I know the nest cave, but it does not change."}, {"id": "neglect_10710_1_A", "desc": "Idle", "dlg": "A glass transparent and lean knife."}, {"id": "gacksung_10710_1", "desc": "Uptying", "dlg": "The enemy party's days have increased the victim's day."}, {"id": "formation_10710_1_A", "desc": "Deployment", "dlg": "This folding noise should be storm."}, {"id": "battleentry_10710_1", "desc": "Stage Entry", "dlg": "This wild plant ..."}, {"id": "battle_select_10710_1", "desc": "Viewed in Battle 1", "dlg": "(Smiling mad)"}, {"id": "battle_select_10710_2", "desc": "Viewed in Battle 2", "dlg": "(Smiling mad)"}, {"id": "battle_select_10710_3", "desc": "Viewed in Battle", "dlg": "(Smiling mad)"}, {"id": "battle_endcommand_10710_1", "desc": "Commencing Attack", "dlg": "... ready to apply ...!"}, {"id": "battle_enemy_break_10710_1", "desc": "Enemy Staggered", "dlg": "In the grove ..."}, {"id": "battle_break_10710_1", "desc": "Staggered", "dlg": "once again!"}, {"id": "battle_kill_10710_1", "desc": "On Kill 1", "dlg": "... signed the funeral."}, {"id": "battle_kill_10710_2", "desc": "On Kill 2", "dlg": "... you scream."}, {"id": "battle_kill_10710_3", "desc": "On Kill 3", "dlg": "... you are a crack."}, {"id": "battle_dead_10710_1", "desc": "Death", "dlg": "Even after death ... yes ... yes ... yes ... yes ... yes ..."}, {"id": "choice_success_p_10710_2", "desc": "Check Passed", "dlg": "After the race ..."}, {"id": "choice_fail_n_10710_1", "desc": "Check Failed", "dlg": "Hunter ... Nevertheless ..."}, {"id": "battle_clear_10710_1_A", "desc": "Victory Cry", "dlg": "My wilders in March."}, {"id": "battle_clear_ex_10710_1_A", "desc": "Extra Condition Fulfilled", "dlg": "... are you ready?"}, {"id": "battle_defeat_10710_1", "desc": "Defeat Wail", "dlg": "Sorry, your confusion ... minimum."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10710_1_A",
+      "desc": "Identity Acquisition",
+      "dlg": "What is the fireworks that burn me? \nJiv"
+    }, {
+      "id": "lobby_morning_10710_1_A",
+      "desc": "Morning Greeting",
+      "dlg": "Get up in the morning until the sun becomes in the sun."
+    }, {
+      "id": "lobby_noon_10710_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "They should provide \"young master\" for the tea."
+    }, {
+      "id": "lobby_night_10710_1_A",
+      "desc": "Evening Greeting",
+      "dlg": "She never contacted me for my dinner because I didn't return back.\n... See if I get back can I laugh."
+    }, {
+      "id": "smalltalk_10710_1_A",
+      "desc": "Chatter #1",
+      "dlg": "Good ... if you forget about a person's importance, you're recently using?\nBut I think the \"promise\" is near. \""
+    }, {
+      "id": "smalltalk_10710_2_A",
+      "desc": "Chatter #2",
+      "dlg": "It's very quiet in the forest.\nRemember in this silence ... arise before going."
+    }, {
+      "id": "smalltalk_10710_3",
+      "desc": "Chatter #3",
+      "dlg": "A woman who took care of a child for me.\nBut this time I did it and I brought it."
+    }, {
+      "id": "smalltalk_10710_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Do you have pressure when you are angry?\nIt's not the purpose of all rumors and you don't have yet.\nIf it was here, I was amazed."
+    }, {
+      "id": "smalltalk_10710_5_A",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "In some cases, I will solve this problem.\nIf you want to leave, I think I know the nest cave, but it does not change."
+    }, {
+      "id": "neglect_10710_1_A",
+      "desc": "Idle",
+      "dlg": "A glass transparent and lean knife."
+    }, {
+      "id": "gacksung_10710_1",
+      "desc": "Uptying",
+      "dlg": "The enemy party's days have increased the victim's day."
+    }, {
+      "id": "formation_10710_1_A",
+      "desc": "Deployment",
+      "dlg": "This folding noise should be storm."
+    }, {
+      "id": "battleentry_10710_1",
+      "desc": "Stage Entry",
+      "dlg": "This wild plant ..."
+    }, {
+      "id": "battle_select_10710_1",
+      "desc": "Viewed in Battle 1",
+      "dlg": "(Smiling mad)"
+    }, {
+      "id": "battle_select_10710_2",
+      "desc": "Viewed in Battle 2",
+      "dlg": "(Smiling mad)"
+    }, {
+      "id": "battle_select_10710_3",
+      "desc": "Viewed in Battle",
+      "dlg": "(Smiling mad)"
+    }, {
+      "id": "battle_endcommand_10710_1",
+      "desc": "Commencing Attack",
+      "dlg": "... ready to apply ...!"
+    }, {
+      "id": "battle_enemy_break_10710_1",
+      "desc": "Enemy Staggered",
+      "dlg": "In the grove ..."
+    }, {
+      "id": "battle_break_10710_1",
+      "desc": "Staggered",
+      "dlg": "once again!"
+    }, {
+      "id": "battle_kill_10710_1",
+      "desc": "On Kill 1",
+      "dlg": "... signed the funeral."
+    }, {
+      "id": "battle_kill_10710_2",
+      "desc": "On Kill 2",
+      "dlg": "... you scream."
+    }, {
+      "id": "battle_kill_10710_3",
+      "desc": "On Kill 3",
+      "dlg": "... you are a crack."
+    }, {
+      "id": "battle_dead_10710_1",
+      "desc": "Death",
+      "dlg": "Even after death ... yes ... yes ... yes ... yes ... yes ..."
+    }, {
+      "id": "choice_success_p_10710_2",
+      "desc": "Check Passed",
+      "dlg": "After the race ..."
+    }, {
+      "id": "choice_fail_n_10710_1",
+      "desc": "Check Failed",
+      "dlg": "Hunter ... Nevertheless ..."
+    }, {
+      "id": "battle_clear_10710_1_A",
+      "desc": "Victory Cry",
+      "dlg": "My wilders in March."
+    }, {
+      "id": "battle_clear_ex_10710_1_A",
+      "desc": "Extra Condition Fulfilled",
+      "dlg": "... are you ready?"
+    }, {
+      "id": "battle_defeat_10710_1",
+      "desc": "Defeat Wail",
+      "dlg": "Sorry, your confusion ... minimum."
+    }
+  ]
+}

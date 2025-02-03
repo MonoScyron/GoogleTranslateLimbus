@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "816401_success_1",
-      "content": "<color=#ebcaa2>[{0}]</color> ……. {2} {1}/% And% {4} {3} The rest of the meeting /%"
+      "content": "<color=#ebcaa2>[{0}]</color> ……. {2} {1}/% And% {4} {3} the rest of the meeting /%"
     }, {
       "id": "816401_success_2",
-      "content": "<color=#ebcaa2>All friends {1} {0} The rest of the meeting /%</color>"
+      "content": "<color=#ebcaa2>All friends {1} {0} the rest of the meeting /%</color>"
     }, {
       "id": "816401_success_3",
       "content": "Exia<color=#ebcaa2>[{0}]</color>"
     }, {
       "id": "816401_failure_1",
-      "content": "<color=#ebcaa2>[{0}]</color> ……. {2} {1}/% And% {4} {3} The rest of the meeting /%"
+      "content": "<color=#ebcaa2>[{0}]</color> ……. {2} {1}/% And% {4} {3} the rest of the meeting /%"
     }, {
       "id": "816401_failure_2",
-      "content": "<color=#ebcaa2>All friends {1} {0} The rest of the meeting /%</color>"
+      "content": "<color=#ebcaa2>All friends {1} {0} the rest of the meeting /%</color>"
     }, {
       "id": "816401_failure_3",
       "content": "Exia<color=#ebcaa2>[{0}]</color>"

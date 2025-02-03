@@ -876,7 +876,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same[Vibration] The purpose of the measurement) / 2) (maximum value) <style=\"highlight\">Blood</style>……."
+                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same [Vibration] The purpose of the measurement) / 2) (maximum value) <style=\"highlight\">Blood</style>……."
                 }
               ]
             }, {
@@ -895,7 +895,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same[Vibration] The target of measure) (maximum value) <style=\"highlight\">4</style>……."
+                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same [Vibration] The target of measure) (maximum value) <style=\"highlight\">4</style>……."
                 }
               ]
             }, {
@@ -993,7 +993,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Numbers 2"
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Numbers 2"
                 }
               ]
             }
@@ -1018,7 +1018,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Account <style=\"highlight\">1</style>"
+                  "desc": "[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Account <style=\"highlight\">1</style>"
                 }
               ]
             }
@@ -1031,12 +1031,12 @@
         {
           "level": 1,
           "name": "Water",
-          "desc": "[WhenUse] 2 get (receive[Vibration] Self-account using HP Shield (5)",
+          "desc": "[WhenUse] 2 get (receive [Vibration] Self-account using HP Shield 5)",
           "coinlist": [{}]
         }, {
           "level": 4,
           "name": "Water",
-          "desc": "[WhenUse] 2 get (receive[Vibration] Faculty with HP Shield) <style=\"highlight\">10</style>…….",
+          "desc": "[WhenUse] 2 get (receive [Vibration] Faculty with HP Shield) <style=\"highlight\">10</style>…….",
           "coinlist": [{}]
         }
       ]
@@ -1086,7 +1086,7 @@
         }, {
           "level": 4,
           "name": "Both are closed",
-          "desc": "7+ [RedEyeFirst], Call ++ 1\n7+ [PenanceFirst]Clash <style=\"highlight\">…….</style>",
+          "desc": "7+ [RedEyeFirst], Call ++ 1\n7+ [PenanceFirst] Clash <style=\"highlight\">…….</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1181,7 +1181,7 @@
                 {
                   "desc": "[OnSucceedAttack] to get [RedEyeFirst] Equal foundation ([Laceration] With expectations /<style=\"highlight\">There is no way</style>(Maximum value) <style=\"highlight\">Blood</style>……."
                 }, {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 7+ [RedEyeFirst]1, 1 [Agility] Next poem (each article 2 times)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 7+ [RedEyeFirst] 1, 1 [Agility] Next poem (each article 2 times)</style>"
                 }
               ]
             }
@@ -1336,7 +1336,7 @@
                 {
                   "desc": "Agreement <style=\"highlight\">+ 4%</style> Every wounds are high [RedEyeFirst] And and [PenanceFirst] Maximum <style=\"highlight\">160%</style>……."
                 }, {
-                  "desc": "[OnSucceedAttack] Increase the lowest HP and mate <style=\"highlight\">…….[PenanceFirst] Cost) %%</style> HP-maximum HP of all equipment\nExtra items for two reasons."
+                  "desc": "[OnSucceedAttack] Increase the lowest HP and mate <style=\"highlight\">……. [PenanceFirst] Cost) %%</style> HP-maximum HP of all equipment\nExtra items for two reasons."
                 }, {
                   "desc": "[OnSucceedAttack] Use the financial ESP for the treatment of your own and colleagues ([PenanceFirst] Consumption- <style=\"highlight\">My</style>Ticket sales\nExtra items for two reasons."
                 }, {

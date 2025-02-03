@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10102_1", "desc": "Identity Acquisition", "dlg": "You don't have to hide a secret for me."}, {"id": "lobby_morning_10102_1", "desc": "Morning Greeting", "dlg": "The rumor tomorrow."}, {"id": "lobby_noon_10102_1", "desc": "Afternoon Greeting", "dlg": "Airline has been released without the sun limits and have many secrets in the world."}, {"id": "lobby_night_10102_1", "desc": "Evening Greeting", "dlg": "The word rolls in the dark."}, {"id": "smalltalk_10102_1", "desc": "Chatter #1", "dlg": "One day, if I had a chance, I would like to study your head."}, {"id": "smalltalk_10102_2", "desc": "Chatter #2", "dlg": "There is no weak."}, {"id": "smalltalk_10102_3", "desc": "Chatter #3", "dlg": "A lot of information can be provided at small points."}, {"id": "smalltalk_10102_4", "desc": "Post-Uptie Chat 1", "dlg": "If you want to know your past, ask me ... I don't know."}, {"id": "smalltalk_10102_5", "desc": "Post-Uptie Chat 2", "dlg": "So far I have to end eagerness to find the answer."}, {"id": "neglect_10102_1", "desc": "Idle", "dlg": "They can tell a small room."}, {"id": "gacksung_10102_1", "desc": "Uptying", "dlg": "I. According to hope."}, {"id": "formation_10102_1", "desc": "Deployment", "dlg": "Time to make your knowledge rich."}, {"id": "battleentry_10102_1", "desc": "Stage Entry", "dlg": "What should I learn?"}, {"id": "battle_select_10102_1", "desc": "Viewed in Battle", "dlg": "What is this problem?"}, {"id": "battle_endcommand_10102_1", "desc": "Commencing Attack", "dlg": "I have completed my education."}, {"id": "battle_enemy_break_10102_1", "desc": "Enemy Stagger", "dlg": "Is not secure."}, {"id": "battle_break_10102_1", "desc": "Staggered", "dlg": "Oh ..."}, {"id": "battle_kill_10102_1", "desc": "Enemy Killed", "dlg": "Call it quietly."}, {"id": "battle_allydead_10102_1", "desc": "Ally Death", "dlg": "This is not a very beautiful position."}, {"id": "choice_success_p_10102_1", "desc": "Check Passed", "dlg": "That is a gift."}, {"id": "choice_fail_n_10102_1", "desc": "Check Failed", "dlg": "This is an unexpected thing ..."}, {"id": "battle_clear_10102_1", "desc": "Victory Cry", "dlg": "I have successfully analyzed the enemy's actions."}, {"id": "battle_clear_ex_10102_1", "desc": "Extra Conditions Fulfilled", "dlg": "It is using their weaknesses effectively."}, {"id": "battle_defeat_10102_1", "desc": "Defeat Wail", "dlg": "You should check other ways ..."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10102_1",
+      "desc": "Identity Acquisition",
+      "dlg": "You don't have to hide a secret for me."
+    }, {
+      "id": "lobby_morning_10102_1",
+      "desc": "Morning Greeting",
+      "dlg": "The rumor tomorrow."
+    }, {
+      "id": "lobby_noon_10102_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Airline has been released without the sun limits and have many secrets in the world."
+    }, {
+      "id": "lobby_night_10102_1",
+      "desc": "Evening Greeting",
+      "dlg": "The word rolls in the dark."
+    }, {
+      "id": "smalltalk_10102_1",
+      "desc": "Chatter #1",
+      "dlg": "One day, if I had a chance, I would like to study your head."
+    }, {
+      "id": "smalltalk_10102_2",
+      "desc": "Chatter #2",
+      "dlg": "There is no weak."
+    }, {
+      "id": "smalltalk_10102_3",
+      "desc": "Chatter #3",
+      "dlg": "A lot of information can be provided at small points."
+    }, {
+      "id": "smalltalk_10102_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "If you want to know your past, ask me ... I don't know."
+    }, {
+      "id": "smalltalk_10102_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "So far I have to end eagerness to find the answer."
+    }, {
+      "id": "neglect_10102_1",
+      "desc": "Idle",
+      "dlg": "They can tell a small room."
+    }, {
+      "id": "gacksung_10102_1",
+      "desc": "Uptying",
+      "dlg": "I. According to hope."
+    }, {
+      "id": "formation_10102_1",
+      "desc": "Deployment",
+      "dlg": "Time to make your knowledge rich."
+    }, {
+      "id": "battleentry_10102_1",
+      "desc": "Stage Entry",
+      "dlg": "What should I learn?"
+    }, {
+      "id": "battle_select_10102_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What is this problem?"
+    }, {
+      "id": "battle_endcommand_10102_1",
+      "desc": "Commencing Attack",
+      "dlg": "I have completed my education."
+    }, {
+      "id": "battle_enemy_break_10102_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Is not secure."
+    }, {
+      "id": "battle_break_10102_1",
+      "desc": "Staggered",
+      "dlg": "Oh ..."
+    }, {
+      "id": "battle_kill_10102_1",
+      "desc": "Enemy Killed",
+      "dlg": "Call it quietly."
+    }, {
+      "id": "battle_allydead_10102_1",
+      "desc": "Ally Death",
+      "dlg": "This is not a very beautiful position."
+    }, {
+      "id": "choice_success_p_10102_1",
+      "desc": "Check Passed",
+      "dlg": "That is a gift."
+    }, {
+      "id": "choice_fail_n_10102_1",
+      "desc": "Check Failed",
+      "dlg": "This is an unexpected thing ..."
+    }, {
+      "id": "battle_clear_10102_1",
+      "desc": "Victory Cry",
+      "dlg": "I have successfully analyzed the enemy's actions."
+    }, {
+      "id": "battle_clear_ex_10102_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "It is using their weaknesses effectively."
+    }, {
+      "id": "battle_defeat_10102_1",
+      "desc": "Defeat Wail",
+      "dlg": "You should check other ways ..."
+    }
+  ]
+}

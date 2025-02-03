@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Chest",
-          "desc": "[WhenUse] If your goal is. [Laceration]4 ticket sales",
+          "desc": "[WhenUse] If your goal is. [Laceration] 4 ticket sales",
           "coinlist": [
             {
               "coindescs": [
@@ -37,7 +37,7 @@
                 {
                   "desc": "[OnSucceedAttack] 5 apps [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -45,7 +45,7 @@
                 {
                   "desc": "[OnSucceedAttack] 5 apps [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }
@@ -58,7 +58,7 @@
         {
           "level": 1,
           "name": "Head",
-          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "desc": "[WinDuel] If your goal is. [Laceration] 1, 1 [Enhancement] Valley",
           "coinlist": [
             {
               "coindescs": [
@@ -104,7 +104,7 @@
         {
           "level": 1,
           "name": "Leave rules",
-          "desc": "[WhenUse] If your goal is. [Laceration]4 ticket sales",
+          "desc": "[WhenUse] If your goal is. [Laceration] 4 ticket sales",
           "coinlist": [
             {
               "coindescs": [
@@ -135,7 +135,7 @@
                 {
                   "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -143,7 +143,7 @@
                 {
                   "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }
@@ -156,7 +156,7 @@
         {
           "level": 1,
           "name": "Punishment",
-          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "desc": "[WinDuel] If your goal is. [Laceration] 1, 1 [Enhancement] Valley",
           "coinlist": [
             {
               "coindescs": [
@@ -202,7 +202,7 @@
         {
           "level": 1,
           "name": "Good",
-          "desc": "[WinDuel] The target is 5+ [Laceration]Repeat this procedure (once)",
+          "desc": "[WinDuel] The target is 5+ [Laceration] Repeat this procedure (once)",
           "coinlist": [
             {
               "coindescs": [
@@ -235,7 +235,7 @@
                 {
                   "desc": "[OnSucceedAttack] Crisis [Burst] Equal foundation ([Laceration]/ 2) Goal"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]Operation 7s"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] Operation 7s"
                 }
               ]
             }
@@ -255,7 +255,7 @@
                 {
                   "desc": "[OnSucceedAttack] 8 Application [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -265,7 +265,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] If your goal is. [Laceration], 10b Body"
                 }, {
-                  "desc": "[OnSucceedAttackHead] The target is 5+ [Laceration]Repeat this procedure (once)"
+                  "desc": "[OnSucceedAttackHead] The target is 5+ [Laceration] Repeat this procedure (once)"
                 }
               ]
             }
@@ -278,7 +278,7 @@
         {
           "level": 1,
           "name": "Migration",
-          "desc": "[OnSucceedEvade] to get [Enhancement] (Up to 1)",
+          "desc": "[OnSucceedEvade] To get [Enhancement] (Up to 1)",
           "coinlist": [
             {
               "coindescs": [
@@ -333,7 +333,7 @@
                 {
                   "desc": "[OnSucceedAttack] 5 apps [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -341,7 +341,7 @@
                 {
                   "desc": "[OnSucceedAttack] 5 apps [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -360,7 +360,7 @@
         {
           "level": 1,
           "name": "Strong",
-          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "desc": "[WinDuel] If your goal is. [Laceration] 1, 1 [Enhancement] Valley",
           "coinlist": [
             {
               "coindescs": [
@@ -451,7 +451,7 @@
                 {
                   "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -459,7 +459,7 @@
                 {
                   "desc": "[OnSucceedAttack] App +2 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration]And the body"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration] And the body"
                 }
               ]
             }, {
@@ -478,7 +478,7 @@
         {
           "level": 1,
           "name": "Optimism",
-          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley",
+          "desc": "[WinDuel] If your goal is. [Laceration] 1, 1 [Enhancement] Valley",
           "coinlist": [
             {
               "coindescs": [
@@ -532,7 +532,7 @@
         {
           "level": 1,
           "name": "Color",
-          "desc": "[WinDuel] The target is 5+ [Laceration]Use this method for each enemy after attack",
+          "desc": "[WinDuel] The target is 5+ [Laceration] Use this method for each enemy after attack",
           "coinlist": [
             {
               "coindescs": [
@@ -626,7 +626,7 @@
         {
           "level": 1,
           "name": "Blood flows",
-          "desc": "[WinDuel] If your goal is. [Laceration]1, 1 [Enhancement] Valley\n[WinDuel] If the goal is 10+ [Laceration]1, 1 [Enhancement] Valley",
+          "desc": "[WinDuel] If your goal is. [Laceration] 1, 1 [Enhancement] Valley\n[WinDuel] If the goal is 10+ [Laceration] 1, 1 [Enhancement] Valley",
           "coinlist": [
             {
               "coindescs": [
@@ -660,7 +660,7 @@
         {
           "level": 1,
           "name": "Migration",
-          "desc": "[OnSucceedEvade] to get [Enhancement] (the best)",
+          "desc": "[OnSucceedEvade] To get [Enhancement] (the best)",
           "coinlist": [
             {
               "coindescs": [
@@ -704,7 +704,7 @@
         {
           "level": 1,
           "name": "Normal attack 2",
-          "desc": "[WhenUse] If your goal is. [AttackDown]Processing 20% ​​damaged and increased.",
+          "desc": "[WhenUse] If your goal is. [AttackDown] Processing 20% ​​damaged and increased.",
           "coinlist": [
             {
               "coindescs": [
@@ -851,13 +851,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If your goal is. [AttackDown]20% loss of contract damage"
+                  "desc": "[OnSucceedAttack] If your goal is. [AttackDown] 20% loss of contract damage"
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If your goal is. [AttackDown]20% loss of contract damage"
+                  "desc": "[OnSucceedAttack] If your goal is. [AttackDown] 20% loss of contract damage"
                 }
               ]
             }

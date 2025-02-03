@@ -6,56 +6,56 @@
       "min": "According to the measure, the fight was reduced.\n<size=95%>(This is a default value {0}, Pulled {1} 1 After the opposite of all exceptions)</size>"
     }, {
       "id": "OnKillEnemyAsLevelRatioMultiply",
-      "add": "To extend {0} The unit beat the enemy over the device.",
-      "min": "Enter {0} The unit beat the enemy over the device."
+      "add": "To extend {0} the unit beat the enemy over the device.",
+      "min": "Enter {0} the unit beat the enemy over the device."
     }, {
       "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
-      "add": "To extend {0} Kills a person who kills a person or equal to it.",
-      "min": "Enter {0} Kills a person who kills a person or equal to it."
+      "add": "To extend {0} kills a person who kills a person or equal to it.",
+      "min": "Enter {0} kills a person who kills a person or equal to it."
     }, {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
       "add": "Loss of struggles according to the battle of measurement\n<size=95%>(This is a default value {0}, Pulled {1} 1 After the opposite of all exceptions)</size>",
       "min": "After the struggle, conflict on the basis of the fight.\n<size=95%>(This is a default value {0}, Pulled {1} 1 After the opposite of all exceptions)</size>"
     }, {
       "id": "OnDieAllyAsLevelRatio",
-      "add": "If the level of failure is more or the same for the device\nThe surface of the water\n<size=95%>(This is a default value {0}, Pulled {0} Depends on the level)</size>",
-      "min": "If the level of failure is more or the same for the device\nComment\n<size=95%>(This is a default value {0}, Pulled {0} Depends on the level)</size>"
+      "add": "If the level of failure is more or the same for the device\nThe surface of the water\n<size=95%>(This is a default value {0}, Pulled {0} depends on the level)</size>",
+      "min": "If the level of failure is more or the same for the device\nComment\n<size=95%>(This is a default value {0}, Pulled {0} depends on the level)</size>"
     }, {
       "id": "OnRoundStartAfterEvent",
-      "add": "Roses {0} The turn in the beginning",
-      "min": "Less {0} The turn in the beginning"
+      "add": "Roses {0} the turn in the beginning",
+      "min": "Less {0} the turn in the beginning"
     }, {
       "id": "OnKillEnemyMp",
-      "add": "To extend {0} He loses after this unit, regardless of the level level.",
-      "min": "Enter {0} He loses after this unit, regardless of the level level."
+      "add": "To extend {0} he loses after this unit, regardless of the level level.",
+      "min": "Enter {0} he loses after this unit, regardless of the level level."
     }, {
       "id": "OnDieAllyMp",
-      "add": "If a support is lost, please provide {0} Regardless of regardless of the level",
-      "min": "If the employee is defeated, it will fall {0} Regardless of regardless of the level"
+      "add": "If a support is lost, please provide {0} regardless of regardless of the level",
+      "min": "If the employee is defeated, it will fall {0} regardless of regardless of the level"
     }, {
       "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
-      "add": "To extend {0} Because this unit is more, there is no support between the enemy",
-      "min": "Enter {0} When AIDS attacked, he beat the enemy when he defeated the enemy."
+      "add": "To extend {0} because this unit is more, there is no support between the enemy",
+      "min": "Enter {0} when AIDS attacked, he beat the enemy when he defeated the enemy."
     }, {
       "id": "OnDieBladeLineageAlly",
-      "add": "If every friend loses a friend's friend {0} Regardless of regardless of the level",
-      "min": "If every friend removes the sword of a friend, he is defeated. {0} Regardless of regardless of the level"
+      "add": "If every friend loses a friend's friend {0} regardless of regardless of the level",
+      "min": "If every friend removes the sword of a friend, he is defeated. {0} regardless of regardless of the level"
     }, {
       "id": "OnWinDuelLessMpTarget",
-      "add": "Increased {0} After this unit, after touching the enemy to the enemy of SP",
-      "min": "To reduce {0} After this unit, after touching the enemy to the enemy of SP"
+      "add": "Increased {0} after this unit, after touching the enemy to the enemy of SP",
+      "min": "To reduce {0} after this unit, after touching the enemy to the enemy of SP"
     }, {
       "id": "OnLoseDuelLessMpTarget",
-      "add": "Increased {0} After losing less than SP.",
-      "min": "To reduce {0} After losing less than SP."
+      "add": "Increased {0} after losing less than SP.",
+      "min": "To reduce {0} after losing less than SP."
     }, {
       "id": "OnKillEnemyByOtherAlly",
-      "add": "To extend {0} Regardless of the maintenance levels of care, support and antichrist hits",
-      "min": "Enter {0} Regardless of the maintenance levels of care, support and antichrist hits"
+      "add": "To extend {0} regardless of the maintenance levels of care, support and antichrist hits",
+      "min": "Enter {0} regardless of the maintenance levels of care, support and antichrist hits"
     }, {
       "id": "OnWinDuelAnyTarget",
-      "add": "Roses {0} Vibushhols",
-      "min": "Less {0} Conflict disappeared"
+      "add": "Roses {0} vibushhols",
+      "min": "Less {0} conflict disappeared"
     }
   ]
 }

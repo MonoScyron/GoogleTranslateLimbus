@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11206_1", "desc": "Identity Acquisition", "dlg": "Hey, can we dilute our customers, friends, and friends?"}, {"id": "lobby_morning_11206_1", "desc": "Morning Greeting", "dlg": "Yes, you don't grow faster."}, {"id": "lobby_noon_11206_1", "desc": "Afternoon Greeting", "dlg": "\"I'm too big, Boyell? At least we can eat? I can't fight empty stomach ..."}, {"id": "lobby_night_11206_1", "desc": "Evening Greeting", "dlg": "It was darkness of tonight, let's look for your feet."}, {"id": "smalltalk_11206_1", "desc": "Chatter #1", "dlg": "Am I really sleeping?"}, {"id": "smalltalk_11206_2", "desc": "Chatter #2", "dlg": "Oops, gloves?"}, {"id": "smalltalk_11206_3", "desc": "Chatter #3", "dlg": "Before leaving the palms."}, {"id": "smalltalk_11206_4", "desc": "Post-Uptie Chat 1", "dlg": "Yes, m, yes."}, {"id": "smalltalk_11206_5", "desc": "Post-Uptie Chat 2", "dlg": "What do I mean?\nI am not in Section 4?"}, {"id": "neglect_11206_1", "desc": "Idle", "dlg": "Well, it's time to smoke."}, {"id": "gacksung_11206_1", "desc": "Uptying", "dlg": "Is my time fast?"}, {"id": "formation_11206_1", "desc": "Deployment", "dlg": "Or."}, {"id": "battleentry_11206_1", "desc": "Stage Entry", "dlg": "Slowly?"}, {"id": "battle_select_11206_1", "desc": "Viewed in Battle", "dlg": "Yes, what is happening?"}, {"id": "battle_endcommand_11206_1", "desc": "Commencing Attack", "dlg": "Follow me!"}, {"id": "battle_enemy_break_11206_1", "desc": "Enemy Stagger", "dlg": "Sorry, do you have a lot of pain?"}, {"id": "battle_break_11206_1", "desc": "Staggered", "dlg": "And ..."}, {"id": "battle_kill_11206_1", "desc": "Enemy Killed", "dlg": "Fair threat!"}, {"id": "battle_dead_11206_1", "desc": "Death", "dlg": "Yes ... sorry ... Customer ..."}, {"id": "choice_success_p_11206_2", "desc": "Check Passed", "dlg": "How do you like it?"}, {"id": "choice_fail_n_11206_1", "desc": "Check Failed", "dlg": "Curse ... OK, I don't think it's true."}, {"id": "battle_clear_11206_1", "desc": "Victory Cry", "dlg": "The contract has been paid."}, {"id": "battle_clear_ex_11206_1", "desc": "Extra Conditions Fulfilled", "dlg": "The best security is always a crime ... Have you heard of the attacker use?"}, {"id": "battle_defeat_11206_1", "desc": "Defeat Wail", "dlg": "TSK ... missions failed."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11206_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Hey, can we dilute our customers, friends, and friends?"
+    }, {
+      "id": "lobby_morning_11206_1",
+      "desc": "Morning Greeting",
+      "dlg": "Yes, you don't grow faster."
+    }, {
+      "id": "lobby_noon_11206_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "\"I'm too big, Boyell? At least we can eat? I can't fight empty stomach ..."
+    }, {
+      "id": "lobby_night_11206_1",
+      "desc": "Evening Greeting",
+      "dlg": "It was darkness of tonight, let's look for your feet."
+    }, {
+      "id": "smalltalk_11206_1",
+      "desc": "Chatter #1",
+      "dlg": "Am I really sleeping?"
+    }, {
+      "id": "smalltalk_11206_2",
+      "desc": "Chatter #2",
+      "dlg": "Oops, gloves?"
+    }, {
+      "id": "smalltalk_11206_3",
+      "desc": "Chatter #3",
+      "dlg": "Before leaving the palms."
+    }, {
+      "id": "smalltalk_11206_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Yes, m, yes."
+    }, {
+      "id": "smalltalk_11206_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "What do I mean?\nI am not in Section 4?"
+    }, {
+      "id": "neglect_11206_1",
+      "desc": "Idle",
+      "dlg": "Well, it's time to smoke."
+    }, {
+      "id": "gacksung_11206_1",
+      "desc": "Uptying",
+      "dlg": "Is my time fast?"
+    }, {
+      "id": "formation_11206_1",
+      "desc": "Deployment",
+      "dlg": "Or."
+    }, {
+      "id": "battleentry_11206_1",
+      "desc": "Stage Entry",
+      "dlg": "Slowly?"
+    }, {
+      "id": "battle_select_11206_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Yes, what is happening?"
+    }, {
+      "id": "battle_endcommand_11206_1",
+      "desc": "Commencing Attack",
+      "dlg": "Follow me!"
+    }, {
+      "id": "battle_enemy_break_11206_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Sorry, do you have a lot of pain?"
+    }, {
+      "id": "battle_break_11206_1",
+      "desc": "Staggered",
+      "dlg": "And ..."
+    }, {
+      "id": "battle_kill_11206_1",
+      "desc": "Enemy Killed",
+      "dlg": "Fair threat!"
+    }, {
+      "id": "battle_dead_11206_1",
+      "desc": "Death",
+      "dlg": "Yes ... sorry ... Customer ..."
+    }, {
+      "id": "choice_success_p_11206_2",
+      "desc": "Check Passed",
+      "dlg": "How do you like it?"
+    }, {
+      "id": "choice_fail_n_11206_1",
+      "desc": "Check Failed",
+      "dlg": "Curse ... OK, I don't think it's true."
+    }, {
+      "id": "battle_clear_11206_1",
+      "desc": "Victory Cry",
+      "dlg": "The contract has been paid."
+    }, {
+      "id": "battle_clear_ex_11206_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "The best security is always a crime ... Have you heard of the attacker use?"
+    }, {
+      "id": "battle_defeat_11206_1",
+      "desc": "Defeat Wail",
+      "dlg": "TSK ... missions failed."
+    }
+  ]
+}

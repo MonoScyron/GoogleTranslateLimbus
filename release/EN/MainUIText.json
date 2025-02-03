@@ -146,10 +146,10 @@
       "content": "Asset"
     }, {
       "id": "mainui_mirror_entrance_entry",
-      "content": "I'm here {0} Intersection"
+      "content": "I'm here {0} intersection"
     }, {
       "id": "mainui_mirror_entrance_progressing",
-      "content": "{0} The implementation post."
+      "content": "{0} the implementation post."
     }, {
       "id": "mainui_mirror_entrance_re_entry",
       "content": "Do you want to repeat the dark?"
@@ -344,7 +344,7 @@
       "content": "Date"
     }, {
       "id": "mainui_remain_days",
-      "content": "{0} Day of rest"
+      "content": "{0} day of rest"
     }, {
       "id": "mainui_mail_remains_count",
       "content": "Entrance"
@@ -383,7 +383,7 @@
       "content": "Dark"
     }, {
       "id": "giving_up_story_dungeon_content",
-      "content": "I'm checking the sections right now {0} This story is dark.\nWill you progress and enter the new dark?"
+      "content": "I'm checking the sections right now {0} this story is dark.\nWill you progress and enter the new dark?"
     }, {
       "id": "mainui_all",
       "content": "All"
@@ -434,10 +434,10 @@
       "content": "The wire is not enough.\nTransfer Sheet :: Exchange?"
     }, {
       "id": "mainui_confirm_of_purchased_twine",
-      "content": "Denial {0} You too"
+      "content": "Denial {0} you too"
     }, {
       "id": "mainui_result_of_purchased_twine",
-      "content": "to get {0} Buddy."
+      "content": "to get {0} buddy."
     }, {
       "id": "mainui_personality_awaken_completion",
       "content": "Bracket"
@@ -461,19 +461,19 @@
       "content": "Technical Version: [{0}]"
     }, {
       "id": "mainui_unlock_personality_story",
-      "content": "More [{0}] Open"
+      "content": "More [{0}] open"
     }, {
       "id": "mainui_ego_awaken_skill_name_reinforcement",
-      "content": "for example [{0}] People's contact"
+      "content": "for example [{0}] people's contact"
     }, {
       "id": "mainui_ego_erosion_skill_name_reinforcement",
-      "content": "for example [{0}] People's contact"
+      "content": "for example [{0}] people's contact"
     }, {
       "id": "mainui_specific_level_achievement",
       "content": "Get LV. {0}"
     }, {
       "id": "mainui_personality_awaken_level_up_condition",
-      "content": "Development level {0} I need it"
+      "content": "Development level {0} i need it"
     }, {
       "id": "mainui_battle_passsive_addition",
       "content": "Open a negative war"
@@ -530,7 +530,7 @@
       "content": "∎ It's very crazy."
     }, {
       "id": "mainui_progress_of_spend",
-      "content": "Deleting {0} Date {1} Intersection"
+      "content": "Deleting {0} date {1} intersection"
     }, {
       "id": "game_setting",
       "content": "Settings"
@@ -578,7 +578,7 @@
       "content": "Last"
     }, {
       "id": "notice_of_remain_extract_chance",
-      "content": "3 ★ Identity or, for example, reliability {0} Basic text"
+      "content": "3 ★ Identity or, for example, reliability {0} basic text"
     }, {
       "id": "mainui_settings",
       "content": "Employment"
@@ -608,7 +608,7 @@
       "content": "Entrance"
     }, {
       "id": "mainui_open_after_clear",
-      "content": "Class. {0} Open"
+      "content": "Class. {0} open"
     }, {
       "id": "mainui_organization_sharp",
       "content": "Team #{0}"
@@ -626,7 +626,7 @@
       "content": "To extend"
     }, {
       "id": "gacha_history_notice",
-      "content": "With- {1} Last {0} Show today."
+      "content": "With- {1} last {0} show today."
     }, {
       "id": "gacha_history_empty",
       "content": "The records of speech are not displayed."
@@ -668,7 +668,7 @@
       "content": "According to the NGOs of the Korean Industrial Games, you can get the speed of detailed ads.\n\nThe fifth number is recorded after the decimal point."
     }, {
       "id": "gacha_rate_info_intro2",
-      "content": "Calculation [10 Extractions] At least one identity is very low.\n\n10 tables"
+      "content": "Calculation [10 Extractions] at least one identity is very low.\n\n10 tables"
     }, {
       "id": "gacha_rate_info_ego1",
       "content": "Below is a list of identification cards.\n\nThis list can be converted into some seasons."
@@ -677,7 +677,7 @@
       "content": "<b>For example, remove it.</b>\n\nAs a result, a balanced agreement has not changed on the schedule."
     }, {
       "id": "gacha_rate_info_complete1",
-      "content": "For example, when the user imports the user, the motion is in size. [1 Extraction] And and [10 Extraction] That is why it changes as follows."
+      "content": "For example, when the user imports the user, the motion is in size. [1 Extraction] and and [10 Extraction] that is why it changes as follows."
     }, {
       "id": "gacha_rate_info_complete2",
       "content": "It is more with the elimination of the specific target as much as extract.\n\nThe target is 50% to know the target of very few states.\n\nIn the table, unauthorized conditions are distributed equally."
@@ -743,7 +743,7 @@
       "content": "By the acidity"
     }, {
       "id": "mail_history_notice",
-      "content": "With- {0} This project is set to become a historical record."
+      "content": "With- {0} this project is set to become a historical record."
     }, {
       "id": "cant_receive_mail_all_tilte",
       "content": "Is not required"
@@ -866,16 +866,16 @@
       "content": "Do you want to leave the battle?"
     }, {
       "id": "notice_consumption_multiples",
-      "content": "{0} Price X {1}"
+      "content": "{0} price x {1}"
     }, {
       "id": "notice_additional_rewards",
-      "content": "Additional bonus {0} Profit"
+      "content": "Additional bonus {0} profit"
     }, {
       "id": "gacha_notice_exclude_ego",
       "content": "For example, in this large slogan"
     }, {
       "id": "gacha_notice_single_season",
-      "content": "★ for the second season of this extraction library and check 3 {0} Intersection"
+      "content": "★ for the second season of this extraction library and check 3 {0} intersection"
     }, {
       "id": "error_and_return_to_main",
       "content": "There is an error.\nReturn to the address screen."
@@ -896,13 +896,13 @@
       "content": "The full extract is like this."
     }, {
       "id": "gacha_rate_info_intro1_1b",
-      "content": "The use of time {0} Later."
+      "content": "The use of time {0} later."
     }, {
       "id": "gacha_rate_info_intro1_1c",
-      "content": "When you use it {0} You can choose one of the following connections:"
+      "content": "When you use it {0} you can choose one of the following connections:"
     }, {
       "id": "package_info_detail1",
-      "content": "If you choose the connection, you can configure a person's special limit. {0} Later."
+      "content": "If you choose the connection, you can configure a person's special limit. {0} later."
     }, {
       "id": "package_info_detail2",
       "content": "……. {0}\"The selected example by calling the following table."
@@ -950,7 +950,7 @@
       "content": "Fear"
     }, {
       "id": "open_scheduled_date_month_day",
-      "content": "Open{0} Without {1} Decoration"
+      "content": "Open{0} without {1} decoration"
     }, {
       "id": "mainui_acquire_user_ticker_deco",
       "content": "(Boobs)"
@@ -971,7 +971,7 @@
       "content": "Download speed"
     }, {
       "id": "season_n_personality",
-      "content": "Season{0} Recognition"
+      "content": "Season{0} recognition"
     }, {
       "id": "season_n_ego",
       "content": "Season{0} for example"
@@ -1004,7 +1004,7 @@
       "content": "Stock market"
     }, {
       "id": "notice_of_pity_system",
-      "content": "You can get \"ice cream\" during your choice. [Ideality] According to the number of pieces you created.\nCollecting a fixed amount is set by 3 ★ or by a profit.\n\nIt is not divided into transparency.\nAt the end of the banner, the correct line is changing."
+      "content": "You can get \"ice cream\" during your choice. [Ideality] according to the number of pieces you created.\nCollecting a fixed amount is set by 3 ★ or by a profit.\n\nIt is not divided into transparency.\nAt the end of the banner, the correct line is changing."
     }, {
       "id": "twine_store",
       "content": "Sherra"
@@ -1016,7 +1016,7 @@
       "content": "Program"
     }, {
       "id": "notice_of_pity_point_expiration",
-      "content": "{1} Now! [Ideality] By {0} The wire has been replaced."
+      "content": "{1} Now! [Ideality] By {0} the wire has been replaced."
     }, {
       "id": "notice_of_pity_point_progress_or_not",
       "content": "He sent Iceland in 200 years. [Ideality] And will you change it?"
@@ -1055,7 +1055,7 @@
       "content": "Compared to the previous step, some scenarios can be made."
     }, {
       "id": "could_not_select_friend_support_in_this_dungeon",
-      "content": "You can't be with you {0} Find this dark help."
+      "content": "You can't be with you {0} find this dark help."
     }, {
       "id": "formation_force_participation_on",
       "content": "Stable"
@@ -1064,10 +1064,10 @@
       "content": "I need a permanent member"
     }, {
       "id": "formation_must_participate_specific_character",
-      "content": "{0} You have to participate."
+      "content": "{0} you have to participate."
     }, {
       "id": "cannot_exit_node_after_enter_by_force_alice_character",
-      "content": "After entering, you can no longer travel with any other dark deals. {0} It treats HP and completely.\nDo you want to follow?"
+      "content": "After entering, you can no longer travel with any other dark deals. {0} it treats HP and completely.\nDo you want to follow?"
     }, {
       "id": "story_dungeon_4_first_open_popup_desc",
       "content": "This dark II ID cannot be selected."
@@ -1169,7 +1169,7 @@
       "content": "After this"
     }, {
       "id": "open_after_clear_node",
-      "content": "Clearly. {0} Numbers {1} Open"
+      "content": "Clearly. {0} numbers {1} open"
     }, {
       "id": "effect_list_to_applied_level",
       "content": "Activity level"
@@ -1205,7 +1205,7 @@
       "content": "The statement changes the problem.\n\nThis box of the thrid belt is given in the next season."
     }, {
       "id": "login_scene_mini_story_warning_spoiler_format",
-      "content": "The story was appointed after the most important chapter of history. {0} Do you want to recognize this story yet?"
+      "content": "The story was appointed after the most important chapter of history. {0} do you want to recognize this story yet?"
     }, {
       "id": "notice_of_pity_point_already_have_announcer",
       "content": "The selected advertisement.200 Milling [Ideality] In 50 banks?"
@@ -1229,7 +1229,7 @@
       "content": "Daily"
     }, {
       "id": "for_n_days",
-      "content": "{0} The wind"
+      "content": "{0} the wind"
     }, {
       "id": "all_personalities",
       "content": "All recognition"
@@ -1277,7 +1277,7 @@
       "content": "As soon as you grow, you can't see {0} one day"
     }, {
       "id": "unlink_account_desc_unable_by_day",
-      "content": "It will be behind them {0} Intersection"
+      "content": "It will be behind them {0} intersection"
     }, {
       "id": "unlink_account_complete_title",
       "content": "Account disappeared"
@@ -1307,7 +1307,7 @@
       "content": "Don't know"
     }, {
       "id": "buff_effect_for_level_format",
-      "content": "「 {0}」"
+      "content": "「{0}」"
     }, {
       "id": "unit_keyword",
       "content": "Canot"
@@ -1319,13 +1319,13 @@
       "content": "(This is in the future: {0} ……."
     }, {
       "id": "lunacy_owned_count_paid",
-      "content": "(Bonus: {0} Freedom: {1} ……."
+      "content": "(Bonus: {0} freedom: {1} ……."
     }, {
       "id": "lunacy_owned_count_free",
-      "content": "(Bonus: {0} Freedom: {1} ……."
+      "content": "(Bonus: {0} freedom: {1} ……."
     }, {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
-      "content": "In progress of the current history, the use of an easy map can improve the search level. {1} instead of {0} No one is used in this process.\n\nDo you still use this card?"
+      "content": "In progress of the current history, the use of an easy map can improve the search level. {1} instead of {0} no one is used in this process.\n\nDo you still use this card?"
     }, {
       "id": "mainui_exp_dungeon_7_title",
       "content": "Earn for H (Helen)"
@@ -1349,13 +1349,13 @@
       "content": "Numbers\nApplication\nAccordingly\nRecognition"
     }, {
       "id": "mainui_change_personality_of_character",
-      "content": "I can't continue {0} Add in identification."
+      "content": "I can't continue {0} add in identification."
     }, {
       "id": "caution",
       "content": "Warning"
     }, {
       "id": "announcer_spoiler_caution",
-      "content": "There is a chapter in this statement.<color=#990000>……. {0} Numbers {1} …….</color>Intersection\n\nNormal proposal?"
+      "content": "There is a chapter in this statement.<color=#990000>……. {0} numbers {1} …….</color>Intersection\n\nNormal proposal?"
     }, {
       "id": "mass_announcer_spoiler_caution",
       "content": "One of a prices\nIs a statement that could be a terrible hunter\nIt does not clear in this chapter.\n\nDo they need it?"

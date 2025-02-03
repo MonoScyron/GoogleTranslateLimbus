@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10205_1", "desc": "Identity Acquisition", "dlg": "I got the request."}, {"id": "lobby_morning_10205_1", "desc": "Morning Greeting", "dlg": "Some people always try to protect the local room."}, {"id": "lobby_noon_10205_1", "desc": "Afternoon Greeting", "dlg": "There was no problem in the afternoon gasoline.\nOh, you don't have to take care of this husband."}, {"id": "lobby_night_10205_1", "desc": "Evening Greeting", "dlg": "At night ... close to a happy."}, {"id": "smalltalk_10205_1", "desc": "Chatter #1", "dlg": "An important labor force and area should be in one part of the defense."}, {"id": "smalltalk_10205_2", "desc": "Chatter #2", "dlg": "We try to get a personal cloth to a defense meeting in this field."}, {"id": "smalltalk_10205_3", "desc": "Chatter #3", "dlg": "These seven agents are not accepted compared to the national security agreement."}, {"id": "smalltalk_10205_4", "desc": "Post-Uptie Chat 1", "dlg": "If the customer needs a number of security benefits, it will usually be signed by the contract. \nSo we often provide the risk of our customers."}, {"id": "smalltalk_10205_5", "desc": "Post-Uptie Chat 2", "dlg": "You work very hard, you ask?"}, {"id": "neglect_10205_1", "desc": "Idle", "dlg": "If nothing else, I want to go to the next plan."}, {"id": "gacksung_10205_1", "desc": "Uptying", "dlg": "Yes"}, {"id": "formation_10205_1", "desc": "Deployment", "dlg": "In pregnant women."}, {"id": "battleentry_10205_1", "desc": "Stage Entry", "dlg": "Protection application has been received."}, {"id": "battle_select_10205_1", "desc": "Viewed in Battle", "dlg": "Does my interest need more fat?"}, {"id": "battle_endcommand_10205_1", "desc": "Commencing Attack", "dlg": "To save yourself."}, {"id": "battle_enemy_break_10205_1", "desc": "Enemy Stagger", "dlg": "You are very stable."}, {"id": "battle_break_10205_1", "desc": "Staggered", "dlg": "good night ..."}, {"id": "battle_kill_10205_1", "desc": "Enemy Killed", "dlg": "The enemy has been removed."}, {"id": "battle_dead_10205_1", "desc": "Death", "dlg": "Brewden ... Gy Number for the peers ...;"}, {"id": "choice_success_p_10205_2", "desc": "Check Passed", "dlg": "The main problem."}, {"id": "choice_fail_n_10205_1", "desc": "Check Failed", "dlg": "The army does not follow it."}, {"id": "battle_clear_10205_1", "desc": "Victory Cry", "dlg": "The security process has been completed."}, {"id": "battle_clear_ex_10205_1", "desc": "Extra Conditions Fulfilled", "dlg": "In this boycott, we have all the problems."}, {"id": "battle_defeat_10205_1", "desc": "Defeat Wail", "dlg": "This ...M."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10205_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I got the request."
+    }, {
+      "id": "lobby_morning_10205_1",
+      "desc": "Morning Greeting",
+      "dlg": "Some people always try to protect the local room."
+    }, {
+      "id": "lobby_noon_10205_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "There was no problem in the afternoon gasoline.\nOh, you don't have to take care of this husband."
+    }, {
+      "id": "lobby_night_10205_1",
+      "desc": "Evening Greeting",
+      "dlg": "At night ... close to a happy."
+    }, {
+      "id": "smalltalk_10205_1",
+      "desc": "Chatter #1",
+      "dlg": "An important labor force and area should be in one part of the defense."
+    }, {
+      "id": "smalltalk_10205_2",
+      "desc": "Chatter #2",
+      "dlg": "We try to get a personal cloth to a defense meeting in this field."
+    }, {
+      "id": "smalltalk_10205_3",
+      "desc": "Chatter #3",
+      "dlg": "These seven agents are not accepted compared to the national security agreement."
+    }, {
+      "id": "smalltalk_10205_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "If the customer needs a number of security benefits, it will usually be signed by the contract. \nSo we often provide the risk of our customers."
+    }, {
+      "id": "smalltalk_10205_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "You work very hard, you ask?"
+    }, {
+      "id": "neglect_10205_1",
+      "desc": "Idle",
+      "dlg": "If nothing else, I want to go to the next plan."
+    }, {
+      "id": "gacksung_10205_1",
+      "desc": "Uptying",
+      "dlg": "Yes"
+    }, {
+      "id": "formation_10205_1",
+      "desc": "Deployment",
+      "dlg": "In pregnant women."
+    }, {
+      "id": "battleentry_10205_1",
+      "desc": "Stage Entry",
+      "dlg": "Protection application has been received."
+    }, {
+      "id": "battle_select_10205_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Does my interest need more fat?"
+    }, {
+      "id": "battle_endcommand_10205_1",
+      "desc": "Commencing Attack",
+      "dlg": "To save yourself."
+    }, {
+      "id": "battle_enemy_break_10205_1",
+      "desc": "Enemy Stagger",
+      "dlg": "You are very stable."
+    }, {
+      "id": "battle_break_10205_1",
+      "desc": "Staggered",
+      "dlg": "good night ..."
+    }, {
+      "id": "battle_kill_10205_1",
+      "desc": "Enemy Killed",
+      "dlg": "The enemy has been removed."
+    }, {
+      "id": "battle_dead_10205_1",
+      "desc": "Death",
+      "dlg": "Brewden ... Gy Number for the peers ...;"
+    }, {
+      "id": "choice_success_p_10205_2",
+      "desc": "Check Passed",
+      "dlg": "The main problem."
+    }, {
+      "id": "choice_fail_n_10205_1",
+      "desc": "Check Failed",
+      "dlg": "The army does not follow it."
+    }, {
+      "id": "battle_clear_10205_1",
+      "desc": "Victory Cry",
+      "dlg": "The security process has been completed."
+    }, {
+      "id": "battle_clear_ex_10205_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "In this boycott, we have all the problems."
+    }, {
+      "id": "battle_defeat_10205_1",
+      "desc": "Defeat Wail",
+      "dlg": "This ...M."
+    }
+  ]
+}

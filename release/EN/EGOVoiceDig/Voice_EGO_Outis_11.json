@@ -1,1 +1,57 @@
-{"dataList": [{"id": "battle_erosion_21102_1", "desc": "E.G.O Corrosion", "dlg": "Is a point ..."}, {"id": "battle_awaken_21101_1", "desc": "E.G.O Activation", "dlg": "Odysse is a goal ..."}, {"id": "battle_awaken_21102_1", "desc": "E.G.O Activation", "dlg": "If it wants to win ..."}, {"id": "battle_awaken_21103_1", "desc": "E.G.O Activation", "dlg": "Leaving food on your way."}, {"id": "battle_erosion_21103_1", "desc": "E.G.O Corrosion", "dlg": "Continue my silence ... I wouldn't be sorry for the first time ..."}, {"id": "battle_awaken_21104_1", "desc": "E.G.O Activation", "dlg": "I don't have an important interest!"}, {"id": "battle_erosion_21104_1", "desc": "E.G.O Corrosion", "dlg": "Don't leave me this time ..."}, {"id": "battle_awaken_21105_1", "desc": "E.G.O Activation", "dlg": "I will give me a critical anger in this bag ... then I'll see it in my mouth."}, {"id": "battle_erosion_21105_1", "desc": "E.G.O Corrosion", "dlg": "Crying and how to send children ... they have a gift ...!"}, {"id": "battle_awaken_21106_1", "desc": "E.G.O Activation", "dlg": "Why should I not work?"}, {"id": "battle_erosion_21106_1", "desc": "E.G.O Corrosion", "dlg": "Can you challenge my strength?"}, {"id": "battle_awaken_21107_1", "desc": "E.G.O Activation", "dlg": "Don't spend time and decide the eternal navy flight."}, {"id": "battle_erosion_21107_1", "desc": "E.G.O Corrosion", "dlg": "No ... I don't have this door ... my time will be in the shadow ... in the way ...!"}]}
+{
+  "dataList": [
+    {
+      "id": "battle_erosion_21102_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Is a point ..."
+    }, {
+      "id": "battle_awaken_21101_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Odysse is a goal ..."
+    }, {
+      "id": "battle_awaken_21102_1",
+      "desc": "E.G.O Activation",
+      "dlg": "If it wants to win ..."
+    }, {
+      "id": "battle_awaken_21103_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Leaving food on your way."
+    }, {
+      "id": "battle_erosion_21103_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Continue my silence ... I wouldn't be sorry for the first time ..."
+    }, {
+      "id": "battle_awaken_21104_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I don't have an important interest!"
+    }, {
+      "id": "battle_erosion_21104_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Don't leave me this time ..."
+    }, {
+      "id": "battle_awaken_21105_1",
+      "desc": "E.G.O Activation",
+      "dlg": "I will give me a critical anger in this bag ... then I'll see it in my mouth."
+    }, {
+      "id": "battle_erosion_21105_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Crying and how to send children ... they have a gift ...!"
+    }, {
+      "id": "battle_awaken_21106_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Why should I not work?"
+    }, {
+      "id": "battle_erosion_21106_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Can you challenge my strength?"
+    }, {
+      "id": "battle_awaken_21107_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Don't spend time and decide the eternal navy flight."
+    }, {
+      "id": "battle_erosion_21107_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "No ... I don't have this door ... my time will be in the shadow ... in the way ...!"
+    }
+  ]
+}

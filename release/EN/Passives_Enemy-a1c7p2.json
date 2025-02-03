@@ -7,15 +7,15 @@
     }, {
       "id": 9017501,
       "name": "Weather",
-      "desc": "Get 1 [FestivalFever] Use the effects of technology (as BD type is used)\n\nHas begun [FestivalFever] Other friends even (up to 3)\nEnd [FestivalFever] The number of friends killed this path is huge.\nThe end of the goal is the same [FestivalFever] On (-45p enabled)\n\nFinally: in 8+ [FestivalFever]Use powerful technology for the next round"
+      "desc": "Get 1 [FestivalFever] Use the effects of technology (as BD type is used)\n\nHas begun [FestivalFever] Other friends even (up to 3)\nEnd [FestivalFever] The number of friends killed this path is huge.\nThe end of the goal is the same [FestivalFever] On (-45p enabled)\n\nFinally: in 8+ [FestivalFever] Use powerful technology for the next round"
     }, {
       "id": 9017502,
       "name": "B Katha",
-      "desc": "Target in strike [Laceration]20% Damage"
+      "desc": "Target in strike [Laceration] 20% Damage"
     }, {
       "id": 9017503,
       "name": "Blood clots",
-      "desc": "After the attack: If the target is 5+ [Laceration]1, 1 [HardenedBlood]"
+      "desc": "After the attack: If the target is 5+ [Laceration] 1, 1 [HardenedBlood]"
     }, {
       "id": 9017504,
       "name": "Thirst",
@@ -31,7 +31,7 @@
     }, {
       "id": 9017301,
       "name": "Sound",
-      "desc": "Get 1 [FestivalFever] Use the effects of technology (as BD type is used)\n\nHas begun [FestivalFever] Other friends even (up to 3)\nEnd [FestivalFever] The number of friends killed this path is huge.\n\nFinally: in 8+ [FestivalFever]Use powerful technology for the next round"
+      "desc": "Get 1 [FestivalFever] Use the effects of technology (as BD type is used)\n\nHas begun [FestivalFever] Other friends even (up to 3)\nEnd [FestivalFever] The number of friends killed this path is huge.\n\nFinally: in 8+ [FestivalFever] Use powerful technology for the next round"
     }, {
       "id": 9017302,
       "name": "B Katha",
@@ -39,7 +39,7 @@
     }, {
       "id": 9017303,
       "name": "Blood clots",
-      "desc": "After the attack: If the target is 8+ [Laceration]1, 1 [HardenedBlood]"
+      "desc": "After the attack: If the target is 8+ [Laceration] 1, 1 [HardenedBlood]"
     }, {
       "id": 9017304,
       "name": "Thirst",

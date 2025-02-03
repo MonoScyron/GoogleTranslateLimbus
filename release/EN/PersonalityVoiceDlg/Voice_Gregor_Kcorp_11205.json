@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_11205_1", "desc": "Identity Acquisition", "dlg": "Yes, I will be happy to meet ... good job?"}, {"id": "lobby_morning_11205_1", "desc": "Morning Greeting", "dlg": "Let's see these two tasks from both of them."}, {"id": "lobby_noon_11205_1", "desc": "Afternoon Greeting", "dlg": "Have you seen my manager here?"}, {"id": "lobby_night_11205_1", "desc": "Evening Greeting", "dlg": "The night's nest is always attractive."}, {"id": "smalltalk_11205_1", "desc": "Chatter #1", "dlg": "Hello, they opened my veins for me."}, {"id": "smalltalk_11205_2", "desc": "Chatter #2", "dlg": "I'm looking for a timely payment."}, {"id": "smalltalk_11205_3", "desc": "Chatter #3", "dlg": "At some point, what's wrong ... is it bad?"}, {"id": "smalltalk_11205_4", "desc": "Post-Uptie Chat 1", "dlg": "Well, if you need, I will change this hand."}, {"id": "smalltalk_11205_5", "desc": "Post-Uptie Chat 2", "dlg": "You are good, if you get this job, you don't think my manager will tell me where I am."}, {"id": "neglect_11205_1", "desc": "Idle", "dlg": "Don't let me be alone."}, {"id": "gacksung_11205_1", "desc": "Uptying", "dlg": "Oh, I didn't make a plan to live here for a long time ... Do you want to be responsible?"}, {"id": "formation_11205_1", "desc": "Deployment", "dlg": "Don't worry about his place."}, {"id": "battleentry_11205_1", "desc": "Stage Entry", "dlg": "Yes, have you taken a manual battery place?"}, {"id": "battle_select_11205_1", "desc": "Viewed in Battle", "dlg": "What do you want?"}, {"id": "battle_endcommand_11205_1", "desc": "Commencing Attack", "dlg": "Should I end now?"}, {"id": "battle_enemy_break_11205_1", "desc": "Enemy Stagger", "dlg": "Appropriate"}, {"id": "battle_break_11205_1", "desc": "Staggered", "dlg": "Ovi ... easy friend."}, {"id": "battle_kill_11205_1", "desc": "Enemy Killed", "dlg": "Yesterday I have a simple clarity."}, {"id": "battle_dead_11205_1", "desc": "Death", "dlg": "This ... I give an arm ... self-sufficient and preaching ..."}, {"id": "choice_success_p_11205_1", "desc": "Check Passed", "dlg": "Well, no one will break like such materials."}, {"id": "choice_fail_n_11205_1", "desc": "Check Failed", "dlg": "Hey, why is my son difficult ... the goal ... Kahan, oh ..."}, {"id": "battle_clear_11205_1", "desc": "Victory Cry", "dlg": "I am very happy that I can do my best."}, {"id": "battle_clear_ex_11205_1", "desc": "Extra Conditions Fulfilled", "dlg": "What is it?"}, {"id": "battle_defeat_11205_1", "desc": "Defeat Wail", "dlg": "Hey, at the place of shooting ... I don't want to work with oil."}]}
+{
+  "dataList": [
+    {
+      "id": "get_11205_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Yes, I will be happy to meet ... good job?"
+    }, {
+      "id": "lobby_morning_11205_1",
+      "desc": "Morning Greeting",
+      "dlg": "Let's see these two tasks from both of them."
+    }, {
+      "id": "lobby_noon_11205_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Have you seen my manager here?"
+    }, {
+      "id": "lobby_night_11205_1",
+      "desc": "Evening Greeting",
+      "dlg": "The night's nest is always attractive."
+    }, {
+      "id": "smalltalk_11205_1",
+      "desc": "Chatter #1",
+      "dlg": "Hello, they opened my veins for me."
+    }, {
+      "id": "smalltalk_11205_2",
+      "desc": "Chatter #2",
+      "dlg": "I'm looking for a timely payment."
+    }, {
+      "id": "smalltalk_11205_3",
+      "desc": "Chatter #3",
+      "dlg": "At some point, what's wrong ... is it bad?"
+    }, {
+      "id": "smalltalk_11205_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Well, if you need, I will change this hand."
+    }, {
+      "id": "smalltalk_11205_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "You are good, if you get this job, you don't think my manager will tell me where I am."
+    }, {
+      "id": "neglect_11205_1",
+      "desc": "Idle",
+      "dlg": "Don't let me be alone."
+    }, {
+      "id": "gacksung_11205_1",
+      "desc": "Uptying",
+      "dlg": "Oh, I didn't make a plan to live here for a long time ... Do you want to be responsible?"
+    }, {
+      "id": "formation_11205_1",
+      "desc": "Deployment",
+      "dlg": "Don't worry about his place."
+    }, {
+      "id": "battleentry_11205_1",
+      "desc": "Stage Entry",
+      "dlg": "Yes, have you taken a manual battery place?"
+    }, {
+      "id": "battle_select_11205_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What do you want?"
+    }, {
+      "id": "battle_endcommand_11205_1",
+      "desc": "Commencing Attack",
+      "dlg": "Should I end now?"
+    }, {
+      "id": "battle_enemy_break_11205_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Appropriate"
+    }, {
+      "id": "battle_break_11205_1",
+      "desc": "Staggered",
+      "dlg": "Ovi ... easy friend."
+    }, {
+      "id": "battle_kill_11205_1",
+      "desc": "Enemy Killed",
+      "dlg": "Yesterday I have a simple clarity."
+    }, {
+      "id": "battle_dead_11205_1",
+      "desc": "Death",
+      "dlg": "This ... I give an arm ... self-sufficient and preaching ..."
+    }, {
+      "id": "choice_success_p_11205_1",
+      "desc": "Check Passed",
+      "dlg": "Well, no one will break like such materials."
+    }, {
+      "id": "choice_fail_n_11205_1",
+      "desc": "Check Failed",
+      "dlg": "Hey, why is my son difficult ... the goal ... Kahan, oh ..."
+    }, {
+      "id": "battle_clear_11205_1",
+      "desc": "Victory Cry",
+      "dlg": "I am very happy that I can do my best."
+    }, {
+      "id": "battle_clear_ex_11205_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "What is it?"
+    }, {
+      "id": "battle_defeat_11205_1",
+      "desc": "Defeat Wail",
+      "dlg": "Hey, at the place of shooting ... I don't want to work with oil."
+    }
+  ]
+}

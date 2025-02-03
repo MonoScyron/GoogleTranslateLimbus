@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10202_1", "desc": "Identity Acquisition", "dlg": "Your problem ... you really work with the comment."}, {"id": "lobby_morning_10202_1", "desc": "Morning Greeting", "dlg": "Most locomotive techniques do not like forests."}, {"id": "lobby_noon_10202_1", "desc": "Afternoon Greeting", "dlg": "It is important to check summary."}, {"id": "lobby_night_10202_1", "desc": "Evening Greeting", "dlg": "Do not fall according to your advice."}, {"id": "smalltalk_10202_1", "desc": "Chatter #1", "dlg": "In fact, the poster cleansing likes."}, {"id": "smalltalk_10202_2", "desc": "Chatter #2", "dlg": "Is this the last box?"}, {"id": "smalltalk_10202_3", "desc": "Chatter #3", "dlg": "I think I don't get interested in your situation."}, {"id": "smalltalk_10202_4", "desc": "Post-Uptie Chat 1", "dlg": "One day I gathered all the secrets of the city and attracted all these secrets of these clothes."}, {"id": "smalltalk_10202_5", "desc": "Post-Uptie Chat 2", "dlg": "Prefers to travel in the first place."}, {"id": "neglect_10202_1", "desc": "Idle", "dlg": "... sometimes they are unknown and clearly disappear."}, {"id": "gacksung_10202_1", "desc": "Uptying", "dlg": "I started getting to know this place well."}, {"id": "formation_10202_1", "desc": "Deployment", "dlg": "Understand, let's do."}, {"id": "battleentry_10202_1", "desc": "Stage Entry", "dlg": "Poster, the battle committee."}, {"id": "battle_select_10202_1", "desc": "Viewed in Battle", "dlg": "The current situation is very loyal."}, {"id": "battle_endcommand_10202_1", "desc": "Commencing Attack", "dlg": "It will be a fast work."}, {"id": "battle_enemy_break_10202_1", "desc": "Enemy Stagger", "dlg": "Weakness is displayed."}, {"id": "battle_break_10202_1", "desc": "Staggered", "dlg": "Common!"}, {"id": "battle_kill_10202_1", "desc": "Enemy Killed", "dlg": "Post."}, {"id": "battle_allydead_10202_1", "desc": "Ally Death", "dlg": "For this reason, I don't like trains."}, {"id": "choice_success_p_10202_1", "desc": "Check Passed", "dlg": "Posters, missions."}, {"id": "choice_fail_n_10202_1", "desc": "Check Failed", "dlg": "Perhaps we are in anger?"}, {"id": "battle_clear_10202_1", "desc": "Victory Cry", "dlg": "Next time I will fast."}, {"id": "battle_clear_ex_10202_1", "desc": "Extra Conditions Fulfilled", "dlg": "Report with Rap and other successful innovative reports."}, {"id": "battle_defeat_10202_1", "desc": "Defeat Wail", "dlg": "Some employees made many unnecessary exercise."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10202_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Your problem ... you really work with the comment."
+    }, {
+      "id": "lobby_morning_10202_1",
+      "desc": "Morning Greeting",
+      "dlg": "Most locomotive techniques do not like forests."
+    }, {
+      "id": "lobby_noon_10202_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "It is important to check summary."
+    }, {
+      "id": "lobby_night_10202_1",
+      "desc": "Evening Greeting",
+      "dlg": "Do not fall according to your advice."
+    }, {
+      "id": "smalltalk_10202_1",
+      "desc": "Chatter #1",
+      "dlg": "In fact, the poster cleansing likes."
+    }, {
+      "id": "smalltalk_10202_2",
+      "desc": "Chatter #2",
+      "dlg": "Is this the last box?"
+    }, {
+      "id": "smalltalk_10202_3",
+      "desc": "Chatter #3",
+      "dlg": "I think I don't get interested in your situation."
+    }, {
+      "id": "smalltalk_10202_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "One day I gathered all the secrets of the city and attracted all these secrets of these clothes."
+    }, {
+      "id": "smalltalk_10202_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Prefers to travel in the first place."
+    }, {
+      "id": "neglect_10202_1",
+      "desc": "Idle",
+      "dlg": "... sometimes they are unknown and clearly disappear."
+    }, {
+      "id": "gacksung_10202_1",
+      "desc": "Uptying",
+      "dlg": "I started getting to know this place well."
+    }, {
+      "id": "formation_10202_1",
+      "desc": "Deployment",
+      "dlg": "Understand, let's do."
+    }, {
+      "id": "battleentry_10202_1",
+      "desc": "Stage Entry",
+      "dlg": "Poster, the battle committee."
+    }, {
+      "id": "battle_select_10202_1",
+      "desc": "Viewed in Battle",
+      "dlg": "The current situation is very loyal."
+    }, {
+      "id": "battle_endcommand_10202_1",
+      "desc": "Commencing Attack",
+      "dlg": "It will be a fast work."
+    }, {
+      "id": "battle_enemy_break_10202_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Weakness is displayed."
+    }, {
+      "id": "battle_break_10202_1",
+      "desc": "Staggered",
+      "dlg": "Common!"
+    }, {
+      "id": "battle_kill_10202_1",
+      "desc": "Enemy Killed",
+      "dlg": "Post."
+    }, {
+      "id": "battle_allydead_10202_1",
+      "desc": "Ally Death",
+      "dlg": "For this reason, I don't like trains."
+    }, {
+      "id": "choice_success_p_10202_1",
+      "desc": "Check Passed",
+      "dlg": "Posters, missions."
+    }, {
+      "id": "choice_fail_n_10202_1",
+      "desc": "Check Failed",
+      "dlg": "Perhaps we are in anger?"
+    }, {
+      "id": "battle_clear_10202_1",
+      "desc": "Victory Cry",
+      "dlg": "Next time I will fast."
+    }, {
+      "id": "battle_clear_ex_10202_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Report with Rap and other successful innovative reports."
+    }, {
+      "id": "battle_defeat_10202_1",
+      "desc": "Defeat Wail",
+      "dlg": "Some employees made many unnecessary exercise."
+    }
+  ]
+}

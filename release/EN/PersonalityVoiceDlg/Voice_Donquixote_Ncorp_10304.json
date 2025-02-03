@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10304_1", "desc": "Identity Acquisition", "dlg": "Flower Magurcher zLO.DA Do you seek less help?"}, {"id": "lobby_morning_10304_1", "desc": "Morning Greeting", "dlg": "... oa, forgive me."}, {"id": "lobby_noon_10304_1", "desc": "Afternoon Greeting", "dlg": "When he was tonight he was busy with his justice ... this time I read the rest ..."}, {"id": "lobby_night_10304_1", "desc": "Evening Greeting", "dlg": "With"}, {"id": "smalltalk_10304_1", "desc": "Chatter #1", "dlg": "18:18 ... \"I am in your place ...\""}, {"id": "smalltalk_10304_2", "desc": "Chatter #2", "dlg": "Wear the world's bad things ... money is very busy and can't clean them to help them."}, {"id": "smalltalk_10304_3", "desc": "Chatter #3", "dlg": "Hey, you are interested."}, {"id": "smalltalk_10304_4", "desc": "Post-Uptie Chat 1", "dlg": "Judge these beef debris."}, {"id": "smalltalk_10304_5", "desc": "Post-Uptie Chat 2", "dlg": "You need to help me to become a person in a good job.\nSomeone accepted the Justice to your property with you."}, {"id": "neglect_10304_1", "desc": "Idle", "dlg": "You can't show your precious holidays."}, {"id": "gacksung_10304_1", "desc": "Uptying", "dlg": "that's it!"}, {"id": "formation_10304_1", "desc": "Deployment", "dlg": "... mm, we are in transaction."}, {"id": "battleentry_10304_1", "desc": "Stage Entry", "dlg": "The poor is not the real shape."}, {"id": "battle_select_10304_1", "desc": "Viewed in Battle", "dlg": "Yes, you are calm!"}, {"id": "battle_endcommand_10304_1", "desc": "Commencing Attack", "dlg": "I'm breaking you!"}, {"id": "battle_enemy_break_10304_1", "desc": "Enemy Stagger", "dlg": "* Crazy smile *"}, {"id": "battle_break_10304_1", "desc": "Staggered", "dlg": "* Crazy smile *"}, {"id": "battle_kill_10304_1", "desc": "Enemy Killed", "dlg": "Properly established."}, {"id": "battle_dead_10304_1", "desc": "Death", "dlg": "Crash ... it was not canceled ..."}, {"id": "choice_success_p_10304_1", "desc": "Check Passed", "dlg": "\"It's not difficult."}, {"id": "choice_fail_n_10304_1", "desc": "Check Failed", "dlg": "... I was confused from it."}, {"id": "battle_clear_10304_1", "desc": "Victory Cry", "dlg": "It ... Is this break?"}, {"id": "battle_clear_ex_10304_1", "desc": "Extra Conditions Fulfilled", "dlg": "This scene ... oh, became a beautiful country."}, {"id": "battle_defeat_10304_1", "desc": "Defeat Wail", "dlg": "Here ... Buy ... I can't erase evil for the power."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10304_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Flower Magurcher zLO.DA Do you seek less help?"
+    }, {
+      "id": "lobby_morning_10304_1",
+      "desc": "Morning Greeting",
+      "dlg": "... oa, forgive me."
+    }, {
+      "id": "lobby_noon_10304_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "When he was tonight he was busy with his justice ... this time I read the rest ..."
+    }, {
+      "id": "lobby_night_10304_1",
+      "desc": "Evening Greeting",
+      "dlg": "With"
+    }, {
+      "id": "smalltalk_10304_1",
+      "desc": "Chatter #1",
+      "dlg": "18:18 ... \"I am in your place ...\""
+    }, {
+      "id": "smalltalk_10304_2",
+      "desc": "Chatter #2",
+      "dlg": "Wear the world's bad things ... money is very busy and can't clean them to help them."
+    }, {
+      "id": "smalltalk_10304_3",
+      "desc": "Chatter #3",
+      "dlg": "Hey, you are interested."
+    }, {
+      "id": "smalltalk_10304_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Judge these beef debris."
+    }, {
+      "id": "smalltalk_10304_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "You need to help me to become a person in a good job.\nSomeone accepted the Justice to your property with you."
+    }, {
+      "id": "neglect_10304_1",
+      "desc": "Idle",
+      "dlg": "You can't show your precious holidays."
+    }, {
+      "id": "gacksung_10304_1",
+      "desc": "Uptying",
+      "dlg": "that's it!"
+    }, {
+      "id": "formation_10304_1",
+      "desc": "Deployment",
+      "dlg": "... mm, we are in transaction."
+    }, {
+      "id": "battleentry_10304_1",
+      "desc": "Stage Entry",
+      "dlg": "The poor is not the real shape."
+    }, {
+      "id": "battle_select_10304_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Yes, you are calm!"
+    }, {
+      "id": "battle_endcommand_10304_1",
+      "desc": "Commencing Attack",
+      "dlg": "I'm breaking you!"
+    }, {
+      "id": "battle_enemy_break_10304_1",
+      "desc": "Enemy Stagger",
+      "dlg": "* Crazy smile *"
+    }, {
+      "id": "battle_break_10304_1",
+      "desc": "Staggered",
+      "dlg": "* Crazy smile *"
+    }, {
+      "id": "battle_kill_10304_1",
+      "desc": "Enemy Killed",
+      "dlg": "Properly established."
+    }, {
+      "id": "battle_dead_10304_1",
+      "desc": "Death",
+      "dlg": "Crash ... it was not canceled ..."
+    }, {
+      "id": "choice_success_p_10304_1",
+      "desc": "Check Passed",
+      "dlg": "\"It's not difficult."
+    }, {
+      "id": "choice_fail_n_10304_1",
+      "desc": "Check Failed",
+      "dlg": "... I was confused from it."
+    }, {
+      "id": "battle_clear_10304_1",
+      "desc": "Victory Cry",
+      "dlg": "It ... Is this break?"
+    }, {
+      "id": "battle_clear_ex_10304_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "This scene ... oh, became a beautiful country."
+    }, {
+      "id": "battle_defeat_10304_1",
+      "desc": "Defeat Wail",
+      "dlg": "Here ... Buy ... I can't erase evil for the power."
+    }
+  ]
+}

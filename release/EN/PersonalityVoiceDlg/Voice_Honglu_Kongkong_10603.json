@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10603_1", "desc": "Identity Acquisition", "dlg": "Decided to bring me here?"}, {"id": "lobby_morning_10603_1", "desc": "Morning Greeting", "dlg": "Don't go to my time."}, {"id": "lobby_noon_10603_1", "desc": "Afternoon Greeting", "dlg": "Wow-onward people?"}, {"id": "lobby_night_10603_1", "desc": "Evening Greeting", "dlg": "I heard it was a very special gamble."}, {"id": "smalltalk_10603_1", "desc": "Chatter #1", "dlg": "But would you get rid of other special arguments that fit your manager?"}, {"id": "smalltalk_10603_2", "desc": "Chatter #2", "dlg": "Now ... you are not angry with me, no, I didn't see you."}, {"id": "smalltalk_10603_3", "desc": "Chatter #3", "dlg": "How do you take the sword?"}, {"id": "smalltalk_10603_4", "desc": "Post-Uptie Chat 1", "dlg": "What you see, happiness ... you do not use more price."}, {"id": "smalltalk_10603_5", "desc": "Post-Uptie Chat 2", "dlg": "Then let me see with my friends - I can be a sharp speaker, but if you know, everyone will be sweet"}, {"id": "neglect_10603_1", "desc": "Idle", "dlg": "No one will experience your life."}, {"id": "gacksung_10603_1", "desc": "Uptying", "dlg": "Hey, flat ~ I'm not saying that ~"}, {"id": "formation_10603_1", "desc": "Deployment", "dlg": "Is this my character?"}, {"id": "battleentry_10603_1", "desc": "Stage Entry", "dlg": "We will make the summer"}, {"id": "battle_select_10603_1", "desc": "Viewed in Battle", "dlg": "Should I help me?"}, {"id": "battle_endcommand_10603_1", "desc": "Commencing Attack", "dlg": "I hope happiness is good for me ~"}, {"id": "battle_enemy_break_10603_1", "desc": "Enemy Stagger", "dlg": "Tooth too?"}, {"id": "battle_break_10603_1", "desc": "Staggered", "dlg": "Special!"}, {"id": "battle_kill_10603_1", "desc": "Enemy Killed", "dlg": "~"}, {"id": "battle_allydead_10603_1", "desc": "Ally Death", "dlg": "Maybe I'm lucky?"}, {"id": "choice_success_p_10603_1", "desc": "Check Passed", "dlg": "The technology of happiness is provided."}, {"id": "choice_fail_n_10603_1", "desc": "Check Failed", "dlg": "Good ... money is not my side."}, {"id": "battle_clear_10603_1", "desc": "Victory Cry", "dlg": "Well, it's really a child's game ~"}, {"id": "battle_clear_ex_10603_1", "desc": "Extra Conditions Fulfilled", "dlg": "Oh, I can go now"}, {"id": "battle_defeat_10603_1", "desc": "Defeat Wail", "dlg": "You don't do it?"}]}
+{
+  "dataList": [
+    {
+      "id": "get_10603_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Decided to bring me here?"
+    }, {
+      "id": "lobby_morning_10603_1",
+      "desc": "Morning Greeting",
+      "dlg": "Don't go to my time."
+    }, {
+      "id": "lobby_noon_10603_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Wow-onward people?"
+    }, {
+      "id": "lobby_night_10603_1",
+      "desc": "Evening Greeting",
+      "dlg": "I heard it was a very special gamble."
+    }, {
+      "id": "smalltalk_10603_1",
+      "desc": "Chatter #1",
+      "dlg": "But would you get rid of other special arguments that fit your manager?"
+    }, {
+      "id": "smalltalk_10603_2",
+      "desc": "Chatter #2",
+      "dlg": "Now ... you are not angry with me, no, I didn't see you."
+    }, {
+      "id": "smalltalk_10603_3",
+      "desc": "Chatter #3",
+      "dlg": "How do you take the sword?"
+    }, {
+      "id": "smalltalk_10603_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "What you see, happiness ... you do not use more price."
+    }, {
+      "id": "smalltalk_10603_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Then let me see with my friends - I can be a sharp speaker, but if you know, everyone will be sweet"
+    }, {
+      "id": "neglect_10603_1",
+      "desc": "Idle",
+      "dlg": "No one will experience your life."
+    }, {
+      "id": "gacksung_10603_1",
+      "desc": "Uptying",
+      "dlg": "Hey, flat ~ I'm not saying that ~"
+    }, {
+      "id": "formation_10603_1",
+      "desc": "Deployment",
+      "dlg": "Is this my character?"
+    }, {
+      "id": "battleentry_10603_1",
+      "desc": "Stage Entry",
+      "dlg": "We will make the summer"
+    }, {
+      "id": "battle_select_10603_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Should I help me?"
+    }, {
+      "id": "battle_endcommand_10603_1",
+      "desc": "Commencing Attack",
+      "dlg": "I hope happiness is good for me ~"
+    }, {
+      "id": "battle_enemy_break_10603_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Tooth too?"
+    }, {
+      "id": "battle_break_10603_1",
+      "desc": "Staggered",
+      "dlg": "Special!"
+    }, {
+      "id": "battle_kill_10603_1",
+      "desc": "Enemy Killed",
+      "dlg": "~"
+    }, {
+      "id": "battle_allydead_10603_1",
+      "desc": "Ally Death",
+      "dlg": "Maybe I'm lucky?"
+    }, {
+      "id": "choice_success_p_10603_1",
+      "desc": "Check Passed",
+      "dlg": "The technology of happiness is provided."
+    }, {
+      "id": "choice_fail_n_10603_1",
+      "desc": "Check Failed",
+      "dlg": "Good ... money is not my side."
+    }, {
+      "id": "battle_clear_10603_1",
+      "desc": "Victory Cry",
+      "dlg": "Well, it's really a child's game ~"
+    }, {
+      "id": "battle_clear_ex_10603_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Oh, I can go now"
+    }, {
+      "id": "battle_defeat_10603_1",
+      "desc": "Defeat Wail",
+      "dlg": "You don't do it?"
+    }
+  ]
+}

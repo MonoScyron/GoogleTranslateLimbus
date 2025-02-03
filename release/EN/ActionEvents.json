@@ -302,7 +302,7 @@
       ]
     }, {
       "id": 10307,
-      "name": "[[Help.]",
+      "name": "[Help.]",
       "subDesc": "Or SCUB?",
       "desc": "Listen to mechanical volumes through closed doors.\n\n\"He is asking for help ...\"\n\nI started to listen to this platform when I see this.\n\n\"Steel ... this steel sofa ...\"\n\nCold\nAsk them.\nWhat are you going to do?",
       "options": [
@@ -771,7 +771,7 @@
         }, {
           "message": "In the worst case, use the place as a sinner.",
           "messageDesc": "Using HP completely HP.",
-          "result": ["{affectedTarget} It seems weak in sinners.\n... sinners are very good!"]
+          "result": ["{affectedTarget} it seems weak in sinners.\n... sinners are very good!"]
         }
       ]
     }, {

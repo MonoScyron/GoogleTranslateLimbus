@@ -1,1 +1,97 @@
-{"dataList": [{"id": "get_11001_1", "desc": "Identity Acquisition", "dlg": "I am a burden ...Myl cinema."}, {"id": "lobby_morning_11001_1", "desc": "Morning Greeting", "dlg": "good Morning!"}, {"id": "lobby_noon_11001_1", "desc": "Afternoon Greeting", "dlg": "I'm so comfortable now."}, {"id": "lobby_night_11001_1", "desc": "Evening Greeting", "dlg": "How was this today?"}, {"id": "smalltalk_11001_1", "desc": "Chatter #1", "dlg": "I can't imagine ... oh, I don't like my work or anything else ... I randomly randomly."}, {"id": "smalltalk_11001_2", "desc": "Chatter #2", "dlg": "Administrator, you really look good: I still have difficulty getting drunk instead of your memory."}, {"id": "smalltalk_11001_3", "desc": "Chatter #3", "dlg": "Rodia made me breakfast."}, {"id": "smalltalk_11001_4", "desc": "Chatter #4", "dlg": "She didn't think the world was common for you?"}, {"id": "smalltalk_11001_5", "desc": "Chatter #5", "dlg": "Therefore, if you don't remember the past, it means that you are not sorry for your bid, but I am jealous."}, {"id": "neglect_11001_1", "desc": "Idle", "dlg": "You, the manager ... are you busy?"}, {"id": "formation_11001_1", "desc": "Deployment", "dlg": "You will ... you'll try your best ..."}, {"id": "battleentry_11001_1", "desc": "Stage Entry", "dlg": "I think it's the best."}, {"id": "battle_select_11001_1", "desc": "Viewed in Battle", "dlg": "What did you do wrong ...?"}, {"id": "battle_endcommand_11001_1", "desc": "Commencing Attack", "dlg": "I'll do my best ..."}, {"id": "battle_enemy_break_11001_1", "desc": "Enemy Stagger", "dlg": "I've done that."}, {"id": "battle_break_11001_1", "desc": "Staggered", "dlg": "How good is ... !!!!!"}, {"id": "battle_kill_11001_1", "desc": "Enemy Killed", "dlg": "I've done this!"}, {"id": "battle_allydead_11001_1", "desc": "Ally Death", "dlg": "Can it be with me too ...?"}, {"id": "choice_success_p_11001_1", "desc": "Check Passed", "dlg": "Thanks, I was successful ..."}, {"id": "choice_fail_n_11001_1", "desc": "Check Failed", "dlg": "Everything is determined ..."}, {"id": "battle_clear_11001_1", "desc": "Victory Cry", "dlg": "You ... are we successful?"}, {"id": "battle_clear_ex_11001_1", "desc": "Extra Conditions Fulfilled", "dlg": "I'm not thankful."}, {"id": "battle_defeat_11001_1", "desc": "Defeat Wail", "dlg": "To apologize for apology"}]}
+{
+  "dataList": [
+    {
+      "id": "get_11001_1",
+      "desc": "Identity Acquisition",
+      "dlg": "I am a burden ...Myl cinema."
+    }, {
+      "id": "lobby_morning_11001_1",
+      "desc": "Morning Greeting",
+      "dlg": "good Morning!"
+    }, {
+      "id": "lobby_noon_11001_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I'm so comfortable now."
+    }, {
+      "id": "lobby_night_11001_1",
+      "desc": "Evening Greeting",
+      "dlg": "How was this today?"
+    }, {
+      "id": "smalltalk_11001_1",
+      "desc": "Chatter #1",
+      "dlg": "I can't imagine ... oh, I don't like my work or anything else ... I randomly randomly."
+    }, {
+      "id": "smalltalk_11001_2",
+      "desc": "Chatter #2",
+      "dlg": "Administrator, you really look good: I still have difficulty getting drunk instead of your memory."
+    }, {
+      "id": "smalltalk_11001_3",
+      "desc": "Chatter #3",
+      "dlg": "Rodia made me breakfast."
+    }, {
+      "id": "smalltalk_11001_4",
+      "desc": "Chatter #4",
+      "dlg": "She didn't think the world was common for you?"
+    }, {
+      "id": "smalltalk_11001_5",
+      "desc": "Chatter #5",
+      "dlg": "Therefore, if you don't remember the past, it means that you are not sorry for your bid, but I am jealous."
+    }, {
+      "id": "neglect_11001_1",
+      "desc": "Idle",
+      "dlg": "You, the manager ... are you busy?"
+    }, {
+      "id": "formation_11001_1",
+      "desc": "Deployment",
+      "dlg": "You will ... you'll try your best ..."
+    }, {
+      "id": "battleentry_11001_1",
+      "desc": "Stage Entry",
+      "dlg": "I think it's the best."
+    }, {
+      "id": "battle_select_11001_1",
+      "desc": "Viewed in Battle",
+      "dlg": "What did you do wrong ...?"
+    }, {
+      "id": "battle_endcommand_11001_1",
+      "desc": "Commencing Attack",
+      "dlg": "I'll do my best ..."
+    }, {
+      "id": "battle_enemy_break_11001_1",
+      "desc": "Enemy Stagger",
+      "dlg": "I've done that."
+    }, {
+      "id": "battle_break_11001_1",
+      "desc": "Staggered",
+      "dlg": "How good is ... !!!!!"
+    }, {
+      "id": "battle_kill_11001_1",
+      "desc": "Enemy Killed",
+      "dlg": "I've done this!"
+    }, {
+      "id": "battle_allydead_11001_1",
+      "desc": "Ally Death",
+      "dlg": "Can it be with me too ...?"
+    }, {
+      "id": "choice_success_p_11001_1",
+      "desc": "Check Passed",
+      "dlg": "Thanks, I was successful ..."
+    }, {
+      "id": "choice_fail_n_11001_1",
+      "desc": "Check Failed",
+      "dlg": "Everything is determined ..."
+    }, {
+      "id": "battle_clear_11001_1",
+      "desc": "Victory Cry",
+      "dlg": "You ... are we successful?"
+    }, {
+      "id": "battle_clear_ex_11001_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I'm not thankful."
+    }, {
+      "id": "battle_defeat_11001_1",
+      "desc": "Defeat Wail",
+      "dlg": "To apologize for apology"
+    }
+  ]
+}

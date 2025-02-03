@@ -1,1 +1,101 @@
-{"dataList": [{"id": "get_10610_1", "desc": "Identity Acquisition", "dlg": "Blood flow is not only horrible, but also a long time."}, {"id": "lobby_morning_10610_1", "desc": "Morning Greeting", "dlg": "Or?"}, {"id": "lobby_noon_10610_1", "desc": "Afternoon Greeting", "dlg": "Iaann ... I think she was sleeping a little.\nAll blood books are associated with holes and don't worry about this category attacks."}, {"id": "lobby_night_10610_1", "desc": "Evening Greeting", "dlg": "Look at night."}, {"id": "smalltalk_10610_1", "desc": "Chatter #1", "dlg": "The blood fishermen are not known.\nBut when we do this, we know that we can speak immediately ... the unique taste of water and hatred applies to blood hunters."}, {"id": "smalltalk_10610_2", "desc": "Chatter #2", "dlg": "We decided to send a bleeding case in our home.\nLet's go home!"}, {"id": "smalltalk_10610_3", "desc": "Chatter #3", "dlg": "Like bloody wild animals.\n... suppose it is complete."}, {"id": "smalltalk_10610_4", "desc": "Post-Uptie Chat 1", "dlg": "The fund ended the family and defeated the brain to change one of them.\nIs there a real family?"}, {"id": "smalltalk_10610_5", "desc": "Post-Uptie Chat 2", "dlg": "Some people think that their blood people are determined.\nThese are authentic."}, {"id": "neglect_10610_1", "desc": "Idle", "dlg": "Do you want a glass of water?"}, {"id": "gacksung_10610_1", "desc": "Uptying", "dlg": "This ... how do you feel?"}, {"id": "formation_10610_1", "desc": "Deployment", "dlg": "The blood is the same ... noise is rebuilt?"}, {"id": "battleentry_10610_1", "desc": "Stage Entry", "dlg": "Don't try until you need it."}, {"id": "battle_select_10610_1", "desc": "Viewed in Battle", "dlg": "I have to remove blood from weapons."}, {"id": "battle_endcommand_10610_1", "desc": "Commencing Attack", "dlg": "Let's hold."}, {"id": "battle_enemy_break_10610_1", "desc": "Enemy Stagger", "dlg": "Did he get hurt?"}, {"id": "battle_break_10610_1", "desc": "Staggered", "dlg": "Sat Sri Akal ..."}, {"id": "battle_kill_10610_1", "desc": "Enemy Killed", "dlg": "Haha!"}, {"id": "battle_dead_10610_1", "desc": "Death", "dlg": "I'll bring you another ..."}, {"id": "choice_success_p_10610_2", "desc": "Check Passed", "dlg": "This is useful for hunting!"}, {"id": "choice_fail_n_10610_1", "desc": "Check Failed", "dlg": "Oh ... I'm not good."}, {"id": "battle_clear_10610_1", "desc": "Victory Cry", "dlg": "Some of them run, but we have conquered so far."}, {"id": "battle_clear_ex_10610_1", "desc": "Extra Conditions Fulfilled", "dlg": "I think this area was cleaned by Blocked.Sand ... you have to hunt next?"}, {"id": "battle_defeat_10610_1", "desc": "Defeat Wail", "dlg": "This ... we've lost this great talk ... it's a little shy."}]}
+{
+  "dataList": [
+    {
+      "id": "get_10610_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Blood flow is not only horrible, but also a long time."
+    }, {
+      "id": "lobby_morning_10610_1",
+      "desc": "Morning Greeting",
+      "dlg": "Or?"
+    }, {
+      "id": "lobby_noon_10610_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Iaann ... I think she was sleeping a little.\nAll blood books are associated with holes and don't worry about this category attacks."
+    }, {
+      "id": "lobby_night_10610_1",
+      "desc": "Evening Greeting",
+      "dlg": "Look at night."
+    }, {
+      "id": "smalltalk_10610_1",
+      "desc": "Chatter #1",
+      "dlg": "The blood fishermen are not known.\nBut when we do this, we know that we can speak immediately ... the unique taste of water and hatred applies to blood hunters."
+    }, {
+      "id": "smalltalk_10610_2",
+      "desc": "Chatter #2",
+      "dlg": "We decided to send a bleeding case in our home.\nLet's go home!"
+    }, {
+      "id": "smalltalk_10610_3",
+      "desc": "Chatter #3",
+      "dlg": "Like bloody wild animals.\n... suppose it is complete."
+    }, {
+      "id": "smalltalk_10610_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "The fund ended the family and defeated the brain to change one of them.\nIs there a real family?"
+    }, {
+      "id": "smalltalk_10610_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Some people think that their blood people are determined.\nThese are authentic."
+    }, {
+      "id": "neglect_10610_1",
+      "desc": "Idle",
+      "dlg": "Do you want a glass of water?"
+    }, {
+      "id": "gacksung_10610_1",
+      "desc": "Uptying",
+      "dlg": "This ... how do you feel?"
+    }, {
+      "id": "formation_10610_1",
+      "desc": "Deployment",
+      "dlg": "The blood is the same ... noise is rebuilt?"
+    }, {
+      "id": "battleentry_10610_1",
+      "desc": "Stage Entry",
+      "dlg": "Don't try until you need it."
+    }, {
+      "id": "battle_select_10610_1",
+      "desc": "Viewed in Battle",
+      "dlg": "I have to remove blood from weapons."
+    }, {
+      "id": "battle_endcommand_10610_1",
+      "desc": "Commencing Attack",
+      "dlg": "Let's hold."
+    }, {
+      "id": "battle_enemy_break_10610_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Did he get hurt?"
+    }, {
+      "id": "battle_break_10610_1",
+      "desc": "Staggered",
+      "dlg": "Sat Sri Akal ..."
+    }, {
+      "id": "battle_kill_10610_1",
+      "desc": "Enemy Killed",
+      "dlg": "Haha!"
+    }, {
+      "id": "battle_dead_10610_1",
+      "desc": "Death",
+      "dlg": "I'll bring you another ..."
+    }, {
+      "id": "choice_success_p_10610_2",
+      "desc": "Check Passed",
+      "dlg": "This is useful for hunting!"
+    }, {
+      "id": "choice_fail_n_10610_1",
+      "desc": "Check Failed",
+      "dlg": "Oh ... I'm not good."
+    }, {
+      "id": "battle_clear_10610_1",
+      "desc": "Victory Cry",
+      "dlg": "Some of them run, but we have conquered so far."
+    }, {
+      "id": "battle_clear_ex_10610_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "I think this area was cleaned by Blocked.Sand ... you have to hunt next?"
+    }, {
+      "id": "battle_defeat_10610_1",
+      "desc": "Defeat Wail",
+      "dlg": "This ... we've lost this great talk ... it's a little shy."
+    }
+  ]
+}

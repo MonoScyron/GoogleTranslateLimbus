@@ -2,10 +2,10 @@
   "dataList": [
     {
       "id": "ADDITIONAL_START_COST",
-      "description": "[Universal]\n\nJin + +{0} Cost"
+      "description": "[Universal]\n\nJin + +{0} cost"
     }, {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE",
-      "description": "[Universal]\n\nJin + +{0}Spending after winning the war."
+      "description": "[Universal]\n\nJin + +{0} spending after winning the war."
     }, {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE",
       "description": "[Universal]\n\nA new gift for three new gifts."
@@ -32,7 +32,7 @@
       "description": "[Shops]\n\nAn award to buy a gift, for example{0}%"
     }, {
       "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE",
-      "description": "[Shops]\n\nJin + +{0}Gifts are the most expensive gifts."
+      "description": "[Shops]\n\nJin + +{0} gifts are the most expensive gifts."
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST",
       "description": "[Rest Stops]\n\nFor example, strengthen the gift{0}%"
@@ -71,7 +71,7 @@
       "description": "Famous -{0}%"
     }, {
       "id": "StickCoinHeadAndTailToMaxPer",
-      "description": "Everyone {0} All currency technology changes all rotary techniques and mint techniques."
+      "description": "Everyone {0} all currency technology changes all rotary techniques and mint techniques."
     }, {
       "id": "RemoveBreakSection",
       "description": "Cancel the final boundaries"
@@ -125,58 +125,58 @@
       "description": "[Rest Stops]\n\nDuring the improvement, the initial gain can be 20%."
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION",
-      "description": "[Rest Stops]\n\nTraveler{0}High futures"
+      "description": "[Rest Stops]\n\nTraveler{0} high futures"
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION",
-      "description": "[Rest Stops]\n\nTraveler{0}High futures"
+      "description": "[Rest Stops]\n\nTraveler{0} high futures"
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION",
-      "description": "[Rest Stops]\n\nTraveler{0}For example, the price of the futures exceeds% s."
+      "description": "[Rest Stops]\n\nTraveler{0} for example, the price of the futures exceeds% s."
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST",
-      "description": "[Rest Stops]\n\nTraveler{0}The price is not worth correcting."
+      "description": "[Rest Stops]\n\nTraveler{0} the price is not worth correcting."
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING",
-      "description": "[Rest Stops]\n\nTraveler{0}High futures"
+      "description": "[Rest Stops]\n\nTraveler{0} high futures"
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH",
-      "description": "[Rest Stops]\n\nTraveler{0}High futures"
+      "description": "[Rest Stops]\n\nTraveler{0} high futures"
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE",
-      "description": "[Rest Stops]\n\nTraveler{0}Cost% increase"
+      "description": "[Rest Stops]\n\nTraveler{0} cost% increase"
     }, {
       "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE_NESTING",
       "description": "[Shops]\n\nRewards + 20% costs, example:"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_COMBUSTION",
-      "description": "[Shops]\n\nTraveler{0}Gift is like a collection price"
+      "description": "[Shops]\n\nTraveler{0} gift is like a collection price"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_LACERATION",
       "description": "[Shops]\n\nTraveler{0}% Of the purchase of gifts"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_VIBRATION",
-      "description": "[Shops]\n\nTraveler{0}Rewards purchase price"
+      "description": "[Shops]\n\nTraveler{0} rewards purchase price"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BURST",
-      "description": "[Shops]\n\nTraveler{0}Buy G.OO transit price"
+      "description": "[Shops]\n\nTraveler{0} buy G.OO transit price"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SINKING",
-      "description": "[Shops]\n\nTraveler{0}Gift is like a collection price"
+      "description": "[Shops]\n\nTraveler{0} gift is like a collection price"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BREATH",
-      "description": "[Shops]\n\nTraveler{0}Buy percentage in r.g.o"
+      "description": "[Shops]\n\nTraveler{0} buy percentage in r.g.o"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
-      "description": "[Shops]\n\nTraveler{0}Buy the prize price"
+      "description": "[Shops]\n\nTraveler{0} buy the prize price"
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE",
-      "description": "[Shops]\n\nTraveler{0}The percentage of the main word without a gift is the same."
+      "description": "[Shops]\n\nTraveler{0} the percentage of the main word without a gift is the same."
     }, {
       "id": "SlashAttackDamageMultiply",
       "description": "Business + +{0}% Of hair loss"
     }, {
       "id": "PenetrateAttackDamageMultiply",
-      "description": "Business + +{0}Other damage%"
+      "description": "Business + +{0} other damage%"
     }, {
       "id": "HitAttackDamageMultiply",
       "description": "Business + +{0}% Loss"
@@ -191,13 +191,13 @@
       "description": "Both comfortable{0}"
     }, {
       "id": "EGO_RESOURCE",
-      "description": "[Encounters]\n\n…….{0} All resources begin at the beginning of the glass of glass."
+      "description": "[Encounters]\n\n…….{0} all resources begin at the beginning of the glass of glass."
     }, {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK",
-      "description": "[Encounters]\n\n…….{0} All resources begin at the beginning of the glass of glass."
+      "description": "[Encounters]\n\n…….{0} all resources begin at the beginning of the glass of glass."
     }, {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
-      "description": "[Encounters]\n\n…….{0} All resources begin at the beginning of the glass of glass."
+      "description": "[Encounters]\n\n…….{0} all resources begin at the beginning of the glass of glass."
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL1",
       "description": "[Shops]\n\nFor example buy a gift coupon{0}%"
@@ -230,22 +230,22 @@
       "description": "[Shops]\n\nFor example, both{0}%"
     }, {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER1",
-      "description": "[Shops]\n\nJin + +{0}Sales of department 1 additional value 1"
+      "description": "[Shops]\n\nJin + +{0} sales of department 1 additional value 1"
     }, {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER2",
-      "description": "[Shops]\n\nJin + +{0}Level 2, for example, additional prices for sale of% gifts"
+      "description": "[Shops]\n\nJin + +{0} level 2, for example, additional prices for sale of% gifts"
     }, {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER3",
-      "description": "[Shops]\n\nJin + +{0}The third low."
+      "description": "[Shops]\n\nJin + +{0} the third low."
     }, {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER4MORE",
       "description": "[Shops]\n\nJin + +{0}4+ tires, for example %%%"
     }, {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE_TIER1TOTIER2",
-      "description": "[Universal]\n\nImport {0} Animals 2\n\n<< no>\n-Smote and bad pain (level 2, combustion)\n-Av (tire 2, bleeding)\n-There (framework 2, HEA)\n-I mirror synthetic sprash (frame 2, hedila)\n-S.S.S.S.S.S.S.\nShowbeurry (Level 2, Blast)\n-Jhano (Team 2, SUK)\n-Bian (division 2, cool)\n-IK-Shipping 2, shipping\nStar (Team 2, Hello)\n-It contact (band 2, unique)\n-D D Jenning (Team 2, Square)\nLand belt (domain 2, doc)\n-What (level 2, top)\nThis is a flash (domain 2, 2)\n-The things (framework 2)"
+      "description": "[Universal]\n\nImport {0} animals 2\n\n<< no>\n-Smote and bad pain (level 2, combustion)\n-Av (tire 2, bleeding)\n-There (framework 2, HEA)\n-I mirror synthetic sprash (frame 2, hedila)\n-S.S.S.S.S.S.S.\nShowbeurry (Level 2, Blast)\n-Jhano (Team 2, SUK)\n-Bian (division 2, cool)\n-IK-Shipping 2, shipping\nStar (Team 2, Hello)\n-It contact (band 2, unique)\n-D D Jenning (Team 2, Square)\nLand belt (domain 2, doc)\n-What (level 2, top)\nThis is a flash (domain 2, 2)\n-The things (framework 2)"
     }, {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE_TIER3TOTIER4",
-      "description": "[Universal]\n\nImport {0} We work in ~ 4r.\n\n<< no>\n- (Level 3, Burn\nSmoking and Star (Level 3, Bleeding)\nTruth of Truth (Framework 3, Vibex)\nStandard battery (limit 3, comfort)\nCentral Dream (Framework 3, below)\nVan Ware Manura (Level 3, Don Sick)\n-Ponstructive (Domain 3, Cost)\nEmotional flowers (Step 3, fuel consumption\n-Xibel (level 3, bleeding)\nSpring time (frame 3, hall)\n-Sucker (division 3, comfort)\nMARD Stars and Level 3, Pass)\nHenFlueee (Level 3, Doa Sacham)\n-Prane-togenator (level 3, shipping)\nWork time (Framework 3, slope)\nDisclaim (Framework 3, Pierce)\n-Claley sculpture (distribution 3,)\nPosition of Love (Level 3)\n\n-B (framework 4, irritation)\nPlant (level 4, bleeding)\n-Toff (level 4, vibration)\n-Kvision 4, rest stop\n-1 moth (level 4, sync)\nProject (Level 4, Peace)\n- A even one of the events (level 4, delivery)\n-That Memory (Tier 4, Seisant)\nEarly Memory (Frame 4, Shipping)\nMemory printing (level 4, ODO)"
+      "description": "[Universal]\n\nImport {0} we work in ~ 4r.\n\n<< no>\n- (Level 3, Burn\nSmoking and Star (Level 3, Bleeding)\nTruth of Truth (Framework 3, Vibex)\nStandard battery (limit 3, comfort)\nCentral Dream (Framework 3, below)\nVan Ware Manura (Level 3, Don Sick)\n-Ponstructive (Domain 3, Cost)\nEmotional flowers (Step 3, fuel consumption\n-Xibel (level 3, bleeding)\nSpring time (frame 3, hall)\n-Sucker (division 3, comfort)\nMARD Stars and Level 3, Pass)\nHenFlueee (Level 3, Doa Sacham)\n-Prane-togenator (level 3, shipping)\nWork time (Framework 3, slope)\nDisclaim (Framework 3, Pierce)\n-Claley sculpture (distribution 3,)\nPosition of Love (Level 3)\n\n-B (framework 4, irritation)\nPlant (level 4, bleeding)\n-Toff (level 4, vibration)\n-Kvision 4, rest stop\n-1 moth (level 4, sync)\nProject (Level 4, Peace)\n- A even one of the events (level 4, delivery)\n-That Memory (Tier 4, Seisant)\nEarly Memory (Frame 4, Shipping)\nMemory printing (level 4, ODO)"
     }, {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL1",
       "description": "[Rest Stops]\n\nFor example, strengthen the gift{0}%"

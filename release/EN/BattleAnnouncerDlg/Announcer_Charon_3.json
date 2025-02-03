@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_3_1", "dlg": "It is not easy to wait."}, {"id": "announcer_cheer_3_2", "dlg": "If you are late, go with the forgiven."}, {"id": "announcer_specialcheer_3_1", "dlg": "Passengers did not hit."}, {"id": "announcer_specialcheer_3_2", "dlg": "Why do they change with a pashiac characteristic?"}, {"id": "announcer_enemy_break_3_1", "dlg": "The enemy rate."}, {"id": "announcer_ally_break_3_1", "dlg": "I asked you to make the seat belt."}, {"id": "announcer_killenemy_3_1", "dlg": "Mayfemy Beijing."}, {"id": "announcer_ally_dead_3_1", "dlg": "The bodies disappeared."}, {"id": "announcer_enemy_adv_3_1", "dlg": "He hit a bad man."}, {"id": "announcer_ally_adv_3_1", "dlg": "WoOOOOOOOH .VH."}, {"id": "announcer_danger_3_1", "dlg": "... I learned the importance of duty."}, {"id": "announcer_enemy_specialskill_3_1", "dlg": "The earth is shaking."}, {"id": "announcer_enemy_specialgimmick_3_1", "dlg": "Confidential."}, {"id": "announcer_advatk_physical_3_1", "dlg": "Provide high passengers."}, {"id": "announcer_disadvatk_physical_3_1", "dlg": "You don't do anything."}, {"id": "announcer_advatk_attr_3_1", "dlg": "He said he knew what you were doing."}, {"id": "announcer_disadvatk_attr_3_1", "dlg": "Do you know what you did wrong?"}, {"id": "announcer_enemy_specialbuff_3_1", "dlg": "I think this enemy is good."}, {"id": "announcer_enemy_specialdebuff_3_1", "dlg": "Look at them."}, {"id": "announcer_ally_specialbuff_3_1", "dlg": "Is something better for the passengers?"}, {"id": "announcer_ally_specialdebuff_3_1", "dlg": "... below her chair is the dog bag."}, {"id": "announcer_enemy_destroy_3_1", "dlg": "Tall Touch Truck."}, {"id": "announcer_enemy_destroy_3_2", "dlg": "The passengers are driving."}, {"id": "announcer_round_takebigdmg_3_1", "dlg": "Shiro is running."}, {"id": "announcer_round_takebigdmg_3_2", "dlg": "Ep, yes."}, {"id": "announcer_round_givebigdmg_3_1", "dlg": "Great success."}, {"id": "announcer_round_givebigdmg_3_2", "dlg": "Oh!"}, {"id": "announcer_multikillenemy_3_1", "dlg": "\"Two rats with rocks give you light and gifts."}, {"id": "announcer_equip_3_1", "dlg": "Echicy is very happy."}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_3_1",
+      "dlg": "It is not easy to wait."
+    }, {
+      "id": "announcer_cheer_3_2",
+      "dlg": "If you are late, go with the forgiven."
+    }, {
+      "id": "announcer_specialcheer_3_1",
+      "dlg": "Passengers did not hit."
+    }, {
+      "id": "announcer_specialcheer_3_2",
+      "dlg": "Why do they change with a pashiac characteristic?"
+    }, {
+      "id": "announcer_enemy_break_3_1",
+      "dlg": "The enemy rate."
+    }, {
+      "id": "announcer_ally_break_3_1",
+      "dlg": "I asked you to make the seat belt."
+    }, {
+      "id": "announcer_killenemy_3_1",
+      "dlg": "Mayfemy Beijing."
+    }, {
+      "id": "announcer_ally_dead_3_1",
+      "dlg": "The bodies disappeared."
+    }, {
+      "id": "announcer_enemy_adv_3_1",
+      "dlg": "He hit a bad man."
+    }, {
+      "id": "announcer_ally_adv_3_1",
+      "dlg": "WoOOOOOOOH .VH."
+    }, {
+      "id": "announcer_danger_3_1",
+      "dlg": "... I learned the importance of duty."
+    }, {
+      "id": "announcer_enemy_specialskill_3_1",
+      "dlg": "The earth is shaking."
+    }, {
+      "id": "announcer_enemy_specialgimmick_3_1",
+      "dlg": "Confidential."
+    }, {
+      "id": "announcer_advatk_physical_3_1",
+      "dlg": "Provide high passengers."
+    }, {
+      "id": "announcer_disadvatk_physical_3_1",
+      "dlg": "You don't do anything."
+    }, {
+      "id": "announcer_advatk_attr_3_1",
+      "dlg": "He said he knew what you were doing."
+    }, {
+      "id": "announcer_disadvatk_attr_3_1",
+      "dlg": "Do you know what you did wrong?"
+    }, {
+      "id": "announcer_enemy_specialbuff_3_1",
+      "dlg": "I think this enemy is good."
+    }, {
+      "id": "announcer_enemy_specialdebuff_3_1",
+      "dlg": "Look at them."
+    }, {
+      "id": "announcer_ally_specialbuff_3_1",
+      "dlg": "Is something better for the passengers?"
+    }, {
+      "id": "announcer_ally_specialdebuff_3_1",
+      "dlg": "... below her chair is the dog bag."
+    }, {
+      "id": "announcer_enemy_destroy_3_1",
+      "dlg": "Tall Touch Truck."
+    }, {
+      "id": "announcer_enemy_destroy_3_2",
+      "dlg": "The passengers are driving."
+    }, {
+      "id": "announcer_round_takebigdmg_3_1",
+      "dlg": "Shiro is running."
+    }, {
+      "id": "announcer_round_takebigdmg_3_2",
+      "dlg": "Ep, yes."
+    }, {
+      "id": "announcer_round_givebigdmg_3_1",
+      "dlg": "Great success."
+    }, {
+      "id": "announcer_round_givebigdmg_3_2",
+      "dlg": "Oh!"
+    }, {
+      "id": "announcer_multikillenemy_3_1",
+      "dlg": "\"Two rats with rocks give you light and gifts."
+    }, {
+      "id": "announcer_equip_3_1",
+      "dlg": "Echicy is very happy."
+    }
+  ]
+}

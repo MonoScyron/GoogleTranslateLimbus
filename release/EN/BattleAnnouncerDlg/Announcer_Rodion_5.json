@@ -1,1 +1,92 @@
-{"dataList": [{"id": "announcer_cheer_5_1", "dlg": "Quickly ~ we paid a little hair quickly."}, {"id": "announcer_cheer_5_2", "dlg": "I have the first delicious food!"}, {"id": "announcer_specialcheer_5_1", "dlg": "Everyone sends it up to the end of the meat ... Is there a good way?"}, {"id": "announcer_specialcheer_5_2", "dlg": "How are you?"}, {"id": "announcer_enemy_break_5_1", "dlg": "Travel there!"}, {"id": "announcer_ally_break_5_1", "dlg": "EGH ... try to avoid it!"}, {"id": "announcer_killenemy_5_1", "dlg": "Too much!"}, {"id": "announcer_ally_dead_5_1", "dlg": "Hello boys ... tooth ... I think you're busy, yes ...?"}, {"id": "announcer_enemy_adv_5_1", "dlg": "Hh, if we don't fall, we can give up ... based on the crushed, do you have a good idea?"}, {"id": "announcer_ally_adv_5_1", "dlg": "They can solve this problem and return to the bus at any time."}, {"id": "announcer_danger_5_1", "dlg": "I feel bad ... it can only be a breath in my life ..."}, {"id": "announcer_enemy_specialskill_5_1", "dlg": "H, tooth!"}, {"id": "announcer_enemy_specialgimmick_5_1", "dlg": "Hey, what not?"}, {"id": "announcer_advatk_physical_5_1", "dlg": "Ideal shock!"}, {"id": "announcer_disadvatk_physical_5_1", "dlg": "What are you doing ...?"}, {"id": "announcer_advatk_attr_5_1", "dlg": "O-very cunning and really good!"}, {"id": "announcer_disadvatk_attr_5_1", "dlg": "MMH ... I don't think I will ... you're tired, tooth?"}, {"id": "announcer_enemy_specialbuff_5_1", "dlg": "NHH ... all their pumps and meat ...?"}, {"id": "announcer_enemy_specialdebuff_5_1", "dlg": "They are tired and watch the rivers."}, {"id": "announcer_ally_specialbuff_5_1", "dlg": "Oh ... I am full of energy!"}, {"id": "announcer_ally_specialdebuff_5_1", "dlg": "Good ... my friends are not good ..."}, {"id": "announcer_enemy_destroy_5_1", "dlg": "Yes!"}, {"id": "announcer_enemy_destroy_5_2", "dlg": "Flow, the book view!"}, {"id": "announcer_round_takebigdmg_5_1", "dlg": "Oh my God!"}, {"id": "announcer_round_takebigdmg_5_2", "dlg": "This event is reduced ...M?"}, {"id": "announcer_round_givebigdmg_5_1", "dlg": "Wow -eh door is an attack."}, {"id": "announcer_round_givebigdmg_5_2", "dlg": "Now you are very nice-I think that he has a ugly person he has lent you."}, {"id": "announcer_multikillenemy_5_1", "dlg": "It's all a good time."}, {"id": "announcer_equip_5_1", "dlg": "Are you talking about this problem?"}]}
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_5_1",
+      "dlg": "Quickly ~ we paid a little hair quickly."
+    }, {
+      "id": "announcer_cheer_5_2",
+      "dlg": "I have the first delicious food!"
+    }, {
+      "id": "announcer_specialcheer_5_1",
+      "dlg": "Everyone sends it up to the end of the meat ... Is there a good way?"
+    }, {
+      "id": "announcer_specialcheer_5_2",
+      "dlg": "How are you?"
+    }, {
+      "id": "announcer_enemy_break_5_1",
+      "dlg": "Travel there!"
+    }, {
+      "id": "announcer_ally_break_5_1",
+      "dlg": "EGH ... try to avoid it!"
+    }, {
+      "id": "announcer_killenemy_5_1",
+      "dlg": "Too much!"
+    }, {
+      "id": "announcer_ally_dead_5_1",
+      "dlg": "Hello boys ... tooth ... I think you're busy, yes ...?"
+    }, {
+      "id": "announcer_enemy_adv_5_1",
+      "dlg": "Hh, if we don't fall, we can give up ... based on the crushed, do you have a good idea?"
+    }, {
+      "id": "announcer_ally_adv_5_1",
+      "dlg": "They can solve this problem and return to the bus at any time."
+    }, {
+      "id": "announcer_danger_5_1",
+      "dlg": "I feel bad ... it can only be a breath in my life ..."
+    }, {
+      "id": "announcer_enemy_specialskill_5_1",
+      "dlg": "H, tooth!"
+    }, {
+      "id": "announcer_enemy_specialgimmick_5_1",
+      "dlg": "Hey, what not?"
+    }, {
+      "id": "announcer_advatk_physical_5_1",
+      "dlg": "Ideal shock!"
+    }, {
+      "id": "announcer_disadvatk_physical_5_1",
+      "dlg": "What are you doing ...?"
+    }, {
+      "id": "announcer_advatk_attr_5_1",
+      "dlg": "O-very cunning and really good!"
+    }, {
+      "id": "announcer_disadvatk_attr_5_1",
+      "dlg": "MMH ... I don't think I will ... you're tired, tooth?"
+    }, {
+      "id": "announcer_enemy_specialbuff_5_1",
+      "dlg": "NHH ... all their pumps and meat ...?"
+    }, {
+      "id": "announcer_enemy_specialdebuff_5_1",
+      "dlg": "They are tired and watch the rivers."
+    }, {
+      "id": "announcer_ally_specialbuff_5_1",
+      "dlg": "Oh ... I am full of energy!"
+    }, {
+      "id": "announcer_ally_specialdebuff_5_1",
+      "dlg": "Good ... my friends are not good ..."
+    }, {
+      "id": "announcer_enemy_destroy_5_1",
+      "dlg": "Yes!"
+    }, {
+      "id": "announcer_enemy_destroy_5_2",
+      "dlg": "Flow, the book view!"
+    }, {
+      "id": "announcer_round_takebigdmg_5_1",
+      "dlg": "Oh my God!"
+    }, {
+      "id": "announcer_round_takebigdmg_5_2",
+      "dlg": "This event is reduced ...M?"
+    }, {
+      "id": "announcer_round_givebigdmg_5_1",
+      "dlg": "Wow -eh door is an attack."
+    }, {
+      "id": "announcer_round_givebigdmg_5_2",
+      "dlg": "Now you are very nice-I think that he has a ugly person he has lent you."
+    }, {
+      "id": "announcer_multikillenemy_5_1",
+      "dlg": "It's all a good time."
+    }, {
+      "id": "announcer_equip_5_1",
+      "dlg": "Are you talking about this problem?"
+    }
+  ]
+}

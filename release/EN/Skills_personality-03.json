@@ -442,7 +442,7 @@
                 {
                   "desc": "[OnSucceedAttack] Treatment 10 HP"
                 }, {
-                  "desc": "[OnSucceedAttack] Accordingly [Burst] Darshan (1 Horse Power 13:00 HP Treatment [Burst]Maximum 20)"
+                  "desc": "[OnSucceedAttack] Accordingly [Burst] Darshan (1 Horse Power 13:00 HP Treatment [Burst] Maximum 20)"
                 }, {
                   "desc": "HP re-50% coin"
                 }
@@ -465,7 +465,7 @@
                 {
                   "desc": "[OnSucceedAttack] 15 horse's power processing."
                 }, {
-                  "desc": "[OnSucceedAttack] Accordingly [Burst] Target (2 HP is a doctor in one place [Burst]Maximum 40)"
+                  "desc": "[OnSucceedAttack] Accordingly [Burst] Target (2 HP is a doctor in one place [Burst] Maximum 40)"
                 }, {
                   "desc": "HP re-50% coin"
                 }
@@ -813,7 +813,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If you use the results of this technique [Vibration] For purpose, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If you use the results of this technique [Vibration] For purpose, trigger [VibrationExplosion] Then reduce the target [Vibration] Phone 1</style>"
                 }
               ]
             }
@@ -838,7 +838,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If you use the results of this technique [Vibration] For purpose, trigger [VibrationExplosion]Then reduce the target [Vibration] Phone 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If you use the results of this technique [Vibration] For purpose, trigger [VibrationExplosion] Then reduce the target [Vibration] Phone 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -862,7 +862,7 @@
             }, {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the goal is 10+ [Vibration]Use 10 [Vibration] Objective and application 2 [TimeSuspend]\n- When this device is [TimeRentalTwoPersonality] If you leave responsibility, the results will not be used. [Vibration]"
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Vibration] Use 10 [Vibration] Objective and application 2 [TimeSuspend]\n- When this device is [TimeRentalTwoPersonality] If you leave responsibility, the results will not be used. [Vibration]"
                 }, {
                   "desc": "[OnSucceedAttack] If the target speed is less than this device, [switch! [VibrationChainPersonality]"
                 }
@@ -889,9 +889,9 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the goal is 10+ [Vibration]Use 10 [Vibration] Objective and application 2 [TimeSuspend]\n- When this device is [TimeRentalTwoPersonality] If you leave responsibility, the results will not be used. [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If the goal is 10+ [Vibration] Use 10 [Vibration] Objective and application 2 [TimeSuspend]\n- When this device is [TimeRentalTwoPersonality] If you leave responsibility, the results will not be used. [Vibration]<style=\"highlight\"></style>"
                 }, {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Tractor [VibrationExplosion] Then reduce the target [Vibration] Phone 1</style>"
                 }, {
                   "desc": "[OnSucceedAttack] If the target speed is less than this device, [switch! [VibrationChainPersonality]<style=\"highlight\"></style>"
                 }
