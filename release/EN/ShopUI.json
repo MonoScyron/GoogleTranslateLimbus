@@ -1,0 +1,320 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_shop_charge_enkephalin_tab",
+      "content": "Shipping package"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box_tab",
+      "content": "Buy a ncalplinin box"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box",
+      "content": "Buyer is anglein."
+    },
+    {
+      "id": "mainui_shop_scarce_madness",
+      "content": "You are very mad."
+    },
+    {
+      "id": "mainui_shop_ask_buy_enkephalin_box",
+      "content": "Do you want to buy an Encaptofllin box?"
+    },
+    {
+      "id": "mainui_shop_own",
+      "content": "Asset"
+    },
+    {
+      "id": "mainui_shop_enkephalin_fulled",
+      "content": "NKFLin has more than already the maximum options."
+    },
+    {
+      "id": "mainui_shop_ask_charge_enkephalin",
+      "content": "Do you want to fill inlin?"
+    },
+    {
+      "id": "mainui_shop_charge_enkephalin",
+      "content": "Asia is guilty of Calin."
+    },
+    {
+      "id": "mainui_shop_enkephalin_number",
+      "content": "Ningaki Balin"
+    },
+    {
+      "id": "mainui_shop_madness_tab",
+      "content": "In case of shed card shop"
+    },
+    {
+      "id": "mainui_shop_package_tab",
+      "content": "Attic"
+    },
+    {
+      "id": "mainui_shop_only_once",
+      "content": "First proposal"
+    },
+    {
+      "id": "mainui_shop_additional_give",
+      "content": "Arrow gift"
+    },
+    {
+      "id": "mainui_shop_not_free",
+      "content": "Push"
+    },
+    {
+      "id": "mainui_shop_purchase_per_today_fulled",
+      "content": "Today you have received the largest purchase of an AnkfICe."
+    },
+    {
+      "id": "mainui_shop_purchase_success",
+      "content": "Buy success."
+    },
+    {
+      "id": "mainui_shop_enkephalin_box_scarce",
+      "content": "The electronic box is not enough."
+    },
+    {
+      "id": "mainui_shop_lunacy_scarce",
+      "content": "You are very mad."
+    },
+    {
+      "id": "mainui_shop_limit_purchase_permanent",
+      "content": "{0} To leave"
+    },
+    {
+      "id": "mainui_shop_limit_purchase_periodic",
+      "content": "{0} List"
+    },
+    {
+      "id": "mainui_shop_acquire_at_mailbox",
+      "content": "The melting is full of mailbox."
+    },
+    {
+      "id": "mainui_shop_purchase_product_success",
+      "content": "Buy success\n{0}Intersection"
+    },
+    {
+      "id": "mainui_shop_remain_days_minutes",
+      "content": "{0}By {1}H, continue"
+    },
+    {
+      "id": "shopui_use_enkephalin_box",
+      "content": "Use NKFalin -Box"
+    },
+    {
+      "id": "shopui_use_lunacy",
+      "content": "off one's nuts"
+    },
+    {
+      "id": "shopui_no_more_purchase_chance_today",
+      "content": "Read the purchase limit daily."
+    },
+    {
+      "id": "shopui_scarce_lunacy",
+      "content": "You are very mad."
+    },
+    {
+      "id": "shopui_scarce_enkephalin_box",
+      "content": "The electronic box is not enough."
+    },
+    {
+      "id": "shopui_scarce_enkephalin",
+      "content": "Infine is not enough."
+    },
+    {
+      "id": "shopui_make_enkephalin_module",
+      "content": "Nozilina from the equipment"
+    },
+    {
+      "id": "shopui_charge_enkephalin_about",
+      "content": "Complete {0} And what is the fan?"
+    },
+    {
+      "id": "shopui_recover_enkephalin_after_time",
+      "content": "{1} Closely treated {0}Intersection"
+    },
+    {
+      "id": "shopui_ask_create_enkephalin_module",
+      "content": "Do you want to hire Nalifalin?"
+    },
+    {
+      "id": "shopui_charge_as_lunacy",
+      "content": "off one's nuts"
+    },
+    {
+      "id": "shopui_charge_as_box",
+      "content": "Use the box"
+    },
+    {
+      "id": "shopui_create_module",
+      "content": "Fix ideas"
+    },
+    {
+      "id": "remain_days",
+      "content": "{0}By"
+    },
+    {
+      "id": "remain_hours",
+      "content": "{0}P."
+    },
+    {
+      "id": "remain_minutes",
+      "content": "{0}Without"
+    },
+    {
+      "id": "enkephalin_charge_finished",
+      "content": "Is guilty of the point"
+    },
+    {
+      "id": "unable_to_charge",
+      "content": "Cannot be charged"
+    },
+    {
+      "id": "lack_of_enkephalin_box",
+      "content": "Funds are not enough"
+    },
+    {
+      "id": "enkephalin_full",
+      "content": "Cap d Lin Lin"
+    },
+    {
+      "id": "purchase_limitation_full",
+      "content": "I have come to shop"
+    },
+    {
+      "id": "lack_of_lunacy",
+      "content": "I'm so crazy"
+    },
+    {
+      "id": "create_enkephalin_module_success",
+      "content": "Argent has been established"
+    },
+    {
+      "id": "unable_to_create_enkephalin_module",
+      "content": "You can't collect samples"
+    },
+    {
+      "id": "lack_of_enkephalin",
+      "content": "Alcohol is not enough"
+    },
+    {
+      "id": "remain_days_with_number",
+      "content": "{0}Recognition."
+    },
+    {
+      "id": "enkephalin_module",
+      "content": "Male"
+    },
+    {
+      "id": "enkephalin_box",
+      "content": "Sent a letter received by the nose."
+    },
+    {
+      "id": "today_purchase_count",
+      "content": "Day"
+    },
+    {
+      "id": "lack_of_lunacy_ask_to_move_shop",
+      "content": "You are very mad."
+    },
+    {
+      "id": "remain_hours_with_number",
+      "content": "{0}H left"
+    },
+    {
+      "id": "enkephalin_module_count_max",
+      "content": "The largest ancoffin device"
+    },
+    {
+      "id": "enkephalin_module_count_max_desc",
+      "content": "You are in many stocks."
+    },
+    {
+      "id": "mainui_shop_lunacy_package_tab",
+      "content": "Package 2"
+    },
+    {
+      "id": "mainui_shop_until_season_finished",
+      "content": "Season 6 Update"
+    },
+    {
+      "id": "mainui_shop_purchase",
+      "content": "I bought it"
+    },
+    {
+      "id": "mainui_shop_popup_title",
+      "content": "Place"
+    },
+    {
+      "id": "paidShop_category_SPECIAL",
+      "content": "Personal"
+    },
+    {
+      "id": "paidShop_category_PACKAGE",
+      "content": "Attic"
+    },
+    {
+      "id": "paidShop_category_LUNACY",
+      "content": "off one's nuts"
+    },
+    {
+      "id": "paidShop_category_GROWTH",
+      "content": "To extend"
+    },
+    {
+      "id": "returnpolicy_info_title",
+      "content": "Cash payment policy"
+    },
+    {
+      "id": "paidShop_Tab_LIMITED",
+      "content": "Limited"
+    },
+    {
+      "id": "paidShop_Tab_WEEKLY",
+      "content": "Weekly"
+    },
+    {
+      "id": "paidShop_Tab_MONTHLY",
+      "content": "Per month"
+    },
+    {
+      "id": "paidShop_Tab_ALWAYS",
+      "content": "Always use"
+    },
+    {
+      "id": "go_to_mail_popup",
+      "content": "Yes, Income Boabba"
+    },
+    {
+      "id": "membership_remain_side_title",
+      "content": "[Pack Expiry Notice]"
+    },
+    {
+      "id": "membership_remain_side_desc",
+      "content": "{1} A day for you {0}Intersection"
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "Lemon software package"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "Is not enough pay."
+    },
+    {
+      "id": "membership_remain_side_desc_oneDay",
+      "content": "{0} The validity ended today."
+    },
+    {
+      "id": "restore_purchase_btn",
+      "content": "Collection payment"
+    },
+    {
+      "id": "restore_purchase_no_product",
+      "content": "There is no product that can be used for repairs."
+    },
+    {
+      "id": "restore_purchase_succeed",
+      "content": "Your product is recovered without a break."
+    }
+  ]
+}

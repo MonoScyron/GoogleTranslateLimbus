@@ -6,27 +6,26 @@ from const import BASE_PATH, BUILD_PATH, STORY_PATH, ANNOUNCER_PATH, ID_PATH, EG
 
 # todo: need to fix ego, id, and enemy skills
 
+LOG = utils.LOG
+
+
+def copy(filepath: str, override=False):
+    path, file = os.path.split(filepath)
+    copy_to = os.path.join(BUILD_PATH, path)
+    os.makedirs(os.path.dirname(copy_to), exist_ok=True)
+    if file in os.listdir(copy_to):
+        if not override:
+            LOG.info('file {} already exists, skip copying...'.format(file))
+            return
+        else:
+            LOG.info('file {} already exists, overriding'.format(file))
+    else:
+        LOG.info('copying {}...'.format(file))
+    shutil.copy(filepath, os.path.join(BUILD_PATH, filepath))
+
+
 if __name__ == '__main__':
-    # ! scripting
-    utils.translate_regex(STORY_PATH, ['content', 'teller', 'title', 'place'], retry=NUM_RETRY, p='^S[75]')  # story
-    # ! pmbots
-    utils.translate_regex(STORY_PATH,
-                          ['content', 'teller', 'title', 'place'],
-                          retry=NUM_RETRY,
-                          p='^\S[^123457]')  # story
-    # ! tmp
-    utils.translate_regex(STORY_PATH, ['content', 'teller', 'title', 'place'], retry=NUM_RETRY, p='^S[1234]')  # story
-
-    # ! finished
-    utils.translate_regex(STORY_PATH,
-                          ['content', 'teller', 'title', 'place'],
-                          retry=NUM_RETRY,
-                          p='^[0-9]|^P')  # story
-
-    utils.translate_regex(STORY_PATH,
-                          ['content', 'teller', 'title', 'place'],
-                          retry=NUM_RETRY,
-                          p='^[^0-9PS]')  # story
+    utils.translate_regex(STORY_PATH, ['content', 'teller', 'title', 'place'], retry=NUM_RETRY)  # story
     utils.translate(ANNOUNCER_PATH, ['dlg'], retry=NUM_RETRY)  # announcers
     utils.translate(EGO_PATH, ['dlg'], retry=NUM_RETRY)  # ego dialogue
     utils.translate(ID_PATH, ['dlg'], retry=NUM_RETRY)  # id dialogue
@@ -56,7 +55,7 @@ if __name__ == '__main__':
     utils.translate_regex(BASE_PATH, values=['content'], p='AssociationName', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='AttendanceRewardsText', retry=NUM_RETRY)
 
-    # skipping AttributeText.json
+    copy('./EN/AttributeText.json')
 
     utils.translate_regex(BASE_PATH, values=['content'], p='BattleHint', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['name', 'desc', 'summary'], p='BattleKeywords', retry=NUM_RETRY)
@@ -73,7 +72,8 @@ if __name__ == '__main__':
                           values=['name', 'desc', 'summary'],
                           p='Bufs', retry=NUM_RETRY)
 
-    # skipping Characters.json and ChapterBannerConfig.json
+    copy('./EN/Characters.json')
+    copy('./EN/ChapterBannerConfig.json')
 
     utils.translate_regex(BASE_PATH, values=['content'], p='ChoiceEvent', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='Coupon', retry=NUM_RETRY)
@@ -85,14 +85,14 @@ if __name__ == '__main__':
     utils.translate_regex(BASE_PATH, values=['content'], p='DungeonArea', retry=NUM_RETRY)
 
     utils.translate_regex(BASE_PATH, values=['name'], p='DungeonName', retry=NUM_RETRY)
-    utils.translate_regex(BASE_PATH, values=['title', 'desc'], p='DungeonNode', retry=NUM_RETRY)
+    utils.translate_regex(BASE_PATH, values=['stageList', 'title', 'desc'], p='DungeonNode', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['description'], p='DungeonStartBuffs', retry=NUM_RETRY)
 
-    # skipping DungeonText.json
+    copy('./EN/DungeonText.json')
 
     utils.translate_regex(BASE_PATH, values=['content'], p='EGO_Get', retry=NUM_RETRY)
 
-    # skipping EGOgift.json
+    copy('./EN/EGOgift.json')
 
     utils.translate_regex(BASE_PATH, values=['name', 'desc', 'simpleDesc'], p='EGOgift_', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['name'], p='EgoGiftCategory', retry=NUM_RETRY)
@@ -168,6 +168,7 @@ if __name__ == '__main__':
     utils.translate_regex(BASE_PATH, values=['content'], p='ReturnPolicy', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='RewardDungeon', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='SeasonTitle', retry=NUM_RETRY)
+    utils.translate_regex(BASE_PATH, values=['content'], p='ShopUI', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='ShopItemCount', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='ShotcutKey', retry=NUM_RETRY)
 
@@ -184,7 +185,7 @@ if __name__ == '__main__':
 
     utils.translate_regex(BASE_PATH, values=['content'], p='StoryDungeonUI', retry=NUM_RETRY)
 
-    # skipping StoryText.json (test file)
+    copy('./EN/StoryText.json')
 
     utils.translate_regex(BASE_PATH, values=['content', 'title', 'desc'], p='StoryTheater', retry=NUM_RETRY)
     utils.translate_regex(BASE_PATH, values=['content'], p='StoryUIText', retry=NUM_RETRY)
@@ -208,6 +209,3 @@ if __name__ == '__main__':
     utils.translate_regex(BASE_PATH, values=['name', 'desc'], p='UserTicket', retry=NUM_RETRY)
 
     utils.translate_regex(BASE_PATH, values=['content'], p='Walpu', retry=NUM_RETRY)
-
-    if 'LimbusLocalize_BIE.dll' in os.listdir(BUILD_PATH):
-        shutil.copy('LimbusLocalize_BIE.dll', os.path.join(BUILD_PATH, 'LimbusLocalize_BIE.dll'))

@@ -16,24 +16,31 @@ translator = gt.Translator(
 # english -> serbian -> marathi -> chinese -> dutch -> arabic -> korean -> polish -> hindi -> telugu -> punjabi -> english
 lang_list = ['en', 'sr', 'mr', 'zh-cn', 'nl', 'ar', 'ko', 'pl', 'hi', 'te', 'pa', 'en']
 
-formatter = logging.Formatter(
-    "%(asctime)s - %(levelname)s - %(message)s"
-)
 
-file_handler = logging.FileHandler("./log.log", encoding='utf-8')
-file_handler.setFormatter(formatter)
-file_handler.setLevel(logging.DEBUG)
+def get_logger():
+    formatter = logging.Formatter(
+        "%(asctime)s - %(levelname)s - %(message)s"
+    )
 
-log = logging.getLogger('GT')
-log.setLevel(logging.DEBUG)
-log.addHandler(file_handler)
+    file_handler = logging.FileHandler("./log.log", encoding='utf-8')
+    file_handler.setFormatter(formatter)
+    file_handler.setLevel(logging.DEBUG)
+
+    log = logging.getLogger('GT')
+    log.setLevel(logging.DEBUG)
+    log.addHandler(file_handler)
+    return log
+
+
+LOG = get_logger()
 
 
 # translate iff filename has prefix
-def translate_regex(path: str, values: list[str], p: str | re.Pattern[str] = '', retry=-1):
+def translate_regex(path: str, values: list[str], p: str | re.Pattern[str] = None, retry=-1):
     for filename in os.listdir(path):
-        if re.match(p, filename):
-            __translate_file(filename, path, values, retry)
+        if p and not re.match(p, filename):
+            continue
+        __translate_file(filename, path, values, retry)
 
 
 # normal translate
@@ -63,7 +70,7 @@ def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]
             trans_text = trans_text.text
             time.sleep(WAIT_ON_SUCCESS)
         except Exception as e:
-            log.error(f'error on text at lang_index {lang_index} '
+            LOG.error(f'error on text at lang_index {lang_index} '
                       f'{f"(retry {NUM_RETRY - retry + 1} of {NUM_RETRY})" if NUM_RETRY > 0 else ""}: {e}')
             if "The block will expire shortly after those requests stop" in f'{e}':
                 time.sleep(WAIT_ON_BIG_ERROR)
@@ -112,15 +119,15 @@ def scramble_single(text: str, filename: str, value: str, cache=None, retry=-1) 
             continue
 
         if t in cache:
-            log.info(f'found cached value: {t}')
+            LOG.info(f'found cached value: {t}')
             translation.append(cache[t])
         else:
-            log.info(f'translating: {t}')
+            LOG.info(f'translating: {t}')
             translated = t
             for j in range(len(lang_list) - 1):
                 translated, success = __translate_step(translated, j, retry)
                 if not success:
-                    log.critical(f'failed translating in {filename}, skipping text: {t}')
+                    LOG.critical(f'failed translating in {filename}, skipping text: {t}')
                     translated = t
                     break
             cache[t] = translated
@@ -135,28 +142,28 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
 
     # skip if translation already exists
     if filename in os.listdir(os.path.join(BUILD_PATH, local_path)):
-        log.info(f'skip {filename}')
+        LOG.info(f'skip {filename}')
         return
 
     # if file isn't json or has no dataList, copy raw
     raw_file_path = os.path.join(local_path, filename)
     if not os.path.isfile(raw_file_path):
-        log.info(f'{filename} not file, skipping')
+        LOG.info(f'{filename} not file, skipping')
         return
 
     if not filename.endswith('.json'):
-        log.info(f'{filename} not json, copying raw')
+        LOG.info(f'{filename} not json, copying raw')
         shutil.copy(raw_file_path, write_path)
         return
 
     data = readfile(raw_file_path)
     if 'dataList' not in data:
-        log.info(f'{filename} has no dataList, copying raw')
+        LOG.info(f'{filename} has no dataList, copying raw')
         shutil.copy(raw_file_path, write_path)
         return
 
     cache = {}
-    log.info(f'TRANSLATING {filename}')
+    LOG.info(f'TRANSLATING {filename}')
 
     data_len = len(data['dataList'])
     for i, d in enumerate(data['dataList']):
@@ -165,7 +172,7 @@ def __translate_file(filename: str, local_path: str, values: list[str], retry: i
             if v not in d:
                 continue
 
-            log.info(f'{filename}: translating ({i + 1}/{data_len}): {d[v]}')
+            LOG.info(f'{filename}: translating ({i + 1}/{data_len}): {d[v]}')
             d[v] = scramble(d[v], filename=filename, v=v, values=values, retry=retry, cache=cache)
 
     writefile(write_path, data)
@@ -191,5 +198,5 @@ def scramble(dv: str | list | dict, filename: str = '', v: str = '', values=None
                 translated[k] = scramble(translated[k], filename=filename, v=v, values=values, retry=retry, cache=cache)
         return translated
     else:
-        log.warning(f'unknown type {dv}={type(dv)}, returning raw value (may be PM jank)')
+        LOG.warning(f'unknown type {dv}={type(dv)}, returning raw value (may be PM jank)')
         return dv
