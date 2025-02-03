@@ -50,7 +50,7 @@ def readfile(filepath: str) -> dict:
 
 def writefile(filepath: str, data: dict) -> None:
     with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False)
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 
 def __translate_step(text: str, lang_index: int, retry: int) -> Tuple[str, bool]:
