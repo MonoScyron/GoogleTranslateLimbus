@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": "story_dungeon_return_to_savepoint_title",
+      "content": "The team has been destroyed"
+    },
+    {
+      "id": "story_dungeon_return_to_savepoint_content",
+      "content": "All sinners <color=#990000>For example, pay</color>Intersection\nReturn to the final control status."
+    },
+    {
+      "id": "story_dungeon_give_up",
+      "content": "Single Crane Truck"
+    },
+    {
+      "id": "story_dungeon_to_main",
+      "content": "Main menu"
+    },
+    {
+      "id": "story_dungeon_continue",
+      "content": "Help yourself"
+    },
+    {
+      "id": "story_ask_move_to_main",
+      "content": "Continue your progress\nBack to the main menu?"
+    },
+    {
+      "id": "story_ask_give_up_dungeon",
+      "content": "You don't look for darkness?"
+    },
+    {
+      "id": "story_to_be_return_enkephalin_box_warning",
+      "content": "This is a strict unit."
+    },
+    {
+      "id": "dungeon_encounter_guide_start",
+      "content": "Start"
+    },
+    {
+      "id": "dungeon_encounter_guide_battle",
+      "content": "Traditional competition"
+    },
+    {
+      "id": "dungeon_encounter_guide_ab_battle",
+      "content": "Center"
+    },
+    {
+      "id": "dungeon_encounter_guide_hard_battle",
+      "content": "Dangerous conflict"
+    },
+    {
+      "id": "dungeon_encounter_guide_event",
+      "content": "Program"
+    },
+    {
+      "id": "dungeon_encounter_guide_save",
+      "content": "Control"
+    },
+    {
+      "id": "dungeon_encounter_guide_boss",
+      "content": "President's gift"
+    },
+    {
+      "id": "dungeon_enter_save_point",
+      "content": "Drainage control points"
+    },
+    {
+      "id": "dungeon_recover_hp_mp",
+      "content": "HP and SPs are restored."
+    },
+    {
+      "id": "dungeon_save_completion",
+      "content": "I read the progress"
+    },
+    {
+      "id": "dungeon_save_completion_content",
+      "content": "Progress is stored."
+    },
+    {
+      "id": "dungeon_return_to_save_point",
+      "content": "At the control point"
+    },
+    {
+      "id": "dungeon_unlocked_node_notice",
+      "content": "Find a new thing."
+    },
+    {
+      "id": "dungeon_unlocked_line_notice",
+      "content": "Open a new method."
+    },
+    {
+      "id": "dungeon_encounter_guide_stairs",
+      "content": "Go to the next field"
+    },
+    {
+      "id": "dungeon_encounter_guide_story",
+      "content": "History"
+    },
+    {
+      "id": "formation_ui_ask_to_use_saved_formation",
+      "content": "Currently, team taxes have been replaced by this new tax.\nDo you download the current team?\n\n<size=80%>After changing the team, you cannot return to the previous fee.\nBecause the dark story center may improve the load, so it does not affect the prestational intentism in the criminal window.</size>"
+    }
+  ]
+}
