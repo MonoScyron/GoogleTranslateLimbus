@@ -30,9 +30,9 @@ log.addHandler(file_handler)
 
 
 # translate iff filename has prefix
-def translate_prefix(path: str, values: list[str], prefix: str | re.Pattern[str] = '', retry=-1):
+def translate_regex(path: str, values: list[str], p: str | re.Pattern[str] = '', retry=-1):
     for filename in os.listdir(path):
-        if re.match(prefix, filename):
+        if re.match(p, filename):
             __translate_file(filename, path, values, retry)
 
 
