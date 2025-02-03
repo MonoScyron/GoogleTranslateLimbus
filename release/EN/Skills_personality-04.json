@@ -808,7 +808,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] 2 Anxiety [MarkOfButler]"
                 }, {
-                  "desc": "[EnemyKill] To achieve any objective, we will sell the fun again [MarkOfButler]\n(No active recycling. If the rest is not active, [MarkOfButler]Were, and,,,,,,,,,,,,,,"
+                  "desc": "[EnemyKill] To achieve any objective, we will sell the fun again [MarkOfButler]\n(No active recycling. If the rest is not active, [MarkOfButler]……."
                 }
               ]
             }
@@ -876,7 +876,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same[Vibration] The purpose of the measurement) / 2) (maximum value) <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same[Vibration] The purpose of the measurement) / 2) (maximum value) <style=\"highlight\">Blood</style>……."
                 }
               ]
             }, {
@@ -890,12 +890,12 @@
         }, {
           "level": 4,
           "name": "Did you miss the bomber?",
-          "desc": "[WhenUse] Benefits +2 [Vibration] Account\n[WhenUse] Calculation <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,, [Vibration] Account, Power Clash +2",
+          "desc": "[WhenUse] Benefits +2 [Vibration] Account\n[WhenUse] Calculation <style=\"highlight\">4</style>……. [Vibration] Account, Power Clash +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same[Vibration] The target of measure) (maximum value) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] to get [Vibration] This is the same[Vibration] The target of measure) (maximum value) <style=\"highlight\">4</style>……."
                 }
               ]
             }, {
@@ -952,7 +952,7 @@
         }, {
           "level": 4,
           "name": "Speed ​​compression",
-          "desc": "[WhenUse] Benefits +2 [Vibration] Account\n<style=\"highlight\">[WhenUse] 4+ [Vibration] Account, Power Dispute +1</style>\nCalculation <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,, [Vibration] Account, basic water 11",
+          "desc": "[WhenUse] Benefits +2 [Vibration] Account\n<style=\"highlight\">[WhenUse] 4+ [Vibration] Account, Power Dispute +1</style>\nCalculation <style=\"highlight\">4</style>……. [Vibration] Account, basic water 11",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -1036,7 +1036,7 @@
         }, {
           "level": 4,
           "name": "Water",
-          "desc": "[WhenUse] 2 get (receive[Vibration] Faculty with HP Shield) <style=\"highlight\">10</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[WhenUse] 2 get (receive[Vibration] Faculty with HP Shield) <style=\"highlight\">10</style>…….",
           "coinlist": [{}]
         }
       ]
@@ -1086,7 +1086,7 @@
         }, {
           "level": 4,
           "name": "Both are closed",
-          "desc": "7+ [RedEyeFirst], Call ++ 1\n7+ [PenanceFirst]Clash <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>",
+          "desc": "7+ [RedEyeFirst], Call ++ 1\n7+ [PenanceFirst]Clash <style=\"highlight\">…….</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1179,7 +1179,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] to get [RedEyeFirst] Equal foundation ([Laceration] With expectations /<style=\"highlight\">There is no way</style>(Maximum value) <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] to get [RedEyeFirst] Equal foundation ([Laceration] With expectations /<style=\"highlight\">There is no way</style>(Maximum value) <style=\"highlight\">Blood</style>……."
                 }, {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] 7+ [RedEyeFirst]1, 1 [Agility] Next poem (each article 2 times)</style>"
                 }
@@ -1240,7 +1240,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] The lowest and colleagues of the treatment is the lowest and supported ([PenanceFirst]Were, and,,,,,,,,,,,,,,<style=\"highlight\">There is no way</style>Hi"
+                  "desc": "[OnSucceedAttack] The lowest and colleagues of the treatment is the lowest and supported ([PenanceFirst]…….<style=\"highlight\">There is no way</style>Hi"
                 }, {
                   "desc": "[OnSucceedAttack] Use the financial ESP for the treatment of your own and colleagues ([PenanceFirst] -10) SP (at least 0)<style=\"highlight\"></style>"
                 }
@@ -1334,9 +1334,9 @@
             }, {}, {
               "coindescs": [
                 {
-                  "desc": "Agreement <style=\"highlight\">+ 4%</style> Every wounds are high [RedEyeFirst] And and [PenanceFirst] Maximum <style=\"highlight\">160%</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "Agreement <style=\"highlight\">+ 4%</style> Every wounds are high [RedEyeFirst] And and [PenanceFirst] Maximum <style=\"highlight\">160%</style>……."
                 }, {
-                  "desc": "[OnSucceedAttack] Increase the lowest HP and mate <style=\"highlight\">Were, and,,,,,,,,,,,,,,[PenanceFirst] Cost) %%</style> HP-maximum HP of all equipment\nExtra items for two reasons."
+                  "desc": "[OnSucceedAttack] Increase the lowest HP and mate <style=\"highlight\">…….[PenanceFirst] Cost) %%</style> HP-maximum HP of all equipment\nExtra items for two reasons."
                 }, {
                   "desc": "[OnSucceedAttack] Use the financial ESP for the treatment of your own and colleagues ([PenanceFirst] Consumption- <style=\"highlight\">My</style>Ticket sales\nExtra items for two reasons."
                 }, {

@@ -29,13 +29,13 @@
       "content": "<color=#ebcaa2>Golden Apple friends made a new body!</color>"
     }, {
       "id": "800201_aztec_circle_1_1",
-      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] ……."
     }, {
       "id": "800202_aztec_circle_success_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
     }, {
       "id": "800202_aztec_circle_success_1_2",
-      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] ……."
     }, {
       "id": "800202_aztec_circle_failure_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
@@ -44,7 +44,7 @@
       "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} Stamp.</color>"
     }, {
       "id": "800202_aztec_circle_failure_1_3",
-      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] And and {4} [{3}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] And and {4} [{3}] ……."
     }, {
       "id": "800203_aztec_circle_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
@@ -71,7 +71,7 @@
       "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
     }, {
       "id": "800204_aztec_circle_failure_1_4",
-      "content": "% {1} [{0}] Were, and,,,,,,,,,,,,,,<color=#ebcaa2>Application</color> Copy<color=#ebcaa2>All sinners.</color>"
+      "content": "% {1} [{0}] …….<color=#ebcaa2>Application</color> Copy<color=#ebcaa2>All sinners.</color>"
     }, {
       "id": "800206_aztec_circle_success_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>Epidemic {1} Love.</color>"
@@ -89,7 +89,7 @@
       "content": "<color=#ebcaa2>Everything is guilty</color> <color=#fe4b48>Hora {0} Stamp.</color>"
     }, {
       "id": "800206_aztec_circle_failure_1_3",
-      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] And and {4} [{3}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All [{0}] \"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] And and {4} [{3}] ……."
     }, {
       "id": "801201_reinforcedHuman_1_1",
       "content": "<color=#ebcaa2>What about factory explorers ...</color>"
@@ -113,7 +113,7 @@
       "content": "<color=#ebcaa2>All enemies</color> <color=#e30000>there are</color> <color=#ebcaa2>Their [Upgrade Factory at Work] Responsible!</color>"
     }, {
       "id": "801502_pinkshoe_success_1_1",
-      "content": "<color=#ebcaa2>To all other enemies</color> <color=#ebcaa2>to get</color> % {1} [{0}] And and {3} [{2}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>To all other enemies</color> <color=#ebcaa2>to get</color> % {1} [{0}] And and {3} [{2}] ……."
     }, {
       "id": "801502_pinkshoe_success_1_2",
       "content": "<color=#ebcaa2>Not all enemies do this [{0}] Intersection</color>"
@@ -122,10 +122,10 @@
       "content": "<color=#ebcaa2>All partners</color> <color=#e30000>Hora {0} Love.</color>"
     }, {
       "id": "801502_pinkshoe_failure_1_2",
-      "content": "<color=#ebcaa2>All partners</color> <color=#ebcaa2>to get</color> % {1} [{0}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All partners</color> <color=#ebcaa2>to get</color> % {1} [{0}] ……."
     }, {
       "id": "801502_pinkshoe_failure_1_3",
-      "content": "<color=#ebcaa2>% Of all enemies. [{0}] Were, and,,,,,,,,,,,,,,</color>"
+      "content": "<color=#ebcaa2>% Of all enemies. [{0}] …….</color>"
     }, {
       "id": "102001_action_4_1",
       "content": "<color=#ebcaa2>All partners</color> <color=#e30000>Hora {0} Love.</color>"
@@ -194,16 +194,16 @@
       "content": "<color=#ebcaa2>All partners</color> <color=#e30000>Hora {0} Hard power<color=#ebcaa2> And and<color=#fe4b48>Stamp.</color>"
     }, {
       "id": "all_ally_add_buff",
-      "content": "<color=#ebcaa2>All partners</color> <color=#ebcaa2>to get</color> % {1} {0} Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All partners</color> <color=#ebcaa2>to get</color> % {1} {0} ……."
     }, {
       "id": "all_ally_add_buff_during_next_n_battle",
       "content": "<color=#ebcaa2>All partners</color> <color=#ebcaa2>to get</color> % {2} {1} followed by /% {0} Fighting."
     }, {
       "id": "all_enemy_apply_buff",
-      "content": "% {1} {0} Were, and,,,,,,,,,,,,,,<color=#ebcaa2>Application</color> <color=#ebcaa2>All enemies!</color>"
+      "content": "% {1} {0} …….<color=#ebcaa2>Application</color> <color=#ebcaa2>All enemies!</color>"
     }, {
       "id": "character_apply_buff_during_next_n_battle",
-      "content": "<color=#ebcaa2>[{0}] Fork</color> % {3} {2} Were, and,,,,,,,,,,,,,,<color=#ebcaa2>Later {1} Fighting.</color>"
+      "content": "<color=#ebcaa2>[{0}] Fork</color> % {3} {2} …….<color=#ebcaa2>Later {1} Fighting.</color>"
     }, {
       "id": "battle_occurrence",
       "content": "<color=#ebcaa2>Fight!</color>"
@@ -269,13 +269,13 @@
       "content": "<color=#ebcaa2>[{0}] He prepared it!</color>"
     }, {
       "id": "851901_kqe_success_1_3",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……."
     }, {
       "id": "851901_kqe_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] And and {4} [{3}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] And and {4} [{3}] ……."
     }, {
       "id": "851901_kqe_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……."
     }, {
       "id": "851001_cryingtoad_success_1_1",
       "content": "<color=#ebcaa2>[{0}] He prepared it!</color>"
@@ -299,28 +299,28 @@
       "content": "<color=#ebcaa2>[{0}] User</color> Celebration<color=#e30000>[{1}]</color>File!"
     }, {
       "id": "804501_electriccentipede_success_1_1",
-      "content": "<color=#ebcaa2>[{0}] Enthusiastic {2} [{1}] Were, and,,,,,,,,,,,,,,</color>"
+      "content": "<color=#ebcaa2>[{0}] Enthusiastic {2} [{1}] …….</color>"
     }, {
       "id": "804501_electriccentipede_success_1_2",
-      "content": "<color=#ebcaa2>All [{0}]\"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All [{0}]\"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] ……."
     }, {
       "id": "804501_electriccentipede_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}] Were, and,,,,,,,,,,,,,, {2} [{1}] Were, and,,,,,,,,,,,,,,</color>"
+      "content": "<color=#ebcaa2>[{0}] ……. {2} [{1}] …….</color>"
     }, {
       "id": "804501_electriccentipede_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……."
     }, {
       "id": "804801_gentlefairy_success_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
     }, {
       "id": "804801_gentlefairy_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,, {4} [{3}] And and {6} [{5}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……. {4} [{3}] And and {6} [{5}] ……."
     }, {
       "id": "804801_gentlefairy_failure_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
     }, {
       "id": "804801_gentlefairy_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,, {4} [{3}] And and {6} [{5}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……. {4} [{3}] And and {6} [{5}] ……."
     }, {
       "id": "804601_umbrellafox_success_1_1",
       "content": "<color=#ebcaa2>All [{0}]</color> <color=#00ff9c>Epidemic {1} Maximum HP</color>"

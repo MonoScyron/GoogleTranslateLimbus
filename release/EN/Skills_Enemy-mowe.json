@@ -66,7 +66,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 10 perceived 10 [Laceration] Books and river basin ([Laceration] With a dish does not minimize 2% HP target. [Laceration] Less than 1.1.1",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorption [Laceration] On the path to improvement"
                 }
               ]
             }
@@ -157,7 +157,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 10 perceived 10 [Laceration] Books and river basin ([Laceration] With a dish does not minimize 2% HP target. [Laceration] Less than 1.1.1",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorption [Laceration] On the path to improvement"
                 }
               ]
             }
@@ -246,7 +246,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 10 perceived 10 [Laceration] Books and river basin ([Laceration] With a dish does not minimize 2% HP target. [Laceration] Less than 1.1.1",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorption [Laceration] On the path to improvement"
                 }
               ]
             }
@@ -339,7 +339,7 @@
                   "desc": "[OnSucceedAttack] Application 6 [DefenseDown]"
                 }, {
                   "desc": "[OnSucceedAttack] 10 perceived 10 [Laceration] Books and river basin ([Laceration] With a dish does not minimize 2% HP target. [Laceration] Less than 1.1.1",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorption [Laceration] On the path to improvement"
                 }
               ]
             }
@@ -432,7 +432,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 10 perceived 10 [Laceration] Books and river basin ([Laceration] With a dish does not minimize 2% HP target. [Laceration] Less than 1.1.1",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorption [Laceration] On the path to improvement"
                 }
               ]
             }
@@ -533,7 +533,7 @@
                   "desc": "[OnSucceedAttack] Application 3 [AttackDown]"
                 }, {
                   "desc": "[OnSucceedAttack] 10 perceived 10 [Laceration] Books and river basin ([Laceration] With a dish does not minimize 2% HP target. [Laceration] Less than 1.1.1",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorption [Laceration] On the path to improvement"
                 }
               ]
             }

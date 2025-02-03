@@ -277,12 +277,12 @@
           "level": 3,
           "name": "Face",
           "abName": "Traveler",
-          "desc": "[BeforeAttack] Calculation <style=\"highlight\">Blood</style>+ The best reason.+ 1 atk body weight gain\n[BeforeAttack] Less than 10 [Charge] Get +10 with 15% HP [Charge] The value of the measurement (the loss does not reduce HPs of this device. In circuit)\n[BeforeAttack] Use up to 40 [Charge] Each face and damage + 3% [Charge] Package Number (Maximum) <style=\"highlight\">20</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[BeforeAttack] Calculation <style=\"highlight\">Blood</style>+ The best reason.+ 1 atk body weight gain\n[BeforeAttack] Less than 10 [Charge] Get +10 with 15% HP [Charge] The value of the measurement (the loss does not reduce HPs of this device. In circuit)\n[BeforeAttack] Use up to 40 [Charge] Each face and damage + 3% [Charge] Package Number (Maximum) <style=\"highlight\">20</style>…….",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] (To be used) use ([Charge] 1) [DimensionRift] the best <style=\"highlight\">There is no way</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] (To be used) use ([Charge] 1) [DimensionRift] the best <style=\"highlight\">There is no way</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] Get 1 [Agility] 1 [ChargeLoad] The next line is for each [Charge] the best <style=\"highlight\">There is no way</style> All technology)"
                 }, {
@@ -295,7 +295,7 @@
           "level": 4,
           "name": "Face",
           "abName": "Traveler",
-          "desc": "[BeforeAttack] to get <style=\"highlight\">(Very razor.</style> Trapped <style=\"highlight\">(the best)</style>\n[BeforeAttack] Less than 10 [Charge] Dimensions, consumption <style=\"highlight\">10</style>% HP +10 allows [Charge] The value of the measurement (the loss does not reduce HPs of this device. In circuit)\n[BeforeAttack] Use up to 40 [Charge] Each face and damage + 3% [Charge] Package Number (Maximum) <style=\"highlight\">30</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[BeforeAttack] to get <style=\"highlight\">(Very razor.</style> Trapped <style=\"highlight\">(the best)</style>\n[BeforeAttack] Less than 10 [Charge] Dimensions, consumption <style=\"highlight\">10</style>% HP +10 allows [Charge] The value of the measurement (the loss does not reduce HPs of this device. In circuit)\n[BeforeAttack] Use up to 40 [Charge] Each face and damage + 3% [Charge] Package Number (Maximum) <style=\"highlight\">30</style>…….",
           "coinlist": [
             {
               "coindescs": [
@@ -336,7 +336,7 @@
           "level": 3,
           "name": "Face",
           "abName": "Traveler",
-          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4+ and +1 arrives from the current context.\n[BeforeAttack] Less [Charge] Dimensions, error [Charge] Click X. <style=\"highlight\">1 A.</style>(% HP is the maximum value [Charge] Maximum [Charge] You can get the number from this results.\n[BeforeAttack] Use up to 40 [Charge] Calculate and +% more damage to each person [Charge] Package Number (Maximum) <style=\"highlight\">40</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Get 4+ and +1 arrives from the current context.\n[BeforeAttack] Less [Charge] Dimensions, error [Charge] Click X. <style=\"highlight\">1 A.</style>(% HP is the maximum value [Charge] Maximum [Charge] You can get the number from this results.\n[BeforeAttack] Use up to 40 [Charge] Calculate and +% more damage to each person [Charge] Package Number (Maximum) <style=\"highlight\">40</style>…….",
           "coinlist": [
             {
               "coindescs": [
@@ -354,12 +354,12 @@
           "level": 4,
           "name": "Face",
           "abName": "Traveler",
-          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] to get <style=\"highlight\">(Very razor.</style> Trapped <style=\"highlight\">(the best)</style>\n[BeforeAttack] Less [Charge] Dimensions, consumption <style=\"highlight\">(Lost) [Charge] Measurement) %%</style> HP went to Mc [Charge] Maximum [Charge] You can get the number from this results.\n[BeforeAttack] Use up to 40 [Charge] Calculate and +% more damage to each person [Charge] Package Number (Maximum) <style=\"highlight\">60</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] to get <style=\"highlight\">(Very razor.</style> Trapped <style=\"highlight\">(the best)</style>\n[BeforeAttack] Less [Charge] Dimensions, consumption <style=\"highlight\">(Lost) [Charge] Measurement) %%</style> HP went to Mc [Charge] Maximum [Charge] You can get the number from this results.\n[BeforeAttack] Use up to 40 [Charge] Calculate and +% more damage to each person [Charge] Package Number (Maximum) <style=\"highlight\">60</style>…….",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] (To be used) use ([Charge] 1) [DimensionRift] the best <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] (To be used) use ([Charge] 1) [DimensionRift] the best <style=\"highlight\">4</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] Get 1 [Agility] 1 [ChargeLoad] The next line is for each [Charge] the best <style=\"highlight\">Blood</style> All technology)"
                 }, {

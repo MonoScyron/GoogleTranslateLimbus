@@ -732,7 +732,7 @@
         }, {
           "level": 4,
           "name": "40-3 Activity",
-          "desc": "[WhenUse] Consumption 5 [Charge] Measure the ability to make money <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>",
+          "desc": "[WhenUse] Consumption 5 [Charge] Measure the ability to make money <style=\"highlight\">…….</style>",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -768,7 +768,7 @@
             {}, {}, {
               "coindescs": [
                 {
-                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">Were, and,,,,,,,,,,,,,,[Charge] + Pl)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">120%</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">…….[Charge] + Pl)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">120%</style>……."
                 }
               ]
             }
@@ -776,12 +776,12 @@
         }, {
           "level": 4,
           "name": "Reference",
-          "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Measure the ability to make money <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style>",
+          "desc": "[WhenUse] ~ 9 [Charge] Account 2 (10-management [Charge] Hophop-camera [Charge] Measure up to 10\n[WhenUse] Consumption 10 [Charge] Measure the ability to make money <style=\"highlight\">…….</style>",
           "coinlist": [
             {}, {}, {
               "coindescs": [
                 {
-                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">Were, and,,,,,,,,,,,,,,[Charge] + 4)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">180%</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "Everything is used as 3+ arguments. [Charge] Trust yourself<style=\"highlight\">…….[Charge] + 4)</style>Percentage of all damage [Charge] Who has published this procedure <style=\"highlight\">180%</style>……."
                 }
               ]
             }
@@ -824,19 +824,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Charge] Maximum <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] ……. <style=\"highlight\">My</style>……. [Charge] Maximum <style=\"highlight\">Yes</style>……."
                 }
               ]
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Charge] Maximum <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] Gisk + (pads)[Charge] ……. <style=\"highlight\">My</style>……. [Charge] Maximum <style=\"highlight\">Yes</style>……."
                 }
               ]
             }, {}, {
               "coindescs": [
                 {
-                  "desc": "Three + [Charge], Business <style=\"highlight\">+ 8%</style> Every wounds are high [Charge] the best <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "Three + [Charge], Business <style=\"highlight\">+ 8%</style> Every wounds are high [Charge] the best <style=\"highlight\">40%</style>……."
                 }, {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Leave the difference in jealousy in the next round\n2 + -O [Charge]1 is currently in favor of jealousy</style>"
                 }

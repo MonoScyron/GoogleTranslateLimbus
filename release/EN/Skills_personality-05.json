@@ -443,7 +443,7 @@
         }, {
           "level": 4,
           "name": "Checking their bone",
-          "desc": "<style=\"highlight\">[BeforeAttack] Every 7 [Breath] Self, ATK +1 weight (maximum +2)</style>\n[WhenUse] You cannot get this method, but the cause of the damage you cannot install your device.\n[WhenUse] Risk risk + 2% transacting (up to 50%).\nWere, and,,,,,,,,,,,,,,<style=\"highlight\">30</style>Dangerous strike injuries\nHP Loss (Up to 25%) More than 1% and more than 1% of) 0.5%.\n<style=\"highlight\">If this technique is the goal of the enemy, it will be 100% injuries (in an important meeting)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] Every 7 [Breath] Self, ATK +1 weight (maximum +2)</style>\n[WhenUse] You cannot get this method, but the cause of the damage you cannot install your device.\n[WhenUse] Risk risk + 2% transacting (up to 50%).\n…….<style=\"highlight\">30</style>Dangerous strike injuries\nHP Loss (Up to 25%) More than 1% and more than 1% of) 0.5%.\n<style=\"highlight\">If this technique is the goal of the enemy, it will be 100% injuries (in an important meeting)</style>",
           "coinlist": [
             {}, {}, {}, {
               "coindescs": [
@@ -680,7 +680,7 @@
         }, {
           "level": 2,
           "name": "Vocal",
-          "desc": "<style=\"highlight\">Everybody was wounded + 3 times [KnowledgeExplored] Self (up to 9%)</style>\n[StartBattle] Crisis [KnowledgeTraining] Is correct [KnowledgeExplored] There <style=\"highlight\"> Random assistant</style> Up <style=\"highlight\">(Priority mate) [Discard] at least [KnowledgeTraining]Were, and,,,,,,,,,,,,,,</style>\n[WhenUse] [Discard] The technique of this tool can handle all methods.\n<style=\"highlight\">[WhenUse] The target is 6+ [Sinking], Call ++ 1</style>",
+          "desc": "<style=\"highlight\">Everybody was wounded + 3 times [KnowledgeExplored] Self (up to 9%)</style>\n[StartBattle] Crisis [KnowledgeTraining] Is correct [KnowledgeExplored] There <style=\"highlight\"> Random assistant</style> Up <style=\"highlight\">(Priority mate) [Discard] at least [KnowledgeTraining]…….</style>\n[WhenUse] [Discard] The technique of this tool can handle all methods.\n<style=\"highlight\">[WhenUse] The target is 6+ [Sinking], Call ++ 1</style>",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -693,12 +693,12 @@
         }, {
           "level": 4,
           "name": "Vocal",
-          "desc": "Agreement <style=\"highlight\">+ 5%</style> Every wounds are high [KnowledgeExplored] Up (maximum value) <style=\"highlight\">15%</style>Were, and,,,,,,,,,,,,,,\n[StartBattle] Crisis [KnowledgeTraining] Is correct [KnowledgeExplored] There <style=\"highlight\">2 random friends</style> Then (the first choice is friendship [Discard] at least [KnowledgeTraining]Were, and,,,,,,,,,,,,,,\n[WhenUse] [Discard] The technique of this tool can handle all methods.\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)</style>",
+          "desc": "Agreement <style=\"highlight\">+ 5%</style> Every wounds are high [KnowledgeExplored] Up (maximum value) <style=\"highlight\">15%</style>…….\n[StartBattle] Crisis [KnowledgeTraining] Is correct [KnowledgeExplored] There <style=\"highlight\">2 random friends</style> Then (the first choice is friendship [Discard] at least [KnowledgeTraining]…….\n[WhenUse] [Discard] The technique of this tool can handle all methods.\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)</style>",
           "coinlist": [
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Crisis [Sinking] Is correct <style=\"highlight\">Were, and,,,,,,,,,,,,,,[KnowledgeExplored] Question 2)</style>"
+                  "desc": "[OnSucceedAttack] Crisis [Sinking] Is correct <style=\"highlight\">…….[KnowledgeExplored] Question 2)</style>"
                 }
               ]
             }
@@ -724,7 +724,7 @@
         }, {
           "level": 4,
           "name": "Oil lubricant",
-          "desc": "Agreement <style=\"highlight\">+ 5%</style> Every wounds are high [KnowledgeExplored] the best <style=\"highlight\">45% of</style>Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)</style>\n[BeforeAttack] Remove everything [KnowledgeTraining] You and generation <style=\"highlight\">The same value</style> apart from [KnowledgeExplored]\n[EndSkill] 4+ [KnowledgeExplored]Refueling Price 1 (If the technique is lost by the enemy, it will be determined at 3 o'clock in the evening)",
+          "desc": "Agreement <style=\"highlight\">+ 5%</style> Every wounds are high [KnowledgeExplored] the best <style=\"highlight\">45% of</style>…….\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Sinking] In the form of the target (up to 2)</style>\n[BeforeAttack] Remove everything [KnowledgeTraining] You and generation <style=\"highlight\">The same value</style> apart from [KnowledgeExplored]\n[EndSkill] 4+ [KnowledgeExplored]Refueling Price 1 (If the technique is lost by the enemy, it will be determined at 3 o'clock in the evening)",
           "coinlist": [
             {}, {}, {
               "coindescs": [

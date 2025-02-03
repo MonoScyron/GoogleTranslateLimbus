@@ -555,7 +555,7 @@
                 {
                   "desc": "[OnSucceedAttackHead] Application 3 [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">Time</style>Were, and,,,,,,,,,,,,,, [Laceration], 1 shared currency control"
+                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">Time</style>……. [Laceration], 1 shared currency control"
                 }
               ]
             }
@@ -839,7 +839,7 @@
         {
           "level": 1,
           "name": "Religion",
-          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 10 [Laceration]\n[WhenUse] 5+ [WornHeartGreg]Use up to 60 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHandGregFirst] 6 every time [BloodDinner] User\n5 or more [WornHeartGreg], Zinc 10 [Laceration] There is no way [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 10 [Laceration]\n[WhenUse] 5+ [WornHeartGreg]Use up to 60 [BloodDinner]……. [BloodyHandGregFirst] 6 every time [BloodDinner] User\n5 or more [WornHeartGreg], Zinc 10 [Laceration] There is no way [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -860,12 +860,12 @@
         }, {
           "level": 2,
           "name": "Religion",
-          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>\n[WhenUse] Get 10 [Laceration]\n[WhenUse] 5+ [WornHeartGreg]Use up to 60 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHandGregFirst] 6 every time [BloodDinner] User\n5 or more [WornHeartGreg], Zinc 10 [Laceration] There is no way [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n<style=\"highlight\">[WhenUse] The target is 6+ [Laceration], Call ++ 1</style>\n[WhenUse] Get 10 [Laceration]\n[WhenUse] 5+ [WornHeartGreg]Use up to 60 [BloodDinner]……. [BloodyHandGregFirst] 6 every time [BloodDinner] User\n5 or more [WornHeartGreg], Zinc 10 [Laceration] There is no way [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style> [Laceration] Account"
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">…….</style> [Laceration] Account"
                 }
               ]
             }, {
@@ -881,7 +881,7 @@
         }, {
           "level": 4,
           "name": "Religion",
-          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Laceration] In the form of the target (up to 2)</style>\n[WhenUse] Get 10 [Laceration]\n[WhenUse] 5+ [WornHeartGreg]Use up to 60 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodyHandGregFirst] 6 every time [BloodDinner] User\n5 or more [WornHeartGreg], Zinc 10 [Laceration] Blood [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n<style=\"highlight\">[WhenUse] 6 coins +1 power [Laceration] In the form of the target (up to 2)</style>\n[WhenUse] Get 10 [Laceration]\n[WhenUse] 5+ [WornHeartGreg]Use up to 60 [BloodDinner]……. [BloodyHandGregFirst] 6 every time [BloodDinner] User\n5 or more [WornHeartGreg], Zinc 10 [Laceration] Blood [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -947,9 +947,9 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style> [Laceration] Account"
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">…….</style> [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">Were, and,,,,,,,,,,,,,,</style> [Burst] Account"
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">…….</style> [Burst] Account"
                 }
               ]
             }, {

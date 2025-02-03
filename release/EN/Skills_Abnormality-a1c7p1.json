@@ -174,7 +174,7 @@
         {
           "level": 1,
           "name": "Spicy",
-          "desc": "[WhenUse] Up to 20 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodScissor] And 10 10 to treat [BloodDinner] User\n- And if you can't eat this device [BloodDinner] Take 30 with this technique [Laceration]\n[WhenUse] The target is 6+ [Laceration], Power Clash ++ 1\n[WhenUse] 5 Connection +1 [Laceration] Off (up to 2)",
+          "desc": "[WhenUse] Up to 20 [BloodDinner]……. [BloodScissor] And 10 10 to treat [BloodDinner] User\n- And if you can't eat this device [BloodDinner] Take 30 with this technique [Laceration]\n[WhenUse] The target is 6+ [Laceration], Power Clash ++ 1\n[WhenUse] 5 Connection +1 [Laceration] Off (up to 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -198,7 +198,7 @@
         {
           "level": 1,
           "name": "Dust!",
-          "desc": "[WhenUse] Use up to 30 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] If your goal is. [LineCutting]Power crash +15\nTreated at 5 pm each [LineCutting]",
+          "desc": "[WhenUse] Use up to 30 [BloodDinner]……. [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] If your goal is. [LineCutting]Power crash +15\nTreated at 5 pm each [LineCutting]",
           "coinlist": [
             {
               "coindescs": [
@@ -228,7 +228,7 @@
         {
           "level": 1,
           "name": "I'm breaking you!",
-          "desc": "[BeforeAttack] ATK +1 weighs on all stages [BloodScissor] (the best)\n[WhenUse] Use up to 30 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] The target is 6+ [Laceration]Power Crash 2",
+          "desc": "[BeforeAttack] ATK +1 weighs on all stages [BloodScissor] (the best)\n[WhenUse] Use up to 30 [BloodDinner]……. [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] The target is 6+ [Laceration]Power Crash 2",
           "coinlist": [
             {
               "coindescs": [
@@ -272,7 +272,7 @@
         {
           "level": 1,
           "name": "I'll meet you!",
-          "desc": "[BeforeAttack] ATK +1 weighs on all stages [BloodScissor]\n[WhenUse] Up to 100 [BloodDinner]Were, and,,,,,,,,,,,,,, [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] The target is 6+ [Laceration]Power Crash 2\n[EndSkill] Consumption 10 [BloodScissor]",
+          "desc": "[BeforeAttack] ATK +1 weighs on all stages [BloodScissor]\n[WhenUse] Up to 100 [BloodDinner]……. [BloodScissor] And 10 10 to treat [BloodDinner] User\n[WhenUse] The target is 6+ [Laceration]Power Crash 2\n[EndSkill] Consumption 10 [BloodScissor]",
           "coinlist": [
             {
               "coindescs": [

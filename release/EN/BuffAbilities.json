@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "AtkDamageMultiplier",
-      "desc": "{0}Were, and,,,,,,,,,,,,,,",
+      "desc": "{0}…….",
       "variation": "{1}% .Mier {0} Epidemic"
     }, {
       "id": "AtkAndTakeAtkDamageMultiplier",
@@ -66,7 +66,7 @@
       "desc": "End {0} Account"
     }, {
       "id": "Vibration",
-      "desc": "Increase play restrictions when accepting the attacker {0}Were, and,,,,,,,,,,,,,, {1} Change."
+      "desc": "Increase play restrictions when accepting the attacker {0}……. {1} Change."
     }, {
       "id": "DefAdderByStackCeilToInt",
       "desc": "Four Balcony Protection Loses Chance of 1 1"

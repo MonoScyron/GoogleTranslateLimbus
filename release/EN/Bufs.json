@@ -34,7 +34,7 @@
       "id": "Vulnerable",
       "name": "A crisp",
       "desc": "La + + + +{0}It can cause 0% damage on this path.",
-      "summary": "Were, and,,,,,,,,,,,,,,{0}0% segments",
+      "summary": "…….{0}0% segments",
       "undefined": "-"
     }, {
       "id": "Taunt",
@@ -101,7 +101,7 @@
       "id": "AttackDmgUp",
       "name": "Epidemic",
       "desc": "Business + +{0}I lost 0% love supplies.",
-      "summary": "Were, and,,,,,,,,,,,,,,{0}0% of damage process"
+      "summary": "…….{0}0% of damage process"
     }, {
       "id": "DefenseUp",
       "name": "The surface of the water",
@@ -233,7 +233,7 @@
     }, {
       "id": "Vibration",
       "name": "Twitter",
-      "desc": "Increase play restrictions when accepting the attacker {0}Were, and,,,,,,,,,,,,,, {1} Change.",
+      "desc": "Increase play restrictions when accepting the attacker {0}……. {1} Change.",
       "summary": "Corridor {0}"
     }, {
       "id": "Burst",
@@ -499,7 +499,7 @@
       "id": "AttackDmgUp_Weak",
       "name": "Dmg has been lowly improved",
       "desc": "Increased attacks in resistant attack {0}%",
-      "summary": "Were, and,,,,,,,,,,,,,,{0}Low damage and resistance"
+      "summary": "…….{0}Low damage and resistance"
     }, {
       "id": "Bullet",
       "name": "Ammo",
@@ -561,7 +561,7 @@
       "id": "Assemble",
       "name": "With anger",
       "desc": "Final technology +{0} This is the opposite of the nail device.",
-      "summary": "Final Power +{0}"
+      "summary": "Maximum power +{0}"
     }, {
       "id": "ReinforcedAssemble",
       "name": "Chrome",
@@ -749,7 +749,7 @@
       "id": "AssemblePersonality",
       "name": "With anger",
       "desc": "Final technology +{0} This is the opposite of the nail device.",
-      "summary": "Final Power +{0}"
+      "summary": "Maximum power +{0}"
     }, {
       "id": "MarkOfHeresy",
       "name": "garlic",
@@ -798,18 +798,18 @@
     }, {
       "id": "Thirst",
       "name": "Migration",
-      "desc": "Were, and,,,,,,,,,,,,,,{0}0% treatment [Rustle Up]Intersection\nThe cost of negative active.",
+      "desc": "…….{0}0% treatment [Rustle Up]Intersection\nThe cost of negative active.",
       "summary": "[Rustle Up] Treatment + + +{0}0% HP"
     }, {
       "id": "GainSinStockAdder",
       "name": "For example, resources",
       "desc": "Jin + +{0} For example, suppliers with the help of these sales technologies.",
-      "summary": "Were, and,,,,,,,,,,,,,,{0} For example, you get a resource"
+      "summary": "…….{0} For example, you get a resource"
     }, {
       "id": "Weak_Chicken",
       "name": "Statements",
       "desc": "The kitchen response is incorrect.",
-      "summary": "HP -40%"
+      "summary": "Durability reduced by 40%"
     }, {
       "id": "Strong_Chicken",
       "name": "Unnecessary anger",
@@ -1538,7 +1538,7 @@
     }, {
       "id": "VibrationCrack",
       "name": "Current",
-      "desc": "-Cum level, total shower equipment and a total of 20 or more\nWe must extend from the value.\nIncrease play restrictions when accepting the attacker {0}Were, and,,,,,,,,,,,,,, {1} Exchange of currencies\n(Natural influence strength / shower equipment improve or impact)",
+      "desc": "-Cum level, total shower equipment and a total of 20 or more\nWe must extend from the value.\nIncrease play restrictions when accepting the attacker {0}……. {1} Exchange of currencies\n(Natural influence strength / shower equipment improve or impact)",
       "summary": "If you have a total of 20 bathrooms and the bathroom measurements and measurement, increase your soft level 1.\nCorridor {0}"
     }, {
       "id": "ForwardToTheKing",
@@ -1841,7 +1841,7 @@
     }, {
       "id": "FestivalFeverRodion",
       "name": "Culture",
-      "desc": "Running value: 10\nThe attachment at the end of the round\nMaintenance + () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () (() ()) ) () () () () () () () () () () () ((((((((() ))))))){0} X 1.5) Bleeding caused extra damage\n-Uppression is to be done to do or accept: work + (working at work){0} x 3)% damaged%",
+      "desc": "Running value: 10\nThe attachment at the end of the round\nMaintenance + ({0} X 1.5) Bleeding caused extra damage\n-Uppression is to be done to do or accept: work + (working at work){0} x 3)% damaged%",
       "summary": "",
       "undefined": "-"
     }

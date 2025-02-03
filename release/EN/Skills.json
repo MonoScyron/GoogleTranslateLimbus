@@ -5760,7 +5760,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 3 screws",
-                  "summary": "[OnSucceedAttack] Inflict 3 Nails"
+                  "summary": "[OnSucceedAttack] 3 nail polish"
                 }
               ]
             }, {
@@ -5780,7 +5780,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 3 screws",
-                  "summary": "[OnSucceedAttack] Inflict 3 Nails"
+                  "summary": "[OnSucceedAttack] 3 nail polish"
                 }
               ]
             }, {
@@ -5947,7 +5947,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] The next line is a nail",
-                  "summary": "[OnSucceedAttack] Inflict 1 Nails next turn"
+                  "summary": "[OnSucceedAttack] Then hit the nail with a hammer."
                 }
               ]
             }, {
@@ -5967,7 +5967,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] The next line is a nail",
-                  "summary": "[OnSucceedAttack] Inflict 1 Nails next turn"
+                  "summary": "[OnSucceedAttack] Then hit the nail with a hammer."
                 }
               ]
             }, {
@@ -7511,7 +7511,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 2 balcony\nIf you fall, use this connection to more than three times (twice)\nAfter updating the progress, it is chopped and then symbol.\nShooting after shooting.",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "summary": "[OnSucceedAttack] Start shaking.\nWhen the conditions are met, the coins are reused. Repeated use will give +2 vibration.\nIf you use the coin twice, vibration waves are generated and the vibration frequency decreases."
                 }
               ]
             }
@@ -7531,7 +7531,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 2 balcony\nIf you fall, use this connection to more than three times (twice)\nYou can re-use every connection and use it in 2 grams\nAfter updating the progress, it is chopped and then symbol.\nShooting after shooting.",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "summary": "[OnSucceedAttack] Start shaking.\nWhen the conditions are met, the coins are reused. Repeated use will give +2 vibration.\nIf you use the coin twice, vibration waves are generated and the vibration frequency decreases."
                 }
               ]
             }
@@ -7551,7 +7551,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 2 balcony\nIf you fall, use this connection to more than three times (twice)\nYou can re-use every connection and use it in 2 grams\nAfter updating the progress, it is chopped and then symbol.\nShooting after shooting.",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "summary": "[OnSucceedAttack] Suddenly activate vibration\nWhen the conditions are met, the coins are reused. Repeated use will result in +2 vibration.\nIf you use the coin twice, vibration waves are generated and the vibration frequency decreases."
                 }
               ]
             }
@@ -7752,7 +7752,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Dero Mir Trigger\nAfter activating cocktails, the resulting measurements are more bright (dotted lines x5)% (50% different.",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
+                  "summary": "[OnSucceedAttack] After triggering the vibration signal, the vibration frequency should be reduced by three times. Calculate the cost of further increasing the waiting time."
                 }
               ]
             }
@@ -7790,7 +7790,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Dero Mir Trigger\nAfter activating cocktails, the resulting measurements are more bright (dotted lines x5)% (50% different.",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
+                  "summary": "[OnSucceedAttack] After triggering the vibration signal, the vibration frequency should be reduced by three times. Calculate the cost of further increasing the waiting time."
                 }
               ]
             }

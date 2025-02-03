@@ -253,14 +253,14 @@
           "messageDesc": "Get 50% options such as reward gifts gifts.",
           "result": [
             "\"It ...\"\n\nThere is an old shell at home.\nMade another problem with the possibility of use of crack's cracks.\n\n\"This accident is useless!\"\n\nDue to this late attraction, he expressed his mistake.\nBut you think hammer is talking to you\nI have been forced to accept it.\n\n\"What do you want to do with you?\"\n\nThe wrong thing is considered useless\nIt is better to collect hammer.",
-            "Were, and,,,,,,,,,,,,,,\n\nThere is nothing in the box.\nTelling everything is a small area of ​​soil and dirt, and a part of the outer air width.\n\n\"Say, we must be must\"\n\n\"No. It is empty in all activities.\"\n\nYou are out of the room, ignore the features of the wrong people."
+            "…….\n\nThere is nothing in the box.\nTelling everything is a small area of ​​soil and dirt, and a part of the outer air width.\n\n\"Say, we must be must\"\n\n\"No. It is empty in all activities.\"\n\nYou are out of the room, ignore the features of the wrong people."
           ]
         }, {
           "message": "Open the third panel area.",
           "messageDesc": "The ability to achieve convenient gifts 50% improves the blood flow attack.",
           "result": [
             "\"It ...\"\n\nIs not brown in the angle.\nJoint\n\n\"Inserted ...\"\n\nThe fact is that the keys lose losing sins.\n\n\"I can't steal. If you do not use it, it will be manually.\n\nIn this case sinners interested, so I started and started.",
-            "Were, and,,,,,,,,,,,,,,\n\nThere is nothing in the box.\nTelling everything is a small area of ​​soil and dirt, and a part of the outer air width.\n\n\"Say, we must be must\"\n\n\"No. It is empty in all activities.\"\n\nYou are out of the room, ignore the features of the wrong people."
+            "…….\n\nThere is nothing in the box.\nTelling everything is a small area of ​​soil and dirt, and a part of the outer air width.\n\n\"Say, we must be must\"\n\n\"No. It is empty in all activities.\"\n\nYou are out of the room, ignore the features of the wrong people."
           ]
         }
       ]
@@ -268,7 +268,7 @@
       "id": 10305,
       "name": "The judge claim",
       "subDesc": "Or SCUB?",
-      "desc": "Everyone who works in the company.\n\n\"Zya AAA!\"\n\nFilters are full of narrowing rooms.\nFake people suffer with them.\n\nWere, and,,,,,,,,,,,,,,\n\nSynchrony does not say a single word, but his eyes were filled with anger and anxiety.\nHe trembled on irregular roads.\n\nHave you stopped it?\nOr ...",
+      "desc": "Everyone who works in the company.\n\n\"Zya AAA!\"\n\nFilters are full of narrowing rooms.\nFake people suffer with them.\n\n…….\n\nSynchrony does not say a single word, but his eyes were filled with anger and anxiety.\nHe trembled on irregular roads.\n\nHave you stopped it?\nOr ...",
       "options": [
         {
           "message": "We are waiting for the end of the dangers.",
@@ -437,7 +437,7 @@
           "message": "Use this word.",
           "messageDesc": "Check your desires."
         }, {
-          "message": "Use violence.",
+          "message": "Use force.",
           "messageDesc": "Get \"icon\".",
           "result": [
             "Violence seems to be our clear solution.\n\n\"... there is a car here.\"\n\nNASA's audio shed should be one of pure enemy processes.\n\n\"I will help you ... Admin.\"\n\nSincare was famous for his arms and decided to calm down her eyes."
@@ -493,7 +493,7 @@
         }, {
           "message": "Use this word."
         }, {
-          "message": "Use violence.",
+          "message": "Use force.",
           "result": ["We only fight.\nHe with violence."]
         }
       ]
@@ -820,7 +820,7 @@
     }, {
       "id": 10406,
       "name": "More",
-      "desc": "<i>Strackosad are strong in the middle of this area.\nNotuplorging painty.\nAnd I love OO note\n비로 비로 비로 비로 비로 스카프 스카프 컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵) 컵컵 컵)))))))))))))))\nYou, you, lovers.</i>\n\nWhat are you going to do?",
+      "desc": "<i>Strackosad are strong in the middle of this area.\nNotuplorging painty.\nAnd I love OO note\n비로 비로 비로 비로 비로 스카프 스카프 컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵컵 컵) 컵컵 컵)\nYou, you, lovers.</i>\n\nWhat are you going to do?",
       "options": [
         {
           "message": "Close to the flower.",
@@ -828,7 +828,7 @@
         }, {
           "message": "You have to leave.",
           "result": [
-            "<i>IFotofrovarom owner\nIran crazy.\nWere, and,,,,,,,,,,,,,,</i>\n\nThe tree will spread when you have to give up.\nI took a branch at the left point."
+            "<i>IFotofrovarom owner\nIran crazy.\n…….</i>\n\nThe tree will spread when you have to give up.\nI took a branch at the left point."
           ]
         }
       ]

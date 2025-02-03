@@ -28,7 +28,7 @@
       "id": "Vulnerable",
       "name": "A crisp",
       "desc": "Depends on the basis of the number of revolons.",
-      "summary": "Were, and,,,,,,,,,,,,,,{0}0% segments"
+      "summary": "…….{0}0% segments"
     }, {
       "id": "Taunt",
       "name": "Assault",
@@ -91,7 +91,7 @@
       "id": "AttackDmgUp",
       "name": "Epidemic",
       "desc": "Based on technology in the area of ​​quantitative damage.",
-      "summary": "Were, and,,,,,,,,,,,,,,{0}0% of damage process"
+      "summary": "…….{0}0% of damage process"
     }, {
       "id": "DefenseUp",
       "name": "The surface of the water",

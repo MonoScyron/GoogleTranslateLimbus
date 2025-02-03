@@ -7,7 +7,7 @@
       "desc": "In the empty space\nI got a sale machine.\n\nWhere does he get the power?\n\nWhat is the sound of destruction of this movement?\n\nHowever, this empty number is good\nBreak your offense.\n\nAutomated system button button will appear.",
       "options": [
         {
-          "message": "Press one.",
+          "message": "Click on one.",
           "result": [
             "The same copy\nThe device has been issued.\n\nAll purple classes.\n\nI don't understand the meaning of pear and grapes.\nBut they are good and good\n\nYou are able to drink.\n\nHow wrong are you."
           ]
@@ -20,7 +20,7 @@
       "desc": "In the empty space\nI got a sale machine.\n\nWhere does he get the power?\n\nWhat is the sound of destruction of this movement?\n\nHowever, this empty number is good\nBreak your offense.\n\nAutomated system button button will appear.",
       "options": [
         {
-          "message": "Press one.",
+          "message": "Click on one.",
           "result": [
             "The same copy\nThe device has been issued.\n\nAll purple classes.\n\nI don't understand the meaning of pear and grapes.\nBut they are good and good\n\nYou are able to drink.\n\nHow wrong are you."
           ]
@@ -33,7 +33,7 @@
       "desc": "In the empty space\nI got a sale machine.\n\nWhere does he get the power?\n\nWhat is the sound of destruction of this movement?\n\nHowever, this empty number is good\nBreak your offense.\n\nAutomated system button button will appear.",
       "options": [
         {
-          "message": "Press one.",
+          "message": "Click on one.",
           "result": [
             "The same copy\nThe device has been issued.\n\nAll purple classes.\n\nI don't understand the meaning of pear and grapes.\nBut they are good and good\n\nYou are able to drink.\n\nHow wrong are you."
           ]
@@ -140,7 +140,7 @@
           ],
           "messageDesc": "Choose keywords without main words"
         }, {
-          "message": "Donate blood.",
+          "message": "Please donate blood.",
           "result": [
             "Blood flow\nThis is a traumatic form.\n\nWe decided to share.\n\nWell done\nLoose\nShe screamed she has shown her annoying.\n\nThen he caught two cache\nYou can break the voluntary blood hands.\n\nWell done\nThen he excludes the pipeline around the body\nAre attached to the cracks.\n\nHer hands came back from first.\nGreat blood was stuck in the ground."
           ]
@@ -153,7 +153,7 @@
       "desc": "The spade of milk is full of forests.\nYou can't help him, but sprinkle with bad things.\n\nIn the middle of the forest is a coffin.\nOther cable and ropes\nWas disappointing to protect him.\n\nBut the coffin is still permanent and attractive.",
       "options": [
         {
-          "message": "Open the coffin.",
+          "message": "Open the box.",
           "messageDesc": "Check out the benefits of angry and gluten.",
           "result": [""]
         }, {
@@ -183,7 +183,7 @@
       "desc": "\"Look at this butterfly! She is not beautiful ?,\n\n\"This sun sets!\nYou really want to go.\n\n\"Why not stop?\"\nHave you brought it here?\n\nWe have a yellow gesture.",
       "options": [
         {
-          "message": "Take a break.",
+          "message": "Break.",
           "messageDesc": "Choose keywords without main words",
           "result": [
             "\"Is it difficult?\"\n\n\"In fact, see this butterfly.\nI only saw that they just heated my heart.\n\nYour voice looks at the butterfly.\nIt is already full of warm.\n\n\"Something of them have been talking!\"\n\nButterfly Casket starts following you from a small wing.\nEven if you leave this step."
@@ -231,7 +231,7 @@
           "message": "Collect candles together.",
           "messageDesc": "Win to get an event.",
           "result": [
-            "Districtly candles were collected in one place.\nWhen the wind reaches the candid candle, the fire grew a sudden.\nWere, and,,,,,,,,,,,,,,\nWhen the fortal illustration affects the book, three people tried to overcome sinners."
+            "Districtly candles were collected in one place.\nWhen the wind reaches the candid candle, the fire grew a sudden.\n…….\nWhen the fortal illustration affects the book, three people tried to overcome sinners."
           ]
         }
       ]
@@ -400,7 +400,7 @@
       "desc": "Uses well and evil.\nThe above decision is to enter the decision.\n\nHe thought what he said.\nThe decision is not the role of the secretary.\n\nThe writer showed the fifth film.",
       "options": [
         {
-          "message": "Read the tablet.",
+          "message": "Reading the bulletin board.",
           "messageDesc": "Ghoson and pride can be achieved without chief words."
         }, {
           "message": "Create a wonderful message.",
@@ -825,7 +825,7 @@
           "message": "Press",
           "messageDesc": "Select the summ of the blue ego.",
           "result": [
-            "\"It can't do?\"\n\n\"what should I do?\"\n\n\"What?\"\n\nKRTRT, VIP CHARE Flat.\n\nMixed voices and fast diet lose the homes of pigs inspired by heaven ...\n\nWere, and,,,,,,,,,,,,,,\n\nThen the only limit of the application is."
+            "\"It can't do?\"\n\n\"what should I do?\"\n\n\"What?\"\n\nKRTRT, VIP CHARE Flat.\n\nMixed voices and fast diet lose the homes of pigs inspired by heaven ...\n\n…….\n\nThen the only limit of the application is."
           ]
         }, {
           "message": "Screams until the drowning.",
@@ -905,7 +905,7 @@
       "id": 901038,
       "name": "",
       "subDesc": "",
-      "desc": "\"I need everything.\"\n\n\"Cleaning is very comfortable.\"\n\n\"I like to be like others.\"\n\nWere, and,,,,,,,,,,,,,,\n\n\"Honestly. It's annoying.\"\n\n\"My next model said it was not very different.\"\n\n\"Is it special?\"\n\n\"Is this special for me?\"",
+      "desc": "\"I need everything.\"\n\n\"Cleaning is very comfortable.\"\n\n\"I like to be like others.\"\n\n…….\n\n\"Honestly. It's annoying.\"\n\n\"My next model said it was not very different.\"\n\n\"Is it special?\"\n\n\"Is this special for me?\"",
       "options": [
         {
           "message": "You are very special.",
@@ -935,7 +935,7 @@
         }, {
           "message": "Do not listen to the search.",
           "result": [
-            "Were, and,,,,,,,,,,,,,,\n\nWithout the answer, we left the room and tried to close the door.\n\nAt that time he looked up and damaged him.\n\nI quickly closed the door."
+            "…….\n\nWithout the answer, we left the room and tried to close the door.\n\nAt that time he looked up and damaged him.\n\nI quickly closed the door."
           ]
         }
       ]
@@ -1026,7 +1026,7 @@
       "id": 901047,
       "name": "",
       "subDesc": "",
-      "desc": "It is a dark wild with fog and Chrome.\n\nApple friends are bad, but they are still moving forward.\n\nPlease help me\n\n\"I asked a poor and poor apology ... I was cursed and threw them.\"\n\nBefore answering Apple, I hidden my little Apple behind my feet.\n\nWere, and,,,,,,,,,,,,,,\n\nI have heard a horse treatment in alcohol.\n\nThis is a giant word belle.\n\nIt is the forefront of roses.\n\nApply alcohol in front of me to busy the blue grass.\n\n\"I believe in each other's money. You should take care of yourself immediately.\n\n\"I'm looking for an apple friend. I am a princess without knowing my real place.\n\n\"Perhaps it may have passed. Do you know what he had?\"",
+      "desc": "It is a dark wild with fog and Chrome.\n\nApple friends are bad, but they are still moving forward.\n\nPlease help me\n\n\"I asked a poor and poor apology ... I was cursed and threw them.\"\n\nBefore answering Apple, I hidden my little Apple behind my feet.\n\n…….\n\nI have heard a horse treatment in alcohol.\n\nThis is a giant word belle.\n\nIt is the forefront of roses.\n\nApply alcohol in front of me to busy the blue grass.\n\n\"I believe in each other's money. You should take care of yourself immediately.\n\n\"I'm looking for an apple friend. I am a princess without knowing my real place.\n\n\"Perhaps it may have passed. Do you know what he had?\"",
       "options": [
         {
           "message": "Circle.",
@@ -1331,7 +1331,7 @@
       "desc": "The spade of milk is full of forests.\nYou can't help him, but sprinkle with bad things.\n\nIn the middle of the forest is a coffin.\nOther cable and ropes\nWas disappointing to protect him.\n\nBut the coffin is still permanent and attractive.",
       "options": [
         {
-          "message": "Open the coffin.",
+          "message": "Open the box.",
           "messageDesc": "Report about games and panes.",
           "result": [""]
         }, {

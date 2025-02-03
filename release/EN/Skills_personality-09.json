@@ -789,7 +789,7 @@
         }, {
           "level": 4,
           "name": "I think it's sex!",
-          "desc": "Agreement <style=\"highlight\">+ 4%</style> Every wounds are high [DevyatDimensionalSack] Up (maximum value) <style=\"highlight\">80%</style>Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">+1 for every 10 connections [DevyatDimensionalSack] 6 above or [Burst] In the form of the target (up to 2)</style>\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Calculate the effect of multiplication.",
+          "desc": "Agreement <style=\"highlight\">+ 4%</style> Every wounds are high [DevyatDimensionalSack] Up (maximum value) <style=\"highlight\">80%</style>…….\n<style=\"highlight\">+1 for every 10 connections [DevyatDimensionalSack] 6 above or [Burst] In the form of the target (up to 2)</style>\n[WhenUse] The target is 15+ [Burst] And 3+ [Burst] Gray: This technique is not due to [Burst] Calculate the effect of multiplication.",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -820,7 +820,7 @@
         }, {
           "level": 4,
           "name": "Equation Support and Control -",
-          "desc": "[StartBattle] 15+ [DevyatDimensionalSack]\"It's only strategic time!\"\n[StartBattle] If this technique is active, it may be <style=\"highlight\">Were, and,,,,,,,,,,,,,,[DevyatDimensionalSack]By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[WhenUse] Get 2 [DevyatDimensionalSack] (After the Wiser)\nAt least 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]",
+          "desc": "[StartBattle] 15+ [DevyatDimensionalSack]\"It's only strategic time!\"\n[StartBattle] If this technique is active, it may be <style=\"highlight\">…….[DevyatDimensionalSack]By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[WhenUse] Get 2 [DevyatDimensionalSack] (After the Wiser)\nAt least 15 [DevyatDimensionalSack]Add more [DevyatDimensionalSack]",
           "coinlist": [{}]
         }
       ]
@@ -835,7 +835,7 @@
         }, {
           "level": 4,
           "name": "Just ... Strategic Time!",
-          "desc": "[StartBattle] If this technique is active, it may be <style=\"highlight\">Were, and,,,,,,,,,,,,,,[DevyatDimensionalSack]By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[EndBattle] Turn off travel [Retreat]",
+          "desc": "[StartBattle] If this technique is active, it may be <style=\"highlight\">…….[DevyatDimensionalSack]By%</style> This HP device is used as Shield (maximum value) <style=\"highlight\">25%</style>, every time)\n[EndBattle] Turn off travel [Retreat]",
           "coinlist": [{}]
         }
       ]

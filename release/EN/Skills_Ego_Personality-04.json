@@ -215,7 +215,7 @@
           "level": 1,
           "name": "Hate",
           "abName": "Hate",
-          "desc": "[BeforeAttack] Benefits (maximum cause) weight (up to 2)\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] Were, and,,,,,,,,,,,,,,\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
+          "desc": "[BeforeAttack] Benefits (maximum cause) weight (up to 2)\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] …….\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -229,7 +229,7 @@
           "level": 3,
           "name": "Hate",
           "abName": "Hate",
-          "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] Were, and,,,,,,,,,,,,,,\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
+          "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">4</style>…….\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] …….\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -243,7 +243,7 @@
           "level": 4,
           "name": "Hate",
           "abName": "Hate",
-          "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] <style=\"highlight\">Front row</style> Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[EndSkill] For example, if this technique is part of your desire, you will receive.</style>\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
+          "desc": "[BeforeAttack] Etk (supreme reason) (high reason) <style=\"highlight\">I.</style>…….\n[BeforeAttack] Benefits (most echo + 1) [GazePersonality] <style=\"highlight\">Front row</style> …….\n<style=\"highlight\">[EndSkill] For example, if this technique is part of your desire, you will receive.</style>\n[EndSkill] In the second round loses 10 spins at the end of the circulation.",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -285,9 +285,9 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">40%</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">40%</style>……."
                 }, {
-                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">. )))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) )))))))))))))))))))))))))))))))))))))))))))))))))) ))))))))))))))))))))))))))))))))))))))))))))))))))) To))) from)))))</style> [Laceration] the best <style=\"highlight\">15</style>Prototype)"
+                  "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">. ) ) ) ) ) To) from)</style> [Laceration] the best <style=\"highlight\">15</style>Prototype)"
                 }, {
                   "desc": "[OnSucceedAttack] Application + + + +<style=\"highlight\">Blood</style> [Laceration] Account"
                 }
@@ -303,7 +303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">60%</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] If your goal is. [Laceration], Business + (Boat) [Laceration] Company and Objective Equality) More Loss (Maximum) <style=\"highlight\">60%</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] Crisis <style=\"highlight\">+ (10 + Walls)</style> [Laceration] the best <style=\"highlight\">Siblings</style>Prototype)"
                 }, {

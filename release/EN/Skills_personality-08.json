@@ -671,7 +671,7 @@
         }, {
           "level": 4,
           "name": "Night size",
-          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] All <style=\"highlight\">There is no way</style> [Vibration] I believe in myself (maximum) <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] <style=\"highlight\">Every 41 basic strength [DefenseUp] (the best)</style>",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] All <style=\"highlight\">There is no way</style> [Vibration] I believe in myself (maximum) <style=\"highlight\">Blood</style>…….\n[WhenUse] <style=\"highlight\">Every 41 basic strength [DefenseUp] (the best)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -726,7 +726,7 @@
         }, {
           "level": 2,
           "name": "I couldn't find you",
-          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n<style=\"highlight\">[WhenUse] 5+ [DefenseUp], Call ++ 1</style>\n[WinDuel] Benefits +3 [Vibration] Account",
+          "desc": "[WhenUse] Benefits +3 [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">4</style>…….\n<style=\"highlight\">[WhenUse] 5+ [DefenseUp], Call ++ 1</style>\n[WinDuel] Benefits +3 [Vibration] Account",
           "coinlist": [
             {
               "coindescs": [
@@ -743,7 +743,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">Blood</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] 10+ [DefenseUp]1 apply [Reduction]"
                 }
@@ -753,7 +753,7 @@
         }, {
           "level": 4,
           "name": "I couldn't find you",
-          "desc": "[WhenUse] Jin + +<style=\"highlight\">My</style> [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Calculation <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,, [DefenseUp], Call ++ 1\n[WinDuel] Benefits +3 [Vibration] Account",
+          "desc": "[WhenUse] Jin + +<style=\"highlight\">My</style> [Aggro] Grill to get the next rash technique\n[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>…….\n[WhenUse] Calculation <style=\"highlight\">4</style>……. [DefenseUp], Call ++ 1\n[WinDuel] Benefits +3 [Vibration] Account",
           "coinlist": [
             {
               "coindescs": [
@@ -770,9 +770,9 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] Crisis [Vibration] Equal foundation ([Vibration] Measure yourself) / 2) (maximum <style=\"highlight\">4</style>……."
                 }, {
-                  "desc": "[OnSucceedAttack] Calculation <style=\"highlight\">Yes</style>Were, and,,,,,,,,,,,,,, [DefenseUp]1 apply [Reduction]"
+                  "desc": "[OnSucceedAttack] Calculation <style=\"highlight\">Yes</style>……. [DefenseUp]1 apply [Reduction]"
                 }
               ]
             }
@@ -814,7 +814,7 @@
         }, {
           "level": 4,
           "name": "To separate",
-          "desc": "[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] On this device [DefensiveStance], Business +<style=\"highlight\">70</style>% Other damage\n[WhenUse] 4 coins +1 [DefenseUp] Up (maximum value) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Jin + +<style=\"highlight\">10</style> [Aggro] Grill to get the next rash technique\n[WinDuel] Benefits +3 [Vibration] Account",
+          "desc": "[WhenUse] Get 1 [DefenseUp] Every 2 [Vibration] I believe in myself (maximum) <style=\"highlight\">My</style>…….\n[WhenUse] On this device [DefensiveStance], Business +<style=\"highlight\">70</style>% Other damage\n[WhenUse] 4 coins +1 [DefenseUp] Up (maximum value) <style=\"highlight\">4</style>…….\n[WhenUse] Jin + +<style=\"highlight\">10</style> [Aggro] Grill to get the next rash technique\n[WinDuel] Benefits +3 [Vibration] Account",
           "coinlist": [
             {
               "coindescs": [
@@ -831,7 +831,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For <style=\"highlight\">20</style>Were, and,,,,,,,,,,,,,,\n-S SARPPORTS + (surplus) [Vibration] By <style=\"highlight\">My</style>) More damage (maximum injuries) <style=\"highlight\">50</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] Remove everything [Vibration] Measure and use the use of use. [Vibration] For <style=\"highlight\">20</style>…….\n-S SARPPORTS + (surplus) [Vibration] By <style=\"highlight\">My</style>) More damage (maximum injuries) <style=\"highlight\">50</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
                 }, {

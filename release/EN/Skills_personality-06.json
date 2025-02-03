@@ -620,7 +620,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">Time</style>Were, and,,,,,,,,,,,,,, [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">Time</style>……. [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }
@@ -628,7 +628,7 @@
         }, {
           "level": 4,
           "name": "Reading the reading technology",
-          "desc": "[WhenUse] If your goal is. <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,, [Vibration], Power Clash ++ 1\n[WhenUse] Benefits +3 [Vibration] Account\nCalculation <style=\"highlight\">My</style>Were, and,,,,,,,,,,,,,, [Vibration] Account, basic water 11",
+          "desc": "[WhenUse] If your goal is. <style=\"highlight\">I.</style>……. [Vibration], Power Clash ++ 1\n[WhenUse] Benefits +3 [Vibration] Account\nCalculation <style=\"highlight\">My</style>……. [Vibration] Account, basic water 11",
           "coinlist": [
             {
               "coindescs": [
@@ -645,7 +645,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">I.</style>Were, and,,,,,,,,,,,,,, [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
+                  "desc": "[OnSucceedAttack] If your goal is. <style=\"highlight\">I.</style>……. [Vibration]Tractor [VibrationExplosion]Then reduce the target [Vibration] Phone 1"
                 }
               ]
             }
@@ -724,7 +724,7 @@
         }, {
           "level": 4,
           "name": "Are we waiting?",
-          "desc": "[WhenUse] 2 get (receive[Vibration] The target of measurements as an HP shield) <style=\"highlight\">13</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[WhenUse] 2 get (receive[Vibration] The target of measurements as an HP shield) <style=\"highlight\">13</style>…….",
           "coinlist": [{}]
         }
       ]

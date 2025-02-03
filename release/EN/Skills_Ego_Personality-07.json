@@ -188,7 +188,7 @@
           "level": 3,
           "name": "Tahki",
           "abName": "Reliable",
-          "desc": "[CantIdentify]\nRandomly\n[EndSkill] Next line, 20 [Binding]1 [ForwardToTheKing]There is no way [Enhancement]\n[EndSkill] Next line, 20 registration [Binding]Three, three [Enhancement]1 <style=\"highlight\">[AzureDamageUp]</style> Severe orders, other two friends\n-It has influenced the number of employees (the largest dark-2) (great) (great) <style=\"highlight\">Blood</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[CantIdentify]\nRandomly\n[EndSkill] Next line, 20 [Binding]1 [ForwardToTheKing]There is no way [Enhancement]\n[EndSkill] Next line, 20 registration [Binding]Three, three [Enhancement]1 <style=\"highlight\">[AzureDamageUp]</style> Severe orders, other two friends\n-It has influenced the number of employees (the largest dark-2) (great) (great) <style=\"highlight\">Blood</style>…….",
           "coinlist": [
             {
               "coindescs": [
@@ -208,7 +208,7 @@
           "level": 4,
           "name": "Tahki",
           "abName": "Reliable",
-          "desc": "[CantIdentify]\nRandomly\n[EndSkill] Next line, 20 [Binding]1 [ForwardToTheKing]Blood [Enhancement]\n[EndSkill] Next line, 20 registration [Binding]Three, three [Enhancement]And and <style=\"highlight\">There is no way</style> [AzureDamageUp] Severe orders, other two friends\n-It has influenced the number of employees (the largest dark-2) (great) (great) <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,",
+          "desc": "[CantIdentify]\nRandomly\n[EndSkill] Next line, 20 [Binding]1 [ForwardToTheKing]Blood [Enhancement]\n[EndSkill] Next line, 20 registration [Binding]Three, three [Enhancement]And and <style=\"highlight\">There is no way</style> [AzureDamageUp] Severe orders, other two friends\n-It has influenced the number of employees (the largest dark-2) (great) (great) <style=\"highlight\">4</style>…….",
           "coinlist": [
             {
               "coindescs": [
@@ -233,7 +233,7 @@
           "level": 1,
           "name": "He falls",
           "abName": "Invest in liquid",
-          "desc": "[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n-This doesn't get someone (the largest +2) [BoseProjektil] instead of\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] (Up to 3)\n[EndSkill] All have lost [BoseProjektil]",
+          "desc": "[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] …….\n-This doesn't get someone (the largest +2) [BoseProjektil] instead of\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] (Up to 3)\n[EndSkill] All have lost [BoseProjektil]",
           "coinlist": [
             {}, {
               "coindescs": [
@@ -253,12 +253,12 @@
           "level": 3,
           "name": "He falls",
           "abName": "Invest in liquid",
-          "desc": "[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[EndSkill] All have lost [BoseProjektil]",
+          "desc": "[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] …….\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">4</style>…….\n[EndSkill] All have lost [BoseProjektil]",
           "coinlist": [
             {}, {
               "coindescs": [
                 {
-                  "desc": "Were, and,,,,,,,,,,,,,,<style=\"highlight\">10</style>All damage to the malicious bladder [BoseProjektil] the best <style=\"highlight\">70</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "…….<style=\"highlight\">10</style>All damage to the malicious bladder [BoseProjektil] the best <style=\"highlight\">70</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] 4 app 4 [Laceration]"
                 }, {
@@ -273,12 +273,12 @@
           "level": 4,
           "name": "He falls",
           "abName": "Invest in liquid",
-          "desc": "[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">Time</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Benefits +1 [Breath] Account\n[EndSkill] All have lost [BoseProjektil]",
+          "desc": "[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] …….\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">Time</style>…….\n[BeforeAttack] Benefits +1 [Breath] Account\n[EndSkill] All have lost [BoseProjektil]",
           "coinlist": [
             {}, {
               "coindescs": [
                 {
-                  "desc": "Were, and,,,,,,,,,,,,,,<style=\"highlight\">15</style>All damage to the malicious bladder [BoseProjektil] the best <style=\"highlight\">105</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "…….<style=\"highlight\">15</style>All damage to the malicious bladder [BoseProjektil] the best <style=\"highlight\">105</style>……."
                 }, {
                   "desc": "[OnSucceedAttack] 5 apps [Laceration]"
                 }, {
@@ -298,7 +298,7 @@
           "level": 1,
           "name": "He falls",
           "abName": "Invest in liquid",
-          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] They all fell + 2% [BoseProjektil] (Up to 14%)\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] (Up to 3)\n[BeforeAttack] + 3% of injury at 5 [Breath] Self (up to 15%)\n[BeforeAttack] Consumption 5 [Breath] There\n[EndSkill] All have lost [BoseProjektil]",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] …….\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] They all fell + 2% [BoseProjektil] (Up to 14%)\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] (Up to 3)\n[BeforeAttack] + 3% of injury at 5 [Breath] Self (up to 15%)\n[BeforeAttack] Consumption 5 [Breath] There\n[EndSkill] All have lost [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -312,7 +312,7 @@
           "level": 3,
           "name": "He falls",
           "abName": "Invest in liquid",
-          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n- And if you are alone. [BoseProjektil] instead of\n<style=\"highlight\">[BeforeAttack] Three + [BoseProjektil], 1 AT</style>\n[BeforeAttack] They all fell + 2% [BoseProjektil] (Up to 14%)\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">4</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Business + +<style=\"highlight\">4</style>Every 5% injury [Breath] Up (maximum value) <style=\"highlight\">20</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Consumption 5 [Breath] There\n[EndSkill] All have lost [BoseProjektil]",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] …….\n- And if you are alone. [BoseProjektil] instead of\n<style=\"highlight\">[BeforeAttack] Three + [BoseProjektil], 1 AT</style>\n[BeforeAttack] They all fell + 2% [BoseProjektil] (Up to 14%)\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">4</style>…….\n[BeforeAttack] Business + +<style=\"highlight\">4</style>Every 5% injury [Breath] Up (maximum value) <style=\"highlight\">20</style>…….\n[BeforeAttack] Consumption 5 [Breath] There\n[EndSkill] All have lost [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -326,7 +326,7 @@
           "level": 4,
           "name": "He falls",
           "abName": "Invest in liquid",
-          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] Were, and,,,,,,,,,,,,,,\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] Eli Queiah 1 arc <style=\"highlight\">Every 3 [BoseProjektil] (the best)</style>\n[BeforeAttack] Business + +<style=\"highlight\">Blood</style>Percentage of all damage [BoseProjektil] the best <style=\"highlight\">Twenty years</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">Time</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Business + +<style=\"highlight\">My</style>Every 5% injury [Breath] Up (maximum value) <style=\"highlight\">Siblings</style>Were, and,,,,,,,,,,,,,,\n[BeforeAttack] Consumption 5 [Breath] There\n[EndSkill] All have lost [BoseProjektil]",
+          "desc": "[CantIdentify]\nRandomly\n[BeforeAttack] Benefits (most echo + 1) [BoseProjektil] …….\n- And if you are alone. [BoseProjektil] instead of\n[BeforeAttack] Eli Queiah 1 arc <style=\"highlight\">Every 3 [BoseProjektil] (the best)</style>\n[BeforeAttack] Business + +<style=\"highlight\">Blood</style>Percentage of all damage [BoseProjektil] the best <style=\"highlight\">Twenty years</style>…….\n[BeforeAttack] Get 1 [Breath] All [BoseProjektil] the best <style=\"highlight\">Time</style>…….\n[BeforeAttack] Business + +<style=\"highlight\">My</style>Every 5% injury [Breath] Up (maximum value) <style=\"highlight\">Siblings</style>…….\n[BeforeAttack] Consumption 5 [Breath] There\n[EndSkill] All have lost [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [

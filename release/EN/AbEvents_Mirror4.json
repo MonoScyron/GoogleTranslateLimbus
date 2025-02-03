@@ -54,10 +54,10 @@
       "prevDesc": "",
       "behaveDesc": "Who should the knife be?",
       "successDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\nFor a moment and for some time {0} Stop, cut the eyes and look at your eyes.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nThe left image of the sword."
+        "{0} A sword\n\n…….\n\nFor a moment and for some time {0} Stop, cut the eyes and look at your eyes.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nThe left image of the sword."
       ],
       "failureDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\nFor a moment and for some time {0} Numbness\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
+        "{0} A sword\n\n…….\n\nFor a moment and for some time {0} Numbness\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
       ]
     }, {
       "id": 97101402,
@@ -66,10 +66,10 @@
       "prevDesc": "",
       "behaveDesc": "Who should the knife be?",
       "successDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\n{0} He did not try, disappeared, expand and threw it on it slowly and showed the top of the earth.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nSkip the broken sword."
+        "{0} A sword\n\n…….\n\n{0} He did not try, disappeared, expand and threw it on it slowly and showed the top of the earth.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nSkip the broken sword."
       ],
       "failureDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\n{0} There is no sword without trouble\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
+        "{0} A sword\n\n…….\n\n{0} There is no sword without trouble\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
       ]
     }, {
       "id": 97101601,
@@ -112,7 +112,7 @@
       "title": "Usually, the platform is removed around the factory.",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will help?",
+      "behaveDesc": "Who can help?",
       "successDesc": [
         "After watching looking for a while {0} Take care of a high-espid factory machine.\n\n{0} He said that two hours of sleep would produce unnecessary burden for other employees.\n\nIt may have a side effects on factory product range.\n\n\"You have strict eyes toward the problem.\"\n\nHave you heard that?\n\nThe factory owner must take employee steps and provide many funds.\n\n\"I would like to think about it as a gift for the achievements of good employees about it, but I think it's not. I can do it here."
       ],
@@ -124,7 +124,7 @@
       "title": "Owner is close to factories and employees.",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will help?",
+      "behaveDesc": "Who can help?",
       "successDesc": [
         "{0} Earlier, it seemed twice that he was very different.\n\nIn view of the weight factory, 88888888 employees sleep two hours.\n\nBut only six hours to take a nap for employees. {0} This information has been sent.\n\nOh, how do you work for an hour per day?\n\nAnd ... I ... yeah ... o ... o ... o ... o ... o ... p ... p ... p ...\n\n\"Oh, it's okay. I'll give it to it. But you made the same mistake.\"\n\nThe employer has crossed employees.\n\nGradually, thank us before we drop some in our hands."
       ],

@@ -191,13 +191,13 @@
       "description": "Both comfortable{0}"
     }, {
       "id": "EGO_RESOURCE",
-      "description": "[Encounters]\n\nWere, and,,,,,,,,,,,,,,{0} All resources begin at the beginning of the glass of glass."
+      "description": "[Encounters]\n\n…….{0} All resources begin at the beginning of the glass of glass."
     }, {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK",
-      "description": "[Encounters]\n\nWere, and,,,,,,,,,,,,,,{0} All resources begin at the beginning of the glass of glass."
+      "description": "[Encounters]\n\n…….{0} All resources begin at the beginning of the glass of glass."
     }, {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
-      "description": "[Encounters]\n\nWere, and,,,,,,,,,,,,,,{0} All resources begin at the beginning of the glass of glass."
+      "description": "[Encounters]\n\n…….{0} All resources begin at the beginning of the glass of glass."
     }, {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL1",
       "description": "[Shops]\n\nFor example buy a gift coupon{0}%"

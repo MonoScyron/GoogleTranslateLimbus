@@ -739,7 +739,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -758,7 +758,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -777,7 +777,7 @@
             {}, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttackHead] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -805,7 +805,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] It is suitable for one of the following: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] It is suitable for one of the following: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }
@@ -822,7 +822,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }
@@ -839,7 +839,7 @@
                 }, {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }
@@ -859,7 +859,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Name. [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -867,7 +867,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 1 [Laceration]Jiv [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -875,7 +875,7 @@
                 {
                   "desc": "Damaged injuries + all types of voice raises the loss of 15% (75%)"
                 }, {
-                  "desc": "[EndSkill] If an agency or failure is a goal, get the benefit of the following enemies, which have little side effects. [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Were, and,,,,,,,,,,,,,, [Sinking].Pore random selection."
+                  "desc": "[EndSkill] If an agency or failure is a goal, get the benefit of the following enemies, which have little side effects. [Combustion]……. [Laceration]……. [Vibration]……. [Burst]……. [Sinking].Pore random selection."
                 }
               ]
             }
@@ -890,7 +890,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application +1 [Laceration] Goal 3 seconds negative effects, + 2 additional apps [Laceration] Account"
                 }, {
-                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] +3 next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -898,7 +898,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 1 [Laceration]Jiv [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] The next strength 1 movement and subsequent effects: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }
               ]
             }, {
@@ -906,7 +906,7 @@
                 {
                   "desc": "All kinds of side effects increases + 25% (increases up to 125%)"
                 }, {
-                  "desc": "[EndSkill] As a target setting or failure, the next two enemies can be quickly: it may have a side effects. [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Were, and,,,,,,,,,,,,,, [Sinking].Pore random selection."
+                  "desc": "[EndSkill] As a target setting or failure, the next two enemies can be quickly: it may have a side effects. [Combustion]……. [Laceration]……. [Vibration]……. [Burst]……. [Sinking].Pore random selection."
                 }
               ]
             }

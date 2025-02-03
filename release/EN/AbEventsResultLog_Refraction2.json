@@ -11,28 +11,28 @@
       "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>Epidemic {1} Ticket sales</color>"
     }, {
       "id": "854101_success_1_1",
-      "content": "<color=#ebcaa2>[{0}] Enthusiastic {2} [{1}] Were, and,,,,,,,,,,,,,,</color>"
+      "content": "<color=#ebcaa2>[{0}] Enthusiastic {2} [{1}] …….</color>"
     }, {
       "id": "854101_success_1_2",
-      "content": "<color=#ebcaa2>All [{0}]\"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>All [{0}]\"Part Time Work</color> <color=#ebcaa2>to get</color> % {2} [{1}] ……."
     }, {
       "id": "854101_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}] Were, and,,,,,,,,,,,,,, {2} [{1}] Were, and,,,,,,,,,,,,,,</color>"
+      "content": "<color=#ebcaa2>[{0}] ……. {2} [{1}] …….</color>"
     }, {
       "id": "854101_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……."
     }, {
       "id": "854201_success_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
     }, {
       "id": "854201_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,, {4} [{3}] And and {6} [{5}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……. {4} [{3}] And and {6} [{5}] ……."
     }, {
       "id": "854201_failure_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>Decrease {1} Hard power</color>"
     }, {
       "id": "854201_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] Were, and,,,,,,,,,,,,,, {4} [{3}] And and {6} [{5}] Were, and,,,,,,,,,,,,,,"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Fork</color> % {2} [{1}] ……. {4} [{3}] And and {6} [{5}] ……."
     }, {
       "id": "854401_success_1_1",
       "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>Use</color> {2} {1}"

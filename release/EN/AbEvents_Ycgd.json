@@ -43,10 +43,10 @@
       "prevDesc": "",
       "behaveDesc": "Who should the knife be?",
       "successDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\nFor a moment and for some time {0} Stop, cut the eyes and look at your eyes.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nThe left image of the sword."
+        "{0} A sword\n\n…….\n\nFor a moment and for some time {0} Stop, cut the eyes and look at your eyes.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nThe left image of the sword."
       ],
       "failureDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\nFor a moment and for some time {0} Numbness\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
+        "{0} A sword\n\n…….\n\nFor a moment and for some time {0} Numbness\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
       ]
     }, {
       "id": 1050802,
@@ -55,10 +55,10 @@
       "prevDesc": "",
       "behaveDesc": "Who should the knife be?",
       "successDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\n{0} He did not try, disappeared, expand and threw it on it slowly and showed the top of the earth.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nSkip the broken sword."
+        "{0} A sword\n\n…….\n\n{0} He did not try, disappeared, expand and threw it on it slowly and showed the top of the earth.\n\nHe emphasized it was not seen in the incident, and this situation feels very ridiculous ...\n\nSkip the broken sword."
       ],
       "failureDesc": [
-        "{0} A sword\n\nWere, and,,,,,,,,,,,,,,\n\n{0} There is no sword without trouble\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
+        "{0} A sword\n\n…….\n\n{0} There is no sword without trouble\n\nHe did not succeed.\n\n... I think they opened hands with a knife.\n\nHappens when the bleeding is stopped {0} Center."
       ]
     }, {
       "id": 1050901,

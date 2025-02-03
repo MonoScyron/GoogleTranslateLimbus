@@ -332,7 +332,7 @@
       "content": "Asset"
     }, {
       "id": "mainui_growth_level_limited",
-      "content": "LVI cannot be used. {0} Were, and,,,,,,,,,,,,,,"
+      "content": "LVI cannot be used. {0} ……."
     }, {
       "id": "mainui_stats_attack",
       "content": "By."
@@ -662,7 +662,7 @@
       "content": "[100 extract (1. -9): The same price [1 Extraction]"
     }, {
       "id": "gacha_rate_title_ten2",
-      "content": "[10 extext (10 volts)]]]"
+      "content": "[10 extext (10 volts)]"
     }, {
       "id": "gacha_rate_info_intro1",
       "content": "According to the NGOs of the Korean Industrial Games, you can get the speed of detailed ads.\n\nThe fifth number is recorded after the decimal point."
@@ -905,7 +905,7 @@
       "content": "If you choose the connection, you can configure a person's special limit. {0} Later."
     }, {
       "id": "package_info_detail2",
-      "content": "Were, and,,,,,,,,,,,,,, {0}\"The selected example by calling the following table."
+      "content": "……. {0}\"The selected example by calling the following table."
     }, {
       "id": "acquired_quantity",
       "content": "Sheep"
@@ -1025,7 +1025,7 @@
       "content": "Complete. Excandy 200 Amen [Ideality] 50?"
     }, {
       "id": "open_date_description_month_day_time_zone",
-      "content": "After opening {0} Were, and,,,,,,,,,,,,,, {1} Were, and,,,,,,,,,,,,,, {2}) Restoration"
+      "content": "After opening {0} ……. {1} ……. {2}) Restoration"
     }, {
       "id": "open_date_description_month_day_time_zone_date",
       "content": "{0}/ {1} ( {2})"
@@ -1316,13 +1316,13 @@
       "content": "Are you commenting again?"
     }, {
       "id": "item_owned_count",
-      "content": "(This is in the future: {0} Were, and,,,,,,,,,,,,,,"
+      "content": "(This is in the future: {0} ……."
     }, {
       "id": "lunacy_owned_count_paid",
-      "content": "(Bonus: {0} Freedom: {1} Were, and,,,,,,,,,,,,,,"
+      "content": "(Bonus: {0} Freedom: {1} ……."
     }, {
       "id": "lunacy_owned_count_free",
-      "content": "(Bonus: {0} Freedom: {1} Were, and,,,,,,,,,,,,,,"
+      "content": "(Bonus: {0} Freedom: {1} ……."
     }, {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
       "content": "In progress of the current history, the use of an easy map can improve the search level. {1} instead of {0} No one is used in this process.\n\nDo you still use this card?"
@@ -1355,7 +1355,7 @@
       "content": "Warning"
     }, {
       "id": "announcer_spoiler_caution",
-      "content": "There is a chapter in this statement.<color=#990000>Were, and,,,,,,,,,,,,,, {0} Numbers {1} Were, and,,,,,,,,,,,,,,</color>Intersection\n\nNormal proposal?"
+      "content": "There is a chapter in this statement.<color=#990000>……. {0} Numbers {1} …….</color>Intersection\n\nNormal proposal?"
     }, {
       "id": "mass_announcer_spoiler_caution",
       "content": "One of a prices\nIs a statement that could be a terrible hunter\nIt does not clear in this chapter.\n\nDo they need it?"

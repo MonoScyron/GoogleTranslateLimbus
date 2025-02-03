@@ -461,7 +461,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]Were, and,,,,,,,,,,,,,, [DarkFlame] Is correct [FreischutzShotCount] Valley"
+                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
                 }
               ]
             }, {
@@ -480,7 +480,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]Were, and,,,,,,,,,,,,,, [DarkFlame] Is correct [FreischutzShotCount] Valley"
+                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
                 }
               ]
             }, {
@@ -499,7 +499,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]Were, and,,,,,,,,,,,,,, [DarkFlame] Is correct [FreischutzShotCount] Valley"
+                  "desc": "[OnSucceedAttack] Less than 4 [FreischutzShotCount]1, 1 [FreischutzShotCount]……. [DarkFlame] Is correct [FreischutzShotCount] Valley"
                 }
               ]
             }, {
@@ -839,7 +839,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 3 [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] Next transaction: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] Next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }, {
                   "desc": "[EndSkill] If the target agent or failure, use 1. [PenetrateDamageUp] In the next line"
                 }
@@ -856,7 +856,7 @@
                 {
                   "desc": "[OnSucceedAttack] Application 3 [Laceration]"
                 }, {
-                  "desc": "[OnSucceedAttack] Next transaction: [Combustion]Were, and,,,,,,,,,,,,,, [Laceration]Were, and,,,,,,,,,,,,,, [Vibration]Were, and,,,,,,,,,,,,,, [Burst]Or [Sinking].Pore random selection."
+                  "desc": "[OnSucceedAttack] Next transaction: [Combustion]……. [Laceration]……. [Vibration]……. [Burst]Or [Sinking].Pore random selection."
                 }, {
                   "desc": "[EndSkill] If the target agent or failure, use 1. [PenetrateDamageUp] The following principle is another attachment for the best speed. <style=\"highlight\">If all of the subsidents are affected, they should be ordered. [PenetrateResultUp] High</style>"
                 }
@@ -974,7 +974,7 @@
         }, {
           "level": 4,
           "name": "Jump",
-          "desc": "[WhenUse] Consumption 6 [Charge] He assumes that he receives the metal currency +1\n- When this device is consumed [Charge] Account, Application ([Charge] Were, and,,,,,,,,,,,,,, <style=\"highlight\">There is no way</style>Were, and,,,,,,,,,,,,,, [ChargeForceField] At least two friends for each other [Charge] Account <style=\"highlight\">Yes</style> [ChargeForceField] Milan <style=\"highlight\">Twice</style> The largest development)\n[WhenUse] Benefits +2 [Charge] Account",
+          "desc": "[WhenUse] Consumption 6 [Charge] He assumes that he receives the metal currency +1\n- When this device is consumed [Charge] Account, Application ([Charge] ……. <style=\"highlight\">There is no way</style>……. [ChargeForceField] At least two friends for each other [Charge] Account <style=\"highlight\">Yes</style> [ChargeForceField] Milan <style=\"highlight\">Twice</style> The largest development)\n[WhenUse] Benefits +2 [Charge] Account",
           "coinlist": [
             {
               "coindescs": [
@@ -1021,7 +1021,7 @@
                 {
                   "desc": "[OnSucceedAttack] If this technique is 15 [Charge] Service 2 2 2 [Burst]"
                 }, {
-                  "desc": "[OnSucceedAttack] Height (5-) [Charge]Were, and,,,,,,,,,,,,,, [Charge] Account (at least 0)"
+                  "desc": "[OnSucceedAttack] Height (5-) [Charge]……. [Charge] Account (at least 0)"
                 }
               ]
             }
@@ -1054,7 +1054,7 @@
                 {
                   "desc": "[OnSucceedAttack] If this technique is 15 [Charge] 3 3 When are using [Burst]"
                 }, {
-                  "desc": "[OnSucceedAttack] Height (5-) [Charge]Were, and,,,,,,,,,,,,,, [Charge] Account (at least 0)"
+                  "desc": "[OnSucceedAttack] Height (5-) [Charge]……. [Charge] Account (at least 0)"
                 }
               ]
             }
@@ -1080,7 +1080,7 @@
         }, {
           "level": 4,
           "name": "Lack of plasma",
-          "desc": "[WhenUse] +1 for default forces <style=\"highlight\">Everyone</style> [Charge] I believe in myself (maximum) <style=\"highlight\">10</style>Were, and,,,,,,,,,,,,,,\n[WhenUse] Benefits +2 [Charge] Measurements (measurements (<style=\"highlight\">Blood</style> Turn on the turn)",
+          "desc": "[WhenUse] +1 for default forces <style=\"highlight\">Everyone</style> [Charge] I believe in myself (maximum) <style=\"highlight\">10</style>…….\n[WhenUse] Benefits +2 [Charge] Measurements (measurements (<style=\"highlight\">Blood</style> Turn on the turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1291,7 +1291,7 @@
         }, {
           "level": 4,
           "name": "I'll make new clothes for you!",
-          "desc": "Click on this technique: 30% hot HP (up to 20)\n[BeforeAttack] 10+ [BloodScissorPersonalityFirst]Weights, 11\n<style=\"highlight\">-20+ [BloodScissorPersonalityFirst]To mention the above results, use Wwaga ATK +2 instead.</style>\n[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] Section 6 [Laceration] In the form of the target (up to 2)\n[EndSkill] Search <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] Every AT\n[EndSkill] If the goal is dying and grows [BloodDinner] By <style=\"highlight\">20</style>Were, and,,,,,,,,,,,,,, [BloodScissorPersonalityFirst] This technique is used (going on the same time)\n<style=\"highlight\">- And if you have a goal [LineCuttingPersonality], He is growing [BloodDinner] The last 20 hours [BloodScissorPersonalityFirst] (After the Wiser)</style>",
+          "desc": "Click on this technique: 30% hot HP (up to 20)\n[BeforeAttack] 10+ [BloodScissorPersonalityFirst]Weights, 11\n<style=\"highlight\">-20+ [BloodScissorPersonalityFirst]To mention the above results, use Wwaga ATK +2 instead.</style>\n[WhenUse] The target is 5+ [Laceration], Call ++ 1\n[WhenUse] Section 6 [Laceration] In the form of the target (up to 2)\n[EndSkill] Search <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] Every AT\n[EndSkill] If the goal is dying and grows [BloodDinner] By <style=\"highlight\">20</style>……. [BloodScissorPersonalityFirst] This technique is used (going on the same time)\n<style=\"highlight\">- And if you have a goal [LineCuttingPersonality], He is growing [BloodDinner] The last 20 hours [BloodScissorPersonalityFirst] (After the Wiser)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1314,7 +1314,7 @@
             }, {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 10+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] By <style=\"highlight\">Blood</style>) More damage (maximum injuries) <style=\"highlight\">57</style>Were, and,,,,,,,,,,,,,,\n-20+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] By <style=\"highlight\">4</style>No ratio of damage (maximum) <style=\"highlight\">120</style>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] 10+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] By <style=\"highlight\">Blood</style>) More damage (maximum injuries) <style=\"highlight\">57</style>…….\n-20+ [BloodScissorPersonalityFirst], Business + ([BloodScissorPersonalityFirst] By <style=\"highlight\">4</style>No ratio of damage (maximum) <style=\"highlight\">120</style>……."
                 }
               ]
             }

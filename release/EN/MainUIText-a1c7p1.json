@@ -14,7 +14,7 @@
       "content": "August. {0}\n<color=#f8c200>Level reference: {1}</color>"
     }, {
       "id": "current_average_level_with_additional_val_and_recommend_level_format",
-      "content": "August. {0} Were, and,,,,,,,,,,,,,, {1} Were, and,,,,,,,,,,,,,,\n<color=#f8c200>Level reference: {2}</color>"
+      "content": "August. {0} ……. {1} …….\n<color=#f8c200>Level reference: {2}</color>"
     }, {
       "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
       "content": "<color=#f8c200>Recommended identifiers such as / gramspin<color=#990000>Letter: {0}</color> </color>"

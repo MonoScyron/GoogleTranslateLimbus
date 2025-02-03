@@ -254,13 +254,13 @@
       "content": "Predictive-Class: {0}Electrical bulb{1}"
     }, {
       "id": "skill_expectition_or_value",
-      "content": "Target Value: {0} Were, and,,,,,,,,,,,,,, {1}"
+      "content": "Target Value: {0} ……. {1}"
     }, {
       "id": "skill_correction_value",
       "content": "{0} Effects: {1}"
     }, {
       "id": "correction_based_on_association",
-      "content": "{0} The result is: {1}Were, and,,,,,,,,,,,,,,"
+      "content": "{0} The result is: {1}……."
     }, {
       "id": "action_choice_event_result_example_battle",
       "content": "Exchange"
@@ -518,7 +518,7 @@
       "content": "Known."
     }, {
       "id": "current_hp",
-      "content": "Current HP"
+      "content": "Current health status"
     }, {
       "id": "break_section_format",
       "content": "Hook [{0}]"
@@ -527,7 +527,7 @@
       "content": "There is no development limit"
     }, {
       "id": "correction_based_on_unit_keyword",
-      "content": "{0} Id version: {1}Were, and,,,,,,,,,,,,,,"
+      "content": "{0} Id version: {1}……."
     }, {
       "id": "battle_operation_counter",
       "content": "Hommer"
@@ -572,7 +572,7 @@
       "content": "Dress! Dress!"
     }, {
       "id": "battle_StageBuffUI_Stackdesc",
-      "content": "(Current price: {0}Were, and,,,,,,,,,,,,,,"
+      "content": "(Current price: {0}……."
     }, {
       "id": "EGOSelectUI_not_allow",
       "content": "It cannot be mounted."

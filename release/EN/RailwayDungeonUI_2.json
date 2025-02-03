@@ -125,7 +125,7 @@
       "content": "try again"
     }, {
       "id": "railway_dungeon_2_rotation_count",
-      "content": "Were, and,,,,,,,,,,,,,,{0} GAL Number)"
+      "content": "…….{0} GAL Number)"
     }, {
       "id": "railway_dungeon_2_rotation_count_short",
       "content": "Rotate: {0}"
@@ -170,7 +170,7 @@
       "content": "If you decide to continue, you can still fight the rest."
     }, {
       "id": "railway_dungeon_2_ask_retry_when_all_died_turn_count",
-      "content": "Were, and,,,,,,,,,,,,,, <style=\"yellow\">Current station</style> You have been added <style=\"yellow\">She plays</style> Only after the station finished."
+      "content": "……. <style=\"yellow\">Current station</style> You have been added <style=\"yellow\">She plays</style> Only after the station finished."
     }
   ]
 }

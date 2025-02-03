@@ -151,7 +151,7 @@
                 {
                   "desc": "[OnSucceedAttack] 40%"
                 }, {
-                  "desc": "[OnSucceedAttack] The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"
+                  "desc": "[OnSucceedAttack] The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>……."
                 }
               ]
             }, {
@@ -221,7 +221,7 @@
                 {
                   "desc": "[OnSucceedAttack] 40%"
                 }, {
-                  "desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"
+                  "desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>……."
                 }
               ]
             }, {
@@ -293,7 +293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>Were, and,,,,,,,,,,,,,,"
+                  "desc": "The alliance immediately beat the target.\n(Border: Attacks, Circle, Injuries and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">To save</link></u></color>……."
                 }
               ]
             }, {
