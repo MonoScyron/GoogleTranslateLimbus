@@ -15,7 +15,16 @@ That said, this mod is neither affiliated nor approved by Project Moon, so be ca
    - Do not create any folders
 3. Download the mod from release and unzip it directly into the same folder
 
-TODO: Add picture for reference
+Your folder structure should look something like this:
+```
+LimbusCompany/
+│-- LimbusCompany.exe
+|-- ...
+│-- BepInEx/
+|   |-- ...
+│   │-- plugins/
+│   │   │-- GTLimbus/
+```
    
 ## Credits
 
